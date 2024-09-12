@@ -1,24 +1,45 @@
-name: py
+name: run pdx 911
 
-on:
-  schedule:
-    - cron: "00 23 * * *"    #runs at 23:00 UTC everyday
+on: [push]
+# on:
+  # schedule:
+  #   - cron: "00 23 * * *"    #runs at 23:00 UTC everyday
 
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: checkout repo content
+#         uses: actions/checkout@v2 # checkout the repository content to github runner.
+#       - name: setup python
+#         uses: actions/setup-python@v2
+#         with:
+#           python-version: 3.8 #install the python needed
+#           run: |
+#             python -m pip install --upgrade pip
+#             pip install flake8 pytest
+#             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+#       - name: execute py script # run file
+#         run: |
+#           python scripts/pdx911.py
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner.
-      - name: setup python
+      - name: Checkout repository content
+        uses: actions/checkout@v2 # Checkout the repository content to github runner.
+
+      - name: Setup Python Version
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8 #install the python needed
-          run: |
-            python -m pip install --upgrade pip
-            pip install flake8 pytest
-            if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: execute py script # run file
-        run: |
-          python scripts/pdx911.py
+          python-version: 3.8 # Install the python version needed
+
+      - name: Install Python dependencies
+        run: python -m pip install --upgrade pip requests
+
+      - name: Execute Python script # Run the run.py to get the latest data
+        run: python scripts/pdx911.py
+
+        
