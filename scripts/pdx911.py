@@ -46,4 +46,4 @@ d['DATE_CRIME'] = d['DATE'].dt.strftime('%-m/%-d %-I:%M%p').astype('str') + ' - 
 
 
 table = pa.Table.from_pandas(d)
-pq.write_table(table, './portland_crime_data.parquet',compression='BROTLI',use_deprecated_int96_timestamps=True)
+pq.write_table(table, './data/portland_crime_data.parquet',compression='BROTLI',use_deprecated_int96_timestamps=True)
