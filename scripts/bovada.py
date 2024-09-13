@@ -167,4 +167,4 @@ df['Prev_Probability'] = round(df['Prev_Probability'],4)
 table = pa.Table.from_pandas(df[['date','title','description','price.american','Implied_Probability','seconds_ago','minutes_ago','Prev_Probability']])
 
 # Parquet with Brotli compression
-pq.write_table(table, '.data/bovada_data.parquet',compression='BROTLI')
+pq.write_table(table, './data/bovada_data.parquet',compression='BROTLI')
