@@ -9,7 +9,7 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 
 
-d=pd.read_parquet('https://raw.githubusercontent.com/aaroncolesmith/portland_crime_data/main/portland_crime_data.parquet', engine='pyarrow')
+d=pd.read_parquet('./data/portland_crime_data.parquet', engine='pyarrow')
 url='https://www.portlandonline.com/scripts/911incidents.cfm'
 dtmp=pd.read_xml(url)
 dtmp=dtmp.loc[(dtmp.id.notnull())&(dtmp.title.notnull())].reset_index(drop=True)
