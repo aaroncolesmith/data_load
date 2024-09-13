@@ -37,10 +37,11 @@ jobs:
           python-version: 3.8 # Install the python version needed
 
       - name: Install Python dependencies
-        run: python -m pip install --upgrade pip requests
+        # run: python -m pip install --upgrade pip requests
+        run: python -m pip install -r requirements.txt;
         
-      - name: Install numpy
-        run: python -m pip install numpy
+      # - name: Install numpy
+      #   run: python -m pip install numpy
 
       - name: Execute Python script # Run the run.py to get the latest data
         run: python scripts/pdx911.py
