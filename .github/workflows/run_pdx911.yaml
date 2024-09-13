@@ -59,7 +59,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "aaroncolesmith"
           git config --global user.email "aaroncolesmith@gmail.com"
           git add .
           git commit -m "Update data"
