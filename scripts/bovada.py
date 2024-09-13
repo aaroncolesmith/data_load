@@ -66,7 +66,8 @@ def get_bovada_data(url_list):
   return df
 
 def get_historical_data():
-    df=pd.read_parquet('https://github.com/aaroncolesmith/bet_model/raw/main/bovada_data.parquet', engine='pyarrow')
+    # df=pd.read_parquet('https://github.com/aaroncolesmith/bet_model/raw/main/bovada_data.parquet', engine='pyarrow')
+    df=pd.read_parquet('./data/bovada_data.parquet', engine='pyarrow')
     df['date'] = pd.to_datetime(df['date'])
     return df
 
