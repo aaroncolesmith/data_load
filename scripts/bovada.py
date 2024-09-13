@@ -112,14 +112,17 @@ def enhance_data(df):
   return df
 
 def bovada_scatter(df):
+  print('in bovada scatter')
   df['Implied_Probability'] = round(df['Implied_Probability'],4)
   df['Prev_Probability'] = round(df['Prev_Probability'],4)
   df['Pct_Change'] = df['Implied_Probability'] - df['Prev_Probability']
   # df['seconds_ago']=(pd.to_numeric(datetime.datetime.utcnow().strftime("%s")) - pd.to_numeric(df['date'].apply(lambda x: x.strftime('%s'))))
   # df['minutes_ago'] = round(df['seconds_ago']/60,2)
-
+  print('doin some logic')
   d=df.loc[(df.Pct_Change.abs() > .01) & (df.date >= df.date.max() - pd.Timedelta(hours=12)) & (df.Pct_Change.notnull())].sort_values('Pct_Change',ascending=False).reset_index(drop=True)
+  print('saving file')
   d[['date','title','description','Pct_Change','Implied_Probability','Prev_Probability']].to_csv('./data/bovada_scatter.csv',index=False)
+  print('file saved')
 
 url_list = [
 'https://www.bovada.lv/services/sports/event/coupon/events/A/description/soccer?marketFilterId=rank&preMatchOnly=true&lang=en',
