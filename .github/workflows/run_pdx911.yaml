@@ -46,4 +46,22 @@ jobs:
       - name: Execute Python script # Run the run.py to get the latest data
         run: python scripts/pdx911.py
 
-        
+
+
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "aaroncolesmith@gmail.com"
+          git add --all
+          if [-z "$(git status --porcelain)"]; then
+             echo "::set-output name=push::false"
+          else
+             git commit -m "Add changes" -a
+             echo "::set-output name=push::true"
+          fi
+        shell: bash
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+           github_token: ${{ secrets.BET_MODEL_GITHUB_TOKEN }}
