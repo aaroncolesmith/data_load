@@ -1,27 +1,78 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,0.1049,0.2299,0.125
 2024-09-14 08:30:37.379444,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,0.09719999999999995,0.875,0.7778
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.09160000000000001,0.4762,0.3846
 2024-09-14 08:30:37.375315,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.08240000000000001,0.2,0.1176
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,0.0761,0.2299,0.1538
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,0.0642,0.1818,0.1176
 2024-09-14 03:28:35.618180,Irish Open - 2/3 Balls - 3rd Round 2-Balls - R. McIlroy v T. Clements - 3rd Round 2-Balls ,Todd Clements,0.055900000000000005,0.3226,0.2667
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,0.055900000000000005,0.3636,0.3077
+2024-09-14 09:25:07.131296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,0.04760000000000009,0.7143,0.6667
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sampdoria,0.047599999999999976,0.3333,0.2857
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Modena,0.04440000000000001,0.1111,0.0667
+2024-09-14 09:25:07.365374,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,0.04169999999999999,0.1667,0.125
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.03640000000000004,0.4,0.3636
+2024-09-14 09:25:07.360631,Ligue 2 - France Ligue 2 2024/25 - Outright,Guingamp,0.03420000000000001,0.1111,0.0769
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,0.033300000000000024,0.2,0.1667
+2024-09-14 09:25:07.392040,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Sporting CP,0.028000000000000025,0.5744,0.5464
+2024-09-14 09:25:07.374807,Serie B - Italy Serie B 2024/25 - Winner,Cremonese,0.027999999999999997,0.1818,0.1538
 2024-09-14 04:29:39.991323,Elite Boxing - Stephen Fulton vs Carlos Castro - To Win the Bout,Carlos Castro,0.027999999999999997,0.1818,0.1538
 2024-09-14 01:46:13.269363,Irish Open - 2/3 Balls - 3rd Round 2-Balls - R. McIlroy v T. Clements - 3rd Round 2-Balls ,Rory McIlroy,0.027800000000000047,0.7778,0.75
+2024-09-14 09:25:07.360631,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.02779999999999999,0.25,0.2222
 2024-09-14 05:28:53.513251,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.025600000000000067,0.6923,0.6667
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,0.024999999999999994,0.125,0.1
 2024-09-14 05:28:53.668145,Championship - England Championship 2024/25 - Winner,Sheffield United,0.0242,0.0909,0.0667
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Villarreal,0.023200000000000002,0.0476,0.0244
+2024-09-14 09:25:07.365374,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,0.0203,0.0588,0.0385
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Catanzaro,0.02020000000000001,0.1111,0.0909
+2024-09-14 09:25:07.131296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.019099999999999992,0.0667,0.0476
 2024-09-14 05:28:53.543513,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,0.017900000000000027,0.875,0.8571
 2024-09-14 08:30:37.713770,Chicago - Requests - 2nd Round Match-Up - D. Johnson v J. Niemann - Request,Joaquin Niemann,0.017299999999999982,0.5917,0.5744
+2024-09-14 09:25:07.365374,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,0.015100000000000002,0.1818,0.1667
 2024-09-13 23:26:04.734789,BKFC 66: Blas vs Reber - Sean Hotusing vs Leonel Carrera - To Win the Bout,Leonel Carrera,0.014800000000000035,0.6226,0.6078
+2024-09-14 09:25:07.131296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Bochum,0.014599999999999998,0.0196,0.005
 2024-09-13 23:26:04.659329,Boxing Lines - David Nyika vs Tommy Karpency - To Win the Bout,Tommy Karpency,0.014399999999999996,0.0769,0.0625
 2024-09-14 08:30:37.439438,Boxing Lines - David Nyika vs Tommy Karpency - To Win the Bout,David Nyika,0.01429999999999998,0.9852,0.9709
-2024-09-14 05:28:53.513251,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Borussia Dortmund,0.013999999999999999,0.0909,0.0769
+2024-09-14 09:25:07.374807,Serie B - Italy Serie B 2024/25 - Winner,Modena,0.014099999999999998,0.0385,0.0244
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Mantova,0.013999999999999999,0.0909,0.0769
 2024-09-14 05:28:53.543513,Ligue 1 - France Ligue 1 2024/25 - Winner,Monaco,0.013999999999999999,0.0909,0.0769
+2024-09-14 05:28:53.513251,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Borussia Dortmund,0.013999999999999999,0.0909,0.0769
+2024-09-14 09:25:07.415633,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,0.012699999999999989,0.3636,0.3509
+2024-09-14 09:25:07.093015,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Betis,0.011199999999999995,0.0588,0.0476
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cosenza,0.011199999999999995,0.0588,0.0476
 2024-09-13 23:26:04.734789,BKFC 66: Blas vs Reber - Sean Hotusing vs Leonel Carrera - To Win the Bout,Sean Hotusing,-0.010099999999999998,0.4444,0.4545
-2024-09-14 05:28:53.668145,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,-0.0102,0.0667,0.0769
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,-0.010099999999999998,0.3125,0.3226
+2024-09-14 09:25:07.365374,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Greuther Fürth,-0.0102,0.0667,0.0769
 2024-09-14 06:33:23.973545,Boxing Lines - Bek Nurmaganbet vs Joshua Conley - To Win the Bout,Joshua Conley,-0.0102,0.0667,0.0769
+2024-09-14 09:25:07.131296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Hoffenheim,-0.0102,0.0667,0.0769
+2024-09-14 05:28:53.668145,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,-0.0102,0.0667,0.0769
+2024-09-14 09:25:07.392040,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,-0.010399999999999993,0.2222,0.2326
+2024-09-14 09:25:07.360631,Ligue 2 - France Ligue 2 2024/25 - Outright,Red Star,-0.0131,0.0345,0.0476
 2024-09-13 23:26:04.671725,Boxing Lines - Yoenlis Hernandez vs Jose Sanchez Charles - To Win the Bout,Jose Sanchez Charles,-0.013999999999999999,0.0769,0.0909
 2024-09-13 23:26:04.659329,Boxing Lines - David Nyika vs Tommy Karpency - To Win the Bout,David Nyika,-0.01429999999999998,0.9709,0.9852
 2024-09-14 08:30:37.439438,Boxing Lines - David Nyika vs Tommy Karpency - To Win the Bout,Tommy Karpency,-0.014399999999999996,0.0625,0.0769
+2024-09-14 09:25:07.365374,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Darmstadt,-0.014499999999999999,0.0149,0.0294
+2024-09-14 09:25:07.365374,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Nürnberg,-0.014499999999999999,0.0149,0.0294
+2024-09-14 09:25:07.131296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Wolfsburg,-0.016600000000000004,0.0667,0.0833
+2024-09-14 09:25:07.374807,Serie B - Italy Serie B 2024/25 - Winner,Sampdoria,-0.016700000000000007,0.0833,0.1
+2024-09-14 09:25:07.434622,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,AD Tarma,-0.018200000000000004,0.0294,0.0476
+2024-09-14 09:25:07.415633,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Helsingborgs IF,-0.019000000000000017,0.2667,0.2857
 2024-09-14 08:30:37.713770,Chicago - Requests - 2nd Round Match-Up - D. Johnson v J. Niemann - Request,Dustin Johnson,-0.020699999999999996,0.4444,0.4651
+2024-09-14 09:25:07.374807,Serie B - Italy Serie B 2024/25 - Winner,Palermo,-0.022199999999999998,0.2,0.2222
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,-0.027999999999999997,0.1538,0.1818
+2024-09-14 09:25:07.365374,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Kaiserslautern,-0.029299999999999993,0.0476,0.0769
+2024-09-14 09:25:07.131296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Bayer Leverkusen,-0.03210000000000002,0.9091,0.9412
+2024-09-14 09:25:07.360631,Ligue 2 - France Ligue 2 2024/25 - Outright,Rodez Aveyron,-0.03420000000000001,0.0769,0.1111
+2024-09-14 09:25:07.131296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,-0.035699999999999954,0.7143,0.75
 2024-09-14 01:46:13.269363,Irish Open - 2/3 Balls - 3rd Round 2-Balls - R. McIlroy v T. Clements - 3rd Round 2-Balls ,Todd Clements,-0.0363,0.2667,0.303
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Salernitana,-0.0368,0.2299,0.2667
 2024-09-14 04:29:39.991323,Elite Boxing - Stephen Fulton vs Carlos Castro - To Win the Bout,Stephen Fulton,-0.04239999999999999,0.8667,0.9091
+2024-09-14 09:25:07.365374,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Schalke 04,-0.04329999999999999,0.0476,0.0909
+2024-09-14 09:25:07.377911,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.04760000000000003,0.4762,0.5238
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,-0.048100000000000004,0.0769,0.125
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,-0.05559999999999998,0.4444,0.5
 2024-09-14 03:28:35.618180,Irish Open - 2/3 Balls - 3rd Round 2-Balls - R. McIlroy v T. Clements - 3rd Round 2-Balls ,Rory McIlroy,-0.0635,0.7143,0.7778
 2024-09-14 08:30:37.375315,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.08979999999999999,0.8333,0.9231
 2024-09-14 08:30:37.379444,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.11900000000000002,0.1667,0.2857
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,-0.14680000000000004,0.3077,0.4545
+2024-09-14 09:25:07.098831,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,-0.1819,0.3636,0.5455
