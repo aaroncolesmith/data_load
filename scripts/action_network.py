@@ -92,18 +92,18 @@ headers = {
 
 
 
-df_cbb=pd.read_parquet('https://github.com/aaroncolesmith/bet_model/blob/main/df_cbb.parquet?raw=true', engine='pyarrow')
-df_soccer=pd.read_parquet('https://github.com/aaroncolesmith/bet_model/blob/main/df_soccer.parquet?raw=true', engine='pyarrow')
-df_nba=pd.read_parquet('https://github.com/aaroncolesmith/bet_model/blob/main/df_nba.parquet?raw=true', engine='pyarrow')
-df_nfl=pd.read_parquet('https://github.com/aaroncolesmith/bet_model/blob/main/df_nfl.parquet?raw=true', engine='pyarrow')
-df_mlb=pd.read_parquet('https://github.com/aaroncolesmith/bet_model/blob/main/df_mlb.parquet?raw=true', engine='pyarrow')
+df_cbb=pd.read_parquet('./data/df_cbb.parquet', engine='pyarrow')
+df_soccer=pd.read_parquet('./data/df_soccer.parquet', engine='pyarrow')
+df_nba=pd.read_parquet('./data/df_nba.parquet', engine='pyarrow')
+df_nfl=pd.read_parquet('./data/df_nfl.parquet', engine='pyarrow')
+df_mlb=pd.read_parquet('./data/df_mlb.parquet', engine='pyarrow')
 
 try:
-    df_nba_futures = pd.read_parquet('https://github.com/aaroncolesmith/bet_model/blob/main/df_nba_futures.parquet?raw=true', engine='pyarrow')
+    df_nba_futures = pd.read_parquet('./data/df_nba_futures.parquet', engine='pyarrow')
 except:
     pass
 
-teams_df=pd.read_parquet('https://github.com/aaroncolesmith/bet_model/blob/main/teams_db.parquet?raw=true', engine='pyarrow')
+teams_df=pd.read_parquet('./data/teams_db.parquet', engine='pyarrow')
 
 start_date = datetime.today().date() - timedelta(days=1)
 end_date = datetime.today().date() + timedelta(days=7)
@@ -330,7 +330,8 @@ def get_prob(a):
 
 ## Load existing data
 try:
-  df = pd.read_parquet('https://github.com/aaroncolesmith/bet_model/blob/main/df_futures.parquet?raw=true', engine='pyarrow')
+  # df = pd.read_parquet('https://github.com/aaroncolesmith/bet_model/blob/main/df_futures.parquet?raw=true', engine='pyarrow')
+  df = pd.read_parquet('./data/df_futures.parquet', engine='pyarrow')
 except:
   pass
 
