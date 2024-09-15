@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-14 22:28:41.530277,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.10110000000000002,0.4545,0.3534
+2024-09-15 08:30:48.366231,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,0.1,0.2667,0.1667
 2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.06190000000000001,0.4255,0.3636
 2024-09-15 01:57:39.972634,Elite Boxing - Danny Garcia vs Erislandy Lara - To Win the Bout,Danny Garcia,0.05130000000000001,0.3846,0.3333
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.05020000000000002,0.4348,0.3846
@@ -22,12 +23,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-15 02:58:39.338115,Ligue 1 - France Ligue 1 2024/25 - Winner,Monaco,0.02020000000000001,0.1111,0.0909
 2024-09-14 22:28:41.425941,Elite Boxing - Caleb Plant vs Trevor McCumby - To Win the Bout,Trevor McCumby,0.019699999999999995,0.125,0.1053
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.019000000000000017,0.2857,0.2667
+2024-09-15 08:30:48.362088,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.012899999999999912,0.8462,0.8333
 2024-09-14 23:23:26.553262,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,0.0102,0.0769,0.0667
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Queens Park Rangers,-0.0102,0.0667,0.0769
 2024-09-14 23:23:26.553262,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.011099999999999999,0.1,0.1111
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.011199999999999995,0.0476,0.0588
-2024-09-15 01:57:37.575635,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2024-09-15 01:57:37.580125,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Borussia Dortmund,-0.013999999999999999,0.0769,0.0909
+2024-09-15 01:57:37.575635,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2024-09-15 07:22:07.225804,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Chicago Bears,-0.014099999999999994,0.0526,0.0667
 2024-09-15 06:33:11.183449,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Dune: Part Two,-0.015400000000000025,0.3846,0.4
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.016700000000000007,0.0833,0.1
@@ -37,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,-0.018999999999999906,0.7143,0.7333
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.021999999999999964,0.2857,0.3077
 2024-09-15 03:32:06.379047,Elite Boxing - Saul 'Canelo' Alvarez vs Edgar Berlanga - To Win the Bout,Edgar Berlanga,-0.022000000000000006,0.0833,0.1053
+2024-09-15 08:30:48.362088,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.022099999999999998,0.0164,0.0385
 2024-09-15 06:33:11.183449,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Blitz,-0.022199999999999998,0.1111,0.1333
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Stoke City,-0.02310000000000001,0.0769,0.1
 2024-09-15 01:57:37.575635,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.02560000000000001,0.3077,0.3333
@@ -49,5 +52,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-14 22:28:41.534542,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.04760000000000003,0.4762,0.5238
 2024-09-14 23:23:26.594901,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,-0.04849999999999999,0.1333,0.1818
 2024-09-15 01:57:39.972634,Elite Boxing - Danny Garcia vs Erislandy Lara - To Win the Bout,Erislandy Lara,-0.053300000000000014,0.661,0.7143
+2024-09-15 08:30:48.366231,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.07499999999999996,0.8,0.875
 2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,-0.07500000000000001,0.125,0.2
 2024-09-14 22:28:41.530277,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Fabio Wardley,-0.09809999999999997,0.6078,0.7059
