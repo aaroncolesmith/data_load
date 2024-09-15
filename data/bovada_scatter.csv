@@ -11,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Luton Town,0.033399999999999985,0.1667,0.1333
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.02779999999999999,0.25,0.2222
 2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,0.02779999999999999,0.25,0.2222
-2024-09-14 19:21:33.555830,Elite Boxing - Rolando Romero vs Manuel Jaimes - To Win the Bout,Rolando Romero,0.025999999999999912,0.7403,0.7143
 2024-09-15 06:33:11.183449,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,0.024999999999999994,0.125,0.1
 2024-09-15 01:57:37.584491,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,0.0242,0.0909,0.0667
 2024-09-14 23:23:26.594901,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,0.023800000000000043,0.5238,0.5
@@ -29,6 +28,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.011199999999999995,0.0476,0.0588
 2024-09-15 01:57:37.575635,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2024-09-15 01:57:37.580125,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Borussia Dortmund,-0.013999999999999999,0.0769,0.0909
+2024-09-15 07:22:07.225804,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Chicago Bears,-0.014099999999999994,0.0526,0.0667
 2024-09-15 06:33:11.183449,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Dune: Part Two,-0.015400000000000025,0.3846,0.4
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.016700000000000007,0.0833,0.1
 2024-09-14 23:23:26.553262,Championship - England Championship 2024/25 - Winner,Sunderland,-0.01759999999999999,0.1,0.1176
@@ -39,7 +39,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-15 03:32:06.379047,Elite Boxing - Saul 'Canelo' Alvarez vs Edgar Berlanga - To Win the Bout,Edgar Berlanga,-0.022000000000000006,0.0833,0.1053
 2024-09-15 06:33:11.183449,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Blitz,-0.022199999999999998,0.1111,0.1333
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Stoke City,-0.02310000000000001,0.0769,0.1
-2024-09-14 19:21:33.555830,Elite Boxing - Rolando Romero vs Manuel Jaimes - To Win the Bout,Manuel Jaimes,-0.02560000000000001,0.3077,0.3333
 2024-09-15 01:57:37.575635,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.02560000000000001,0.3077,0.3333
 2024-09-15 01:57:37.584491,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.030299999999999994,0.6364,0.6667
 2024-09-15 01:57:37.580125,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,RB Leipzig,-0.030699999999999998,0.0526,0.0833
