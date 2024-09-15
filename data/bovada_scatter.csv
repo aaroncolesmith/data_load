@@ -4,8 +4,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-15 08:30:48.366231,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,0.1,0.2667,0.1667
 2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Exeter City,0.08549999999999996,0.3077,0.2222
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.07400000000000001,0.4444,0.3704
-2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.06190000000000001,0.4255,0.3636
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Notts County,0.06659999999999999,0.3333,0.2667
 2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,0.06190000000000001,0.4255,0.3636
+2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.06190000000000001,0.4255,0.3636
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,0.05710000000000001,0.2,0.1429
 2024-09-15 10:29:32.333279,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Chelsie Baham,0.055900000000000005,0.3636,0.3077
 2024-09-15 10:29:32.104906,National League - English National League - Outright Winner 2024/25,York City,0.05559999999999998,0.1667,0.1111
 2024-09-15 10:29:31.946148,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,0.053100000000000036,0.4167,0.3636
@@ -13,8 +15,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.05020000000000002,0.4348,0.3846
 2024-09-15 10:29:32.301718,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Richard Gadd - Baby Reindeer,0.050000000000000044,0.8,0.75
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.04999999999999999,0.25,0.2
+2024-09-15 11:20:32.995263,Scores - Final Round Score - Sahith Theegala - Final Round Score,Under 69.5,0.04820000000000002,0.6226,0.5744
 2024-09-15 01:57:37.575635,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.04760000000000009,0.7143,0.6667
 2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Barnet,0.04760000000000003,0.5238,0.4762
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Walsall,0.047599999999999976,0.3333,0.2857
 2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.04620000000000002,0.2,0.1538
 2024-09-15 09:25:44.678195,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,0.04329999999999999,0.0909,0.0476
 2024-09-15 10:29:32.100068,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,0.043200000000000016,0.6923,0.6491
@@ -22,58 +26,69 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-15 01:57:37.584491,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.0417,0.125,0.0833
 2024-09-15 10:29:32.280577,76th Primetime Emmy Awards - Emmys: Best Limited Or Anthology Series - Best Limited/Anthology Series,Ripley,0.04169999999999999,0.1667,0.125
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Wigan Athletic,0.04169999999999999,0.1667,0.125
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.04099999999999998,0.3077,0.2667
 2024-09-15 10:29:32.056956,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,0.03889999999999999,0.1818,0.1429
 2024-09-14 23:23:26.553262,Championship - England Championship 2024/25 - Winner,Burnley,0.03889999999999999,0.1818,0.1429
 2024-09-15 10:29:32.047128,First Division A - Belgium First Division A 2024/25 - Outright,Cercle Brugge,0.037700000000000004,0.0476,0.0099
+2024-09-15 11:20:30.174736,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Sporting Cristal,0.0368,0.2667,0.2299
 2024-09-15 10:29:32.090539,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,0.03640000000000004,0.4,0.3636
 2024-09-15 10:29:31.864290,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,0.03640000000000004,0.4,0.3636
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.03570000000000001,0.2857,0.25
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Blackpool,0.03570000000000001,0.2857,0.25
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,0.03420000000000001,0.1111,0.0769
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Luton Town,0.033399999999999985,0.1667,0.1333
 2024-09-15 10:29:31.860934,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.03179999999999994,0.5556,0.5238
-2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,0.029899999999999982,0.2299,0.2
 2024-09-15 09:25:44.709056,Serie B - Italy Serie B 2024/25 - Winner,Palermo,0.029899999999999982,0.2299,0.2
-2024-09-15 10:29:31.952327,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,0.029299999999999993,0.9524,0.9231
+2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,0.029899999999999982,0.2299,0.2
 2024-09-15 10:29:31.949240,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Atlético Goianiense,0.029299999999999993,0.9524,0.9231
+2024-09-15 10:29:31.952327,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,0.029299999999999993,0.9524,0.9231
 2024-09-15 10:29:32.289042,76th Primetime Emmy Awards - Emmys: Lead Actor In A Drama Series - Lead Actor Drama,Hiroyuki Sanada - Shogun,0.02839999999999998,0.9375,0.9091
+2024-09-15 11:20:30.092138,League Two - England League Two 2024/25 - Top Goalscorer,Charlie Wyke,0.028199999999999996,0.0667,0.0385
 2024-09-15 09:25:44.678195,League One - England League One 2024/25 - Top Goalscorer,Lee Gregory,0.028000000000000004,0.0476,0.0196
 2024-09-15 10:29:31.867252,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,0.027999999999999997,0.1818,0.1538
-2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.02779999999999999,0.25,0.2222
-2024-09-15 10:29:32.071426,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,0.02779999999999999,0.25,0.2222
 2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,0.02779999999999999,0.25,0.2222
+2024-09-15 10:29:32.071426,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,0.02779999999999999,0.25,0.2222
+2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.02779999999999999,0.25,0.2222
+2024-09-15 11:20:32.629746,Day 3 - Day 3 - Day 3 Winner,USA,0.025599999999999956,0.6,0.5744
 2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.025499999999999967,0.4255,0.4
+2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Blackpool,0.024999999999999994,0.125,0.1
 2024-09-15 06:33:11.183449,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,0.024999999999999994,0.125,0.1
 2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,0.024999999999999994,0.125,0.1
-2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Blackpool,0.024999999999999994,0.125,0.1
 2024-09-15 09:25:44.709056,Serie B - Italy Serie B 2024/25 - Winner,Brescia,0.024299999999999995,0.0588,0.0345
 2024-09-15 01:57:37.584491,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,0.0242,0.0909,0.0667
 2024-09-14 23:23:26.594901,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,0.023800000000000043,0.5238,0.5
 2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.023799999999999988,0.5,0.4762
 2024-09-15 10:29:31.864290,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,0.023799999999999988,0.1667,0.1429
-2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,0.022199999999999998,0.2222,0.2
+2024-09-15 11:20:32.783817,Procore Championship - 2/3 Balls - Final Round 2-Balls - G. Higgo / B. Snedeker - Final Round 2-Balls,Brandt Snedeker,0.023799999999999988,0.5,0.4762
+2024-09-15 11:20:30.088837,League Two - England League Two 2024/25 - Winner,Notts County,0.02310000000000001,0.1,0.0769
 2024-09-15 10:29:32.047128,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.022199999999999998,0.2222,0.2
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,0.022199999999999998,0.2222,0.2
+2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,0.022199999999999998,0.2222,0.2
 2024-09-15 01:57:37.580125,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.02200000000000002,0.7143,0.6923
-2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Shrewsbury Town,0.021999999999999964,0.3077,0.2857
-2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,0.021999999999999964,0.3077,0.2857
 2024-09-15 10:29:32.104906,National League - English National League - Outright Winner 2024/25,Barnet,0.021999999999999964,0.3077,0.2857
+2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,0.021999999999999964,0.3077,0.2857
+2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Shrewsbury Town,0.021999999999999964,0.3077,0.2857
 2024-09-15 10:29:32.080989,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.021699999999999997,0.4762,0.4545
 2024-09-15 10:29:32.333279,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Rubina Bernabe,0.0208,0.0833,0.0625
 2024-09-15 10:29:31.952327,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,0.020500000000000074,0.8667,0.8462
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Swansea City,0.0203,0.0588,0.0385
+2024-09-15 11:20:30.133052,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,AZ Alkmaar,0.0203,0.0588,0.0385
 2024-09-15 03:32:06.379047,Elite Boxing - Saul 'Canelo' Alvarez vs Edgar Berlanga - To Win the Bout,Saul 'Canelo' Alvarez,0.020299999999999985,0.9615,0.9412
-2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Stevenage,0.02020000000000001,0.1111,0.0909
 2024-09-15 02:58:39.338115,Ligue 1 - France Ligue 1 2024/25 - Winner,Monaco,0.02020000000000001,0.1111,0.0909
+2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Stevenage,0.02020000000000001,0.1111,0.0909
 2024-09-15 10:29:32.090539,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Östers IF,0.02020000000000001,0.1111,0.0909
 2024-09-15 10:29:32.061814,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hannover 96,0.02020000000000001,0.1111,0.0909
 2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Wigan Athletic,0.019099999999999992,0.0667,0.0476
+2024-09-15 11:20:30.088837,League Two - England League Two 2024/25 - Winner,Barrow FC,0.019099999999999992,0.0667,0.0476
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.019000000000000017,0.2857,0.2667
 2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Shrewsbury Town,0.018999999999999906,0.7333,0.7143
+2024-09-15 11:20:30.133052,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.018999999999999906,0.7333,0.7143
 2024-09-15 10:29:32.076187,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Malmö FF,0.018900000000000028,0.9804,0.9615
-2024-09-15 10:29:32.293286,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Ayo Edibiri - The Bear,0.01820000000000002,0.2,0.1818
 2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.01820000000000002,0.2,0.1818
+2024-09-15 10:29:32.293286,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Ayo Edibiri - The Bear,0.01820000000000002,0.2,0.1818
 2024-09-15 09:25:47.355244,Round Match-Ups - Final Round Match-Ups - R. Hojgaard vs J. Smith - Final Round Match-Ups,Rasmus Hojgaard,0.018100000000000005,0.5833,0.5652
-2024-09-15 10:29:32.061814,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,0.018099999999999998,0.0769,0.0588
 2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Exeter City,0.018099999999999998,0.0769,0.0588
+2024-09-15 10:29:32.061814,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,0.018099999999999998,0.0769,0.0588
 2024-09-15 10:29:31.864290,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,0.0179,0.1429,0.125
 2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Wrexham,0.015400000000000025,0.4,0.3846
 2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Solihull Moors,0.015300000000000001,0.0588,0.0435
@@ -83,90 +98,115 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Wigan Athletic,0.014900000000000004,0.0345,0.0196
 2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.014100000000000001,0.0526,0.0385
 2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Blackpool,0.014099999999999994,0.0667,0.0526
+2024-09-15 11:20:30.088837,League Two - England League Two 2024/25 - Winner,Walsall,0.013999999999999999,0.0909,0.0769
 2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Wycombe,0.013999999999999999,0.0909,0.0769
+2024-09-15 11:20:30.088837,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,0.013999999999999999,0.0909,0.0769
 2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Oldham Athletic,0.013899999999999996,0.125,0.1111
 2024-09-15 10:29:32.276320,76th Primetime Emmy Awards - Emmys: Best Drama Series - Best Drama Series,The Crown,0.012899999999999995,0.1667,0.1538
 2024-09-15 08:30:48.362088,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.012899999999999912,0.8462,0.8333
+2024-09-15 11:20:32.635168,Matches - Day 3 Singles - N. Korda / C. Hull - Day 3 Singles,Nelly Korda,0.012700000000000045,0.6491,0.6364
 2024-09-15 10:29:31.949240,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.011199999999999995,0.0588,0.0476
+2024-09-15 11:20:30.174736,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Cusco FC,0.011199999999999995,0.0588,0.0476
 2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Northampton Town,0.011099999999999999,0.1111,0.1
-2024-09-15 09:25:44.678195,League One - England League One 2024/25 - Top Goalscorer,Jonson Clarke-Harris,0.0102,0.0769,0.0667
-2024-09-14 23:23:26.553262,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,0.0102,0.0769,0.0667
+2024-09-15 11:20:32.928678,Round Match-Ups - Final Round Match-Ups - D. Lipsky vs W. Furr - Final Round Match-Ups,David Lipsky,0.01100000000000001,0.5348,0.5238
+2024-09-15 11:20:32.924585,Round Match-Ups - Final Round Match-Ups - C. Conners vs S. Theegala - Final Round Match-Ups,Sahith Theegala,0.01100000000000001,0.5348,0.5238
 2024-09-15 10:29:31.858095,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,0.0102,0.0769,0.0667
+2024-09-14 23:23:26.553262,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,0.0102,0.0769,0.0667
+2024-09-15 09:25:44.678195,League One - England League One 2024/25 - Top Goalscorer,Jonson Clarke-Harris,0.0102,0.0769,0.0667
+2024-09-15 11:20:30.088837,League Two - England League Two 2024/25 - Winner,Port Vale,0.0102,0.0769,0.0667
+2024-09-15 10:29:31.867252,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Alavés,-0.0102,0.0667,0.0769
+2024-09-15 10:29:32.104906,National League - English National League - Outright Winner 2024/25,Rochdale,-0.0102,0.0667,0.0769
 2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Peterborough United,-0.0102,0.0667,0.0769
+2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Leyton Orient,-0.0102,0.0667,0.0769
 2024-09-15 09:25:44.674874,League One - England League One 2024/25 - Winner,Stockport County,-0.0102,0.0667,0.0769
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Queens Park Rangers,-0.0102,0.0667,0.0769
-2024-09-15 10:29:32.104906,National League - English National League - Outright Winner 2024/25,Rochdale,-0.0102,0.0667,0.0769
-2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Leyton Orient,-0.0102,0.0667,0.0769
-2024-09-15 10:29:31.867252,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Alavés,-0.0102,0.0667,0.0769
-2024-09-14 23:23:26.553262,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.011099999999999999,0.1,0.1111
 2024-09-15 10:29:32.100068,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,-0.011099999999999999,0.1,0.1111
+2024-09-14 23:23:26.553262,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.011099999999999999,0.1,0.1111
 2024-09-15 10:29:32.301718,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Steven Zaillian - Ripley,-0.011099999999999999,0.1,0.1111
-2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Hartlepool United,-0.011199999999999995,0.0476,0.0588
+2024-09-15 11:20:30.092138,League Two - England League Two 2024/25 - Top Goalscorer,Jayden Stockley,-0.011199999999999995,0.0476,0.0588
 2024-09-15 10:29:31.867252,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,-0.011199999999999995,0.0476,0.0588
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.011199999999999995,0.0476,0.0588
-2024-09-15 10:29:31.949240,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,-0.012699999999999989,0.3509,0.3636
+2024-09-15 11:20:30.092138,League Two - England League Two 2024/25 - Top Goalscorer,Billy Sharp,-0.011199999999999995,0.0476,0.0588
+2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Hartlepool United,-0.011199999999999995,0.0476,0.0588
+2024-09-15 11:20:32.928678,Round Match-Ups - Final Round Match-Ups - D. Lipsky vs W. Furr - Final Round Match-Ups,Wilson Furr,-0.011600000000000055,0.5122,0.5238
+2024-09-15 11:20:32.924585,Round Match-Ups - Final Round Match-Ups - C. Conners vs S. Theegala - Final Round Match-Ups,Corey Conners,-0.011600000000000055,0.5122,0.5238
 2024-09-15 09:25:44.678195,League One - England League One 2024/25 - Top Goalscorer,Alfie May,-0.012699999999999989,0.3509,0.3636
+2024-09-15 10:29:31.949240,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,-0.012699999999999989,0.3509,0.3636
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,-0.012699999999999989,0.3509,0.3636
 2024-09-15 10:29:32.293286,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Jean Smart - Hacks,-0.013900000000000023,0.875,0.8889
+2024-09-15 01:57:37.575635,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2024-09-15 01:57:37.580125,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Borussia Dortmund,-0.013999999999999999,0.0769,0.0909
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,-0.013999999999999999,0.0769,0.0909
-2024-09-15 01:57:37.575635,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2024-09-15 10:29:32.272043,76th Primetime Emmy Awards - Emmys: Best Comedy Series - Best Comedy Series,Reservation Dogs,-0.014099999999999994,0.0526,0.0667
 2024-09-15 07:22:07.225804,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Chicago Bears,-0.014099999999999994,0.0526,0.0667
 2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Wigan Athletic,-0.014099999999999998,0.0244,0.0385
-2024-09-15 10:29:32.293286,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Maya Rudolph - Loot,-0.014399999999999996,0.0625,0.0769
-2024-09-15 10:29:32.276320,76th Primetime Emmy Awards - Emmys: Best Drama Series - Best Drama Series,Fallout,-0.014399999999999996,0.0625,0.0769
 2024-09-15 10:29:32.293286,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Quinta Brunson - Abbott Elementary,-0.014399999999999996,0.0625,0.0769
+2024-09-15 10:29:32.276320,76th Primetime Emmy Awards - Emmys: Best Drama Series - Best Drama Series,Fallout,-0.014399999999999996,0.0625,0.0769
 2024-09-15 10:29:32.289042,76th Primetime Emmy Awards - Emmys: Lead Actor In A Drama Series - Lead Actor Drama,Donald Glover - Mr & Mrs Smith,-0.014399999999999996,0.0625,0.0769
+2024-09-15 10:29:32.293286,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Maya Rudolph - Loot,-0.014399999999999996,0.0625,0.0769
 2024-09-15 10:29:32.280577,76th Primetime Emmy Awards - Emmys: Best Limited Or Anthology Series - Best Limited/Anthology Series,True Detective: Night Country,-0.014399999999999996,0.0625,0.0769
 2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Stockport County,-0.015100000000000002,0.1667,0.1818
 2024-09-15 06:33:11.183449,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Dune: Part Two,-0.015400000000000025,0.3846,0.4
+2024-09-15 11:20:30.092138,League Two - England League Two 2024/25 - Top Goalscorer,Callum Hendry,-0.016600000000000004,0.0667,0.0833
+2024-09-15 11:20:30.092138,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.016600000000000004,0.0667,0.0833
 2024-09-15 10:29:32.100068,Professional League - Saudi Professional League 2024/25 - Winner,Al Ahli,-0.016700000000000007,0.0833,0.1
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.016700000000000007,0.0833,0.1
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Wrexham,-0.01759999999999995,0.6491,0.6667
 2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Reading,-0.01759999999999999,0.1,0.1176
 2024-09-14 23:23:26.553262,Championship - England Championship 2024/25 - Winner,Sunderland,-0.01759999999999999,0.1,0.1176
-2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,-0.0179,0.125,0.1429
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,-0.017600000000000005,0.3333,0.3509
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.0179,0.125,0.1429
+2024-09-15 11:20:32.629746,Day 3 - Day 3 - Day 3 Winner,Tie,-0.0179,0.125,0.1429
 2024-09-15 10:29:32.272043,76th Primetime Emmy Awards - Emmys: Best Comedy Series - Best Comedy Series,Hacks,-0.0179,0.125,0.1429
-2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Eastleigh,-0.018099999999999998,0.0588,0.0769
-2024-09-15 09:25:44.674874,League One - England League One 2024/25 - Winner,Bolton Wanderers,-0.018099999999999998,0.0588,0.0769
+2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,-0.0179,0.125,0.1429
 2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Blackpool,-0.018099999999999998,0.0588,0.0769
+2024-09-15 09:25:44.674874,League One - England League One 2024/25 - Winner,Bolton Wanderers,-0.018099999999999998,0.0588,0.0769
+2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Eastleigh,-0.018099999999999998,0.0588,0.0769
 2024-09-15 10:29:31.949240,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,-0.018199999999999994,0.8,0.8182
-2024-09-15 10:29:31.867252,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,-0.01820000000000002,0.1818,0.2
+2024-09-15 11:20:30.092138,League Two - England League Two 2024/25 - Top Goalscorer,Joe Ironside,-0.018200000000000004,0.0294,0.0476
 2024-09-15 10:29:32.080989,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,-0.01820000000000002,0.1818,0.2
+2024-09-15 10:29:31.867252,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,-0.01820000000000002,0.1818,0.2
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,-0.018999999999999906,0.7143,0.7333
-2024-09-15 10:29:31.946148,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,-0.019000000000000017,0.2667,0.2857
 2024-09-15 10:29:31.860934,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Robert Lewandowski (FC Barcelona),-0.019000000000000017,0.2667,0.2857
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.019000000000000017,0.2667,0.2857
-2024-09-15 10:29:32.056956,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.020100000000000007,0.2299,0.25
+2024-09-15 10:29:31.946148,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,-0.019000000000000017,0.2667,0.2857
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Cheltenham Town,-0.019099999999999992,0.0476,0.0667
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Bromley,-0.019099999999999992,0.0476,0.0667
+2024-09-15 11:20:32.783817,Procore Championship - 2/3 Balls - Final Round 2-Balls - G. Higgo / B. Snedeker - Final Round 2-Balls,Garrick Higgo,-0.01970000000000005,0.5455,0.5652
 2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,-0.020100000000000007,0.2299,0.25
 2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Wrexham,-0.020100000000000007,0.2299,0.25
+2024-09-15 10:29:32.056956,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.020100000000000007,0.2299,0.25
 2024-09-15 10:29:32.333279,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,-0.02020000000000001,0.0909,0.1111
 2024-09-15 09:25:44.688107,League One - England League One 2024/25 - To Finish Bottom,Stevenage,-0.0203,0.0385,0.0588
+2024-09-15 11:20:30.088837,League Two - England League Two 2024/25 - Winner,Chesterfield,-0.02049999999999999,0.1333,0.1538
 2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Burton Albion,-0.021699999999999997,0.4545,0.4762
 2024-09-15 09:25:47.355244,Round Match-Ups - Final Round Match-Ups - R. Hojgaard vs J. Smith - Final Round Match-Ups,Jordan Smith,-0.021699999999999997,0.4545,0.4762
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.021999999999999964,0.2857,0.3077
 2024-09-15 03:32:06.379047,Elite Boxing - Saul 'Canelo' Alvarez vs Edgar Berlanga - To Win the Bout,Edgar Berlanga,-0.022000000000000006,0.0833,0.1053
 2024-09-15 08:30:48.362088,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.022099999999999998,0.0164,0.0385
-2024-09-15 06:33:11.183449,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Blitz,-0.022199999999999998,0.1111,0.1333
+2024-09-15 11:20:30.174736,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,FBC Melgar,-0.022199999999999998,0.2,0.2222
 2024-09-15 10:29:32.280577,76th Primetime Emmy Awards - Emmys: Best Limited Or Anthology Series - Best Limited/Anthology Series,Fargo,-0.022199999999999998,0.2,0.2222
-2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Exeter City,-0.02310000000000001,0.0769,0.1
+2024-09-15 06:33:11.183449,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Blitz,-0.022199999999999998,0.1111,0.1333
 2024-09-14 23:23:26.556464,Championship - England Championship 2024/25 - To Be Promoted,Stoke City,-0.02310000000000001,0.0769,0.1
+2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Exeter City,-0.02310000000000001,0.0769,0.1
 2024-09-15 10:29:32.080989,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.023799999999999988,0.4762,0.5
 2024-09-15 10:29:32.333279,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Leah Peters,-0.023799999999999988,0.1429,0.1667
 2024-09-15 09:25:44.709056,Serie B - Italy Serie B 2024/25 - Winner,Frosinone,-0.024299999999999995,0.0526,0.0769
 2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Mansfield Town,-0.024999999999999994,0.1,0.125
+2024-09-15 11:20:30.133052,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Ajax,-0.024999999999999994,0.1,0.125
 2024-09-15 10:29:32.056956,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,-0.025300000000000003,0.1176,0.1429
 2024-09-15 01:57:37.575635,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.02560000000000001,0.3077,0.3333
+2024-09-15 11:20:30.088837,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.0267,0.0909,0.1176
 2024-09-15 10:29:31.952327,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,-0.026800000000000046,0.6875,0.7143
-2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,-0.027999999999999997,0.1538,0.1818
 2024-09-15 10:29:31.864290,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.027999999999999997,0.1538,0.1818
+2024-09-15 09:25:44.691294,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,-0.027999999999999997,0.1538,0.1818
 2024-09-15 10:29:32.276320,76th Primetime Emmy Awards - Emmys: Best Drama Series - Best Drama Series,Shogun,-0.02839999999999998,0.9091,0.9375
 2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Rochdale,-0.028799999999999992,0.125,0.1538
 2024-09-15 10:29:32.076187,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens,-0.029299999999999993,0.0476,0.0769
 2024-09-15 01:57:37.584491,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.030299999999999994,0.6364,0.6667
 2024-09-15 01:57:37.580125,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,RB Leipzig,-0.030699999999999998,0.0526,0.0833
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Stockport County,-0.03179999999999994,0.5238,0.5556
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.031799999999999995,0.4444,0.4762
 2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Peterborough United,-0.031799999999999995,0.1111,0.1429
 2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Wycombe,-0.0321,0.0588,0.0909
 2024-09-15 10:29:32.090539,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,-0.0321,0.0588,0.0909
@@ -178,21 +218,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-15 01:57:37.584491,Serie A - Italy Serie A 2024/25 - Winner,Juventus,-0.03570000000000001,0.25,0.2857
 2024-09-15 10:29:32.061814,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.03889999999999999,0.1429,0.1818
 2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.03889999999999999,0.1429,0.1818
-2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,-0.04099999999999998,0.2667,0.3077
-2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,-0.04099999999999998,0.2667,0.3077
-2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.04099999999999998,0.2667,0.3077
 2024-09-15 10:29:31.864290,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,-0.04099999999999998,0.2667,0.3077
+2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,-0.04099999999999998,0.2667,0.3077
+2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,-0.04099999999999998,0.2667,0.3077
+2024-09-15 09:25:44.681713,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.04099999999999998,0.2667,0.3077
 2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Southend Utd,-0.04169999999999999,0.125,0.1667
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Newport County,-0.04329999999999999,0.0476,0.0909
 2024-09-15 10:29:32.090539,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,IK Brage,-0.043899999999999995,0.0149,0.0588
-2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Peterborough United,-0.047599999999999976,0.2857,0.3333
+2024-09-15 11:20:32.995263,Scores - Final Round Score - Sahith Theegala - Final Round Score,Over 69.5,-0.045499999999999985,0.4545,0.5
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,-0.047599999999999976,0.2857,0.3333
+2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Peterborough United,-0.047599999999999976,0.2857,0.3333
 2024-09-14 23:23:26.594901,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,-0.04849999999999999,0.1333,0.1818
+2024-09-15 11:20:30.133052,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Feyenoord,-0.05080000000000001,0.1818,0.2326
 2024-09-15 01:57:39.972634,Elite Boxing - Danny Garcia vs Erislandy Lara - To Win the Bout,Erislandy Lara,-0.053300000000000014,0.661,0.7143
 2024-09-15 10:29:32.108626,National League - English National League - To Be Promoted,Gateshead,-0.05449999999999999,0.4,0.4545
 2024-09-15 10:29:32.047128,First Division A - Belgium First Division A 2024/25 - Outright,Anderlecht,-0.05550000000000002,0.1667,0.2222
 2024-09-15 09:25:44.694470,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,-0.05559999999999998,0.5,0.5556
 2024-09-15 09:25:44.684847,League One - England League One 2024/25 - To Be Relegated,Wigan Athletic,-0.05679999999999999,0.125,0.1818
 2024-09-15 10:29:32.280577,76th Primetime Emmy Awards - Emmys: Best Limited Or Anthology Series - Best Limited/Anthology Series,Baby Reindeer,-0.05709999999999993,0.8,0.8571
+2024-09-15 11:20:30.095546,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,-0.06670000000000004,0.3333,0.4
 2024-09-15 08:30:48.366231,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.07499999999999996,0.8,0.875
 2024-09-15 01:57:37.722475,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,-0.07500000000000001,0.125,0.2
 2024-09-15 10:29:32.104906,National League - English National League - Outright Winner 2024/25,Gateshead,-0.0857,0.2,0.2857
