@@ -28,7 +28,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-16 06:35:21.309456,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,New Orleans Saints,0.019300000000000005,0.0345,0.0152
 2024-09-16 06:35:21.358521,AFC West - AFC West 2024/25 - AFC West Winner,Las Vegas Raiders,0.019000000000000003,0.0625,0.0435
 2024-09-16 06:35:21.314447,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Pittsburgh Steelers,0.017899999999999996,0.0435,0.0256
-2024-09-15 19:19:59.276474,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,0.017600000000000005,0.3509,0.3333
 2024-09-16 02:59:08.648816,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.017300000000000093,0.7143,0.697
 2024-09-16 02:59:07.860148,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),0.01680000000000001,0.2273,0.2105
 2024-09-16 04:30:58.378504,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Boston College,0.0168,0.0385,0.0217
@@ -40,9 +39,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-16 04:30:58.382659,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Oklahoma State,0.012899999999999995,0.1667,0.1538
 2024-09-16 04:30:58.378504,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,California,0.012700000000000003,0.0323,0.0196
 2024-09-16 04:30:58.382659,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Kansas State,0.011700000000000016,0.2222,0.2105
-2024-09-16 04:30:58.378504,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Clemson,0.011099999999999999,0.2778,0.2667
-2024-09-16 02:59:07.855223,WNBA Championship - WNBA Championship 2024 - Championship Winner,Las Vegas Aces,0.011099999999999999,0.2778,0.2667
 2024-09-15 20:25:46.274448,Boxing Lines - Joshua Buatsi vs Willy Hutchinson - To Win the Bout,Joshua Buatsi,0.011099999999999999,0.7333,0.7222
+2024-09-16 02:59:07.855223,WNBA Championship - WNBA Championship 2024 - Championship Winner,Las Vegas Aces,0.011099999999999999,0.2778,0.2667
+2024-09-16 04:30:58.378504,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Clemson,0.011099999999999999,0.2778,0.2667
 2024-09-16 04:30:58.382659,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Texas Tech,0.010600000000000002,0.0323,0.0217
 2024-09-16 06:35:21.314447,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.010299999999999976,0.2667,0.2564
 2024-09-16 06:35:21.314447,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Jacksonville Jaguars,-0.010700000000000001,0.0278,0.0385
@@ -60,8 +59,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-16 06:35:21.314447,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Indianapolis Colts,-0.0159,0.0164,0.0323
 2024-09-16 06:35:21.358521,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,-0.017099999999999997,0.0123,0.0294
 2024-09-16 06:35:21.319399,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Los Angeles Rams,-0.019000000000000003,0.0435,0.0625
-2024-09-16 04:30:58.391012,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Missouri,-0.019099999999999992,0.0476,0.0667
 2024-09-16 04:30:58.378504,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Virginia Tech,-0.019099999999999992,0.0476,0.0667
+2024-09-16 04:30:58.391012,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Missouri,-0.019099999999999992,0.0476,0.0667
 2024-09-16 04:30:58.382659,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Arizona,-0.0208,0.0625,0.0833
 2024-09-16 04:30:58.382659,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Utah,-0.021999999999999964,0.2857,0.3077
 2024-09-16 04:30:58.386826,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Penn State,-0.022199999999999998,0.2,0.2222
