@@ -1,131 +1,32 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-09-15 12:45:22.571825,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,0.16810000000000003,0.6226,0.4545
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Fleetwood Town,0.07690000000000002,0.3846,0.3077
-2024-09-15 12:45:22.757910,League Two - England League Two 2024/25 - To Be Relegated,Newport County,0.07579999999999999,0.1667,0.0909
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,0.06190000000000001,0.4255,0.3636
-2024-09-15 12:45:22.566469,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,0.057699999999999974,0.3077,0.25
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.04999999999999999,0.25,0.2
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,0.04999999999999999,0.25,0.2
 2024-09-15 20:25:45.844077,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.04789999999999994,0.697,0.6491
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,0.04760000000000003,0.5238,0.4762
-2024-09-15 12:45:22.757910,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.044499999999999984,0.2667,0.2222
-2024-09-15 12:45:22.761102,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.0384,0.0769,0.0385
-2024-09-15 12:45:22.569123,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Inter Miami,0.037699999999999956,0.9901,0.9524
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,0.033300000000000024,0.2,0.1667
-2024-09-15 12:45:22.757910,League Two - England League Two 2024/25 - To Be Relegated,Cheltenham Town,0.031799999999999995,0.1429,0.1111
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,0.031799999999999995,0.4762,0.4444
-2024-09-15 16:32:28.467544,Scores - Final Round Score - Patrick Fishburn - Final Round Score,Over 70.5,0.03179999999999994,0.5556,0.5238
 2024-09-15 16:32:28.450001,Scores - Final Round Score - John Keefer - Final Round Score,Over 70.5,0.03179999999999994,0.5556,0.5238
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,0.028799999999999992,0.1538,0.125
-2024-09-15 12:45:25.522877,Procore Championship - 2/3 Balls - Final Round 2-Balls - J.J. Spaun / S. Bae - Final Round 2-Balls,Sangmoon Bae,0.028600000000000014,0.3922,0.3636
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.02779999999999999,0.25,0.2222
-2024-09-15 12:45:22.757910,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.02560000000000001,0.3333,0.3077
-2024-09-15 12:45:22.695826,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Cruz Azul,0.02560000000000001,0.3333,0.3077
-2024-09-15 13:27:03.004755,Matches - Day 3 Singles - J. Kupcho / L. Grant - Day 3 Singles,Linn Grant,0.025599999999999956,0.6,0.5744
-2024-09-15 13:27:02.976187,Matches - Day 3 Singles - R. Zhang / C. Ciganda - Day 3 Singles,Rose Zhang,0.025599999999999956,0.6,0.5744
+2024-09-15 16:32:28.467544,Scores - Final Round Score - Patrick Fishburn - Final Round Score,Over 70.5,0.03179999999999994,0.5556,0.5238
 2024-09-15 14:26:34.882145,Procore Championship - 2/3 Balls - Final Round 2-Balls - C. Kim / K. Tway - Final Round 2-Balls,Chan Kim,0.025599999999999956,0.6,0.5744
-2024-09-15 12:45:25.621571,Round Match-Ups - Final Round Match-Ups - J.J. Spaun vs T. Hoge - Final Round Match-Ups,Tom Hoge,0.024399999999999977,0.5122,0.4878
 2024-09-15 14:26:34.919917,Procore Championship - 2/3 Balls - Final Round 2-Balls - P. Kizzire / D. Lipsky - Final Round 2-Balls,David Lipsky,0.024399999999999977,0.5122,0.4878
-2024-09-15 12:45:25.578903,Round Match-Ups - Final Round Match-Ups - P. Rodgers v B. Todd - Final Round Match-Ups,Brendon Todd,0.023800000000000043,0.5238,0.5
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,0.023800000000000043,0.5238,0.5
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Walsall,0.023800000000000043,0.5238,0.5
 2024-09-15 16:32:28.463144,Scores - Final Round Score - Matt Kuchar - Final Round Score,Over 70.5,0.023800000000000043,0.5238,0.5
-2024-09-15 12:45:22.695826,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,0.023799999999999988,0.1667,0.1429
 2024-09-15 16:32:28.471890,Scores - Final Round Score - Patton Kizzire - Final Round Score,Over 71.5,0.023799999999999988,0.5,0.4762
 2024-09-15 16:32:28.436937,Scores - Final Round Score - Corey Conners - Final Round Score,Over 69.5,0.023799999999999988,0.5,0.4762
 2024-09-15 16:32:28.441288,Scores - Final Round Score - David Lipsky - Final Round Score,Over 71.5,0.023799999999999988,0.5,0.4762
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Barrow FC,0.023799999999999988,0.1667,0.1429
-2024-09-15 12:45:22.695826,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Deportivo Toluca,0.023799999999999988,0.1667,0.1429
-2024-09-15 12:45:22.563372,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,0.022199999999999998,0.1333,0.1111
-2024-09-15 16:32:28.476253,Scores - Final Round Score - Sahith Theegala - Final Round Score,Over 69.5,0.021699999999999997,0.4762,0.4545
 2024-09-15 16:32:28.445666,Scores - Final Round Score - Greyson Sigg - Final Round Score,Over 71.5,0.021699999999999997,0.4762,0.4545
-2024-09-15 12:45:25.587433,Round Match-Ups - Final Round Match-Ups - A. Svensson v D. Ghim - Final Round Match-Ups,Doug Ghim,0.02169999999999994,0.5455,0.5238
-2024-09-15 12:45:25.591665,Round Match-Ups - Final Round Match-Ups - K. Chappell v M. Laird - Final Round Match-Ups,Martin Laird,0.02169999999999994,0.5455,0.5238
-2024-09-15 12:45:25.634323,Round Match-Ups - Final Round Match-Ups - A. Smotherman v B. Wu - Final Round Match-Ups,Brandon Wu,0.02169999999999994,0.5455,0.5238
-2024-09-15 12:45:25.617335,Round Match-Ups - Final Round Match-Ups - H. Norlander vs Z. Blair - Final Round Match-Ups,Henrik Norlander,0.02079999999999993,0.5556,0.5348
-2024-09-15 12:45:25.625787,Round Match-Ups - Final Round Match-Ups - L. Glover vs M. Thorbjornsen - Final Round Match-Ups,Lucas Glover,0.02079999999999993,0.5556,0.5348
+2024-09-15 16:32:28.476253,Scores - Final Round Score - Sahith Theegala - Final Round Score,Over 69.5,0.021699999999999997,0.4762,0.4545
 2024-09-15 16:32:28.454358,Scores - Final Round Score - Justin Lower - Final Round Score,Over 70.5,0.02079999999999993,0.5556,0.5348
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.02049999999999999,0.1538,0.1333
-2024-09-15 12:45:25.630045,Round Match-Ups - Final Round Match-Ups - K. Mitchell vs C. Kim - Final Round Match-Ups,Keith Mitchell,0.01970000000000005,0.5652,0.5455
-2024-09-15 12:45:22.691864,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Paulinho Fernandes,0.01820000000000002,0.2,0.1818
-2024-09-15 12:45:22.761102,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,0.01820000000000002,0.2,0.1818
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.01820000000000002,0.2,0.1818
-2024-09-15 12:45:22.691864,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Roberto Alvadrado,0.018200000000000004,0.0476,0.0294
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Salford City,0.018099999999999998,0.0769,0.0588
-2024-09-15 12:45:22.761102,League Two - England League Two 2024/25 - To Finish Bottom,Cheltenham Town,0.018099999999999998,0.0769,0.0588
-2024-09-15 12:45:22.761102,League Two - England League Two 2024/25 - To Finish Bottom,Grimsby Town,0.018099999999999998,0.0769,0.0588
 2024-09-15 19:19:59.276474,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,0.017600000000000005,0.3509,0.3333
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,0.01759999999999995,0.6667,0.6491
-2024-09-15 12:45:25.423659,Matches - Day 3 Singles - L. Vu / A. Valenzuela - Day 3 Singles,Lilia Vu,0.014900000000000024,0.6923,0.6774
-2024-09-15 12:45:22.566469,MLS - USA MLS 2024 - Futures - To Reach the Final,Inter Miami,0.01429999999999998,0.6369,0.6226
-2024-09-15 12:45:22.695826,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Club América,0.013899999999999996,0.125,0.1111
-2024-09-15 12:45:22.757910,League Two - England League Two 2024/25 - To Be Relegated,Grimsby Town,0.013899999999999996,0.125,0.1111
 2024-09-15 16:32:28.458746,Scores - Final Round Score - Mackenzie Hughes - Final Round Score,Over 69.5,0.013799999999999923,0.6364,0.6226
-2024-09-15 12:45:22.571825,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Vancouver Whitecaps,0.011199999999999995,0.0588,0.0476
 2024-09-15 20:25:46.274448,Boxing Lines - Joshua Buatsi vs Willy Hutchinson - To Win the Bout,Joshua Buatsi,0.011099999999999999,0.7333,0.7222
 2024-09-15 14:26:34.890494,Procore Championship - 2/3 Balls - Final Round 2-Balls - A. Smotherman / B. Cauley - Final Round 2-Balls,Bud Cauley,0.010699999999999932,0.5455,0.5348
-2024-09-15 12:45:22.566469,MLS - USA MLS 2024 - Futures - To Reach the Final,Sporting Kansas City,-0.0102,0.005,0.0152
-2024-09-15 12:45:22.757910,League Two - England League Two 2024/25 - To Be Relegated,Colchester United,-0.011099999999999999,0.1,0.1111
-2024-09-15 12:45:22.691864,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Georgios Giakoumakis,-0.011099999999999999,0.1,0.1111
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Carlisle United,-0.011199999999999995,0.0476,0.0588
 2024-09-15 20:25:46.274448,Boxing Lines - Joshua Buatsi vs Willy Hutchinson - To Win the Bout,Willy Hutchinson,-0.01150000000000001,0.3333,0.3448
-2024-09-15 12:45:22.566469,MLS - USA MLS 2024 - Futures - To Reach the Final,Austin FC,-0.012100000000000001,0.0123,0.0244
 2024-09-15 14:26:34.890494,Procore Championship - 2/3 Balls - Final Round 2-Balls - A. Smotherman / B. Cauley - Final Round 2-Balls,Austin Smotherman,-0.012199999999999989,0.5,0.5122
-2024-09-15 12:45:22.571825,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Seattle Sounders,-0.013,0.0066,0.0196
-2024-09-15 12:45:22.691864,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Andre-Pierre Gignac,-0.013999999999999999,0.0769,0.0909
-2024-09-15 13:27:02.840391,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,New York Mets,-0.014399999999999996,0.0625,0.0769
-2024-09-15 12:45:22.691864,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Henry Martin,-0.015100000000000002,0.1667,0.1818
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.01759999999999995,0.6491,0.6667
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.0179,0.125,0.1429
-2024-09-15 12:45:22.563372,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,-0.0179,0.125,0.1429
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.0179,0.125,0.1429
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Harrogate Town,-0.018099999999999998,0.0588,0.0769
-2024-09-15 12:45:22.571825,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Portland Timbers,-0.0183,0.0013,0.0196
 2024-09-15 16:32:28.463144,Scores - Final Round Score - Matt Kuchar - Final Round Score,Under 70.5,-0.01880000000000004,0.5556,0.5744
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Accrington Stanley,-0.019099999999999992,0.0476,0.0667
-2024-09-15 12:45:22.566469,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Dallas,-0.0194,0.005,0.0244
 2024-09-15 16:32:28.458746,Scores - Final Round Score - Mackenzie Hughes - Final Round Score,Under 69.5,-0.019699999999999995,0.4348,0.4545
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Bromley,-0.0203,0.0385,0.0588
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Newport County,-0.0203,0.0385,0.0588
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Cheltenham Town,-0.0203,0.0385,0.0588
 2024-09-15 14:26:34.882145,Procore Championship - 2/3 Balls - Final Round 2-Balls - C. Kim / K. Tway - Final Round 2-Balls,Kevin Tway,-0.020699999999999996,0.4444,0.4651
-2024-09-15 12:45:25.621571,Round Match-Ups - Final Round Match-Ups - J.J. Spaun vs T. Hoge - Final Round Match-Ups,J J Spaun,-0.02079999999999993,0.5348,0.5556
 2024-09-15 14:26:34.919917,Procore Championship - 2/3 Balls - Final Round 2-Balls - P. Kizzire / D. Lipsky - Final Round 2-Balls,Patton Kizzire,-0.02079999999999993,0.5348,0.5556
-2024-09-15 12:45:25.578903,Round Match-Ups - Final Round Match-Ups - P. Rodgers v B. Todd - Final Round Match-Ups,Patrick Rodgers,-0.02169999999999994,0.5238,0.5455
-2024-09-15 12:45:25.522877,Procore Championship - 2/3 Balls - Final Round 2-Balls - J.J. Spaun / S. Bae - Final Round 2-Balls,J J Spaun,-0.022199999999999998,0.6552,0.6774
-2024-09-15 16:32:28.454358,Scores - Final Round Score - Justin Lower - Final Round Score,Under 70.5,-0.022600000000000064,0.5122,0.5348
 2024-09-15 16:32:28.445666,Scores - Final Round Score - Greyson Sigg - Final Round Score,Under 71.5,-0.022600000000000064,0.6,0.6226
+2024-09-15 16:32:28.454358,Scores - Final Round Score - Justin Lower - Final Round Score,Under 70.5,-0.022600000000000064,0.5122,0.5348
 2024-09-15 16:32:28.476253,Scores - Final Round Score - Sahith Theegala - Final Round Score,Under 69.5,-0.022600000000000064,0.6,0.6226
-2024-09-15 12:45:22.757910,League Two - England League Two 2024/25 - To Be Relegated,Salford City,-0.02310000000000001,0.0769,0.1
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,-0.023799999999999988,0.1429,0.1667
-2024-09-15 13:27:03.004755,Matches - Day 3 Singles - J. Kupcho / L. Grant - Day 3 Singles,Jennifer Kupcho,-0.023799999999999988,0.4762,0.5
-2024-09-15 12:45:25.630045,Round Match-Ups - Final Round Match-Ups - K. Mitchell vs C. Kim - Final Round Match-Ups,Chan Kim,-0.023799999999999988,0.4762,0.5
-2024-09-15 13:27:02.976187,Matches - Day 3 Singles - R. Zhang / C. Ciganda - Day 3 Singles,Carlota Ciganda,-0.023799999999999988,0.4762,0.5
-2024-09-15 12:45:25.587433,Round Match-Ups - Final Round Match-Ups - A. Svensson v D. Ghim - Final Round Match-Ups,Adam Svensson,-0.023800000000000043,0.5,0.5238
-2024-09-15 12:45:25.634323,Round Match-Ups - Final Round Match-Ups - A. Smotherman v B. Wu - Final Round Match-Ups,Austin Smotherman,-0.023800000000000043,0.5,0.5238
-2024-09-15 12:45:25.591665,Round Match-Ups - Final Round Match-Ups - K. Chappell v M. Laird - Final Round Match-Ups,Kevin Chappell,-0.023800000000000043,0.5,0.5238
-2024-09-15 12:45:22.761102,League Two - England League Two 2024/25 - To Finish Bottom,Swindon Town,-0.0242,0.0667,0.0909
-2024-09-15 12:45:25.625787,Round Match-Ups - Final Round Match-Ups - L. Glover vs M. Thorbjornsen - Final Round Match-Ups,Michael Thorbjornsen,-0.024399999999999977,0.4878,0.5122
-2024-09-15 12:45:25.617335,Round Match-Ups - Final Round Match-Ups - H. Norlander vs Z. Blair - Final Round Match-Ups,Zac Blair,-0.024399999999999977,0.4878,0.5122
-2024-09-15 12:45:22.695826,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,-0.024999999999999994,0.1,0.125
-2024-09-15 16:32:28.471890,Scores - Final Round Score - Patton Kizzire - Final Round Score,Under 71.5,-0.025599999999999956,0.5744,0.6
-2024-09-15 16:32:28.436937,Scores - Final Round Score - Corey Conners - Final Round Score,Under 69.5,-0.025599999999999956,0.5744,0.6
 2024-09-15 16:32:28.441288,Scores - Final Round Score - David Lipsky - Final Round Score,Under 71.5,-0.025599999999999956,0.5744,0.6
-2024-09-15 12:45:22.761102,League Two - England League Two 2024/25 - To Finish Bottom,Crewe Alexandra,-0.028199999999999996,0.0385,0.0667
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,-0.030299999999999994,0.3333,0.3636
-2024-09-15 16:32:28.467544,Scores - Final Round Score - Patrick Fishburn - Final Round Score,Under 70.5,-0.03179999999999994,0.5238,0.5556
+2024-09-15 16:32:28.436937,Scores - Final Round Score - Corey Conners - Final Round Score,Under 69.5,-0.025599999999999956,0.5744,0.6
+2024-09-15 16:32:28.471890,Scores - Final Round Score - Patton Kizzire - Final Round Score,Under 71.5,-0.025599999999999956,0.5744,0.6
 2024-09-15 16:32:28.450001,Scores - Final Round Score - John Keefer - Final Round Score,Under 70.5,-0.03179999999999994,0.5238,0.5556
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,-0.03179999999999994,0.5238,0.5556
-2024-09-15 12:45:22.566469,MLS - USA MLS 2024 - Futures - To Reach the Final,Real Salt Lake,-0.031799999999999995,0.1111,0.1429
-2024-09-15 12:45:22.569123,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,FC Cincinnati,-0.0373,0.0294,0.0667
-2024-09-15 12:45:22.569123,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,-0.04239999999999999,0.0345,0.0769
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.04269999999999999,0.1111,0.1538
-2024-09-15 12:45:22.757910,League Two - England League Two 2024/25 - To Be Relegated,Crewe Alexandra,-0.048100000000000004,0.0769,0.125
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.04849999999999999,0.25,0.2985
-2024-09-15 12:45:22.765014,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.05130000000000001,0.3333,0.3846
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,-0.05449999999999999,0.5455,0.6
+2024-09-15 16:32:28.467544,Scores - Final Round Score - Patrick Fishburn - Final Round Score,Under 70.5,-0.03179999999999994,0.5238,0.5556
 2024-09-15 20:25:45.844077,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,-0.054900000000000004,0.2899,0.3448
-2024-09-15 12:45:22.757910,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,-0.05710000000000001,0.1429,0.2
-2024-09-15 12:45:22.571825,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Real Salt Lake,-0.0635,0.0476,0.1111
-2024-09-15 12:45:22.768258,League Two - England League Two 2024/25 - Top 7 Finish,Newport County,-0.07579999999999999,0.0909,0.1667
-2024-09-15 12:45:22.571825,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,-0.09090000000000004,0.3636,0.4545
