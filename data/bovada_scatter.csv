@@ -11,24 +11,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-18 08:29:46.670463,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Lamine Yamal (Barcelona),0.052399999999999995,0.0909,0.0385
 2024-09-18 10:31:35.181523,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,0.052000000000000005,0.1429,0.0909
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Lille,0.04820000000000002,0.6226,0.5744
-2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayern Munich,0.04760000000000009,0.7143,0.6667
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sporting CP,0.04760000000000009,0.7143,0.6667
+2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayern Munich,0.04760000000000009,0.7143,0.6667
 2024-09-18 08:29:46.670463,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Jamal Musiala (Bayern Munich),0.0475,0.0769,0.0294
-2024-09-18 01:47:41.855185,Average Assists Per Game - Average Assists Per Game  - Chris Paul (SAS) - APG,Over 6.9,0.04620000000000002,0.5917,0.5455
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,PSV Eindhoven,0.04409999999999992,0.6667,0.6226
-2024-09-18 01:47:42.036361,Average Points Per Game - Average Points Per Game - Tyrese Maxey (PHI) - PPG,Under 25.5,0.04139999999999999,0.5652,0.5238
-2024-09-18 01:47:42.359145,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,0.03710000000000002,0.3704,0.3333
 2024-09-18 09:28:18.439853,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,0.03640000000000004,0.4,0.3636
 2024-09-18 08:29:46.674261,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.033300000000000024,0.2,0.1667
-2024-09-18 08:29:46.677614,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Dinamo Zagreb,0.033300000000000024,0.2,0.1667
 2024-09-18 08:29:46.684243,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Real Madrid,0.033300000000000024,0.2,0.1667
+2024-09-18 08:29:46.677614,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Dinamo Zagreb,0.033300000000000024,0.2,0.1667
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,VfB Stuttgart,0.028000000000000025,0.5744,0.5464
 2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,FC Barcelona,0.028000000000000025,0.5744,0.5464
 2024-09-18 08:29:46.670463,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Joshua Kimmich (Bayern Munich),0.028000000000000004,0.0476,0.0196
-2024-09-18 06:35:15.283277,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,0.02779999999999999,0.25,0.2222
 2024-09-18 08:29:46.873248,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,River Plate,0.02779999999999999,0.25,0.2222
-2024-09-18 08:29:46.999438,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.023799999999999988,0.5,0.4762
+2024-09-18 06:35:15.283277,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,0.02779999999999999,0.25,0.2222
 2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Sporting CP,0.023799999999999988,0.1667,0.1429
+2024-09-18 14:29:14.576409,Scores - 1st Round Score - Rasmus Hojgaard - 1st Round Score ,Over 70.5,0.023799999999999988,0.5,0.4762
+2024-09-18 08:29:46.999438,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.023799999999999988,0.5,0.4762
 2024-09-18 09:28:18.439853,MLS - USA MLS 2024 - Futures - Golden Boot Award,Lionel Messi,0.02310000000000001,0.1,0.0769
 2024-09-18 08:29:46.677614,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Young Boys,0.022199999999999998,0.1333,0.1111
 2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Juventus,0.021999999999999964,0.3077,0.2857
@@ -54,48 +52,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Paris Saint-Germain,0.011499999999999955,0.6667,0.6552
 2024-09-18 08:29:46.873248,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Colo-Colo,0.011199999999999995,0.0588,0.0476
 2024-09-18 08:29:49.328492,Boxing Lines - Callum Walsh vs Przemyslaw Runowski - To Win the Bout,Callum Walsh,0.011199999999999988,0.9524,0.9412
+2024-09-18 14:29:14.503936,Round Match-Ups - 1st Round Match-Up - R. McIlroy vs S. Lowry - 1st Round Match-Up,Shane Lowry,0.010599999999999998,0.4651,0.4545
 2024-09-18 06:35:16.626579,Boxing Lines - Jaime Munguia vs Erik Bazinyan - To Win the Bout,Jaime Munguia,0.010199999999999987,0.9333,0.9231
-2024-09-18 06:35:15.288178,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Jonquel Jones (NYL),-0.0102,0.0667,0.0769
-2024-09-18 01:47:44.110088,Pure Insurance Championship - Pure Insurance Championship - Winner,Jerry Kelly,-0.0102,0.0667,0.0769
 2024-09-18 08:29:46.687044,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,France,-0.0102,0.0667,0.0769
+2024-09-18 06:35:15.288178,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Jonquel Jones (NYL),-0.0102,0.0667,0.0769
 2024-09-18 08:29:46.670463,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Vinicius Jr. (Real Madrid),-0.0102,0.0667,0.0769
+2024-09-18 14:29:14.411752,BMW PGA Championship - BMW PGA Championship - Winner,Shane Lowry,-0.0102,0.0667,0.0769
 2024-09-18 13:31:01.319999,Boxing Lines - Ali Akhmedov vs Pierre Hubert Dibombe - To Win the Bout,Pierre Hubert Dibombe,-0.010899999999999993,0.1429,0.1538
 2024-09-18 08:29:46.677614,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Sturm Graz,-0.011099999999999999,0.1,0.1111
 2024-09-18 12:47:53.824406,Boxing Lines - Callum Walsh vs Przemyslaw Runowski - To Win the Bout,Callum Walsh,-0.011199999999999988,0.9412,0.9524
 2024-09-18 08:29:46.674261,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.011199999999999995,0.0476,0.0588
 2024-09-18 08:29:46.670463,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Bukayo Saka (Arsenal),-0.011199999999999995,0.0476,0.0588
 2024-09-18 06:35:16.579059,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.0118,0.0099,0.0217
+2024-09-18 14:29:14.241148,Boxing Lines - Luke Gersbeck vs Lilo Telepe - To Win the Bout,Luke Gersbeck,-0.012199999999999989,0.4878,0.5
 2024-09-18 13:31:01.307140,Boxing Lines - Luke Gersbeck vs Lilo Telepe - To Win the Bout,Luke Gersbeck,-0.012199999999999989,0.5,0.5122
 2024-09-18 06:35:15.288178,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Jewell Loyd (SEA),-0.012700000000000003,0.0196,0.0323
 2024-09-18 06:35:15.288178,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Brionna Jones (CON),-0.012700000000000003,0.0196,0.0323
-2024-09-18 08:29:46.999438,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,-0.012899999999999995,0.1538,0.1667
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Manchester City,-0.012899999999999995,0.1538,0.1667
+2024-09-18 08:29:46.999438,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,-0.012899999999999995,0.1538,0.1667
 2024-09-18 08:29:46.670463,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Leroy Sane (Bayern Munich),-0.0131,0.0345,0.0476
-2024-09-18 01:47:44.110088,Pure Insurance Championship - Pure Insurance Championship - Winner,Ernie Els,-0.013899999999999996,0.1111,0.125
 2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bologna,-0.013999999999999999,0.0769,0.0909
 2024-09-18 08:29:46.674261,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.014099999999999994,0.0526,0.0667
 2024-09-18 06:35:15.283277,WNBA Championship - WNBA Championship 2024 - Championship Winner,Seattle Storm,-0.014100000000000001,0.0385,0.0526
 2024-09-18 06:35:15.283277,WNBA Championship - WNBA Championship 2024 - Championship Winner,Indiana Fever,-0.014399999999999996,0.0625,0.0769
-2024-09-18 01:47:44.110088,Pure Insurance Championship - Pure Insurance Championship - Winner,Steven Alker,-0.015100000000000002,0.1667,0.1818
 2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Atlético Madrid,-0.016699999999999993,0.4,0.4167
 2024-09-18 09:28:18.439853,MLS - USA MLS 2024 - Futures - Golden Boot Award,Luis Suarez,-0.016699999999999993,0.25,0.2667
 2024-09-18 08:29:46.677614,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Sparta Prague,-0.016700000000000007,0.0833,0.1
 2024-09-18 08:29:49.328492,Boxing Lines - Callum Walsh vs Przemyslaw Runowski - To Win the Bout,Przemyslaw Runowski,-0.01759999999999999,0.1,0.1176
 2024-09-18 08:29:46.684243,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,AC Milan,-0.017800000000000003,0.0066,0.0244
-2024-09-18 01:47:44.110088,Pure Insurance Championship - Pure Insurance Championship - Winner,Bernhard Langer,-0.0179,0.125,0.1429
 2024-09-18 08:29:46.674261,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Mohamed Salah (Liverpool),-0.018099999999999998,0.0588,0.0769
 2024-09-18 06:35:15.283277,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,-0.018100000000000005,0.4167,0.4348
 2024-09-18 07:24:20.219066,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Nico Collins (HOU),-0.01949999999999999,0.0714,0.0909
 2024-09-18 08:29:46.684243,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,FC Barcelona,-0.02020000000000001,0.0909,0.1111
-2024-09-18 08:29:46.680662,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,AC Milan,-0.0203,0.0385,0.0588
 2024-09-18 07:24:20.219066,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Amon-Ra St. Brown (DET),-0.0203,0.0323,0.0526
+2024-09-18 08:29:46.680662,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,AC Milan,-0.0203,0.0385,0.0588
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Arsenal,-0.02100000000000002,0.3636,0.3846
-2024-09-18 08:29:46.999438,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.021699999999999997,0.4545,0.4762
 2024-09-18 12:47:54.053888,Round Match-Ups - 1st Round Match-Up - R. McIlroy vs S. Lowry - 1st Round Match-Up,Shane Lowry,-0.021699999999999997,0.4545,0.4762
+2024-09-18 08:29:46.999438,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.021699999999999997,0.4545,0.4762
 2024-09-18 09:28:18.439853,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,-0.021999999999999964,0.2857,0.3077
 2024-09-18 02:50:40.866250,Average Points Per Game - Average Points Per Game - Zaccharie Risacher (ATL) - PPG,Under 8.8,-0.022600000000000064,0.5122,0.5348
 2024-09-18 02:50:40.719558,Average Assists Per Game - Average Assists Per Game  - Jalen Brunson (NYK) - APG,Under 6.5,-0.023800000000000043,0.5,0.5238
 2024-09-18 08:29:47.040500,National League - English National League - To Be Promoted,Southend Utd,-0.024999999999999994,0.1,0.125
+2024-09-18 14:29:14.576409,Scores - 1st Round Score - Rasmus Hojgaard - 1st Round Score ,Under 70.5,-0.026499999999999968,0.5652,0.5917
 2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,VfB Stuttgart,-0.027800000000000005,0.0833,0.1111
 2024-09-18 06:35:15.288178,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Alyssa Thomas (CON),-0.027999999999999997,0.0345,0.0625
 2024-09-18 08:29:47.036854,National League - English National League - Outright Winner 2024/25,Southend Utd,-0.0294,0.0294,0.0588
@@ -104,9 +102,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-18 10:31:35.181523,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Kimo Apaka,-0.03420000000000001,0.0769,0.1111
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Aston Villa,-0.036800000000000055,0.7333,0.7701
 2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,PSV Eindhoven,-0.0417,0.0833,0.125
-2024-09-18 01:47:42.036361,Average Points Per Game - Average Points Per Game - Tyrese Maxey (PHI) - PPG,Over 25.5,-0.045499999999999985,0.5,0.5455
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,FC Barcelona,-0.0464,0.5,0.5464
-2024-09-18 01:47:41.855185,Average Assists Per Game - Average Assists Per Game  - Chris Paul (SAS) - APG,Under 6.9,-0.04760000000000003,0.4762,0.5238
 2024-09-18 08:29:46.693338,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Lille,-0.0585,0.0526,0.1111
 2024-09-18 08:29:46.674261,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),-0.06669999999999998,0.2,0.2667
 2024-09-18 08:29:46.690304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Celtic,-0.06990000000000002,0.3846,0.4545
