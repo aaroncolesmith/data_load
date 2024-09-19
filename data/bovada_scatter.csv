@@ -5,16 +5,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Atalanta,0.1129,0.8462,0.7333
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Borussia Dortmund,0.0922,0.4255,0.3333
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,VfB Stuttgart,0.061999999999999944,0.6364,0.5744
+2024-09-19 06:34:39.559598,Boxing Lines - Blake Wells vs Apai Piutau Cook - To Win the Bout,Apai Piutau Cook,0.053100000000000036,0.4167,0.3636
+2024-09-19 06:34:39.563723,Boxing Lines - Luke Gersbeck vs Lilo Telepe - To Win the Bout,Lilo Telepe,0.0474,0.6552,0.6078
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Manchester City,0.04620000000000002,0.2,0.1538
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Aston Villa,0.04410000000000003,0.3774,0.3333
 2024-09-19 02:52:21.787219,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.040999999999999925,0.6154,0.5744
+2024-09-19 06:34:36.869879,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Harry Kane (Bayern Munich),0.03640000000000004,0.4,0.3636
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Brest,0.03640000000000004,0.4,0.3636
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayern Munich,0.035699999999999954,0.75,0.7143
 2024-09-19 02:52:22.038325,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,AZ Alkmaar,0.0321,0.0909,0.0588
 2024-09-19 02:52:22.072077,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Östers IF,0.031799999999999995,0.1429,0.1111
 2024-09-19 03:29:57.102855,Boxing Lines - Luke Gersbeck vs Lilo Telepe - To Win the Bout,Luke Gersbeck,0.029000000000000026,0.4545,0.4255
-2024-09-18 18:33:10.400451,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.02860000000000007,0.7619,0.7333
-2024-09-18 18:33:10.801245,Boxing Lines - Luke Gersbeck vs Lilo Telepe - To Win the Bout,Lilo Telepe,0.02859999999999996,0.6364,0.6078
 2024-09-19 01:49:59.337539,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Jorge David Castaneda,0.027999999999999997,0.1818,0.1538
 2024-09-18 19:22:27.810428,Round Match-Ups - 1st Round Match-Up - T. Fleetwood vs A. Rai - 1st Round Match-Up,Tommy Fleetwood,0.027700000000000058,0.5833,0.5556
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Shakhtar Donetsk,0.02560000000000001,0.3333,0.3077
@@ -22,19 +23,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Paris Saint-Germain,0.025499999999999967,0.4255,0.4
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,AC Milan,0.023799999999999932,0.8571,0.8333
 2024-09-19 03:29:54.394823,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Real Madrid,0.022199999999999998,0.2222,0.2
+2024-09-19 06:34:38.222588,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,0.021999999999999964,0.3077,0.2857
 2024-09-19 05:29:14.945678,Boxing Lines - Joel Taylor vs Kento Hatanaka - To Win the Bout,Kento Hatanaka,0.021799999999999986,0.3922,0.3704
 2024-09-18 19:22:27.555999,Boxing Lines - Rhiannon Dixon vs Terri Harper - To Win the Bout,Terri Harper,0.02159999999999998,0.2597,0.2381
 2024-09-18 20:26:51.559942,Positions - Finishing Position - Robert MacIntyre - Finishing Position,25th or better,0.02079999999999993,0.5556,0.5348
-2024-09-18 18:33:10.805475,Boxing Lines - Jason Mallia vs Ben Horn - To Win the Bout,Jason Mallia,0.020199999999999996,0.8333,0.8131
 2024-09-19 03:29:55.184384,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,0.01999999999999999,0.2105,0.1905
 2024-09-18 20:26:51.529462,Positions - Finishing Position - Billy Horschel - Finishing Position,23rd or better,0.01970000000000005,0.5652,0.5455
 2024-09-19 03:29:57.090270,Boxing Lines - Joel Taylor vs Kento Hatanaka - To Win the Bout,Joel Taylor,0.01959999999999995,0.697,0.6774
 2024-09-19 04:30:45.137349,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Joshua Kimmich (Bayern Munich),0.019099999999999992,0.0667,0.0476
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Feyenoord,0.018900000000000028,0.4444,0.4255
 2024-09-19 03:29:55.179619,East Group C - East Group C Winner - East Group C Winner,Atlanta Hawks,0.01830000000000001,0.0952,0.0769
-2024-09-18 18:33:10.783210,Boxing Lines - Vita Pomale vs Heath Graham - To Win the Bout,Vita Pomale,0.018100000000000005,0.9412,0.9231
 2024-09-19 03:29:54.394823,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Bayern Munich,0.0179,0.1429,0.125
-2024-09-18 18:33:10.139660,Electoral College Winner - Michigan (MI) - Michigan,Democrat,0.015800000000000036,0.6825,0.6667
 2024-09-18 19:22:27.537345,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Ishmael Davis,0.015400000000000025,0.4,0.3846
 2024-09-18 23:24:55.318455,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,0.01469999999999999,0.25,0.2353
 2024-09-19 01:49:59.279571,Boxing Lines - Joel Taylor vs Kento Hatanaka - To Win the Bout,Kento Hatanaka,0.01419999999999999,0.3846,0.3704
@@ -43,24 +42,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bayer Leverkusen,0.012700000000000045,0.6491,0.6364
 2024-09-18 23:24:58.027670,Boxing Lines - Callum Walsh vs Przemyslaw Runowski - To Win the Bout,Callum Walsh,0.011199999999999988,0.9524,0.9412
 2024-09-19 02:52:22.038325,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Ajax,0.011099999999999999,0.1111,0.1
+2024-09-19 06:34:39.567887,Boxing Lines - Jason Mallia vs Ben Horn - To Win the Bout,Jason Mallia,0.01090000000000002,0.8571,0.8462
 2024-09-18 23:24:58.080254,Boxing Lines - Joshua Buatsi vs Willy Hutchinson - To Win the Bout,Willy Hutchinson,0.010699999999999987,0.3333,0.3226
-2024-09-18 20:26:51.573060,Positions - Finishing Position - Shane Lowry - Finishing Position,16th or better,0.010099999999999998,0.5556,0.5455
 2024-09-18 20:26:51.581773,Positions - Finishing Position - Tommy Fleetwood - Finishing Position,15th or better,0.010099999999999998,0.5556,0.5455
+2024-09-18 20:26:51.573060,Positions - Finishing Position - Shane Lowry - Finishing Position,16th or better,0.010099999999999998,0.5556,0.5455
+2024-09-19 06:34:36.869879,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Julian Alvarez (Atletico Madrid),-0.010100000000000001,0.0244,0.0345
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bologna,-0.0102,0.0667,0.0769
+2024-09-18 21:24:06.555959,Boxing Lines - Billy Polkinghorn vs Wilber Carame - To Win the Bout,Wilber Carame,-0.0102,0.0667,0.0769
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Girona,-0.0102,0.0667,0.0769
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Feyenoord,-0.0102,0.0667,0.0769
-2024-09-18 21:24:06.555959,Boxing Lines - Billy Polkinghorn vs Wilber Carame - To Win the Bout,Wilber Carame,-0.0102,0.0667,0.0769
-2024-09-18 23:24:58.055365,Boxing Lines - Sebastian Hernandez vs Yonfrez Parejo - To Win the Bout,Yonfrez Parejo,-0.0102,0.0667,0.0769
 2024-09-19 04:30:47.883286,Boxing Lines - Richard Torrez vs Joey Dawejko - To Win the Bout,Joey Dawejko,-0.0102,0.0667,0.0769
-2024-09-18 18:33:10.400451,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,3,-0.0102,0.0667,0.0769
+2024-09-18 23:24:58.055365,Boxing Lines - Sebastian Hernandez vs Yonfrez Parejo - To Win the Bout,Yonfrez Parejo,-0.0102,0.0667,0.0769
 2024-09-19 03:29:54.397575,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,-0.010699999999999932,0.5348,0.5455
 2024-09-18 19:22:27.537345,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Josh Kelly,-0.010700000000000043,0.6667,0.6774
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Crvena Zvezda,-0.010899999999999993,0.1429,0.1538
+2024-09-19 02:52:22.072077,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,-0.011199999999999995,0.0476,0.0588
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Brest,-0.011199999999999995,0.0476,0.0588
 2024-09-19 02:52:22.043087,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Viking FK,-0.011199999999999995,0.0476,0.0588
-2024-09-19 02:52:22.072077,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,-0.011199999999999995,0.0476,0.0588
-2024-09-18 20:26:51.573060,Positions - Finishing Position - Shane Lowry - Finishing Position,17th or worse,-0.011600000000000055,0.5122,0.5238
 2024-09-18 20:26:51.581773,Positions - Finishing Position - Tommy Fleetwood - Finishing Position,16th or worse,-0.011600000000000055,0.5122,0.5238
+2024-09-18 20:26:51.573060,Positions - Finishing Position - Shane Lowry - Finishing Position,17th or worse,-0.011600000000000055,0.5122,0.5238
+2024-09-19 06:34:39.567887,Boxing Lines - Jason Mallia vs Ben Horn - To Win the Bout,Ben Horn,-0.011700000000000016,0.2105,0.2222
+2024-09-19 06:34:38.222588,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,-0.011899999999999994,0.0714,0.0833
 2024-09-18 20:26:51.538181,Positions - Finishing Position - Justin Rose - Finishing Position,28th or worse,-0.012199999999999989,0.5,0.5122
 2024-09-18 19:22:27.508822,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Jorge David Castaneda,-0.012899999999999995,0.1538,0.1667
 2024-09-19 03:29:54.397575,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,-0.013300000000000034,0.3571,0.3704
@@ -69,36 +71,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Slovan Bratislava,-0.014599999999999998,0.005,0.0196
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Young Boys,-0.014900000000000004,0.0196,0.0345
 2024-09-19 01:49:59.279571,Boxing Lines - Joel Taylor vs Kento Hatanaka - To Win the Bout,Joel Taylor,-0.014900000000000024,0.6774,0.6923
-2024-09-18 18:33:10.400451,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,-0.015099999999999975,0.2381,0.2532
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Dinamo Zagreb,-0.015100000000000002,0.1667,0.1818
 2024-09-19 02:52:22.038325,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Feyenoord,-0.015100000000000002,0.1667,0.1818
-2024-09-18 18:33:10.139660,Electoral College Winner - Michigan (MI) - Michigan,Republican,-0.015400000000000025,0.3846,0.4
-2024-09-18 18:33:10.783210,Boxing Lines - Vita Pomale vs Heath Graham - To Win the Bout,Heath Graham,-0.015700000000000006,0.1176,0.1333
-2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Paris Saint-Germain,-0.01759999999999995,0.6491,0.6667
-2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,PSV Eindhoven,-0.01759999999999995,0.6491,0.6667
+2024-09-19 06:34:38.225779,NBL - Australia NBL 2024/25 - Regular Season League Winner,Tasmania JackJumpers,-0.015700000000000006,0.1176,0.1333
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Inter Milan,-0.01759999999999995,0.6491,0.6667
+2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,PSV Eindhoven,-0.01759999999999995,0.6491,0.6667
+2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Paris Saint-Germain,-0.01759999999999995,0.6491,0.6667
 2024-09-18 23:24:58.027670,Boxing Lines - Callum Walsh vs Przemyslaw Runowski - To Win the Bout,Przemyslaw Runowski,-0.01759999999999999,0.1,0.1176
+2024-09-19 06:34:36.869879,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),-0.01820000000000002,0.1818,0.2
+2024-09-19 06:34:36.869879,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.01820000000000002,0.1818,0.2
+2024-09-19 06:34:38.225779,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,-0.018800000000000004,0.0526,0.0714
 2024-09-18 19:22:27.555999,Boxing Lines - Rhiannon Dixon vs Terri Harper - To Win the Bout,Rhiannon Dixon,-0.01959999999999995,0.8095,0.8291
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Juventus,-0.020100000000000007,0.75,0.7701
 2024-09-19 05:29:14.945678,Boxing Lines - Joel Taylor vs Kento Hatanaka - To Win the Bout,Joel Taylor,-0.020199999999999996,0.6721,0.6923
+2024-09-19 06:34:38.222588,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,-0.02049999999999999,0.1333,0.1538
 2024-09-19 03:29:57.090270,Boxing Lines - Joel Taylor vs Kento Hatanaka - To Win the Bout,Kento Hatanaka,-0.02100000000000002,0.3636,0.3846
-2024-09-18 18:33:10.805475,Boxing Lines - Jason Mallia vs Ben Horn - To Win the Bout,Ben Horn,-0.021100000000000008,0.2353,0.2564
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Liverpool,-0.02260000000000001,0.3774,0.4
-2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Lille,-0.022600000000000064,0.6,0.6226
 2024-09-18 20:26:51.559942,Positions - Finishing Position - Robert MacIntyre - Finishing Position,26th or worse,-0.022600000000000064,0.5122,0.5348
+2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Lille,-0.022600000000000064,0.6,0.6226
 2024-09-18 19:22:27.810428,Round Match-Ups - 1st Round Match-Up - T. Fleetwood vs A. Rai - 1st Round Match-Up,Aaron Rai,-0.022699999999999998,0.4651,0.4878
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Shakhtar Donetsk,-0.023200000000000002,0.0294,0.0526
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Sturm Graz,-0.023200000000000002,0.0294,0.0526
 2024-09-18 20:26:51.529462,Positions - Finishing Position - Billy Horschel - Finishing Position,24th or worse,-0.023800000000000043,0.5,0.5238
+2024-09-19 06:34:38.222588,NBL - Australia NBL 2024/25 - Outright,New Zealand Breakers,-0.0242,0.0667,0.0909
 2024-09-18 23:24:55.318455,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,-0.02560000000000001,0.3077,0.3333
 2024-09-19 01:49:59.337539,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Charly Suarez,-0.026700000000000057,0.8824,0.9091
 2024-09-19 03:29:57.102855,Boxing Lines - Luke Gersbeck vs Lilo Telepe - To Win the Bout,Lilo Telepe,-0.02859999999999996,0.6078,0.6364
 2024-09-19 03:29:55.184384,West Group A - West Group A Winner - West Group A Winner,L.A. Clippers,-0.028700000000000003,0.1818,0.2105
-2024-09-18 18:33:10.801245,Boxing Lines - Luke Gersbeck vs Lilo Telepe - To Win the Bout,Luke Gersbeck,-0.029000000000000026,0.4255,0.4545
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Club Brugge,-0.0344,0.0244,0.0588
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,RB Leipzig,-0.035699999999999954,0.7143,0.75
 2024-09-19 03:29:55.179619,East Group C - East Group C Winner - East Group C Winner,Cleveland Cavaliers,-0.03710000000000002,0.3333,0.3704
 2024-09-19 03:29:54.404036,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Manchester City,-0.04290000000000005,0.8571,0.9
+2024-09-19 06:34:39.563723,Boxing Lines - Luke Gersbeck vs Lilo Telepe - To Win the Bout,Luke Gersbeck,-0.04630000000000001,0.4082,0.4545
+2024-09-19 06:34:39.559598,Boxing Lines - Blake Wells vs Apai Piutau Cook - To Win the Bout,Blake Wells,-0.04789999999999994,0.6491,0.697
 2024-09-19 03:29:54.394823,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Manchester City,-0.04999999999999999,0.2,0.25
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Slovan Bratislava,-0.0524,0.0476,0.1
 2024-09-19 03:29:54.401009,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Young Boys,-0.05550000000000002,0.1667,0.2222
