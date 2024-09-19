@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-09-19 08:31:58.646343,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Slovan Bratislava,0.1405,0.3704,0.2299
 2024-09-19 09:27:26.935753,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Real Salt Lake,0.0635,0.1111,0.0476
 2024-09-19 09:27:27.252506,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Universitario de Deportes,0.055800000000000016,0.2857,0.2299
 2024-09-19 09:27:27.090559,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,São Paulo,0.05559999999999998,0.1667,0.1111
@@ -10,7 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-19 19:21:09.361618,Average Points Per Game - Average Points Per Game - LeBron James (LAL) - PPG,Over 24.6,0.03610000000000002,0.5917,0.5556
 2024-09-19 09:27:27.085721,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Independiente Medellín,0.035699999999999996,0.0833,0.0476
 2024-09-19 19:21:09.312888,Average Points Per Game - Average Points Per Game - Devin Booker (PHX) - PPG,Over 26.5,0.030399999999999983,0.5652,0.5348
-2024-09-19 08:32:01.461592,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Jorge David Castaneda,0.028700000000000003,0.2105,0.1818
 2024-09-19 15:28:14.107326,Dallas - Dallas Team Championship - Winner,Smash,0.024999999999999994,0.125,0.1
 2024-09-19 09:27:26.929789,MLS - USA MLS 2024 - Futures - To Reach the Final,Real Salt Lake,0.022199999999999998,0.1333,0.1111
 2024-09-19 12:48:33.820331,Kamala Harris Specials - Who will Kamala Harris livestream with on her Twitch account first? - Who will Harris stream with first?,Oprah Winfrey,0.02020000000000001,0.1111,0.0909
@@ -18,29 +16,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-19 09:27:27.252506,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Cusco FC,0.018099999999999998,0.0769,0.0588
 2024-09-19 10:31:25.625071,Boxing Lines - Jason Mallia vs Ben Horn - To Win the Bout,Jason Mallia,0.01760000000000006,0.9,0.8824
 2024-09-19 20:26:54.184421,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Josh Kelly,0.017300000000000093,0.7143,0.697
-2024-09-19 08:31:58.649447,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Real Madrid,0.016699999999999993,0.4167,0.4
 2024-09-19 10:31:25.579976,NFL Weekly Specials - NFL Week 3- Leaders - Lowest Scoring Team (Sunday Only),CAR Panthers,0.015899999999999997,0.1111,0.0952
 2024-09-19 16:33:15.480378,Boxing Lines - Jaime Munguia vs Erik Bazinyan - To Win the Bout,Erik Bazinyan,0.015700000000000006,0.1333,0.1176
-2024-09-19 08:31:58.690001,MLS - USA MLS 2024 - Futures - Winner,Inter Miami,0.015400000000000025,0.4,0.3846
 2024-09-19 16:33:14.081333,NBA Specials - Who will replace Adrian Wojnarowski at ESPN? - New ESPN Insider,Shams Charania,0.01539999999999997,0.6154,0.6
-2024-09-19 09:27:27.050814,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,0.015100000000000002,0.1818,0.1667
 2024-09-19 09:27:27.046780,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Henry Martin,0.015100000000000002,0.1818,0.1667
-2024-09-19 08:31:58.646343,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,FC Salzburg,0.014099999999999998,0.0385,0.0244
+2024-09-19 09:27:27.050814,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,0.015100000000000002,0.1818,0.1667
 2024-09-19 16:33:14.081333,NBA Specials - Who will replace Adrian Wojnarowski at ESPN? - New ESPN Insider,Marc Stein,0.013999999999999999,0.0909,0.0769
 2024-09-19 20:26:53.979878,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,Patrick Mahomes Regular Season MVP & Breece Hall Offensive Player Of The Year,0.013,0.0196,0.0066
-2024-09-19 08:31:58.649447,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Bayern Munich,0.012899999999999995,0.1667,0.1538
 2024-09-19 09:27:26.925811,MLS - USA MLS 2024 - Futures - Golden Boot Award,Felipe Mora,0.012599999999999998,0.0278,0.0152
 2024-09-19 20:26:54.156569,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Jorge David Castaneda,0.011700000000000016,0.2222,0.2105
-2024-09-19 15:28:14.107326,Dallas - Dallas Team Championship - Winner,Cleeks,0.011199999999999995,0.0588,0.0476
 2024-09-19 09:27:27.046780,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Roberto Alvadrado,0.011199999999999995,0.0588,0.0476
+2024-09-19 15:28:14.107326,Dallas - Dallas Team Championship - Winner,Cleeks,0.011199999999999995,0.0588,0.0476
 2024-09-19 09:27:27.046780,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Guillermo Martinez,0.011199999999999995,0.0588,0.0476
 2024-09-19 09:27:27.050814,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,0.011099999999999999,0.1111,0.1
 2024-09-19 09:27:26.929789,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,0.010899999999999993,0.1538,0.1429
 2024-09-19 20:26:54.240470,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.010599999999999998,0.4651,0.4545
-2024-09-19 09:27:27.252506,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Cienciano,0.0102,0.0152,0.005
-2024-09-19 08:31:58.649447,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Borussia Dortmund,0.0102,0.0769,0.0667
 2024-09-19 11:22:30.160908,Boxing Lines - Sebastian Hernandez vs Yonfrez Parejo - To Win the Bout,Yonfrez Parejo,0.0102,0.0769,0.0667
 2024-09-19 18:33:13.769271,Boxing Lines - Richard Torrez vs Joey Dawejko - To Win the Bout,Joey Dawejko,0.0102,0.0769,0.0667
+2024-09-19 09:27:27.252506,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Cienciano,0.0102,0.0152,0.005
 2024-09-19 14:29:31.915229,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Josh Kelly,0.010099999999999998,0.6875,0.6774
 2024-09-19 09:27:27.046780,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Andre-Pierre Gignac,-0.0102,0.0667,0.0769
 2024-09-19 09:27:27.046780,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Lucas Cavallini,-0.0102,0.0667,0.0769
@@ -51,24 +44,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-19 15:28:14.107326,Dallas - Dallas Team Championship - Winner,Fire Balls,-0.011099999999999999,0.1,0.1111
 2024-09-19 09:27:26.929789,MLS - USA MLS 2024 - Futures - To Reach the Final,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2024-09-19 09:27:27.090559,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Colo-Colo,-0.011199999999999995,0.0476,0.0588
-2024-09-19 08:31:58.646343,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Brest,-0.011199999999999995,0.0476,0.0588
 2024-09-19 09:27:27.046780,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Diber Cambindo,-0.011199999999999995,0.0476,0.0588
 2024-09-19 09:27:26.935753,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,-0.012699999999999989,0.3509,0.3636
 2024-09-19 20:26:54.184421,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Ishmael Davis,-0.012699999999999989,0.3509,0.3636
 2024-09-19 18:33:13.807095,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Ishmael Davis,-0.013800000000000034,0.3636,0.3774
-2024-09-19 08:31:58.646343,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Shakhtar Donetsk,-0.014099999999999994,0.0526,0.0667
 2024-09-19 09:27:26.935753,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Colorado Rapids,-0.014099999999999998,0.0244,0.0385
 2024-09-19 16:33:15.419119,Elite Boxing - Anthony Joshua vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.01469999999999999,0.2353,0.25
 2024-09-19 10:31:25.625071,Boxing Lines - Jason Mallia vs Ben Horn - To Win the Bout,Ben Horn,-0.015100000000000002,0.1667,0.1818
 2024-09-19 09:27:26.925811,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,-0.015400000000000025,0.3846,0.4
-2024-09-19 08:31:58.690001,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,-0.015700000000000006,0.1176,0.1333
 2024-09-19 16:33:15.480378,Boxing Lines - Jaime Munguia vs Erik Bazinyan - To Win the Bout,Jaime Munguia,-0.018100000000000005,0.9231,0.9412
-2024-09-19 08:31:58.646343,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Dinamo Zagreb,-0.01820000000000002,0.1818,0.2
-2024-09-19 08:31:58.646343,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Celtic,-0.019300000000000005,0.0152,0.0345
 2024-09-19 09:27:27.252506,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,AD Tarma,-0.019499999999999997,0.0099,0.0294
 2024-09-19 09:27:27.050814,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Tigres UANL,-0.022199999999999998,0.2,0.2222
-2024-09-19 08:31:58.649447,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Manchester City,-0.023799999999999988,0.4762,0.5
-2024-09-19 08:32:01.461592,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Charly Suarez,-0.02529999999999999,0.8571,0.8824
 2024-09-19 16:33:14.081333,NBA Specials - Who will replace Adrian Wojnarowski at ESPN? - New ESPN Insider,Chris Haynes,-0.02560000000000001,0.3077,0.3333
 2024-09-19 09:27:26.935753,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,-0.03090000000000004,0.5917,0.6226
 2024-09-19 19:21:09.312888,Average Points Per Game - Average Points Per Game - Devin Booker (PHX) - PPG,Under 26.5,-0.03480000000000005,0.5,0.5348
@@ -77,7 +63,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-19 09:27:27.090559,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Atlético Mineiro,-0.03889999999999999,0.1429,0.1818
 2024-09-19 09:27:27.085721,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Atlético Lanús,-0.0417,0.0833,0.125
 2024-09-19 19:21:09.404150,Average Points Per Game - Average Points Per Game - Zaccharie Risacher (ATL) - PPG,Under 8.8,-0.047099999999999975,0.4651,0.5122
-2024-09-19 09:27:27.252506,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Alianza Lima,-0.047599999999999976,0.2857,0.3333
 2024-09-19 09:27:27.050814,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Cruz Azul,-0.047599999999999976,0.2857,0.3333
-2024-09-19 08:31:58.646343,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Sparta Prague,-0.058899999999999994,0.0244,0.0833
+2024-09-19 09:27:27.252506,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Alianza Lima,-0.047599999999999976,0.2857,0.3333
 2024-09-19 09:27:27.090559,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Botafogo,-0.06670000000000001,0.1333,0.2
+2024-09-19 21:23:15.790688,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers,-0.08979999999999999,0.0769,0.1667
