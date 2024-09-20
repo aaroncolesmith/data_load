@@ -1,5 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-09-20 22:30:08.901424,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,0.059099999999999986,0.3448,0.2857
 2024-09-20 20:28:01.615982,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Jorge David Castaneda,0.03939999999999999,0.2667,0.2273
+2024-09-20 22:30:08.901424,NBL - Australia NBL 2024/25 - Regular Season League Winner,Perth Wildcats,0.036199999999999996,0.1538,0.1176
+2024-09-20 22:30:08.898123,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,0.033399999999999985,0.1667,0.1333
 2024-09-20 12:48:09.430517,Dallas - Match-Ups - 1st Round Foursomes - Garcia / Ancer vs Westwood / Horsfield - 1st Round Foursomes,Garcia / Ancer,0.030299999999999994,0.6667,0.6364
 2024-09-20 18:33:45.801014,Boxing Lines - Jaime Munguia vs Erik Bazinyan - To Win the Bout,Jaime Munguia,0.02429999999999999,0.9474,0.9231
 2024-09-20 20:28:00.184017,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),0.022799999999999987,0.2667,0.2439
@@ -16,9 +19,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-20 16:32:52.585008,Boxing Lines - Emmet Brennan vs Kevin Cronin - To Win the Bout,Kevin Cronin,0.011700000000000016,0.2222,0.2105
 2024-09-20 10:31:24.494296,MLB Specials 2024 - Shohei Ohtani Specials - Ohtani Specials,Ohtani To Complete a 55/55 Season in 2024,0.0116,0.4878,0.4762
 2024-09-20 14:27:56.413278,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Houston Astros,0.011099999999999999,0.1111,0.1
-2024-09-20 09:30:05.379384,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Nelly Korda,0.010499999999999982,0.2105,0.2
-2024-09-20 09:30:05.379384,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jeeno Thitikul,0.010499999999999982,0.2105,0.2
-2024-09-20 09:30:05.379384,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Haeran Ryu,0.0102,0.0769,0.0667
 2024-09-20 13:30:07.156419,Dallas - Match-Ups - 1st Round Foursomes - Pereira / Ortiz vs Mickelson / Steele - 1st Round Foursomes,Mickelson / Steele,-0.010099999999999998,0.4444,0.4545
 2024-09-20 16:32:52.637018,Boxing Lines - Jaime Munguia vs Erik Bazinyan - To Win the Bout,Jaime Munguia,-0.010199999999999987,0.9231,0.9333
 2024-09-20 15:27:52.513274,Boxing Lines - Richard Torrez vs Joey Dawejko - To Win the Bout,Joey Dawejko,-0.0102,0.0667,0.0769
@@ -26,6 +26,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-20 16:32:52.585008,Boxing Lines - Emmet Brennan vs Kevin Cronin - To Win the Bout,Emmet Brennan,-0.01090000000000002,0.8462,0.8571
 2024-09-20 19:21:42.387649,Boxing Lines - Jaime Munguia vs Erik Bazinyan - To Win the Bout,Erik Bazinyan,-0.011099999999999999,0.1,0.1111
 2024-09-20 16:32:52.545037,Elite Boxing - Mark Chamberlain vs Josh Padley - To Win the Bout,Mark Chamberlain,-0.014100000000000001,0.9474,0.9615
+2024-09-20 22:30:08.901424,NBL - Australia NBL 2024/25 - Regular Season League Winner,SE Melbourne Phoenix,-0.014399999999999996,0.0625,0.0769
 2024-09-20 19:21:42.316330,Elite Boxing - Joshua Buatsi vs Willy Hutchinson - To Win the Bout,Willy Hutchinson,-0.014900000000000024,0.3077,0.3226
 2024-09-20 17:27:04.466596,Boxing Lines - Thomas Carty vs Jonathan Exequiel Vergara - To Win the Bout,Thomas Carty,-0.014900000000000024,0.9655,0.9804
 2024-09-20 19:21:42.383063,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Charly Suarez,-0.016799999999999926,0.8403,0.8571
@@ -34,3 +35,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-20 15:27:52.677319,Dallas - Match-Ups - 1st Round Singles - A. Meronk vs B. Grace - 1st Round Singles,Branden Grace,-0.027700000000000002,0.4167,0.4444
 2024-09-20 20:28:01.615982,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Charly Suarez,-0.0403,0.8,0.8403
 2024-09-20 12:48:09.430517,Dallas - Match-Ups - 1st Round Foursomes - Garcia / Ancer vs Westwood / Horsfield - 1st Round Foursomes,Westwood / Horsfield,-0.044399999999999995,0.4,0.4444
+2024-09-20 22:30:08.901424,NBL - Australia NBL 2024/25 - Regular Season League Winner,Tasmania JackJumpers,-0.04619999999999999,0.0714,0.1176
