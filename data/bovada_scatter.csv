@@ -48,10 +48,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-20 05:29:21.206790,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Atlético Madrid,0.019099999999999992,0.0667,0.0476
 2024-09-20 05:29:23.738798,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,New York Jets,0.019000000000000003,0.0625,0.0435
 2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sporting CP,0.018999999999999906,0.7333,0.7143
-2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Borussia Dortmund,0.018900000000000028,0.4444,0.4255
 2024-09-20 04:30:19.888593,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.018900000000000028,0.4444,0.4255
-2024-09-20 06:34:48.273679,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Monaco,0.0189,0.0385,0.0196
+2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Borussia Dortmund,0.018900000000000028,0.4444,0.4255
 2024-09-20 05:29:22.591382,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Brionna Jones (CON),0.0189,0.0385,0.0196
+2024-09-20 06:34:48.273679,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Monaco,0.0189,0.0385,0.0196
 2024-09-20 03:30:08.494030,Round Match-Ups - 2nd Round Match-Ups - A. Noren vs M. Fitzpatrick - 2nd Round Match-Ups,Alex Noren,0.01880000000000004,0.5744,0.5556
 2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Girona,0.01880000000000004,0.5744,0.5556
 2024-09-20 05:29:21.209600,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,0.01820000000000002,0.2,0.1818
@@ -59,6 +59,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-20 02:52:44.935928,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,0.018100000000000005,0.4348,0.4167
 2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,AC Milan,0.017900000000000027,0.875,0.8571
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Benfica,0.0179,0.1429,0.125
+2024-09-20 10:31:22.223957,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,0.0179,0.1429,0.125
 2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Inter Milan,0.01759999999999995,0.6667,0.6491
 2024-09-20 06:34:48.267093,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Florian Wirtz (Bayer Leverkusen),0.017099999999999997,0.0294,0.0123
 2024-09-20 05:29:22.591382,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),0.016600000000000004,0.2439,0.2273
@@ -66,20 +67,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-20 04:30:22.602645,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Josh Kelly,0.01539999999999997,0.6875,0.6721
 2024-09-20 06:34:50.880723,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Robert Saleh,0.015300000000000001,0.0588,0.0435
 2024-09-20 06:34:48.273679,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Bayern Munich,0.015100000000000002,0.1818,0.1667
-2024-09-19 22:28:47.395807,Elite Boxing - Anthony Joshua vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.01469999999999999,0.25,0.2353
 2024-09-20 01:49:53.912132,Electoral College Winner - Arizona (AZ) - Arizona,Republican,0.014200000000000101,0.6296,0.6154
 2024-09-20 06:34:48.270530,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Feyenoord,0.014199999999999999,0.0294,0.0152
 2024-09-20 06:34:48.267093,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Lamine Yamal (Barcelona),0.014099999999999998,0.0385,0.0244
 2024-09-20 05:29:23.895406,NFL Weekly Specials - NFL Week 3- Leaders - Lowest Scoring Game (Sunday Only),SF 49ers @ LA Rams,0.013999999999999999,0.0909,0.0769
 2024-09-20 05:29:21.206790,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Liverpool,0.013899999999999996,0.125,0.1111
 2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Arsenal,0.013800000000000034,0.3774,0.3636
-2024-09-20 06:34:48.273679,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Liverpool,0.012899999999999995,0.1667,0.1538
 2024-09-20 04:30:19.888593,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,0.012899999999999995,0.1667,0.1538
+2024-09-20 06:34:48.273679,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Liverpool,0.012899999999999995,0.1667,0.1538
 2024-09-20 02:52:46.569777,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Gaby Lopez,0.012700000000000003,0.0323,0.0196
 2024-09-20 02:52:46.569777,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Sei Young Kim,0.012700000000000003,0.0323,0.0196
-2024-09-19 22:28:47.491595,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Ishmael Davis,0.012699999999999989,0.3636,0.3509
 2024-09-20 05:29:23.749318,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,New York Jets,0.012299999999999991,0.1176,0.1053
 2024-09-20 02:52:46.569777,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Yan Liu,0.0119,0.0132,0.0013
+2024-09-20 10:31:24.494296,MLB Specials 2024 - Shohei Ohtani Specials - Ohtani Specials,Ohtani To Complete a 55/55 Season in 2024,0.0116,0.4878,0.4762
 2024-09-20 03:30:05.575832,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.01150000000000001,0.3448,0.3333
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Brest,0.011199999999999995,0.0588,0.0476
 2024-09-20 06:34:50.876875,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Aaron Rodgers (NYJ),0.011199999999999995,0.0588,0.0476
@@ -87,15 +87,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Atalanta,0.01090000000000002,0.8571,0.8462
 2024-09-20 02:52:46.286982,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Charly Suarez,0.01090000000000002,0.8571,0.8462
 2024-09-20 02:52:46.569777,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Peiyun Chien,0.010700000000000001,0.0217,0.011
-2024-09-20 01:49:53.881622,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.010699999999999932,0.5455,0.5348
 2024-09-20 01:49:53.885717,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.010699999999999932,0.5455,0.5348
+2024-09-20 01:49:53.881622,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.010699999999999932,0.5455,0.5348
 2024-09-20 08:31:22.861670,Round Match-Ups - 2nd Round Match-Ups - R. McIIroy vs S. Lowry - 2nd Round Match-Ups,Shane Lowry,0.010599999999999998,0.4651,0.4545
-2024-09-20 09:30:05.379384,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Nelly Korda,0.010499999999999982,0.2105,0.2
 2024-09-20 09:30:05.379384,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jeeno Thitikul,0.010499999999999982,0.2105,0.2
+2024-09-20 09:30:05.379384,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Nelly Korda,0.010499999999999982,0.2105,0.2
 2024-09-20 06:34:50.991152,Boxing Lines - Emmet Brennan vs Kevin Cronin - To Win the Bout,Kevin Cronin,0.010499999999999982,0.2105,0.2
 2024-09-20 09:30:05.379384,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Haeran Ryu,0.0102,0.0769,0.0667
-2024-09-20 06:34:48.270530,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Club Brugge,0.0102,0.0769,0.0667
 2024-09-20 05:29:23.738798,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Baltimore Ravens,0.0102,0.0769,0.0667
+2024-09-20 06:34:48.270530,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Club Brugge,0.0102,0.0769,0.0667
 2024-09-20 08:31:22.621893,Boxing Lines - Jaime Munguia vs Erik Bazinyan - To Win the Bout,Jaime Munguia,0.010199999999999987,0.9333,0.9231
 2024-09-20 02:52:45.634038,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.010099999999999998,0.5556,0.5455
 2024-09-20 02:52:45.629950,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.010099999999999998,0.5556,0.5455
@@ -114,15 +114,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-20 05:29:21.237956,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Osasuna,-0.011199999999999995,0.0476,0.0588
 2024-09-20 02:52:46.286982,Boxing Lines - Charly Suarez vs Jorge David Castaneda - To Win the Bout,Jorge David Castaneda,-0.011700000000000016,0.2105,0.2222
 2024-09-20 05:29:23.738798,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Buffalo Bills,-0.011900000000000008,0.0833,0.0952
-2024-09-20 02:52:45.629950,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.012199999999999989,0.4878,0.5
 2024-09-20 01:49:53.881622,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.012199999999999989,0.5,0.5122
-2024-09-20 01:49:53.885717,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.012199999999999989,0.5,0.5122
 2024-09-20 02:52:45.634038,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.012199999999999989,0.4878,0.5
+2024-09-20 02:52:45.629950,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.012199999999999989,0.4878,0.5
+2024-09-20 01:49:53.885717,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.012199999999999989,0.5,0.5122
 2024-09-20 02:52:45.646387,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Republican Popular Vote,-0.012700000000000003,0.0196,0.0323
 2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Borussia Dortmund,-0.012700000000000045,0.6364,0.6491
+2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Dinamo Zagreb,-0.012899999999999995,0.1538,0.1667
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Sporting CP,-0.012899999999999995,0.1538,0.1667
 2024-09-20 06:34:50.884687,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),-0.012899999999999995,0.1538,0.1667
-2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Dinamo Zagreb,-0.012899999999999995,0.1538,0.1667
 2024-09-20 05:29:23.738798,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,San Francisco 49ers,-0.013899999999999996,0.129,0.1429
 2024-09-19 23:25:46.436948,UEFA Champions League - UEFA Champions League 2024/25 - Winner,FC Barcelona,-0.013999999999999999,0.0769,0.0909
 2024-09-20 06:34:48.263221,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Lamine Yamal (Barcelona),-0.013999999999999999,0.0769,0.0909
@@ -131,40 +131,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Crvena Zvezda,-0.0145,0.0099,0.0244
 2024-09-20 04:30:22.602645,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Ishmael Davis,-0.01479999999999998,0.3774,0.3922
 2024-09-20 06:34:48.270530,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Dinamo Zagreb,-0.015100000000000002,0.1667,0.1818
-2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,AC Milan,-0.015100000000000002,0.1667,0.1818
-2024-09-20 06:34:48.267093,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),-0.015100000000000002,0.1667,0.1818
 2024-09-20 05:29:21.237956,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,-0.015100000000000002,0.1667,0.1818
+2024-09-20 06:34:48.267093,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),-0.015100000000000002,0.1667,0.1818
+2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,AC Milan,-0.015100000000000002,0.1667,0.1818
 2024-09-20 02:52:45.646387,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,-0.016699999999999993,0.25,0.2667
-2024-09-19 22:28:47.491595,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Josh Kelly,-0.017300000000000093,0.697,0.7143
 2024-09-20 02:52:46.569777,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Lexi Thompson,-0.017800000000000003,0.0066,0.0244
 2024-09-20 04:30:19.888593,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,-0.0179,0.125,0.1429
 2024-09-20 06:34:50.884687,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kirk Cousins (ATL),-0.0179,0.125,0.1429
+2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Slovan Bratislava,-0.018200000000000004,0.0294,0.0476
 2024-09-20 06:34:48.267093,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.018200000000000004,0.0294,0.0476
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Sparta Prague,-0.018200000000000004,0.0294,0.0476
-2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Slovan Bratislava,-0.018200000000000004,0.0294,0.0476
 2024-09-20 05:29:21.206790,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Manchester City,-0.01820000000000002,0.1818,0.2
 2024-09-20 02:52:46.569777,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Georgia Hall,-0.0189,0.0028,0.0217
 2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Club Brugge,-0.019000000000000017,0.2667,0.2857
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bologna,-0.019099999999999992,0.0476,0.0667
 2024-09-20 01:49:53.912132,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.019699999999999995,0.4348,0.4545
-2024-09-19 23:25:46.436948,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,-0.021999999999999964,0.2857,0.3077
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Juventus,-0.021999999999999964,0.2857,0.3077
+2024-09-19 23:25:46.436948,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,-0.021999999999999964,0.2857,0.3077
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Arsenal,-0.02200000000000002,0.6923,0.7143
 2024-09-20 04:30:19.888593,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,-0.022199999999999998,0.2,0.2222
 2024-09-20 03:30:08.494030,Round Match-Ups - 2nd Round Match-Ups - A. Noren vs M. Fitzpatrick - 2nd Round Match-Ups,Matt Fitzpatrick,-0.022699999999999998,0.4651,0.4878
 2024-09-20 05:29:23.804295,AFC East - AFC East 2024/25 - AFC East Winner,Miami Dolphins,-0.02310000000000001,0.125,0.1481
 2024-09-20 01:49:53.925208,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,-0.023699999999999943,0.5917,0.6154
-2024-09-20 04:30:19.888593,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.023799999999999988,0.1429,0.1667
 2024-09-20 04:30:19.888593,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,-0.023799999999999988,0.1429,0.1667
+2024-09-20 04:30:19.888593,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.023799999999999988,0.1429,0.1667
 2024-09-20 08:31:20.000353,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Racing Club,-0.023799999999999988,0.1429,0.1667
-2024-09-20 02:52:46.569777,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Haeran Ryu,-0.0242,0.0667,0.0909
 2024-09-20 05:29:21.206790,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,FC Barcelona,-0.0242,0.0667,0.0909
+2024-09-20 02:52:46.569777,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Haeran Ryu,-0.0242,0.0667,0.0909
 2024-09-19 23:25:49.262924,Boxing Lines - Josh Kelly vs Ishmael Davis - To Win the Bout,Josh Kelly,-0.024899999999999922,0.6721,0.697
 2024-09-20 05:29:22.591382,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Sabrina Ionescu (NYL),-0.025300000000000003,0.1176,0.1429
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Inter Milan,-0.025499999999999967,0.4,0.4255
 2024-09-20 05:29:21.213089,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bologna,-0.026500000000000024,0.3509,0.3774
-2024-09-20 05:29:21.237956,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Girona,-0.02779999999999999,0.2222,0.25
 2024-09-20 02:52:44.935928,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.02779999999999999,0.2222,0.25
+2024-09-20 05:29:21.237956,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Girona,-0.02779999999999999,0.2222,0.25
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Feyenoord,-0.028199999999999996,0.0385,0.0667
 2024-09-20 02:52:46.569777,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Minjee Lee,-0.0286,0.0099,0.0385
 2024-09-20 05:29:21.216205,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,FC Barcelona,-0.028900000000000037,0.5455,0.5744
