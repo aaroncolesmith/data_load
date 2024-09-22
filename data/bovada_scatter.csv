@@ -7,113 +7,81 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Brutalist,0.10910000000000002,0.2,0.0909
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,0.1071,0.25,0.1429
 2024-09-22 12:45:26.782600,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,0.10060000000000002,0.6923,0.5917
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Barnet,0.0988,0.6226,0.5238
-2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Barnet,0.09230000000000005,0.4,0.3077
 2024-09-22 10:29:25.262897,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.0889,0.2,0.1111
 2024-09-22 10:29:25.448919,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,0.08080000000000004,0.4444,0.3636
-2024-09-22 09:24:55.166861,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.07619999999999993,0.6,0.5238
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Forest Green Rovers,0.04999999999999999,0.25,0.2
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Sing Sing,0.04999999999999999,0.25,0.2
 2024-09-22 13:27:04.155710,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Jennifer Grey - A Real Pain,0.04999999999999999,0.25,0.2
+2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Sing Sing,0.04999999999999999,0.25,0.2
 2024-09-22 10:29:25.477769,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,River Plate,0.04620000000000002,0.2,0.1538
 2024-09-22 11:20:42.011771,Megalopolis - Megalopolis: Rotten Tomatoes Tomatometer One Month After Release - Tomatometer,Rotten,0.04169999999999996,0.875,0.8333
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Chandler Kinney,0.04040000000000002,0.2222,0.1818
 2024-09-22 10:29:25.356968,League One - England League One 2024/25 - Top Goalscorer,Dion Charles,0.0384,0.0769,0.0385
-2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Ralph Fiennes - Conclave,0.03570000000000001,0.2857,0.25
 2024-09-22 11:20:42.141055,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Jared Harris,0.03570000000000001,0.2857,0.25
-2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,AZ Alkmaar,0.034100000000000005,0.125,0.0909
+2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Ralph Fiennes - Conclave,0.03570000000000001,0.2857,0.25
 2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cuiabá,0.033299999999999996,0.8333,0.8
 2024-09-22 13:27:04.335832,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pietro Parolin (Italy),0.033100000000000004,0.0625,0.0294
-2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Forest Green Rovers,0.031799999999999995,0.1429,0.1111
 2024-09-22 13:27:04.325607,Nobel Prizes - Nobel Peace Prize 2024 - Nobel Peace Prize 2024,Motaz Azaiza,0.030199999999999998,0.0625,0.0323
 2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.029299999999999993,0.0769,0.0476
-2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Kansas City Chiefs & Patrick Mahomes,0.028399999999999995,0.0909,0.0625
 2024-09-22 10:29:25.445724,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.027999999999999997,0.1818,0.1538
-2024-09-22 09:24:55.103454,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.02779999999999999,0.25,0.2222
-2024-09-22 09:24:55.150972,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,FC Porto,0.02679999999999999,0.3125,0.2857
 2024-09-22 10:29:25.262897,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,0.02560000000000001,0.3333,0.3077
 2024-09-22 13:27:06.472439,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,New York Yankees,0.023799999999999988,0.3571,0.3333
-2024-09-22 09:24:55.198298,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,0.02200000000000002,0.7143,0.6923
 2024-09-22 14:26:46.993209,Joe Biden Specials - Hunter Biden: Federal Tax Case - Will Hunter be sentenced to prison? - Tax: Will Hunter be sentenced to prison?,Yes,0.021999999999999964,0.3077,0.2857
 2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,0.021999999999999964,0.3077,0.2857
-2024-09-22 09:24:55.103454,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.02100000000000002,0.3846,0.3636
 2024-09-22 11:20:42.048210,Taylor Swift Specials - When will Taylor & Travis announce their engagement? - When will Taylor and Travis announce their engagement?,Q4 2024,0.019699999999999995,0.125,0.1053
 2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.019000000000000017,0.2857,0.2667
 2024-09-22 10:29:25.262897,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,0.018900000000000028,0.9804,0.9615
 2024-09-22 10:29:25.381654,League Two - England League Two 2024/25 - Top Goalscorer,Lyle Taylor,0.0189,0.0385,0.0196
-2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Houston Texans & C.J. Stroud,0.0189,0.0385,0.0196
-2024-09-22 10:29:25.477769,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,0.018099999999999998,0.0769,0.0588
 2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.018099999999999998,0.0769,0.0588
-2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.016700000000000048,0.75,0.7333
-2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Luis Suarez,0.016699999999999993,0.2667,0.25
+2024-09-22 10:29:25.477769,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,0.018099999999999998,0.0769,0.0588
 2024-09-22 10:29:25.448919,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,0.016699999999999993,0.2667,0.25
+2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Luis Suarez,0.016699999999999993,0.2667,0.25
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,0.016600000000000004,0.0833,0.0667
 2024-09-22 13:27:06.476657,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,0.015400000000000025,0.3279,0.3125
-2024-09-22 09:24:54.997916,Championship - England Championship 2024/25 - Winner,Luton Town,0.015300000000000001,0.0588,0.0435
-2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Feyenoord,0.015100000000000002,0.1818,0.1667
-2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,York City,0.015100000000000002,0.1818,0.1667
 2024-09-22 15:25:26.916468,NFL Weekly Specials - NFL Week 3- Leaders - Most Passing Yards (Sunday Only),Derek Carr (NO),0.014399999999999996,0.0769,0.0625
-2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Barry Keoghan - Bird,0.013999999999999999,0.0909,0.0769
 2024-09-22 13:27:04.155710,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Toni Collette - Juror No. 2,0.013999999999999999,0.0909,0.0769
+2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Barry Keoghan - Bird,0.013999999999999999,0.0909,0.0769
 2024-09-22 11:20:42.052411,Taylor Swift Specials - When will Taylor & Travis announce their first pregancy? - When will Taylor and Travis announce their first pregnancy?,Q4 2024,0.013999999999999999,0.0909,0.0769
 2024-09-22 14:26:47.357613,NFL Weekly Specials - NFL Week 3- Leaders - Highest Scoring Game (Sunday Only),HOU Texans @ MIN Vikings,0.013899999999999996,0.125,0.1111
 2024-09-22 11:20:42.062174,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Yulia Navalnaya,0.013899999999999996,0.125,0.1111
-2024-09-22 09:24:54.997916,Championship - England Championship 2024/25 - Winner,Burnley,0.012899999999999995,0.1667,0.1538
 2024-09-22 21:23:10.856694,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.011900000000000022,0.7619,0.75
 2024-09-22 19:19:51.577838,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,0.011600000000000055,0.5238,0.5122
 2024-09-22 10:29:25.381654,League Two - England League Two 2024/25 - Top Goalscorer,Jayden Stockley,0.011199999999999995,0.0588,0.0476
-2024-09-22 09:24:55.161499,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens,0.011199999999999995,0.0588,0.0476
 2024-09-22 18:31:29.948723,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.011099999999999999,0.4762,0.4651
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 5 - 14,0.0102,0.0769,0.0667
-2024-09-22 09:24:55.234883,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Shelbourne FC,0.010099999999999998,0.5556,0.5455
 2024-09-22 21:23:11.045132,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Sandy Ryan,0.010099999999999998,0.5556,0.5455
-2024-09-22 13:27:06.476657,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Milwaukee Brewers,-0.010099999999999998,0.0952,0.1053
 2024-09-22 19:19:51.577838,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Sandy Ryan,-0.010099999999999998,0.5455,0.5556
-2024-09-22 09:24:55.135021,Super League - Greece Super League 2024/25 - Winner,Olympiakos,-0.010099999999999998,0.4444,0.4545
-2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Kimo Apaka,-0.0102,0.0667,0.0769
+2024-09-22 13:27:06.476657,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Milwaukee Brewers,-0.010099999999999998,0.0952,0.1053
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Tori Spelling,-0.0102,0.0667,0.0769
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Phaedra Parks,-0.0102,0.0667,0.0769
+2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Kimo Apaka,-0.0102,0.0667,0.0769
 2024-09-22 20:26:36.082052,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,-0.010299999999999976,0.2564,0.2667
-2024-09-22 10:29:25.445724,Serie B - Italy Serie B 2024/25 - Winner,Brescia,-0.011199999999999995,0.0476,0.0588
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Nickel Boys,-0.011199999999999995,0.0476,0.0588
+2024-09-22 10:29:25.445724,Serie B - Italy Serie B 2024/25 - Winner,Brescia,-0.011199999999999995,0.0476,0.0588
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Parachute,-0.011399999999999997,0.0164,0.0278
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Maidenhead United,-0.0116,0.0033,0.0149
-2024-09-22 16:30:38.520873,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.0116,0.4762,0.4878
 2024-09-22 16:30:38.524948,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.0116,0.4762,0.4878
+2024-09-22 16:30:38.520873,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.0116,0.4762,0.4878
 2024-09-22 21:23:11.045132,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.011600000000000055,0.5122,0.5238
-2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Hartlepool United,-0.012100000000000001,0.0123,0.0244
-2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Yeovil Town,-0.012100000000000001,0.0123,0.0244
-2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Solihull Moors,-0.012100000000000001,0.0123,0.0244
 2024-09-22 10:29:25.265855,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Mineiro,-0.012899999999999995,0.1538,0.1667
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,AFC Fylde,-0.013,0.0066,0.0196
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Hartlepool United,-0.0131,0.0345,0.0476
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Aldershot Town,-0.0131,0.0345,0.0476
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Yeovil Town,-0.0131,0.0345,0.0476
 2024-09-22 11:20:42.141055,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Brian Cox,-0.013899999999999996,0.1111,0.125
-2024-09-22 09:24:55.198298,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,-0.013899999999999996,0.1111,0.125
-2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Green Bay Packers & Jordan Love,-0.0139,0.0057,0.0196
-2024-09-22 10:29:25.356968,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,-0.013999999999999999,0.0769,0.0909
 2024-09-22 13:27:04.335832,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Christoph Schonborn (Austria),-0.013999999999999999,0.0769,0.0909
+2024-09-22 10:29:25.356968,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,-0.013999999999999999,0.0769,0.0909
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Reginald VelJohnson,-0.013999999999999999,0.0769,0.0909
 2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Eminem,-0.014099999999999998,0.0244,0.0385
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Actor,-0.014099999999999998,0.0244,0.0385
 2024-09-22 11:20:42.052411,Taylor Swift Specials - When will Taylor & Travis announce their first pregancy? - When will Taylor and Travis announce their first pregnancy?,Q3 2024,-0.014100000000000001,0.0385,0.0526
 2024-09-22 11:20:42.048210,Taylor Swift Specials - When will Taylor & Travis announce their engagement? - When will Taylor and Travis announce their engagement?,Q3 2024,-0.014100000000000001,0.0385,0.0526
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Conclave,-0.014399999999999996,0.0625,0.0769
-2024-09-22 09:24:54.997916,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.01440000000000001,0.0909,0.1053
 2024-09-22 10:29:25.477769,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Godoy Cruz,-0.014499999999999999,0.0149,0.0294
 2024-09-22 10:29:25.381654,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,-0.014499999999999999,0.0149,0.0294
 2024-09-22 10:29:25.381654,League Two - England League Two 2024/25 - Top Goalscorer,Omar Bogle,-0.0145,0.0099,0.0244
 2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Chelsie Baham,-0.01469999999999999,0.2353,0.25
 2024-09-22 10:29:25.448919,Serie B - Italy Serie B 2024/25 - To Be Promoted,Brescia,-0.015100000000000002,0.1667,0.1818
 2024-09-22 10:29:25.262897,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.015100000000000002,0.1667,0.1818
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Harry Styles,-0.015300000000000001,0.0323,0.0476
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Drake,-0.015300000000000001,0.0323,0.0476
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Long Game,-0.015300000000000001,0.0323,0.0476
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,David Beckham,-0.015300000000000001,0.0323,0.0476
 2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Elon Musk,-0.015300000000000001,0.0323,0.0476
+2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Long Game,-0.015300000000000001,0.0323,0.0476
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Harry Styles,-0.015300000000000001,0.0323,0.0476
 2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Scott Eastwood,-0.015300000000000001,0.0323,0.0476
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,York City,-0.017600000000000005,0.3333,0.3509
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Drake,-0.015300000000000001,0.0323,0.0476
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,David Beckham,-0.015300000000000001,0.0323,0.0476
 2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,-0.0179,0.125,0.1429
 2024-09-22 13:27:04.160767,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Ukraine,-0.0179,0.125,0.1429
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Ilona Maher,-0.0179,0.125,0.1429
@@ -122,12 +90,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Jack Dorsey,-0.0189,0.0196,0.0385
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Megalopolis,-0.0189,0.0196,0.0385
 2024-09-22 10:29:25.356968,League One - England League One 2024/25 - Top Goalscorer,Alfie May,-0.019000000000000017,0.2667,0.2857
-2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Rochdale,-0.019099999999999992,0.0476,0.0667
 2024-09-22 10:29:25.265855,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Flamengo,-0.019100000000000006,0.9333,0.9524
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Nosferatu,-0.019800000000000005,0.0278,0.0476
-2024-09-22 13:27:06.472439,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Kansas City Royals,-0.02020000000000001,0.0909,0.1111
 2024-09-22 11:20:41.717140,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,-0.02020000000000001,0.0909,0.1111
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Solihull Moors,-0.0203,0.0385,0.0588
+2024-09-22 13:27:06.472439,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Kansas City Royals,-0.02020000000000001,0.0909,0.1111
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Seed of the Sacred Fig,-0.0203,0.0385,0.0588
 2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,-0.02100000000000002,0.3636,0.3846
 2024-09-22 12:45:26.776973,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,-0.021999999999999964,0.2857,0.3077
@@ -137,7 +103,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Brooks Nader,-0.025300000000000003,0.1176,0.1429
 2024-09-22 14:26:46.993209,Joe Biden Specials - Hunter Biden: Federal Tax Case - Will Hunter be sentenced to prison? - Tax: Will Hunter be sentenced to prison?,No,-0.026499999999999968,0.7561,0.7826
 2024-09-22 12:45:26.782600,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Vancouver Whitecaps,-0.026499999999999996,0.0323,0.0588
-2024-09-22 09:24:55.150972,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,-0.02779999999999999,0.2222,0.25
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Here,-0.028000000000000004,0.0196,0.0476
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Bird,-0.028000000000000004,0.0196,0.0476
 2024-09-22 21:23:10.856694,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,3,-0.028199999999999996,0.0385,0.0667
@@ -145,12 +110,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Joker: Folie A Deux,-0.029299999999999993,0.0476,0.0769
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Flint String,-0.031200000000000002,0.0164,0.0476
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Fancy Dance,-0.031200000000000002,0.0164,0.0476
-2024-09-22 13:27:04.160767,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Israel,-0.031799999999999995,0.1111,0.1429
 2024-09-22 10:29:25.265855,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.031799999999999995,0.4444,0.4762
+2024-09-22 13:27:04.160767,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Israel,-0.031799999999999995,0.1111,0.1429
 2024-09-22 10:29:25.253917,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Fortaleza,-0.03330000000000001,0.0667,0.1
-2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Gateshead,-0.033300000000000024,0.1667,0.2
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Marc Anthony,-0.03420000000000001,0.0769,0.1111
 2024-09-22 13:27:04.258861,45th Razzie Awards - Worst Picture - Worst Picture,Argylle,-0.03420000000000001,0.0769,0.1111
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Marc Anthony,-0.03420000000000001,0.0769,0.1111
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 35 - 64,-0.036199999999999996,0.1176,0.1538
 2024-09-22 11:20:42.062174,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Donald Trump,-0.03640000000000004,0.3636,0.4
 2024-09-22 10:29:25.262897,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.04039999999999999,0.7778,0.8182
@@ -159,13 +123,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,A Real Pain,-0.0491,0.0278,0.0769
 2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Jesse Eisenberg - A Real Pain,-0.04999999999999999,0.2,0.25
 2024-09-22 11:20:42.011771,Megalopolis - Megalopolis: Rotten Tomatoes Tomatometer One Month After Release - Tomatometer,Fresh,-0.04999999999999999,0.2,0.25
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Gateshead,-0.05520000000000003,0.3448,0.4
-2024-09-22 09:24:55.103454,First Division A - Belgium First Division A 2024/25 - Outright,Anderlecht,-0.05559999999999998,0.1111,0.1667
 2024-09-22 10:29:25.253917,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,-0.05559999999999998,0.1111,0.1667
 2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Pete Davidson,-0.05710000000000001,0.1429,0.2
 2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Alex Rodriguez,-0.05710000000000001,0.1429,0.2
-2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Ajax,-0.0585,0.0526,0.1111
-2024-09-22 09:24:55.166861,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.05980000000000002,0.3846,0.4444
 2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Corinthians,-0.05980000000000002,0.3846,0.4444
 2024-09-22 14:26:46.904426,Donald Trump Specials - Donald Trump to be a guest on The Joe Rogan Experience - Trump & Joe Rogan,Trump to guest on The Joe Rogan Experience before the 2024 presidential election,-0.06659999999999999,0.2667,0.3333
 2024-09-22 10:29:25.265855,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,-0.06929999999999997,0.4762,0.5455
