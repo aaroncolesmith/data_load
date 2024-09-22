@@ -25,9 +25,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 04:33:13.236754,League One - England League One 2024/25 - Winner,Birmingham City,0.05520000000000003,0.6296,0.5744
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,0.05070000000000002,0.4762,0.4255
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,0.05059999999999998,0.5744,0.5238
+2024-09-22 13:27:04.155710,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Jennifer Grey - A Real Pain,0.04999999999999999,0.25,0.2
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Sing Sing,0.04999999999999999,0.25,0.2
 2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Forest Green Rovers,0.04999999999999999,0.25,0.2
-2024-09-22 13:27:04.155710,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Jennifer Grey - A Real Pain,0.04999999999999999,0.25,0.2
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.0494,0.3571,0.3077
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Barnsley,0.04910000000000003,0.4,0.3509
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Cambridge United,0.04820000000000002,0.6226,0.5744
@@ -37,8 +37,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Birmingham City,0.044500000000000095,0.7778,0.7333
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,0.044499999999999984,0.2667,0.2222
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,0.044399999999999995,0.6,0.5556
-2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.04410000000000003,0.3774,0.3333
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Walsall,0.04410000000000003,0.3774,0.3333
+2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.04410000000000003,0.3774,0.3333
 2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,0.04169999999999999,0.1667,0.125
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jaxson Dart,0.04169999999999999,0.1667,0.125
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Barnsley,0.04169999999999999,0.1667,0.125
@@ -52,9 +52,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.03570000000000001,0.2857,0.25
 2024-09-22 05:28:29.290330,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.035699999999999954,0.75,0.7143
 2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,AZ Alkmaar,0.034100000000000005,0.125,0.0909
+2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Mansfield Town,0.033300000000000024,0.2,0.1667
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Newport County,0.033300000000000024,0.2,0.1667
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.033300000000000024,0.2,0.1667
-2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Mansfield Town,0.033300000000000024,0.2,0.1667
 2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cuiabá,0.033299999999999996,0.8333,0.8
 2024-09-22 13:27:04.335832,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pietro Parolin (Italy),0.033100000000000004,0.0625,0.0294
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.031799999999999995,0.4762,0.4444
@@ -62,8 +62,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 13:27:04.325607,Nobel Prizes - Nobel Peace Prize 2024 - Nobel Peace Prize 2024,Motaz Azaiza,0.030199999999999998,0.0625,0.0323
 2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.029299999999999993,0.0769,0.0476
 2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Kansas City Chiefs & Patrick Mahomes,0.028399999999999995,0.0909,0.0625
-2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.027999999999999997,0.1818,0.1538
 2024-09-22 10:29:25.445724,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.027999999999999997,0.1818,0.1538
+2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.027999999999999997,0.1818,0.1538
 2024-09-22 09:24:55.103454,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.02779999999999999,0.25,0.2222
 2024-09-22 09:24:55.150972,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,FC Porto,0.02679999999999999,0.3125,0.2857
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Walsall,0.0267,0.1176,0.0909
@@ -71,19 +71,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Barrow FC,0.0242,0.0909,0.0667
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,0.023800000000000043,0.5238,0.5
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.023800000000000043,0.5238,0.5
-2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,0.023799999999999988,0.5,0.4762
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,0.023799999999999988,0.5,0.4762
-2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,0.023799999999999988,0.1667,0.1429
+2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,0.023799999999999988,0.5,0.4762
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.023799999999999988,0.3571,0.3333
+2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,0.023799999999999988,0.1667,0.1429
 2024-09-22 13:27:06.472439,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,New York Yankees,0.023799999999999988,0.3571,0.3333
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,0.02310000000000001,0.1,0.0769
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Barnsley,0.02310000000000001,0.1,0.0769
-2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,0.022199999999999998,0.2222,0.2
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Bromley,0.022199999999999998,0.1333,0.1111
+2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,0.022199999999999998,0.2222,0.2
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cam Ward,0.022199999999999998,0.2222,0.2
 2024-09-22 09:24:55.198298,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,0.02200000000000002,0.7143,0.6923
-2024-09-22 14:26:46.993209,Joe Biden Specials - Hunter Biden: Federal Tax Case - Will Hunter be sentenced to prison? - Tax: Will Hunter be sentenced to prison?,Yes,0.021999999999999964,0.3077,0.2857
 2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,0.021999999999999964,0.3077,0.2857
+2024-09-22 14:26:46.993209,Joe Biden Specials - Hunter Biden: Federal Tax Case - Will Hunter be sentenced to prison? - Tax: Will Hunter be sentenced to prison?,Yes,0.021999999999999964,0.3077,0.2857
 2024-09-22 09:24:55.103454,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.02100000000000002,0.3846,0.3636
 2024-09-22 07:22:34.337996,BMW PGA Championship - 2/3 Balls - Final Round 3 Balls - E. Pepperell / R. Hojgaard / U. Coussaud - Final Round 3 Balls,Rasmus Hojgaard,0.02079999999999993,0.5556,0.5348
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.02049999999999999,0.1538,0.1333
@@ -94,32 +94,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.019000000000000017,0.2857,0.2667
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.019000000000000017,0.2857,0.2667
 2024-09-22 10:29:25.262897,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,0.018900000000000028,0.9804,0.9615
-2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Houston Texans & C.J. Stroud,0.0189,0.0385,0.0196
 2024-09-22 10:29:25.381654,League Two - England League Two 2024/25 - Top Goalscorer,Lyle Taylor,0.0189,0.0385,0.0196
+2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Houston Texans & C.J. Stroud,0.0189,0.0385,0.0196
 2024-09-22 04:33:15.664535,Round Match-Ups - Final Round Match-Ups - A. Rai vs R. McIlroy - Final Round Match-Ups,Rory McIlroy,0.018100000000000005,0.5833,0.5652
-2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.018099999999999998,0.0769,0.0588
 2024-09-22 10:29:25.477769,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,0.018099999999999998,0.0769,0.0588
-2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,0.0179,0.1429,0.125
+2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.018099999999999998,0.0769,0.0588
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Wigan Athletic,0.0179,0.1429,0.125
+2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,0.0179,0.1429,0.125
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Gillingham,0.01759999999999999,0.1176,0.1
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,0.01759999999999995,0.6667,0.6491
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Shrewsbury Town,0.016700000000000048,0.75,0.7333
 2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.016700000000000048,0.75,0.7333
-2024-09-22 10:29:25.448919,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,0.016699999999999993,0.2667,0.25
-2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Luis Suarez,0.016699999999999993,0.2667,0.25
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.016699999999999993,0.2667,0.25
+2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Luis Suarez,0.016699999999999993,0.2667,0.25
+2024-09-22 10:29:25.448919,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,0.016699999999999993,0.2667,0.25
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,0.016600000000000004,0.0833,0.0667
 2024-09-22 13:27:06.476657,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,0.015400000000000025,0.3279,0.3125
 2024-09-22 09:24:54.997916,Championship - England Championship 2024/25 - Winner,Luton Town,0.015300000000000001,0.0588,0.0435
 2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Feyenoord,0.015100000000000002,0.1818,0.1667
 2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,York City,0.015100000000000002,0.1818,0.1667
 2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,0.014499999999999999,0.0294,0.0149
+2024-09-22 15:25:26.916468,NFL Weekly Specials - NFL Week 3- Leaders - Most Passing Yards (Sunday Only),Derek Carr (NO),0.014399999999999996,0.0769,0.0625
 2024-09-22 05:28:29.447129,Premiership - Scotland Premiership 2024/25 - Winner,Celtic,0.01429999999999998,0.9091,0.8948
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Birmingham City,0.014100000000000001,0.9756,0.9615
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,0.014100000000000001,0.0526,0.0385
-2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.013999999999999999,0.0909,0.0769
 2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Barry Keoghan - Bird,0.013999999999999999,0.0909,0.0769
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,0.013999999999999999,0.0909,0.0769
+2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.013999999999999999,0.0909,0.0769
 2024-09-22 11:20:42.052411,Taylor Swift Specials - When will Taylor & Travis announce their first pregancy? - When will Taylor and Travis announce their first pregnancy?,Q4 2024,0.013999999999999999,0.0909,0.0769
 2024-09-22 13:27:04.155710,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Toni Collette - Juror No. 2,0.013999999999999999,0.0909,0.0769
 2024-09-22 14:26:47.357613,NFL Weekly Specials - NFL Week 3- Leaders - Highest Scoring Game (Sunday Only),HOU Texans @ MIN Vikings,0.013899999999999996,0.125,0.1111
@@ -127,47 +128,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Blackpool,0.013899999999999996,0.125,0.1111
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Peterborough United,0.013899999999999996,0.125,0.1111
 2024-09-22 04:33:13.157071,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.013299999999999979,0.6429,0.6296
-2024-09-22 08:29:33.905854,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,0.0131,0.2353,0.2222
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.0131,0.2353,0.2222
-2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Stevenage,0.012899999999999995,0.1667,0.1538
-2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,0.012899999999999995,0.1667,0.1538
+2024-09-22 08:29:33.905854,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,0.0131,0.2353,0.2222
 2024-09-22 09:24:54.997916,Championship - England Championship 2024/25 - Winner,Burnley,0.012899999999999995,0.1667,0.1538
+2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,0.012899999999999995,0.1667,0.1538
+2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Stevenage,0.012899999999999995,0.1667,0.1538
 2024-09-22 05:28:29.294832,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.012700000000000045,0.6491,0.6364
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,0.012699999999999989,0.3636,0.3509
+2024-09-22 09:24:55.161499,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens,0.011199999999999995,0.0588,0.0476
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Fleetwood Town,0.011199999999999995,0.0588,0.0476
 2024-09-22 10:29:25.381654,League Two - England League Two 2024/25 - Top Goalscorer,Jayden Stockley,0.011199999999999995,0.0588,0.0476
-2024-09-22 09:24:55.161499,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens,0.011199999999999995,0.0588,0.0476
 2024-09-22 08:29:33.905854,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Alabama,0.011099999999999999,0.1111,0.1
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,0.01100000000000001,0.5348,0.5238
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Drew Allar,0.010600000000000002,0.0323,0.0217
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.010499999999999982,0.2105,0.2
-2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Exeter City,0.0102,0.0769,0.0667
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Crewe Alexandra,0.0102,0.0769,0.0667
+2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Exeter City,0.0102,0.0769,0.0667
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 5 - 14,0.0102,0.0769,0.0667
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Peterborough United,0.0102,0.0769,0.0667
 2024-09-22 09:24:55.234883,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Shelbourne FC,0.010099999999999998,0.5556,0.5455
-2024-09-22 07:22:34.377875,Kroger Queen City Championship - 2/3 Balls - Final Round 3 Balls - N. Korda / A. Buhai / K. Gillman - Final Round 3 Balls,Ashleigh Buhai,-0.010099999999999998,0.3125,0.3226
-2024-09-22 09:24:55.135021,Super League - Greece Super League 2024/25 - Winner,Olympiakos,-0.010099999999999998,0.4444,0.4545
 2024-09-22 13:27:06.476657,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Milwaukee Brewers,-0.010099999999999998,0.0952,0.1053
+2024-09-22 09:24:55.135021,Super League - Greece Super League 2024/25 - Winner,Olympiakos,-0.010099999999999998,0.4444,0.4545
+2024-09-22 07:22:34.377875,Kroger Queen City Championship - 2/3 Balls - Final Round 3 Balls - N. Korda / A. Buhai / K. Gillman - Final Round 3 Balls,Ashleigh Buhai,-0.010099999999999998,0.3125,0.3226
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Tori Spelling,-0.0102,0.0667,0.0769
-2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Kimo Apaka,-0.0102,0.0667,0.0769
-2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Phaedra Parks,-0.0102,0.0667,0.0769
-2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers,-0.0102,0.0667,0.0769
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Lincoln City,-0.0102,0.0667,0.0769
-2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Shrewsbury Town,-0.010300000000000002,0.0141,0.0244
+2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers,-0.0102,0.0667,0.0769
+2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Phaedra Parks,-0.0102,0.0667,0.0769
+2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Kimo Apaka,-0.0102,0.0667,0.0769
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Harrogate Town,-0.010300000000000002,0.0141,0.0244
+2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Shrewsbury Town,-0.010300000000000002,0.0141,0.0244
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,-0.010699999999999987,0.3226,0.3333
 2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Crewe Alexandra,-0.010700000000000001,0.0278,0.0385
 2024-09-22 03:32:48.512122,Pure Insurance Championship - Pure Insurance Championship - Winner,Rod Pampling,-0.010700000000000001,0.011,0.0217
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,-0.010899999999999993,0.1429,0.1538
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Stevenage,-0.011099999999999999,0.1,0.1111
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.011099999999999999,0.1,0.1111
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Nickel Boys,-0.011199999999999995,0.0476,0.0588
-2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,-0.011199999999999995,0.0476,0.0588
-2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Harrogate Town,-0.011199999999999995,0.0476,0.0588
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Swindon Town,-0.011199999999999995,0.0476,0.0588
+2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Harrogate Town,-0.011199999999999995,0.0476,0.0588
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Miller Moss,-0.011199999999999995,0.0476,0.0588
+2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Nickel Boys,-0.011199999999999995,0.0476,0.0588
 2024-09-22 10:29:25.445724,Serie B - Italy Serie B 2024/25 - Winner,Brescia,-0.011199999999999995,0.0476,0.0588
+2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,-0.011199999999999995,0.0476,0.0588
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Parachute,-0.011399999999999997,0.0164,0.0278
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Salford City,-0.0115,0.0179,0.0294
 2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Maidenhead United,-0.0116,0.0033,0.0149
@@ -177,79 +178,79 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 04:33:13.157071,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.012299999999999978,0.3448,0.3571
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter,-0.012600000000000007,0.0588,0.0714
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Wrexham,-0.012699999999999989,0.3509,0.3636
-2024-09-22 05:28:29.447129,Premiership - Scotland Premiership 2024/25 - Winner,Rangers,-0.012899999999999995,0.1538,0.1667
 2024-09-22 10:29:25.265855,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Mineiro,-0.012899999999999995,0.1538,0.1667
+2024-09-22 05:28:29.447129,Premiership - Scotland Premiership 2024/25 - Winner,Rangers,-0.012899999999999995,0.1538,0.1667
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Harrogate Town,-0.012999999999999998,0.0164,0.0294
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Bristol Rovers,-0.012999999999999998,0.0164,0.0294
 2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,AFC Fylde,-0.013,0.0066,0.0196
-2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Yeovil Town,-0.0131,0.0345,0.0476
 2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Aldershot Town,-0.0131,0.0345,0.0476
 2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Hartlepool United,-0.0131,0.0345,0.0476
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Yeovil Town,-0.0131,0.0345,0.0476
 2024-09-22 11:20:42.141055,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Brian Cox,-0.013899999999999996,0.1111,0.125
 2024-09-22 09:24:55.198298,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,-0.013899999999999996,0.1111,0.125
 2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Green Bay Packers & Jordan Love,-0.0139,0.0057,0.0196
-2024-09-22 10:29:25.356968,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,-0.013999999999999999,0.0769,0.0909
+2024-09-22 13:27:04.335832,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Christoph Schonborn (Austria),-0.013999999999999999,0.0769,0.0909
+2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Carlisle United,-0.013999999999999999,0.0769,0.0909
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Dillon Gabriel,-0.013999999999999999,0.0769,0.0909
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Reginald VelJohnson,-0.013999999999999999,0.0769,0.0909
-2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Carlisle United,-0.013999999999999999,0.0769,0.0909
-2024-09-22 13:27:04.335832,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Christoph Schonborn (Austria),-0.013999999999999999,0.0769,0.0909
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Actor,-0.014099999999999998,0.0244,0.0385
+2024-09-22 10:29:25.356968,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,-0.013999999999999999,0.0769,0.0909
 2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Eminem,-0.014099999999999998,0.0244,0.0385
+2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Actor,-0.014099999999999998,0.0244,0.0385
 2024-09-22 11:20:42.052411,Taylor Swift Specials - When will Taylor & Travis announce their first pregancy? - When will Taylor and Travis announce their first pregnancy?,Q3 2024,-0.014100000000000001,0.0385,0.0526
 2024-09-22 11:20:42.048210,Taylor Swift Specials - When will Taylor & Travis announce their engagement? - When will Taylor and Travis announce their engagement?,Q3 2024,-0.014100000000000001,0.0385,0.0526
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Conclave,-0.014399999999999996,0.0625,0.0769
 2024-09-22 09:24:54.997916,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.01440000000000001,0.0909,0.1053
-2024-09-22 10:29:25.477769,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Godoy Cruz,-0.014499999999999999,0.0149,0.0294
 2024-09-22 10:29:25.381654,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,-0.014499999999999999,0.0149,0.0294
+2024-09-22 10:29:25.477769,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Godoy Cruz,-0.014499999999999999,0.0149,0.0294
 2024-09-22 10:29:25.381654,League Two - England League Two 2024/25 - Top Goalscorer,Omar Bogle,-0.0145,0.0099,0.0244
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,-0.01469999999999999,0.2353,0.25
-2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Chelsie Baham,-0.01469999999999999,0.2353,0.25
-2024-09-22 07:22:34.337996,BMW PGA Championship - 2/3 Balls - Final Round 3 Balls - E. Pepperell / R. Hojgaard / U. Coussaud - Final Round 3 Balls,Ugo Coussaud,-0.01469999999999999,0.2353,0.25
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.01469999999999999,0.2353,0.25
+2024-09-22 07:22:34.337996,BMW PGA Championship - 2/3 Balls - Final Round 3 Balls - E. Pepperell / R. Hojgaard / U. Coussaud - Final Round 3 Balls,Ugo Coussaud,-0.01469999999999999,0.2353,0.25
+2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Chelsie Baham,-0.01469999999999999,0.2353,0.25
 2024-09-22 10:29:25.262897,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.015100000000000002,0.1667,0.1818
 2024-09-22 10:29:25.448919,Serie B - Italy Serie B 2024/25 - To Be Promoted,Brescia,-0.015100000000000002,0.1667,0.1818
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Drake,-0.015300000000000001,0.0323,0.0476
-2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Stevenage,-0.015300000000000001,0.0323,0.0476
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,David Beckham,-0.015300000000000001,0.0323,0.0476
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Harry Styles,-0.015300000000000001,0.0323,0.0476
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Elon Musk,-0.015300000000000001,0.0323,0.0476
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Scott Eastwood,-0.015300000000000001,0.0323,0.0476
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Long Game,-0.015300000000000001,0.0323,0.0476
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Newport County,-0.015300000000000001,0.0323,0.0476
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Scott Eastwood,-0.015300000000000001,0.0323,0.0476
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Drake,-0.015300000000000001,0.0323,0.0476
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Elon Musk,-0.015300000000000001,0.0323,0.0476
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Harry Styles,-0.015300000000000001,0.0323,0.0476
+2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Stevenage,-0.015300000000000001,0.0323,0.0476
+2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Long Game,-0.015300000000000001,0.0323,0.0476
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Burton Albion,-0.015300000000000001,0.0323,0.0476
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,David Beckham,-0.015300000000000001,0.0323,0.0476
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Chesterfield,-0.015700000000000006,0.1176,0.1333
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Bristol Rovers,-0.016600000000000004,0.0667,0.0833
-2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.016700000000000007,0.0833,0.1
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Mansfield Town,-0.016700000000000007,0.0833,0.1
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Notts County,-0.016700000000000007,0.0833,0.1
+2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.016700000000000007,0.0833,0.1
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Barnsley,-0.0168,0.0217,0.0385
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Wrexham,-0.01759999999999995,0.6491,0.6667
 2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,York City,-0.017600000000000005,0.3333,0.3509
 2024-09-22 13:27:04.160767,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Ukraine,-0.0179,0.125,0.1429
-2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,-0.0179,0.125,0.1429
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Ilona Maher,-0.0179,0.125,0.1429
-2024-09-22 10:29:25.445724,Serie B - Italy Serie B 2024/25 - Winner,Spezia,-0.018099999999999998,0.0588,0.0769
+2024-09-22 10:29:25.715577,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,-0.0179,0.125,0.1429
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Crewe Alexandra,-0.018099999999999998,0.0588,0.0769
+2024-09-22 10:29:25.445724,Serie B - Italy Serie B 2024/25 - Winner,Spezia,-0.018099999999999998,0.0588,0.0769
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Salford City,-0.018099999999999998,0.0588,0.0769
 2024-09-22 10:29:25.448919,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,-0.01820000000000002,0.1818,0.2
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Jack Dorsey,-0.0189,0.0196,0.0385
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Megalopolis,-0.0189,0.0196,0.0385
-2024-09-22 05:28:29.290330,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.019000000000000017,0.2667,0.2857
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Jack Dorsey,-0.0189,0.0196,0.0385
 2024-09-22 10:29:25.356968,League One - England League One 2024/25 - Top Goalscorer,Alfie May,-0.019000000000000017,0.2667,0.2857
+2024-09-22 05:28:29.290330,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.019000000000000017,0.2667,0.2857
 2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Rochdale,-0.019099999999999992,0.0476,0.0667
 2024-09-22 10:29:25.265855,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Flamengo,-0.019100000000000006,0.9333,0.9524
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.019699999999999995,0.1053,0.125
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Nosferatu,-0.019800000000000005,0.0278,0.0476
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Tranmere Rovers,-0.019800000000000005,0.0278,0.0476
-2024-09-22 11:20:41.717140,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,-0.02020000000000001,0.0909,0.1111
 2024-09-22 13:27:06.472439,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Kansas City Royals,-0.02020000000000001,0.0909,0.1111
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Rotherham Utd,-0.02020000000000001,0.0909,0.1111
+2024-09-22 11:20:41.717140,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,-0.02020000000000001,0.0909,0.1111
+2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Peterborough United,-0.0203,0.0385,0.0588
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Seed of the Sacred Fig,-0.0203,0.0385,0.0588
 2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Solihull Moors,-0.0203,0.0385,0.0588
-2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Peterborough United,-0.0203,0.0385,0.0588
-2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Wigan Athletic,-0.0203,0.0385,0.0588
-2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Blackpool,-0.0203,0.0385,0.0588
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Reading,-0.0203,0.0385,0.0588
+2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Blackpool,-0.0203,0.0385,0.0588
+2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Wigan Athletic,-0.0203,0.0385,0.0588
 2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,-0.02100000000000002,0.3636,0.3846
 2024-09-22 04:33:15.664535,Round Match-Ups - Final Round Match-Ups - A. Rai vs R. McIlroy - Final Round Match-Ups,Aaron Rai,-0.021699999999999997,0.4545,0.4762
 2024-09-22 08:29:33.905854,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,USC,-0.021799999999999996,0.0217,0.0435
@@ -259,12 +260,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Reading,-0.02310000000000001,0.0769,0.1
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Rotherham Utd,-0.0232,0.0435,0.0667
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Room Next Door,-0.023200000000000002,0.0244,0.0476
-2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 35 - 64,-0.023799999999999988,0.1429,0.1667
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Wigan Athletic,-0.023799999999999988,0.1429,0.1667
+2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 35 - 64,-0.023799999999999988,0.1429,0.1667
 2024-09-22 10:29:25.448919,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.023800000000000043,0.5,0.5238
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Stockport County,-0.023800000000000043,0.5,0.5238
-2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Newport County,-0.0242,0.0667,0.0909
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.0242,0.0667,0.0909
+2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Newport County,-0.0242,0.0667,0.0909
 2024-09-22 10:29:25.651837,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Brooks Nader,-0.025300000000000003,0.1176,0.1429
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,-0.025499999999999967,0.4,0.4255
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.02560000000000001,0.3077,0.3333
@@ -277,22 +278,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Here,-0.028000000000000004,0.0196,0.0476
 2024-09-22 03:32:48.512122,Pure Insurance Championship - Pure Insurance Championship - Winner,Stephen Ames,-0.0282,0.0244,0.0526
 2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Sebastian Stan - The Apprentice,-0.028399999999999995,0.0625,0.0909
+2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Grimsby Town,-0.029299999999999993,0.0476,0.0769
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Exeter City,-0.029299999999999993,0.0476,0.0769
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Joker: Folie A Deux,-0.029299999999999993,0.0476,0.0769
-2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Grimsby Town,-0.029299999999999993,0.0476,0.0769
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Fancy Dance,-0.031200000000000002,0.0164,0.0476
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Flint String,-0.031200000000000002,0.0164,0.0476
+2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Fancy Dance,-0.031200000000000002,0.0164,0.0476
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.031399999999999983,0.2353,0.2667
-2024-09-22 10:29:25.265855,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.031799999999999995,0.4444,0.4762
 2024-09-22 13:27:04.160767,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Israel,-0.031799999999999995,0.1111,0.1429
+2024-09-22 10:29:25.265855,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.031799999999999995,0.4444,0.4762
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Arch Manning,-0.03219999999999999,0.0345,0.0667
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Leyton Orient,-0.03219999999999999,0.0345,0.0667
 2024-09-22 10:29:25.253917,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Fortaleza,-0.03330000000000001,0.0667,0.1
 2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Gateshead,-0.033300000000000024,0.1667,0.2
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Grimsby Town,-0.034100000000000005,0.0909,0.125
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Marc Anthony,-0.03420000000000001,0.0769,0.1111
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Northampton Town,-0.03420000000000001,0.0769,0.1111
 2024-09-22 13:27:04.258861,45th Razzie Awards - Worst Picture - Worst Picture,Argylle,-0.03420000000000001,0.0769,0.1111
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Marc Anthony,-0.03420000000000001,0.0769,0.1111
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,-0.03570000000000001,0.25,0.2857
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 35 - 64,-0.036199999999999996,0.1176,0.1538
 2024-09-22 11:20:42.062174,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Donald Trump,-0.03640000000000004,0.3636,0.4
@@ -300,26 +301,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 10:29:25.262897,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.04039999999999999,0.7778,0.8182
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Northampton Town,-0.04089999999999999,0.3846,0.4255
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Colchester United,-0.047400000000000005,0.0526,0.1
-2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.047599999999999976,0.2857,0.3333
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,-0.047599999999999976,0.2857,0.3333
-2024-09-22 10:29:25.477769,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Boca Juniors,-0.048100000000000004,0.0769,0.125
+2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.047599999999999976,0.2857,0.3333
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 15 - 34,-0.048100000000000004,0.0769,0.125
+2024-09-22 10:29:25.477769,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Boca Juniors,-0.048100000000000004,0.0769,0.125
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,-0.048100000000000004,0.0769,0.125
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty,-0.048799999999999996,0.0345,0.0833
 2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,A Real Pain,-0.0491,0.0278,0.0769
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.04910000000000003,0.6,0.6491
+2024-09-22 11:20:42.011771,Megalopolis - Megalopolis: Rotten Tomatoes Tomatometer One Month After Release - Tomatometer,Fresh,-0.04999999999999999,0.2,0.25
 2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Jesse Eisenberg - A Real Pain,-0.04999999999999999,0.2,0.25
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.04999999999999999,0.2,0.25
-2024-09-22 11:20:42.011771,Megalopolis - Megalopolis: Rotten Tomatoes Tomatometer One Month After Release - Tomatometer,Fresh,-0.04999999999999999,0.2,0.25
 2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Gateshead,-0.05520000000000003,0.3448,0.4
-2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Tranmere Rovers,-0.05559999999999998,0.1111,0.1667
 2024-09-22 09:24:55.103454,First Division A - Belgium First Division A 2024/25 - Outright,Anderlecht,-0.05559999999999998,0.1111,0.1667
+2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Tranmere Rovers,-0.05559999999999998,0.1111,0.1667
 2024-09-22 10:29:25.253917,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,-0.05559999999999998,0.1111,0.1667
-2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Pete Davidson,-0.05710000000000001,0.1429,0.2
 2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Alex Rodriguez,-0.05710000000000001,0.1429,0.2
+2024-09-22 11:20:42.043054,Jennifer Lopez Specials - Jennifer Lopez' Next Boyfriend - Jennifer Lopez' Next Boyfriend,Pete Davidson,-0.05710000000000001,0.1429,0.2
 2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Ajax,-0.0585,0.0526,0.1111
-2024-09-22 09:24:55.166861,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.05980000000000002,0.3846,0.4444
 2024-09-22 10:29:25.259966,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Corinthians,-0.05980000000000002,0.3846,0.4444
+2024-09-22 09:24:55.166861,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.05980000000000002,0.3846,0.4444
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Tranmere Rovers,-0.0625,0.0625,0.125
 2024-09-22 14:26:46.904426,Donald Trump Specials - Donald Trump to be a guest on The Joe Rogan Experience - Trump & Joe Rogan,Trump to guest on The Joe Rogan Experience before the 2024 presidential election,-0.06659999999999999,0.2667,0.3333
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,-0.067,0.3774,0.4444
