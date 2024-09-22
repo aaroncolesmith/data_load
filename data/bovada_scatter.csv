@@ -2,8 +2,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 03:32:48.512122,Pure Insurance Championship - Pure Insurance Championship - Winner,Paul Broadhurst,0.6869000000000001,0.7778,0.0909
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jeeno Thitikul,0.2364,0.6,0.3636
 2024-09-22 03:32:48.512122,Pure Insurance Championship - Pure Insurance Championship - Winner,Vijay Singh,0.14120000000000002,0.2,0.0588
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Barnet,0.0988,0.6226,0.5238
 2024-09-22 03:32:48.512122,Pure Insurance Championship - Pure Insurance Championship - Winner,Doug Barron,0.0954,0.1053,0.0099
+2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Barnet,0.09230000000000005,0.4,0.3077
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Burton Albion,0.09099999999999997,0.5455,0.4545
+2024-09-22 09:24:55.166861,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.07619999999999993,0.6,0.5238
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Shrewsbury Town,0.06970000000000004,0.3774,0.3077
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Walsall,0.0595,0.5833,0.5238
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Blackpool,0.059099999999999986,0.3448,0.2857
@@ -14,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 01:58:06.361706,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.05449999999999999,0.4545,0.4
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,0.05070000000000002,0.4762,0.4255
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,0.05059999999999998,0.5744,0.5238
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Forest Green Rovers,0.04999999999999999,0.25,0.2
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.0494,0.3571,0.3077
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Barnsley,0.04910000000000003,0.4,0.3509
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Cambridge United,0.04820000000000002,0.6226,0.5744
@@ -24,50 +28,62 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 01:58:06.361706,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,0.044499999999999984,0.2667,0.2222
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,0.044499999999999984,0.2667,0.2222
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,0.044399999999999995,0.6,0.5556
-2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.04410000000000003,0.3774,0.3333
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Walsall,0.04410000000000003,0.3774,0.3333
+2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.04410000000000003,0.3774,0.3333
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Barnsley,0.04169999999999999,0.1667,0.125
-2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jaxson Dart,0.04169999999999999,0.1667,0.125
 2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,0.04169999999999999,0.1667,0.125
+2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jaxson Dart,0.04169999999999999,0.1667,0.125
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Gillingham,0.04099999999999998,0.3077,0.2667
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Reading,0.0403,0.0526,0.0123
 2024-09-22 01:58:06.358546,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.03710000000000002,0.3448,0.3077
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.03570000000000001,0.2857,0.25
 2024-09-22 05:28:29.290330,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.035699999999999954,0.75,0.7143
+2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,AZ Alkmaar,0.034100000000000005,0.125,0.0909
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Yan Liu,0.0335,0.0476,0.0141
-2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Newport County,0.033300000000000024,0.2,0.1667
-2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.033300000000000024,0.2,0.1667
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Mansfield Town,0.033300000000000024,0.2,0.1667
+2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.033300000000000024,0.2,0.1667
+2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Newport County,0.033300000000000024,0.2,0.1667
 2024-09-22 01:58:08.613024,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),0.032900000000000006,0.0714,0.0385
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Lydia Ko,0.03259999999999999,0.2326,0.2
+2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Forest Green Rovers,0.031799999999999995,0.1429,0.1111
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.031799999999999995,0.4762,0.4444
+2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Kansas City Chiefs & Patrick Mahomes,0.028399999999999995,0.0909,0.0625
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.027999999999999997,0.1818,0.1538
+2024-09-22 09:24:55.103454,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.02779999999999999,0.25,0.2222
+2024-09-22 09:24:55.150972,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,FC Porto,0.02679999999999999,0.3125,0.2857
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Walsall,0.0267,0.1176,0.0909
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Barrow FC,0.0242,0.0909,0.0667
-2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,0.023800000000000043,0.5238,0.5
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.023800000000000043,0.5238,0.5
-2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,0.023799999999999988,0.5,0.4762
-2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.023799999999999988,0.3571,0.3333
-2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,0.023799999999999988,0.1667,0.1429
+2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,0.023800000000000043,0.5238,0.5
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,0.023799999999999988,0.5,0.4762
+2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.023799999999999988,0.3571,0.3333
+2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,0.023799999999999988,0.5,0.4762
+2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,0.023799999999999988,0.1667,0.1429
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Barnsley,0.02310000000000001,0.1,0.0769
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,0.02310000000000001,0.1,0.0769
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Bromley,0.022199999999999998,0.1333,0.1111
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cam Ward,0.022199999999999998,0.2222,0.2
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,0.022199999999999998,0.2222,0.2
+2024-09-22 09:24:55.198298,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,0.02200000000000002,0.7143,0.6923
+2024-09-22 09:24:55.103454,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.02100000000000002,0.3846,0.3636
 2024-09-22 07:22:34.337996,BMW PGA Championship - 2/3 Balls - Final Round 3 Balls - E. Pepperell / R. Hojgaard / U. Coussaud - Final Round 3 Balls,Rasmus Hojgaard,0.02079999999999993,0.5556,0.5348
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.02049999999999999,0.1538,0.1333
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,0.02020000000000001,0.1111,0.0909
-2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,0.020100000000000007,0.25,0.2299
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,0.020100000000000007,0.25,0.2299
+2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,0.020100000000000007,0.25,0.2299
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.019000000000000017,0.2857,0.2667
+2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Houston Texans & C.J. Stroud,0.0189,0.0385,0.0196
 2024-09-22 04:33:15.664535,Round Match-Ups - Final Round Match-Ups - A. Rai vs R. McIlroy - Final Round Match-Ups,Rory McIlroy,0.018100000000000005,0.5833,0.5652
-2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Wigan Athletic,0.0179,0.1429,0.125
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,0.0179,0.1429,0.125
+2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Wigan Athletic,0.0179,0.1429,0.125
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Gillingham,0.01759999999999999,0.1176,0.1
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,0.01759999999999995,0.6667,0.6491
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Shrewsbury Town,0.016700000000000048,0.75,0.7333
+2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.016700000000000048,0.75,0.7333
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.016699999999999993,0.2667,0.25
+2024-09-22 09:24:54.997916,Championship - England Championship 2024/25 - Winner,Luton Town,0.015300000000000001,0.0588,0.0435
+2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,York City,0.015100000000000002,0.1818,0.1667
+2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Feyenoord,0.015100000000000002,0.1818,0.1667
 2024-09-22 01:58:06.355069,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Luis Diaz (Liverpool),0.014900000000000004,0.0345,0.0196
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Albane Valenzuela,0.014900000000000004,0.0345,0.0196
 2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,0.014499999999999999,0.0294,0.0149
@@ -77,81 +93,98 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.013999999999999999,0.0909,0.0769
 2024-09-22 01:58:06.358546,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Crystal Palace,0.013999999999999999,0.0909,0.0769
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,0.013999999999999999,0.0909,0.0769
-2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Peterborough United,0.013899999999999996,0.125,0.1111
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Blackpool,0.013899999999999996,0.125,0.1111
+2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Peterborough United,0.013899999999999996,0.125,0.1111
 2024-09-22 04:33:13.157071,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.013299999999999979,0.6429,0.6296
+2024-09-22 08:29:33.905854,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,0.0131,0.2353,0.2222
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.0131,0.2353,0.2222
 2024-09-22 01:58:06.355069,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Nicolas Jackson (Chelsea),0.0131,0.0476,0.0345
-2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,0.012899999999999995,0.1667,0.1538
+2024-09-22 09:24:54.997916,Championship - England Championship 2024/25 - Winner,Burnley,0.012899999999999995,0.1667,0.1538
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Stevenage,0.012899999999999995,0.1667,0.1538
+2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,0.012899999999999995,0.1667,0.1538
 2024-09-22 05:28:29.294832,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.012700000000000045,0.6491,0.6364
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,0.012699999999999989,0.3636,0.3509
-2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Fleetwood Town,0.011199999999999995,0.0588,0.0476
 2024-09-22 01:58:08.608969,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Chop Robinson (MIA),0.011199999999999995,0.0588,0.0476
+2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Fleetwood Town,0.011199999999999995,0.0588,0.0476
+2024-09-22 09:24:55.161499,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens,0.011199999999999995,0.0588,0.0476
 2024-09-22 01:58:08.913552,Round Match-Ups - Final Round Match-Ups - A. Rai vs R. McIlroy - Final Round Match-Ups,Aaron Rai,0.011099999999999999,0.4762,0.4651
-2024-09-22 01:58:06.358546,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.01100000000000001,0.5348,0.5238
+2024-09-22 08:29:33.905854,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Alabama,0.011099999999999999,0.1111,0.1
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,0.01100000000000001,0.5348,0.5238
+2024-09-22 01:58:06.358546,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.01100000000000001,0.5348,0.5238
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Drew Allar,0.010600000000000002,0.0323,0.0217
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.010499999999999982,0.2105,0.2
+2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Exeter City,0.0102,0.0769,0.0667
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Peterborough United,0.0102,0.0769,0.0667
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Crewe Alexandra,0.0102,0.0769,0.0667
-2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Exeter City,0.0102,0.0769,0.0667
-2024-09-22 01:58:08.909390,Round Match-Ups - Final Round Match-Ups - B. Horschel vs R. MacIntyre - Final Round Match-Ups,Billy Horschel,-0.010099999999999998,0.5455,0.5556
-2024-09-22 01:58:08.917714,Round Match-Ups - Final Round Match-Ups - A. Rozner vs H. Hall - Final Round Match-Ups,Harry Hall,-0.010099999999999998,0.5455,0.5556
-2024-09-22 01:58:08.900939,Round Match-Ups - Final Round Match-Ups - E. Pepperell vs Y. Paul - Final Round Match-Ups,Yannik Paul,-0.010099999999999998,0.5455,0.5556
+2024-09-22 09:24:55.234883,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Shelbourne FC,0.010099999999999998,0.5556,0.5455
 2024-09-22 07:22:34.377875,Kroger Queen City Championship - 2/3 Balls - Final Round 3 Balls - N. Korda / A. Buhai / K. Gillman - Final Round 3 Balls,Ashleigh Buhai,-0.010099999999999998,0.3125,0.3226
-2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers,-0.0102,0.0667,0.0769
-2024-09-22 01:58:08.608969,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell (PHI),-0.0102,0.0667,0.0769
-2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Lincoln City,-0.0102,0.0667,0.0769
+2024-09-22 01:58:08.900939,Round Match-Ups - Final Round Match-Ups - E. Pepperell vs Y. Paul - Final Round Match-Ups,Yannik Paul,-0.010099999999999998,0.5455,0.5556
+2024-09-22 01:58:08.917714,Round Match-Ups - Final Round Match-Ups - A. Rozner vs H. Hall - Final Round Match-Ups,Harry Hall,-0.010099999999999998,0.5455,0.5556
+2024-09-22 09:24:55.135021,Super League - Greece Super League 2024/25 - Winner,Olympiakos,-0.010099999999999998,0.4444,0.4545
+2024-09-22 01:58:08.909390,Round Match-Ups - Final Round Match-Ups - B. Horschel vs R. MacIntyre - Final Round Match-Ups,Billy Horschel,-0.010099999999999998,0.5455,0.5556
 2024-09-22 01:58:06.355069,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),-0.0102,0.0667,0.0769
-2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Shrewsbury Town,-0.010300000000000002,0.0141,0.0244
+2024-09-22 01:58:08.608969,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell (PHI),-0.0102,0.0667,0.0769
+2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers,-0.0102,0.0667,0.0769
+2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Lincoln City,-0.0102,0.0667,0.0769
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Harrogate Town,-0.010300000000000002,0.0141,0.0244
+2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Shrewsbury Town,-0.010300000000000002,0.0141,0.0244
 2024-09-22 01:58:08.892561,Round Match-Ups - Final Round Match-Ups - A. Noren vs T. Detry - Final Round Match-Ups,Thomas Detry,-0.010599999999999998,0.4545,0.4651
-2024-09-22 01:58:08.905136,Round Match-Ups - Final Round Match-Ups - J. Winther vs M. Kinhult - Final Round Match-Ups,Marcus Kinhult,-0.010699999999999932,0.5348,0.5455
 2024-09-22 01:58:08.926108,Round Match-Ups - Final Round Match-Ups - M. Manassero vs T. Lawrence - Final Round Match-Ups,Matteo Manassero,-0.010699999999999932,0.5348,0.5455
 2024-09-22 01:58:08.921942,Round Match-Ups - Final Round Match-Ups - M. Armitage vs M. Baldwin - Final Round Match-Ups,Matthew Baldwin,-0.010699999999999932,0.5348,0.5455
+2024-09-22 01:58:08.905136,Round Match-Ups - Final Round Match-Ups - J. Winther vs M. Kinhult - Final Round Match-Ups,Marcus Kinhult,-0.010699999999999932,0.5348,0.5455
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,-0.010699999999999987,0.3226,0.3333
 2024-09-22 04:33:13.264803,League Two - England League Two 2024/25 - To Finish Bottom,Crewe Alexandra,-0.010700000000000001,0.0278,0.0385
 2024-09-22 03:32:48.512122,Pure Insurance Championship - Pure Insurance Championship - Winner,Rod Pampling,-0.010700000000000001,0.011,0.0217
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,-0.010899999999999993,0.1429,0.1538
+2024-09-22 01:58:08.896741,Round Match-Ups - Final Round Match-Ups - R. Hojgaard vs S.W. Kim - Final Round Match-Ups,Rasmus Hojgaard,-0.01100000000000001,0.5238,0.5348
 2024-09-22 01:58:08.888335,Round Match-Ups - Final Round Match-Ups - E. Ferguson vs N. Norgaard - Final Round Match-Ups,Ewen Ferguson,-0.01100000000000001,0.5238,0.5348
 2024-09-22 01:58:08.896741,Round Match-Ups - Final Round Match-Ups - R. Hojgaard vs S.W. Kim - Final Round Match-Ups,Si Woo Kim,-0.01100000000000001,0.5238,0.5348
 2024-09-22 01:58:08.888335,Round Match-Ups - Final Round Match-Ups - E. Ferguson vs N. Norgaard - Final Round Match-Ups,Niklas Norgaard,-0.01100000000000001,0.5238,0.5348
-2024-09-22 01:58:08.896741,Round Match-Ups - Final Round Match-Ups - R. Hojgaard vs S.W. Kim - Final Round Match-Ups,Rasmus Hojgaard,-0.01100000000000001,0.5238,0.5348
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.011099999999999999,0.1,0.1111
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Stevenage,-0.011099999999999999,0.1,0.1111
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Miller Moss,-0.011199999999999995,0.0476,0.0588
+2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Swindon Town,-0.011199999999999995,0.0476,0.0588
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,-0.011199999999999995,0.0476,0.0588
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Harrogate Town,-0.011199999999999995,0.0476,0.0588
-2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Swindon Town,-0.011199999999999995,0.0476,0.0588
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Salford City,-0.0115,0.0179,0.0294
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Maidenhead United,-0.0116,0.0033,0.0149
+2024-09-22 01:58:08.905136,Round Match-Ups - Final Round Match-Ups - J. Winther vs M. Kinhult - Final Round Match-Ups,Jeff Winther,-0.011600000000000055,0.5122,0.5238
 2024-09-22 01:58:08.921942,Round Match-Ups - Final Round Match-Ups - M. Armitage vs M. Baldwin - Final Round Match-Ups,Marcus Armitage,-0.011600000000000055,0.5122,0.5238
 2024-09-22 01:58:08.926108,Round Match-Ups - Final Round Match-Ups - M. Manassero vs T. Lawrence - Final Round Match-Ups,Thriston Lawrence,-0.011600000000000055,0.5122,0.5238
-2024-09-22 01:58:08.905136,Round Match-Ups - Final Round Match-Ups - J. Winther vs M. Kinhult - Final Round Match-Ups,Jeff Winther,-0.011600000000000055,0.5122,0.5238
+2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Hartlepool United,-0.012100000000000001,0.0123,0.0244
+2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Solihull Moors,-0.012100000000000001,0.0123,0.0244
+2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Yeovil Town,-0.012100000000000001,0.0123,0.0244
+2024-09-22 01:58:08.917714,Round Match-Ups - Final Round Match-Ups - A. Rozner vs H. Hall - Final Round Match-Ups,Antoine Rozner,-0.012199999999999989,0.5,0.5122
 2024-09-22 01:58:08.909390,Round Match-Ups - Final Round Match-Ups - B. Horschel vs R. MacIntyre - Final Round Match-Ups,Robert MacIntyre,-0.012199999999999989,0.5,0.5122
 2024-09-22 01:58:08.900939,Round Match-Ups - Final Round Match-Ups - E. Pepperell vs Y. Paul - Final Round Match-Ups,Eddie Pepperell,-0.012199999999999989,0.5,0.5122
-2024-09-22 01:58:08.917714,Round Match-Ups - Final Round Match-Ups - A. Rozner vs H. Hall - Final Round Match-Ups,Antoine Rozner,-0.012199999999999989,0.5,0.5122
 2024-09-22 04:33:13.157071,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.012299999999999978,0.3448,0.3571
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter,-0.012600000000000007,0.0588,0.0714
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Wrexham,-0.012699999999999989,0.3509,0.3636
 2024-09-22 01:58:06.358546,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,-0.012700000000000045,0.6364,0.6491
 2024-09-22 05:28:29.447129,Premiership - Scotland Premiership 2024/25 - Winner,Rangers,-0.012899999999999995,0.1538,0.1667
 2024-09-22 01:58:08.608969,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Byron Murphy (SEA),-0.012899999999999995,0.1538,0.1667
-2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Harrogate Town,-0.012999999999999998,0.0164,0.0294
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Bristol Rovers,-0.012999999999999998,0.0164,0.0294
+2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Harrogate Town,-0.012999999999999998,0.0164,0.0294
 2024-09-21 23:23:54.725146,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Newcastle United,-0.012999999999999998,0.0164,0.0294
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,AFC Fylde,-0.013,0.0066,0.0196
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Aldershot Town,-0.0131,0.0345,0.0476
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Hartlepool United,-0.0131,0.0345,0.0476
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Yeovil Town,-0.0131,0.0345,0.0476
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Maria Fassi,-0.0131,0.001,0.0141
+2024-09-22 09:24:55.198298,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,-0.013899999999999996,0.1111,0.125
+2024-09-22 09:24:57.728067,NFL Awards & League Leaders - Super Bowl 59 Winner & Regular Season MVP Winner Parlays - SB LIX Winner & Reg Season MVP,Green Bay Packers & Jordan Love,-0.0139,0.0057,0.0196
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jin Hee Im,-0.0139,0.0013,0.0152
-2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Dillon Gabriel,-0.013999999999999999,0.0769,0.0909
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Carlisle United,-0.013999999999999999,0.0769,0.0909
+2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Dillon Gabriel,-0.013999999999999999,0.0769,0.0909
+2024-09-22 09:24:54.997916,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.01440000000000001,0.0909,0.1053
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.01469999999999999,0.2353,0.25
 2024-09-22 07:22:34.337996,BMW PGA Championship - 2/3 Balls - Final Round 3 Balls - E. Pepperell / R. Hojgaard / U. Coussaud - Final Round 3 Balls,Ugo Coussaud,-0.01469999999999999,0.2353,0.25
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,-0.01469999999999999,0.2353,0.25
 2024-09-22 01:58:08.613024,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Drake Maye (NE),-0.014900000000000004,0.0196,0.0345
-2024-09-22 01:58:06.361706,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,West Ham United,-0.015300000000000001,0.0323,0.0476
+2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Burton Albion,-0.015300000000000001,0.0323,0.0476
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Newport County,-0.015300000000000001,0.0323,0.0476
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Stevenage,-0.015300000000000001,0.0323,0.0476
-2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Burton Albion,-0.015300000000000001,0.0323,0.0476
+2024-09-22 01:58:06.361706,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,West Ham United,-0.015300000000000001,0.0323,0.0476
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Sei Young Kim,-0.015499999999999998,0.0123,0.0278
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Chesterfield,-0.015700000000000006,0.1176,0.1333
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Nanna Koertz Madsen,-0.0163,0.0033,0.0196
@@ -159,39 +192,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 01:58:08.892561,Round Match-Ups - Final Round Match-Ups - A. Noren vs T. Detry - Final Round Match-Ups,Alex Noren,-0.016699999999999937,0.5833,0.6
 2024-09-22 01:58:08.608969,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),-0.016699999999999993,0.25,0.2667
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Mansfield Town,-0.016700000000000007,0.0833,0.1
-2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.016700000000000007,0.0833,0.1
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Notts County,-0.016700000000000007,0.0833,0.1
+2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.016700000000000007,0.0833,0.1
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Barnsley,-0.0168,0.0217,0.0385
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Wrexham,-0.01759999999999995,0.6491,0.6667
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,York City,-0.017600000000000005,0.3333,0.3509
 2024-09-21 23:23:54.725146,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.017600000000000005,0.3333,0.3509
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Salford City,-0.018099999999999998,0.0588,0.0769
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Crewe Alexandra,-0.018099999999999998,0.0588,0.0769
 2024-09-22 05:28:29.290330,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.019000000000000017,0.2667,0.2857
+2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Rochdale,-0.019099999999999992,0.0476,0.0667
 2024-09-22 01:58:08.613024,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),-0.019099999999999995,0.0244,0.0435
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.019699999999999995,0.1053,0.125
 2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Tranmere Rovers,-0.019800000000000005,0.0278,0.0476
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Rotherham Utd,-0.02020000000000001,0.0909,0.1111
-2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Peterborough United,-0.0203,0.0385,0.0588
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Blackpool,-0.0203,0.0385,0.0588
-2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Wigan Athletic,-0.0203,0.0385,0.0588
-2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Reading,-0.0203,0.0385,0.0588
 2024-09-22 01:58:08.613024,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brian Thomas (JAX),-0.0203,0.0323,0.0526
+2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Reading,-0.0203,0.0385,0.0588
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Solihull Moors,-0.0203,0.0385,0.0588
+2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Wigan Athletic,-0.0203,0.0385,0.0588
+2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Peterborough United,-0.0203,0.0385,0.0588
 2024-09-22 01:58:08.608969,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Dallas Turner (MIN),-0.02049999999999999,0.1333,0.1538
 2024-09-22 04:33:15.664535,Round Match-Ups - Final Round Match-Ups - A. Rai vs R. McIlroy - Final Round Match-Ups,Aaron Rai,-0.021699999999999997,0.4545,0.4762
+2024-09-22 08:29:33.905854,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,USC,-0.021799999999999996,0.0217,0.0435
+2024-09-22 08:29:33.905854,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Georgia,-0.02210000000000001,0.2105,0.2326
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Pajaree Anannarukarn,-0.023100000000000002,0.0013,0.0244
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Reading,-0.02310000000000001,0.0769,0.1
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,-0.02310000000000001,0.0769,0.1
 2024-09-22 04:33:13.248412,League One - England League One 2024/25 - Top 2 Finish,Rotherham Utd,-0.0232,0.0435,0.0667
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Wigan Athletic,-0.023799999999999988,0.1429,0.1667
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Stockport County,-0.023800000000000043,0.5,0.5238
-2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.0242,0.0667,0.0909
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Newport County,-0.0242,0.0667,0.0909
+2024-09-22 04:33:13.255888,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.0242,0.0667,0.0909
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,-0.025499999999999967,0.4,0.4255
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.02560000000000001,0.3077,0.3333
-2024-09-22 04:33:13.236754,League One - England League One 2024/25 - Winner,Charlton Athletic,-0.026499999999999996,0.0323,0.0588
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Nelly Korda,-0.026499999999999996,0.0323,0.0588
+2024-09-22 04:33:13.236754,League One - England League One 2024/25 - Winner,Charlton Athletic,-0.026499999999999996,0.0323,0.0588
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Yealimi Noh,-0.0265,0.0013,0.0278
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.027700000000000002,0.4167,0.4444
+2024-09-22 09:24:55.150972,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,-0.02779999999999999,0.2222,0.25
 2024-09-22 03:32:48.512122,Pure Insurance Championship - Pure Insurance Championship - Winner,Stephen Ames,-0.0282,0.0244,0.0526
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Exeter City,-0.029299999999999993,0.0476,0.0769
 2024-09-22 01:58:08.613024,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Xavier Worthy (KC),-0.029299999999999993,0.0476,0.0769
@@ -200,13 +239,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.031399999999999983,0.2353,0.2667
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Arch Manning,-0.03219999999999999,0.0345,0.0667
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Leyton Orient,-0.03219999999999999,0.0345,0.0667
+2024-09-22 09:24:55.203780,National League - English National League - Outright Winner 2024/25,Gateshead,-0.033300000000000024,0.1667,0.2
 2024-09-22 04:33:13.261788,League Two - England League Two 2024/25 - To Be Relegated,Grimsby Town,-0.034100000000000005,0.0909,0.125
 2024-09-22 01:58:06.358546,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Fulham,-0.034100000000000005,0.0909,0.125
 2024-09-22 04:33:13.245494,League One - England League One 2024/25 - To Finish Bottom,Northampton Town,-0.03420000000000001,0.0769,0.1111
 2024-09-22 01:58:08.913552,Round Match-Ups - Final Round Match-Ups - A. Rai vs R. McIlroy - Final Round Match-Ups,Rory McIlroy,-0.03479999999999994,0.5652,0.6
 2024-09-21 22:27:45.269489,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Gaby Lopez,-0.035300000000000005,0.0123,0.0476
-2024-09-22 01:58:08.613024,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),-0.03570000000000001,0.25,0.2857
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,-0.03570000000000001,0.25,0.2857
+2024-09-22 01:58:08.613024,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),-0.03570000000000001,0.25,0.2857
 2024-09-22 04:33:13.239646,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,-0.03889999999999999,0.1429,0.1818
 2024-09-22 04:33:13.242565,League One - England League One 2024/25 - To Be Relegated,Northampton Town,-0.04089999999999999,0.3846,0.4255
 2024-09-22 01:58:08.613024,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Marvin Harrison Jr. (ARI),-0.04409999999999997,0.25,0.2941
@@ -217,7 +257,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-22 08:29:33.900555,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty,-0.048799999999999996,0.0345,0.0833
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.04910000000000003,0.6,0.6491
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.04999999999999999,0.2,0.25
+2024-09-22 09:24:55.208009,National League - English National League - To Be Promoted,Gateshead,-0.05520000000000003,0.3448,0.4
 2024-09-22 04:33:13.258801,League Two - England League Two 2024/25 - To Be Promoted,Tranmere Rovers,-0.05559999999999998,0.1111,0.1667
+2024-09-22 09:24:55.103454,First Division A - Belgium First Division A 2024/25 - Outright,Anderlecht,-0.05559999999999998,0.1111,0.1667
+2024-09-22 09:24:55.140278,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Ajax,-0.0585,0.0526,0.1111
+2024-09-22 09:24:55.166861,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.05980000000000002,0.3846,0.4444
 2024-09-22 04:33:13.267729,League Two - England League Two 2024/25 - Top 3 Finish,Tranmere Rovers,-0.0625,0.0625,0.125
 2024-09-22 04:33:13.251286,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,-0.067,0.3774,0.4444
 2024-09-22 04:33:13.270654,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,-0.06929999999999997,0.4762,0.5455
