@@ -1,71 +1,42 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Daniel Craig - Queer,0.13130000000000003,0.2222,0.0909
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Brutalist,0.10910000000000002,0.2,0.0909
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,0.1071,0.25,0.1429
-2024-09-22 12:45:26.782600,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,0.10060000000000002,0.6923,0.5917
-2024-09-22 13:27:04.155710,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Jennifer Grey - A Real Pain,0.04999999999999999,0.25,0.2
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Sing Sing,0.04999999999999999,0.25,0.2
+2024-09-23 01:52:32.427442,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.05520000000000003,0.4,0.3448
 2024-09-22 23:25:49.193811,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; DEM House,0.047599999999999976,0.3333,0.2857
-2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Ralph Fiennes - Conclave,0.03570000000000001,0.2857,0.25
-2024-09-22 13:27:04.335832,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pietro Parolin (Italy),0.033100000000000004,0.0625,0.0294
-2024-09-22 13:27:04.325607,Nobel Prizes - Nobel Peace Prize 2024 - Nobel Peace Prize 2024,Motaz Azaiza,0.030199999999999998,0.0625,0.0323
-2024-09-22 13:27:06.472439,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,New York Yankees,0.023799999999999988,0.3571,0.3333
+2024-09-23 01:52:32.436413,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,0.04240000000000001,0.1333,0.0909
 2024-09-22 14:26:46.993209,Joe Biden Specials - Hunter Biden: Federal Tax Case - Will Hunter be sentenced to prison? - Tax: Will Hunter be sentenced to prison?,Yes,0.021999999999999964,0.3077,0.2857
-2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,0.021999999999999964,0.3077,0.2857
-2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Luis Suarez,0.016699999999999993,0.2667,0.25
+2024-09-23 01:52:32.440822,Ligue 1 - France Ligue 1 2024/25 - Winner,Monaco,0.02020000000000001,0.1111,0.0909
+2024-09-23 01:52:32.619931,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,0.017600000000000005,0.3509,0.3333
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,0.016600000000000004,0.0833,0.0667
-2024-09-22 13:27:06.476657,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,0.015400000000000025,0.3279,0.3125
+2024-09-23 01:52:32.436413,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.015100000000000002,0.1818,0.1667
+2024-09-23 01:52:32.431979,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.014700000000000046,0.7647,0.75
 2024-09-22 15:25:26.916468,NFL Weekly Specials - NFL Week 3- Leaders - Most Passing Yards (Sunday Only),Derek Carr (NO),0.014399999999999996,0.0769,0.0625
-2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Barry Keoghan - Bird,0.013999999999999999,0.0909,0.0769
-2024-09-22 13:27:04.155710,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Toni Collette - Juror No. 2,0.013999999999999999,0.0909,0.0769
 2024-09-22 14:26:47.357613,NFL Weekly Specials - NFL Week 3- Leaders - Highest Scoring Game (Sunday Only),HOU Texans @ MIN Vikings,0.013899999999999996,0.125,0.1111
 2024-09-22 21:23:10.856694,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.011900000000000022,0.7619,0.75
 2024-09-22 19:19:51.577838,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,0.011600000000000055,0.5238,0.5122
+2024-09-23 01:52:32.427442,La Liga - Spain La Liga 2024/25 - Winner,Athletic Bilbao,0.011399999999999997,0.0278,0.0164
 2024-09-22 18:31:29.948723,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.011099999999999999,0.4762,0.4651
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 5 - 14,0.0102,0.0769,0.0667
 2024-09-22 21:23:11.045132,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Sandy Ryan,0.010099999999999998,0.5556,0.5455
+2024-09-23 01:52:34.717746,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,0.010099999999999998,0.3226,0.3125
 2024-09-22 19:19:51.577838,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Sandy Ryan,-0.010099999999999998,0.5455,0.5556
-2024-09-22 13:27:06.476657,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Milwaukee Brewers,-0.010099999999999998,0.0952,0.1053
 2024-09-22 20:26:36.082052,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,-0.010299999999999976,0.2564,0.2667
 2024-09-22 23:25:49.687165,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.011099999999999999,0.4651,0.4762
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Nickel Boys,-0.011199999999999995,0.0476,0.0588
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Parachute,-0.011399999999999997,0.0164,0.0278
-2024-09-22 16:30:38.520873,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.0116,0.4762,0.4878
 2024-09-22 16:30:38.524948,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.0116,0.4762,0.4878
+2024-09-22 16:30:38.520873,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.0116,0.4762,0.4878
 2024-09-22 21:23:11.045132,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.011600000000000055,0.5122,0.5238
-2024-09-22 13:27:04.335832,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Christoph Schonborn (Austria),-0.013999999999999999,0.0769,0.0909
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Actor,-0.014099999999999998,0.0244,0.0385
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Conclave,-0.014399999999999996,0.0625,0.0769
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Long Game,-0.015300000000000001,0.0323,0.0476
-2024-09-22 13:27:04.160767,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Ukraine,-0.0179,0.125,0.1429
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Megalopolis,-0.0189,0.0196,0.0385
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Nosferatu,-0.019800000000000005,0.0278,0.0476
-2024-09-22 13:27:06.472439,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Kansas City Royals,-0.02020000000000001,0.0909,0.1111
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Seed of the Sacred Fig,-0.0203,0.0385,0.0588
-2024-09-22 12:45:26.773576,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,-0.02100000000000002,0.3636,0.3846
-2024-09-22 12:45:26.776973,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,-0.021999999999999964,0.2857,0.3077
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Room Next Door,-0.023200000000000002,0.0244,0.0476
+2024-09-23 01:52:32.431979,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,RB Leipzig,-0.0131,0.0345,0.0476
+2024-09-23 01:52:32.427442,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.013299999999999979,0.6296,0.6429
+2024-09-23 01:52:32.431979,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.016699999999999993,0.25,0.2667
+2024-09-23 01:52:32.427442,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.02310000000000001,0.0769,0.1
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 35 - 64,-0.023799999999999988,0.1429,0.1667
+2024-09-23 01:52:32.619931,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,-0.023800000000000043,0.5,0.5238
 2024-09-22 23:25:49.193811,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; DEM Senate; REP House,-0.0253,0.0132,0.0385
 2024-09-22 14:26:46.993209,Joe Biden Specials - Hunter Biden: Federal Tax Case - Will Hunter be sentenced to prison? - Tax: Will Hunter be sentenced to prison?,No,-0.026499999999999968,0.7561,0.7826
-2024-09-22 12:45:26.782600,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Vancouver Whitecaps,-0.026499999999999996,0.0323,0.0588
 2024-09-22 23:25:49.193811,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,-0.02729999999999999,0.3175,0.3448
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Bird,-0.028000000000000004,0.0196,0.0476
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Here,-0.028000000000000004,0.0196,0.0476
 2024-09-22 21:23:10.856694,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,3,-0.028199999999999996,0.0385,0.0667
-2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Sebastian Stan - The Apprentice,-0.028399999999999995,0.0625,0.0909
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Joker: Folie A Deux,-0.029299999999999993,0.0476,0.0769
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Fancy Dance,-0.031200000000000002,0.0164,0.0476
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Flint String,-0.031200000000000002,0.0164,0.0476
-2024-09-22 13:27:04.160767,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Israel,-0.031799999999999995,0.1111,0.1429
-2024-09-22 13:27:04.258861,45th Razzie Awards - Worst Picture - Worst Picture,Argylle,-0.03420000000000001,0.0769,0.1111
+2024-09-23 01:52:32.431979,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Borussia Dortmund,-0.03439999999999999,0.0323,0.0667
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 35 - 64,-0.036199999999999996,0.1176,0.1538
 2024-09-22 14:26:46.668994,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 15 - 34,-0.048100000000000004,0.0769,0.125
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,A Real Pain,-0.0491,0.0278,0.0769
-2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Jesse Eisenberg - A Real Pain,-0.04999999999999999,0.2,0.25
+2024-09-23 01:52:32.436413,Serie A - Italy Serie A 2024/25 - Winner,Juventus,-0.04999999999999999,0.2,0.25
 2024-09-22 14:26:46.904426,Donald Trump Specials - Donald Trump to be a guest on The Joe Rogan Experience - Trump & Joe Rogan,Trump to guest on The Joe Rogan Experience before the 2024 presidential election,-0.06659999999999999,0.2667,0.3333
 2024-09-22 23:25:49.193811,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; DEM Senate; DEM House,-0.07239999999999996,0.2353,0.3077
-2024-09-22 13:27:04.139012,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Colman Domingo - Sing Sing,-0.07619999999999999,0.4,0.4762
-2024-09-22 12:45:26.782600,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,-0.12869999999999998,0.2222,0.3509
-2024-09-22 13:27:04.134837,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Dune: Part Two,-0.1346,0.25,0.3846
-2024-09-22 13:27:04.258861,45th Razzie Awards - Worst Picture - Worst Picture,Megalopolis,-0.22219999999999998,0.1111,0.3333
+2024-09-23 01:52:32.436413,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.12529999999999997,0.5238,0.6491
