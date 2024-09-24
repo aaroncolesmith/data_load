@@ -8,8 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-24 01:52:43.638532,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Tigres UANL,0.04999999999999999,0.25,0.2
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Allisen Corpuz,0.0365,0.0385,0.002
 2024-09-24 01:52:43.787161,J1 League - Japan J1 League 2024 - Winner,Sanfrecce Hiroshima,0.030299999999999994,0.3636,0.3333
-2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Ally Ewing,0.029500000000000002,0.0345,0.005
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Ashleigh Buhai,0.029500000000000002,0.0323,0.0028
+2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Ally Ewing,0.029500000000000002,0.0345,0.005
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Yealimi Noh,0.027,0.0278,0.0008
 2024-09-24 01:52:43.533471,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,0.025300000000000003,0.1429,0.1176
 2024-09-23 17:28:12.896686,MLB Futures - MLB 2024 To Make The Postseason - Minnesota Twins,No,0.024399999999999977,0.5122,0.4878
@@ -17,11 +17,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Jenny Shin,0.022799999999999997,0.0278,0.005
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Pajaree Anannarukarn,0.022400000000000003,0.0244,0.002
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Lexi Thompson,0.022200000000000004,0.0345,0.0123
-2024-09-24 02:55:52.619796,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,0.021999999999999964,0.3077,0.2857
 2024-09-24 01:52:43.638532,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Cruz Azul,0.021999999999999964,0.3077,0.2857
+2024-09-24 02:55:52.619796,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,0.021999999999999964,0.3077,0.2857
 2024-09-24 02:55:52.851218,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,0.020100000000000007,0.25,0.2299
-2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Carlota Ciganda,0.017599999999999998,0.0196,0.002
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Maja Stark,0.017599999999999998,0.0196,0.002
+2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Carlota Ciganda,0.017599999999999998,0.0196,0.002
 2024-09-23 22:30:02.868130,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.015900000000000025,0.7778,0.7619
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Madelene Sagstrom,0.0156,0.0196,0.004
 2024-09-24 02:55:52.851218,Super League - Greece Super League 2024/25 - Winner,Panathinaikos,0.015100000000000002,0.1818,0.1667
@@ -35,20 +35,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-23 18:34:05.845131,Boxing Lines - Rhiannon Dixon vs Terri Harper - To Win the Bout,Rhiannon Dixon,-0.010199999999999987,0.7937,0.8039
 2024-09-24 02:55:52.619796,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.010899999999999993,0.1429,0.1538
 2024-09-23 17:28:12.893082,MLB Futures - MLB 2024 To Make The Postseason - Detroit Tigers,No,-0.011099999999999999,0.2667,0.2778
-2024-09-24 01:52:43.638532,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Club América,-0.012899999999999995,0.1538,0.1667
 2024-09-23 19:22:44.202171,LKL - Lithuania LKL 2024/25 - Outright,Rytas,-0.012899999999999995,0.1538,0.1667
+2024-09-24 01:52:43.638532,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Club América,-0.012899999999999995,0.1538,0.1667
 2024-09-24 01:52:43.638532,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,-0.013999999999999999,0.0769,0.0909
 2024-09-24 02:55:52.619796,MLS - USA MLS 2024 - Futures - To Reach the Final,Toronto FC,-0.014099999999999998,0.0244,0.0385
 2024-09-24 01:52:43.638532,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,-0.015100000000000002,0.1667,0.1818
+2024-09-24 02:55:52.616345,MLS - USA MLS 2024 - Futures - Golden Boot Award,Luis Suarez,-0.016699999999999993,0.25,0.2667
 2024-09-23 17:28:12.896686,MLB Futures - MLB 2024 To Make The Postseason - Minnesota Twins,Yes,-0.01880000000000004,0.5556,0.5744
 2024-09-24 02:55:52.616345,MLS - USA MLS 2024 - Futures - Golden Boot Award,Dejan Joveljic,-0.0194,0.005,0.0244
 2024-09-24 02:55:52.616345,MLS - USA MLS 2024 - Futures - Golden Boot Award,Felipe Mora,-0.0194,0.005,0.0244
 2024-09-24 02:55:52.616345,MLS - USA MLS 2024 - Futures - Golden Boot Award,Petar Musa,-0.019499999999999997,0.0099,0.0294
-2024-09-24 01:52:43.538706,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Real Salt Lake,-0.02020000000000001,0.0909,0.1111
 2024-09-24 01:52:43.787161,J1 League - Japan J1 League 2024 - Winner,Kashima Antlers,-0.02020000000000001,0.0909,0.1111
+2024-09-24 01:52:43.538706,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Real Salt Lake,-0.02020000000000001,0.0909,0.1111
 2024-09-24 02:55:52.616345,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,-0.021999999999999964,0.2857,0.3077
-2024-09-24 02:55:52.619796,MLS - USA MLS 2024 - Futures - To Reach the Final,Real Salt Lake,-0.022199999999999998,0.1111,0.1333
 2024-09-24 02:55:52.619796,MLS - USA MLS 2024 - Futures - To Reach the Final,Columbus Crew,-0.022199999999999998,0.2,0.2222
+2024-09-24 02:55:52.619796,MLS - USA MLS 2024 - Futures - To Reach the Final,Real Salt Lake,-0.022199999999999998,0.1111,0.1333
 2024-09-24 02:55:52.616345,MLS - USA MLS 2024 - Futures - Golden Boot Award,Cristian Arango,-0.023799999999999988,0.1429,0.1667
 2024-09-24 01:52:43.533471,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,-0.024999999999999994,0.1,0.125
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Ryann OToole,-0.0286,0.0099,0.0385
@@ -58,6 +59,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-24 01:52:43.538706,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,-0.04040000000000002,0.1818,0.2222
 2024-09-24 01:52:43.638532,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Deportivo Toluca,-0.04169999999999999,0.125,0.1667
 2024-09-24 01:52:43.787161,J1 League - Japan J1 League 2024 - Winner,Gamba Osaka,-0.04440000000000001,0.0667,0.1111
+2024-09-24 02:55:52.616345,MLS - USA MLS 2024 - Futures - Golden Boot Award,Lionel Messi,-0.052399999999999995,0.0385,0.0909
 2024-09-24 02:55:52.619796,MLS - USA MLS 2024 - Futures - To Reach the Final,Los Angeles FC,-0.0635,0.2222,0.2857
 2024-09-23 21:25:00.680100,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Outright,Lilia Vu,-0.0705,0.0833,0.1538
 2024-09-23 19:22:44.849398,2024 Election Core - US Presidential Election 2024 - Election Specials - Will Nebraska switch to winner-take-all?,Yes,-0.10910000000000002,0.0909,0.2
