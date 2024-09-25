@@ -1,12 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-25 08:34:25.152371,Scores - 1st Round Score - Aaron Rai - 1st Round Score,Over 68.5,0.07939999999999997,0.5556,0.4762
+2024-09-25 09:28:20.318757,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Degerfors IF,0.06669999999999998,0.6667,0.6
 2024-09-25 08:34:25.156841,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 67.5,0.06520000000000004,0.5652,0.5
+2024-09-25 09:28:20.209754,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,River Plate,0.057699999999999974,0.3077,0.25
 2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Sabrina Ionescu (NYL),0.04269999999999999,0.1538,0.1111
-2024-09-24 21:24:29.529050,Tournament Match-Ups - Tournament Match-Up - R. Langasque vs R. Neergaard-Petersen - Tournament Match-Up,Romain Langasque,0.03610000000000002,0.5917,0.5556
+2024-09-25 09:28:20.209754,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Botafogo,0.033399999999999985,0.1667,0.1333
 2024-09-25 01:53:48.314464,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.03179999999999994,0.5556,0.5238
 2024-09-25 08:34:25.179153,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
-2024-09-25 08:34:25.188020,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
 2024-09-25 08:34:25.183561,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
+2024-09-25 08:34:25.188020,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
 2024-09-25 01:53:48.276562,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.025599999999999956,0.6552,0.6296
 2024-09-25 02:58:14.653465,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,Takeshi Ishii,0.02260000000000001,0.4,0.3774
 2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Kelsey Plum (LVA),0.021199999999999997,0.0278,0.0066
@@ -36,6 +38,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-25 08:34:25.183561,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 68.5,-0.03480000000000005,0.5,0.5348
 2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Breanna Stewart (NYL),-0.039699999999999985,0.2381,0.2778
 2024-09-25 08:34:25.179153,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Under 68.5,-0.043399999999999994,0.5122,0.5556
-2024-09-24 21:24:29.529050,Tournament Match-Ups - Tournament Match-Up - R. Langasque vs R. Neergaard-Petersen - Tournament Match-Up,Rasmus Neergaard-Petersen,-0.04760000000000003,0.4762,0.5238
+2024-09-25 09:28:20.318757,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,-0.0635,0.2222,0.2857
 2024-09-25 08:34:25.152371,Scores - 1st Round Score - Aaron Rai - 1st Round Score,Under 68.5,-0.07950000000000002,0.5122,0.5917
 2024-09-25 08:34:25.156841,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 67.5,-0.08330000000000004,0.5,0.5833
