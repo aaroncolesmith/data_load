@@ -1,27 +1,41 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-09-25 08:34:25.152371,Scores - 1st Round Score - Aaron Rai - 1st Round Score,Over 68.5,0.07939999999999997,0.5556,0.4762
+2024-09-25 08:34:25.156841,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 67.5,0.06520000000000004,0.5652,0.5
+2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Sabrina Ionescu (NYL),0.04269999999999999,0.1538,0.1111
 2024-09-24 21:24:29.529050,Tournament Match-Ups - Tournament Match-Up - R. Langasque vs R. Neergaard-Petersen - Tournament Match-Up,Romain Langasque,0.03610000000000002,0.5917,0.5556
 2024-09-25 01:53:48.314464,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.03179999999999994,0.5556,0.5238
+2024-09-25 08:34:25.179153,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
+2024-09-25 08:34:25.188020,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
+2024-09-25 08:34:25.183561,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
 2024-09-25 01:53:48.276562,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.025599999999999956,0.6552,0.6296
 2024-09-25 02:58:14.653465,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,Takeshi Ishii,0.02260000000000001,0.4,0.3774
+2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Kelsey Plum (LVA),0.021199999999999997,0.0278,0.0066
 2024-09-25 01:53:48.461633,League One - England League One 2024/25 - Winner,Birmingham City,0.019499999999999962,0.6491,0.6296
 2024-09-25 06:35:41.246951,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,Takeshi Ishii,0.016699999999999993,0.4167,0.4
-2024-09-24 20:28:21.582607,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Bakhram Murtazaliev,0.0131,0.2353,0.2222
 2024-09-25 01:53:51.139079,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Tim Tszyu,0.012899999999999912,0.8462,0.8333
 2024-09-25 04:31:32.516082,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,0.012199999999999989,0.5122,0.5
 2024-09-25 04:31:31.806062,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.0116,0.4878,0.4762
 2024-09-25 04:31:31.801903,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.0116,0.4878,0.4762
-2024-09-24 20:28:20.403994,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 43.5,0.010699999999999932,0.5455,0.5348
+2024-09-25 08:34:23.385760,WNBA Championship - WNBA Championship 2024 - Championship Winner,Connecticut Sun,0.011099999999999999,0.1111,0.1
 2024-09-25 07:24:56.097048,Euro Cup - Euro Cup 2024/25 - Outright,Besiktas,-0.0102,0.0667,0.0769
-2024-09-24 20:28:20.403994,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 43.5,-0.01100000000000001,0.5238,0.5348
 2024-09-25 07:24:57.464760,Boxing Lines - Floyd Diaz vs Marciano Hernandez - To Win the Bout,Marciano Hernandez,-0.011099999999999999,0.1,0.1111
-2024-09-24 20:28:21.450874,MLB Futures - MLB 2024 Player Awards - National League ROY,Jackson Merrill (SD),-0.0116,0.4762,0.4878
 2024-09-25 01:53:51.056800,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.012199999999999989,0.5,0.5122
-2024-09-24 20:28:21.582607,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Tim Tszyu,-0.012899999999999912,0.8333,0.8462
 2024-09-25 01:53:51.139079,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Bakhram Murtazaliev,-0.0131,0.2222,0.2353
 2024-09-25 01:53:48.314464,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.014100000000000001,0.0385,0.0526
+2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),-0.01469999999999999,0.2353,0.25
+2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Caitlin Clark (IND),-0.0168,0.011,0.0278
 2024-09-25 06:35:41.246951,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,John Kevin Jimenez,-0.01759999999999995,0.6491,0.6667
+2024-09-25 08:34:23.385760,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.019000000000000017,0.2667,0.2857
 2024-09-25 02:58:14.653465,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,John Kevin Jimenez,-0.02080000000000004,0.6667,0.6875
 2024-09-25 01:53:48.276562,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.02260000000000001,0.3774,0.4
 2024-09-25 07:24:56.097048,Euro Cup - Euro Cup 2024/25 - Outright,Hapoel Tel-Aviv,-0.02560000000000001,0.3077,0.3333
 2024-09-25 01:53:48.461633,League One - England League One 2024/25 - Winner,Huddersfield Town,-0.0267,0.0909,0.1176
+2024-09-25 08:34:23.385760,WNBA Championship - WNBA Championship 2024 - Championship Winner,Indiana Fever,-0.0275,0.011,0.0385
+2024-09-25 08:34:23.385760,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,-0.027700000000000002,0.4167,0.4444
+2024-09-25 08:34:25.188020,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Over 68.5,-0.03480000000000005,0.5,0.5348
+2024-09-25 08:34:25.183561,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 68.5,-0.03480000000000005,0.5,0.5348
+2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Breanna Stewart (NYL),-0.039699999999999985,0.2381,0.2778
+2024-09-25 08:34:25.179153,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Under 68.5,-0.043399999999999994,0.5122,0.5556
 2024-09-24 21:24:29.529050,Tournament Match-Ups - Tournament Match-Up - R. Langasque vs R. Neergaard-Petersen - Tournament Match-Up,Rasmus Neergaard-Petersen,-0.04760000000000003,0.4762,0.5238
+2024-09-25 08:34:25.152371,Scores - 1st Round Score - Aaron Rai - 1st Round Score,Under 68.5,-0.07950000000000002,0.5122,0.5917
+2024-09-25 08:34:25.156841,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 67.5,-0.08330000000000004,0.5,0.5833
