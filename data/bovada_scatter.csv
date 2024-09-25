@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-09-25 11:23:33.507449,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,0.0953,0.1429,0.0476
 2024-09-25 10:33:14.952672,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad de Chile,0.08330000000000004,0.75,0.6667
 2024-09-25 08:34:25.152371,Scores - 1st Round Score - Aaron Rai - 1st Round Score,Over 68.5,0.07939999999999997,0.5556,0.4762
 2024-09-25 09:28:20.318757,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Degerfors IF,0.06669999999999998,0.6667,0.6
@@ -37,34 +38,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-25 10:33:14.970806,National League - English National League - To Be Promoted,Barnet,0.013799999999999923,0.6364,0.6226
 2024-09-25 01:53:51.139079,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Tim Tszyu,0.012899999999999912,0.8462,0.8333
 2024-09-25 10:33:14.817158,League One - England League One 2024/25 - To Be Promoted,Wrexham,0.012699999999999989,0.3636,0.3509
-2024-09-25 10:33:14.596916,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.012199999999999989,0.5,0.4878
 2024-09-25 04:31:32.516082,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,0.012199999999999989,0.5122,0.5
+2024-09-25 10:33:14.596916,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.012199999999999989,0.5,0.4878
 2024-09-25 04:31:31.806062,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.0116,0.4878,0.4762
 2024-09-25 04:31:31.801903,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.0116,0.4878,0.4762
 2024-09-25 10:33:14.970806,National League - English National League - To Be Promoted,Southend Utd,0.011099999999999999,0.1111,0.1
 2024-09-25 08:34:23.385760,WNBA Championship - WNBA Championship 2024 - Championship Winner,Connecticut Sun,0.011099999999999999,0.1111,0.1
 2024-09-25 10:33:14.826722,League One - England League One 2024/25 - Top 2 Finish,Blackpool,0.0102,0.0769,0.0667
 2024-09-25 10:33:14.970806,National League - English National League - To Be Promoted,Aldershot Town,-0.010100000000000001,0.0244,0.0345
-2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,Grenoble,-0.0102,0.0667,0.0769
 2024-09-25 07:24:56.097048,Euro Cup - Euro Cup 2024/25 - Outright,Besiktas,-0.0102,0.0667,0.0769
+2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,Grenoble,-0.0102,0.0667,0.0769
 2024-09-25 10:33:14.970806,National League - English National League - To Be Promoted,Solihull Moors,-0.010700000000000001,0.0278,0.0385
-2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,Guingamp,-0.011099999999999999,0.1,0.1111
 2024-09-25 07:24:57.464760,Boxing Lines - Floyd Diaz vs Marciano Hernandez - To Win the Bout,Marciano Hernandez,-0.011099999999999999,0.1,0.1111
+2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,Guingamp,-0.011099999999999999,0.1,0.1111
 2024-09-25 10:33:14.970806,National League - English National League - To Be Promoted,Sutton United,-0.011199999999999995,0.0476,0.0588
 2024-09-25 10:33:14.970806,National League - English National League - To Be Promoted,Eastleigh,-0.011199999999999995,0.0476,0.0588
-2024-09-25 01:53:51.056800,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.012199999999999989,0.5,0.5122
 2024-09-25 10:33:14.829893,League One - England League One 2024/25 - Top 6 Finish,Stockport County,-0.012199999999999989,0.4878,0.5
+2024-09-25 01:53:51.056800,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.012199999999999989,0.5,0.5122
 2024-09-25 01:53:51.139079,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Bakhram Murtazaliev,-0.0131,0.2222,0.2353
 2024-09-25 10:33:14.593514,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.013999999999999999,0.0769,0.0909
 2024-09-25 10:33:14.967051,National League - English National League - Outright Winner 2024/25,Southend Utd,-0.014099999999999998,0.0244,0.0385
 2024-09-25 01:53:48.314464,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.014100000000000001,0.0385,0.0526
-2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),-0.01469999999999999,0.2353,0.25
 2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.01469999999999999,0.2353,0.25
+2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),-0.01469999999999999,0.2353,0.25
 2024-09-25 10:33:14.817158,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.016699999999999993,0.25,0.2667
 2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Caitlin Clark (IND),-0.0168,0.011,0.0278
 2024-09-25 06:35:41.246951,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,John Kevin Jimenez,-0.01759999999999995,0.6491,0.6667
-2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,Rodez Aveyron,-0.018099999999999998,0.0588,0.0769
 2024-09-25 10:33:14.650931,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Como,-0.018099999999999998,0.0588,0.0769
+2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,Rodez Aveyron,-0.018099999999999998,0.0588,0.0769
 2024-09-25 10:33:14.596916,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.018100000000000005,0.4167,0.4348
 2024-09-25 08:34:23.385760,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.019000000000000017,0.2667,0.2857
 2024-09-25 02:58:14.653465,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,John Kevin Jimenez,-0.02080000000000004,0.6667,0.6875
@@ -86,8 +87,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-25 10:33:14.653952,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,-0.044399999999999995,0.4,0.4444
 2024-09-25 10:33:14.970806,National League - English National League - To Be Promoted,Forest Green Rovers,-0.04999999999999999,0.2,0.25
 2024-09-25 09:28:20.318757,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,-0.0635,0.2222,0.2857
-2024-09-25 10:33:14.647936,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,-0.06820000000000001,0.1818,0.25
 2024-09-25 10:33:14.826722,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,-0.06820000000000001,0.1818,0.25
+2024-09-25 10:33:14.647936,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,-0.06820000000000001,0.1818,0.25
+2024-09-25 11:23:33.507449,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,-0.07419999999999993,0.9091,0.9833
 2024-09-25 08:34:25.152371,Scores - 1st Round Score - Aaron Rai - 1st Round Score,Under 68.5,-0.07950000000000002,0.5122,0.5917
 2024-09-25 08:34:25.156841,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 67.5,-0.08330000000000004,0.5,0.5833
 2024-09-25 10:33:14.952672,Primera Division - Chile Primera Division 2024 - Futures - Winner,Colo-Colo,-0.09230000000000005,0.3077,0.4
