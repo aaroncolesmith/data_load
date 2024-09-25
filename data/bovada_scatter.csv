@@ -20,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-25 14:30:37.539728,MLB Futures - MLB 2024 To Make The Postseason - New York Mets,No,0.0363,0.303,0.2667
 2024-09-25 09:28:20.209754,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Botafogo,0.033399999999999985,0.1667,0.1333
 2024-09-25 08:34:25.179153,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
-2024-09-25 08:34:25.188020,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
 2024-09-25 08:34:25.183561,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
+2024-09-25 08:34:25.188020,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
 2024-09-25 14:30:37.545120,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,0.02839999999999998,0.9375,0.9091
 2024-09-25 10:33:14.800855,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Atlético Lanús,0.027800000000000005,0.1111,0.0833
 2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,USL Dunkerque,0.0262,0.0385,0.0123
@@ -38,27 +38,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-25 14:30:37.618787,Boxing Lines - Charlie Edwards vs Thomas Essomba - To Win the Bout,Charlie Edwards,0.017900000000000027,0.875,0.8571
 2024-09-25 10:33:14.817158,League One - England League One 2024/25 - To Be Promoted,Blackpool,0.0179,0.1429,0.125
 2024-09-25 15:28:58.680009,Boxing Lines - Tysie Gallagher vs Tori Ellis Willetts - To Win the Bout,Tori Ellis Willetts,0.01680000000000001,0.2273,0.2105
-2024-09-25 06:35:41.246951,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,Takeshi Ishii,0.016699999999999993,0.4167,0.4
 2024-09-25 10:33:14.967051,National League - English National League - Outright Winner 2024/25,Barnet,0.016699999999999993,0.4167,0.4
+2024-09-25 06:35:41.246951,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,Takeshi Ishii,0.016699999999999993,0.4167,0.4
 2024-09-25 15:28:57.178795,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Breanna Stewart (NYL),0.015099999999999975,0.2532,0.2381
 2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,SM Caen,0.014099999999999998,0.0435,0.0294
 2024-09-25 10:33:14.967051,National League - English National League - Outright Winner 2024/25,Oldham Athletic,0.014099999999999994,0.0667,0.0526
 2024-09-25 10:33:14.970806,National League - English National League - To Be Promoted,Barnet,0.013799999999999923,0.6364,0.6226
 2024-09-25 14:30:37.554716,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Houston Astros,0.0131,0.2353,0.2222
-2024-09-25 14:30:37.559473,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,San Diego Padres,0.012899999999999995,0.1667,0.1538
 2024-09-25 13:33:07.244711,Day 1 - Day 1 - Day 1 Winner,Tie,0.012899999999999995,0.1667,0.1538
+2024-09-25 14:30:37.559473,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,San Diego Padres,0.012899999999999995,0.1667,0.1538
 2024-09-25 10:33:14.817158,League One - England League One 2024/25 - To Be Promoted,Wrexham,0.012699999999999989,0.3636,0.3509
-2024-09-25 15:28:57.928709,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.012199999999999989,0.5,0.4878
 2024-09-25 15:28:57.924553,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.012199999999999989,0.5,0.4878
-2024-09-25 04:31:32.516082,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,0.012199999999999989,0.5122,0.5
+2024-09-25 15:28:57.928709,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.012199999999999989,0.5,0.4878
 2024-09-25 10:33:14.596916,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.012199999999999989,0.5,0.4878
-2024-09-25 04:31:31.806062,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.0116,0.4878,0.4762
-2024-09-25 04:31:31.801903,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.0116,0.4878,0.4762
 2024-09-25 14:30:37.559473,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,0.01150000000000001,0.3448,0.3333
 2024-09-25 08:34:23.385760,WNBA Championship - WNBA Championship 2024 - Championship Winner,Connecticut Sun,0.011099999999999999,0.1111,0.1
 2024-09-25 10:33:14.970806,National League - English National League - To Be Promoted,Southend Utd,0.011099999999999999,0.1111,0.1
-2024-09-25 10:33:14.826722,League One - England League One 2024/25 - Top 2 Finish,Blackpool,0.0102,0.0769,0.0667
 2024-09-25 14:30:37.643493,Boxing Lines - Vito Mielnicki Jr vs Khalil El Harraz - To Win the Bout,Khalil El Harraz,0.0102,0.0769,0.0667
+2024-09-25 10:33:14.826722,League One - England League One 2024/25 - Top 2 Finish,Blackpool,0.0102,0.0769,0.0667
 2024-09-25 14:30:37.550063,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Atlanta Braves,0.010100000000000001,0.0345,0.0244
 2024-09-25 15:28:57.941518,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.010099999999999998,0.5455,0.5556
 2024-09-25 15:28:57.924553,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.010099999999999998,0.5455,0.5556
@@ -77,8 +74,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-25 15:28:57.178795,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Napheesa Collier (MIN),-0.01319999999999999,0.25,0.2632
 2024-09-25 10:33:14.593514,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.013999999999999999,0.0769,0.0909
 2024-09-25 10:33:14.967051,National League - English National League - Outright Winner 2024/25,Southend Utd,-0.014099999999999998,0.0244,0.0385
-2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),-0.01469999999999999,0.2353,0.25
 2024-09-25 10:33:14.883277,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.01469999999999999,0.2353,0.25
+2024-09-25 08:34:23.390689,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),-0.01469999999999999,0.2353,0.25
 2024-09-25 14:30:37.554716,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Minnesota Twins,-0.015300000000000001,0.0435,0.0588
 2024-09-25 10:33:14.817158,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.016699999999999993,0.25,0.2667
 2024-09-25 15:28:58.680009,Boxing Lines - Tysie Gallagher vs Tori Ellis Willetts - To Win the Bout,Tysie Gallagher,-0.016799999999999926,0.8403,0.8571
