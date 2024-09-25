@@ -5,7 +5,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-24 17:29:55.678289,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),0.053100000000000036,0.4167,0.3636
 2024-09-24 17:29:55.695172,MLB Futures - MLB 2024 To Make The Postseason - Atlanta Braves,Yes,0.04139999999999999,0.4762,0.4348
 2024-09-24 21:24:29.529050,Tournament Match-Ups - Tournament Match-Up - R. Langasque vs R. Neergaard-Petersen - Tournament Match-Up,Romain Langasque,0.03610000000000002,0.5917,0.5556
-2024-09-24 16:33:45.005405,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.033399999999999985,0.6078,0.5744
 2024-09-25 01:53:48.314464,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.03179999999999994,0.5556,0.5238
 2024-09-25 01:53:48.276562,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.025599999999999956,0.6552,0.6296
 2024-09-25 02:58:14.653465,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,Takeshi Ishii,0.02260000000000001,0.4,0.3774
@@ -20,15 +19,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-24 20:28:20.403994,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 43.5,0.010699999999999932,0.5455,0.5348
 2024-09-24 18:34:36.508643,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Clemson,0.010600000000000002,0.0323,0.0217
 2024-09-24 17:29:55.699057,MLB Futures - MLB 2024 To Make The Postseason - New York Mets,Yes,0.010500000000000065,0.8,0.7895
-2024-09-24 18:34:36.596880,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,John Kevin Jimenez,0.010099999999999998,0.6875,0.6774
 2024-09-24 17:29:56.042241,Positions - Finishing Position - Sepp Straka - Finishing Position,29th or better,0.010099999999999998,0.5556,0.5455
-2024-09-24 16:33:45.005405,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,-0.0102,0.0667,0.0769
-2024-09-24 16:33:45.005405,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Girona,-0.0102,0.0667,0.0769
+2024-09-24 18:34:36.596880,Boxing Lines - John Kevin Jimenez vs Takeshi Ishii - To Win the Bout,John Kevin Jimenez,0.010099999999999998,0.6875,0.6774
 2024-09-24 20:28:20.403994,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 43.5,-0.01100000000000001,0.5238,0.5348
 2024-09-24 17:29:55.699057,MLB Futures - MLB 2024 To Make The Postseason - New York Mets,No,-0.011099999999999999,0.2667,0.2778
 2024-09-24 20:28:21.450874,MLB Futures - MLB 2024 Player Awards - National League ROY,Jackson Merrill (SD),-0.0116,0.4762,0.4878
 2024-09-24 17:29:56.042241,Positions - Finishing Position - Sepp Straka - Finishing Position,30th or worse,-0.011600000000000055,0.5122,0.5238
-2024-09-24 16:33:47.908894,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,-0.011699999999999933,0.7778,0.7895
 2024-09-25 01:53:51.056800,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.012199999999999989,0.5,0.5122
 2024-09-24 20:28:21.582607,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Tim Tszyu,-0.012899999999999912,0.8333,0.8462
 2024-09-25 01:53:51.139079,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Bakhram Murtazaliev,-0.0131,0.2222,0.2353
