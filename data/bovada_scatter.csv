@@ -7,12 +7,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-26 09:28:17.118124,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Galatasaray,0.0321,0.0909,0.0588
 2024-09-26 09:28:19.746021,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter,0.0286,0.1,0.0714
 2024-09-26 12:50:52.564339,Matches - Day 1 Fourballs - Morikawa / Theegala vs Scott / Lee - Winner,Scott / Lee,0.021699999999999997,0.4762,0.4545
-2024-09-26 06:35:36.760442,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Napheesa Collier (MIN),0.021399999999999975,0.2778,0.2564
 2024-09-26 15:28:26.461344,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,0.0208,0.0833,0.0625
 2024-09-26 09:28:20.050345,Round Match-Ups - 1st Round Match-Up - M. Pavon vs P. Reed - 1st Round Match-Up,Matthieu Pavon,0.02079999999999993,0.5556,0.5348
 2024-09-26 09:28:19.844003,Boxing Lines - Maxi Hughes vs Efstathios Antonas - To Win the Bout,Efstathios Antonas,0.02020000000000001,0.1111,0.0909
 2024-09-26 18:33:25.340035,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,"Josh Allen MVP, Aaron Rodgers Comeback Player of the year, TJ Watt DPOY & Jayden Daniels OROY",0.0192,0.0196,0.0004
-2024-09-26 06:35:38.182348,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Arizona Diamondbacks,0.019099999999999992,0.0667,0.0476
 2024-09-26 09:28:17.026197,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,0.018100000000000005,0.4348,0.4167
 2024-09-26 09:28:17.118124,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Lazio,0.018099999999999998,0.0769,0.0588
 2024-09-26 09:28:17.114331,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Lazio,0.0179,0.1429,0.125
@@ -20,20 +18,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-26 15:28:28.048314,Matches - Day 1 Fourballs - Morikawa / Theegala vs Scott / Lee - Winner,Morikawa / Theegala,0.016100000000000003,0.6078,0.5917
 2024-09-26 08:33:11.644412,Boxing Lines - Maxi Hughes vs Efstathios Antonas - To Win the Bout,Efstathios Antonas,0.013999999999999999,0.0909,0.0769
 2024-09-26 09:28:20.096922,Matches - Day 1 Fourballs - Scheffler / Henley vs Im / Kim - Winner,Scheffler / Henley,0.013799999999999923,0.6364,0.6226
-2024-09-26 06:35:36.755366,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,0.01319999999999999,0.2632,0.25
 2024-09-26 16:33:55.856650,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.012199999999999989,0.5122,0.5
 2024-09-26 16:33:55.860847,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.012199999999999989,0.5122,0.5
 2024-09-26 08:33:11.891868,Matches - Day 1 Fourballs - Schauffele / Finau vs Day / An - Winner,Schauffele / Finau,0.011499999999999955,0.6667,0.6552
 2024-09-26 09:28:19.956868,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,0.011099999999999999,0.4762,0.4651
 2024-09-26 09:28:20.092437,Matches - Day 1 Fourballs - Morikawa / Theegala vs Scott / Lee - Winner,Scott / Lee,-0.010599999999999998,0.4545,0.4651
-2024-09-26 16:33:55.856650,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.010699999999999932,0.5348,0.5455
 2024-09-26 16:33:55.860847,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.010699999999999932,0.5348,0.5455
-2024-09-26 06:35:38.182348,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,-0.01150000000000001,0.3333,0.3448
+2024-09-26 16:33:55.856650,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.010699999999999932,0.5348,0.5455
 2024-09-26 10:31:24.599064,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.0116,0.4762,0.4878
 2024-09-26 17:29:19.422145,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.012199999999999989,0.5,0.5122
 2024-09-26 09:28:19.844003,Boxing Lines - Maxi Hughes vs Efstathios Antonas - To Win the Bout,Maxi Hughes,-0.014100000000000001,0.9474,0.9615
 2024-09-26 09:28:17.121390,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Lyon,-0.015400000000000025,0.3846,0.4
-2024-09-26 06:35:36.755366,WNBA Championship - WNBA Championship 2024 - Championship Winner,Connecticut Sun,-0.015700000000000006,0.1176,0.1333
 2024-09-26 12:50:52.564339,Matches - Day 1 Fourballs - Morikawa / Theegala vs Scott / Lee - Winner,Morikawa / Theegala,-0.016100000000000003,0.5917,0.6078
 2024-09-26 09:28:17.118124,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,FC Porto,-0.018099999999999998,0.0588,0.0769
 2024-09-26 09:28:17.121390,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Ajax,-0.018799999999999983,0.3448,0.3636
