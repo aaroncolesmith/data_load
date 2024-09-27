@@ -1,6 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-09-27 07:25:31.594308,MLB Futures - MLB 2024 To Make The Postseason - Arizona Diamondbacks,Yes,0.13779999999999992,0.7674,0.6296
+2024-09-27 07:25:31.601939,MLB Futures - MLB 2024 To Make The Postseason - New York Mets,No,0.0479,0.3509,0.303
+2024-09-27 07:25:31.606575,MLB Futures - MLB 2024 Player Awards - American League ROY,Luis Gil (NYY),0.04760000000000009,0.7143,0.6667
 2024-09-26 21:24:16.300181,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.04139999999999999,0.4762,0.4348
+2024-09-27 07:25:31.598135,MLB Futures - MLB 2024 To Make The Postseason - Atlanta Braves,No,0.0393,0.4167,0.3774
 2024-09-27 06:36:31.584797,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.031,0.1739,0.1429
+2024-09-27 07:25:31.610522,MLB Futures - MLB 2024 Player Awards - National League ROY,Paul Skenes (PIT),0.026800000000000046,0.7143,0.6875
 2024-09-27 01:52:46.343953,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),0.0257,0.1026,0.0769
 2024-09-26 22:29:17.722026,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,0.024399999999999977,0.5122,0.4878
 2024-09-26 21:24:17.092886,Boxing Lines - Tysie Gallagher vs Tori Ellis Willetts - To Win the Bout,Tysie Gallagher,0.023799999999999932,0.8571,0.8333
@@ -12,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-27 06:36:28.837020,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Athletic Bilbao,0.016700000000000007,0.1,0.0833
 2024-09-27 05:30:09.570464,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes (KC),0.016699999999999993,0.2667,0.25
 2024-09-26 21:24:16.281620,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.014200000000000101,0.6296,0.6154
-2024-09-26 20:28:12.163106,Boxing Lines - Delante Johnson vs Yomar Alamo - To Win the Bout,Delante Johnson,0.013900000000000023,0.8889,0.875
 2024-09-26 21:24:16.517710,Electoral College Winner - Virginia (VA) - Virginia,Democrat,0.013900000000000023,0.8889,0.875
+2024-09-26 20:28:12.163106,Boxing Lines - Delante Johnson vs Yomar Alamo - To Win the Bout,Delante Johnson,0.013900000000000023,0.8889,0.875
 2024-09-27 06:36:31.613737,NFC East - NFC East 2024/25 - NFC East Winner,Dallas Cowboys,0.013600000000000001,0.3077,0.2941
 2024-09-27 01:52:47.646520,Boxing Lines - Rhiannon Dixon vs Terri Harper - To Win the Bout,Rhiannon Dixon,0.011900000000000022,0.8214,0.8095
 2024-09-26 23:26:32.876069,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.011499999999999955,0.6667,0.6552
@@ -25,8 +30,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-27 05:30:09.681854,Boxing Lines - Shakiel Thompson vs River Wilson Bent - To Win the Bout,River Wilson Bent,-0.011099999999999999,0.1,0.1111
 2024-09-26 21:24:16.517710,Electoral College Winner - Virginia (VA) - Virginia,Republican,-0.011899999999999994,0.1786,0.1905
 2024-09-26 20:28:12.197328,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.012199999999999989,0.4878,0.5
+2024-09-27 07:25:31.726187,Boxing Lines - Sandy Ryan vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.012199999999999989,0.5,0.5122
 2024-09-27 01:52:47.646520,Boxing Lines - Rhiannon Dixon vs Terri Harper - To Win the Bout,Terri Harper,-0.012799999999999978,0.2469,0.2597
+2024-09-27 07:25:31.610522,MLB Futures - MLB 2024 Player Awards - National League ROY,Jackson Merrill (SD),-0.01419999999999999,0.3704,0.3846
 2024-09-27 05:30:09.390449,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Houston Texans,-0.014399999999999996,0.0625,0.0769
+2024-09-27 07:25:31.606575,MLB Futures - MLB 2024 Player Awards - American League ROY,Austin Wells (NYY),-0.015700000000000006,0.1176,0.1333
 2024-09-27 06:36:31.613737,NFC East - NFC East 2024/25 - NFC East Winner,New York Giants,-0.0159,0.0164,0.0323
 2024-09-26 20:28:12.163106,Boxing Lines - Delante Johnson vs Yomar Alamo - To Win the Bout,Yomar Alamo,-0.016600000000000004,0.1739,0.1905
 2024-09-27 06:36:31.892443,Boxing Lines - Tysie Gallagher vs Tori Ellis Willetts - To Win the Bout,Tysie Gallagher,-0.016799999999999926,0.8403,0.8571
@@ -38,4 +46,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-27 05:30:09.570464,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),-0.02560000000000001,0.3077,0.3333
 2024-09-27 06:36:31.832351,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Minnesota Twins,-0.0257,0.0066,0.0323
 2024-09-27 06:36:31.584797,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,-0.027900000000000008,0.0435,0.0714
+2024-09-27 07:25:31.606575,MLB Futures - MLB 2024 Player Awards - American League ROY,Colton Cowser (BAL),-0.0398,0.3448,0.3846
+2024-09-27 07:25:31.598135,MLB Futures - MLB 2024 To Make The Postseason - Atlanta Braves,Yes,-0.04459999999999997,0.6429,0.6875
 2024-09-26 21:24:16.300181,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.04469999999999996,0.5917,0.6364
+2024-09-27 07:25:31.601939,MLB Futures - MLB 2024 To Make The Postseason - New York Mets,Yes,-0.058800000000000074,0.7059,0.7647
+2024-09-27 07:25:31.594308,MLB Futures - MLB 2024 To Make The Postseason - Arizona Diamondbacks,No,-0.1491,0.2857,0.4348
