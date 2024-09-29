@@ -9,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-29 01:59:46.951784,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.042899999999999994,0.1429,0.1
 2024-09-29 01:59:48.428591,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Jennifer Kupcho,0.04190000000000001,0.0476,0.0057
 2024-09-28 23:25:57.681803,Ligue 1 - France Ligue 1 2024/25 - Winner,Monaco,0.0407,0.1176,0.0769
+2024-09-29 03:00:53.405951,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Cole Palmer (Chelsea),0.0384,0.0769,0.0385
 2024-09-29 01:59:48.428591,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Sei Young Kim,0.037700000000000004,0.0476,0.0099
 2024-09-28 21:24:09.572780,League Two - England League Two 2024/25 - Winner,Chesterfield,0.036199999999999996,0.1538,0.1176
 2024-09-29 01:59:48.428591,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Arpichaya Yubol,0.0352,0.0385,0.0033
@@ -48,11 +49,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-29 01:59:46.026245,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Fulham,-0.013999999999999999,0.0769,0.0909
 2024-09-28 23:25:57.655838,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.014099999999999994,0.0526,0.0667
 2024-09-28 21:24:09.520057,Championship - England Championship 2024/25 - Winner,Luton Town,-0.014099999999999998,0.0244,0.0385
+2024-09-29 03:00:53.405951,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Nicolas Jackson (Chelsea),-0.015300000000000001,0.0323,0.0476
 2024-09-29 01:59:46.029386,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,-0.016699999999999993,0.25,0.2667
 2024-09-28 16:31:23.851123,East Group A - East Group A Winner - East Group A Winner,Orlando Magic,-0.016699999999999993,0.25,0.2667
 2024-09-28 21:24:09.520057,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,-0.01759999999999999,0.1,0.1176
-2024-09-28 21:24:09.572780,League Two - England League Two 2024/25 - Winner,Barrow FC,-0.018099999999999998,0.0588,0.0769
 2024-09-28 21:24:09.572780,League Two - England League Two 2024/25 - Winner,Bradford City,-0.018099999999999998,0.0588,0.0769
+2024-09-28 21:24:09.572780,League Two - England League Two 2024/25 - Winner,Barrow FC,-0.018099999999999998,0.0588,0.0769
 2024-09-28 19:20:58.599168,Boxing Lines - Peter McGrail vs Brad Foster - To Win the Bout,Peter McGrail,-0.019100000000000006,0.9333,0.9524
 2024-09-29 01:59:48.428591,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Yu Liu,-0.019200000000000002,0.0025,0.0217
 2024-09-29 01:59:48.428591,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Jeeno Thitikul,-0.019699999999999995,0.1053,0.125
