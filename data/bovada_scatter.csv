@@ -25,16 +25,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-29 12:46:27.962536,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.05059999999999998,0.5744,0.5238
 2024-09-29 11:22:23.233788,National League - English National League - Outright Winner 2024/25,Forest Green Rovers,0.04909999999999999,0.1667,0.1176
 2024-09-29 11:22:23.237534,National League - English National League - To Be Promoted,Oldham Athletic,0.04849999999999999,0.1818,0.1333
-2024-09-29 11:22:23.228912,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Universitario de Deportes,0.044399999999999995,0.4444,0.4
 2024-09-29 11:22:22.999280,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,0.044399999999999995,0.4444,0.4
+2024-09-29 11:22:23.228912,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Universitario de Deportes,0.044399999999999995,0.4444,0.4
 2024-09-29 12:46:27.952578,League One - England League One 2024/25 - Winner,Birmingham City,0.043200000000000016,0.6923,0.6491
 2024-09-29 12:46:27.972099,League One - England League One 2024/25 - Top 6 Finish,Stevenage,0.042899999999999994,0.1429,0.1
 2024-09-29 12:46:27.959335,League One - England League One 2024/25 - To Be Promoted,Blackpool,0.03889999999999999,0.1818,0.1429
 2024-09-29 11:22:23.237534,National League - English National League - To Be Promoted,Gateshead,0.03640000000000004,0.4,0.3636
-2024-09-29 12:46:30.435593,Matches - Day 4 Singles - C. Conners vs T. Finau - Winner,Corey Conners,0.03600000000000003,0.5238,0.4878
 2024-09-29 12:46:27.972099,League One - England League One 2024/25 - Top 6 Finish,Stockport County,0.03600000000000003,0.5238,0.4878
-2024-09-29 09:26:17.675555,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Diet Mountain Dew,0.03420000000000001,0.1111,0.0769
+2024-09-29 12:46:30.435593,Matches - Day 4 Singles - C. Conners vs T. Finau - Winner,Corey Conners,0.03600000000000003,0.5238,0.4878
 2024-09-29 12:46:27.968929,League One - England League One 2024/25 - Top 2 Finish,Blackpool,0.03420000000000001,0.1111,0.0769
+2024-09-29 09:26:17.675555,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Diet Mountain Dew,0.03420000000000001,0.1111,0.0769
 2024-09-29 12:46:27.959335,League One - England League One 2024/25 - To Be Promoted,Birmingham City,0.03410000000000002,0.9091,0.875
 2024-09-29 12:46:27.965738,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,0.033399999999999985,0.1667,0.1333
 2024-09-29 11:22:23.163711,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,0.033299999999999996,0.1333,0.1
@@ -49,25 +49,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-29 11:22:22.996340,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Palmeiras,0.024599999999999955,0.9901,0.9655
 2024-09-29 14:27:03.889183,Matches - Day 4 Singles - C. Bezuidenhout vs B. Harman - Winner,Christiaan Bezuidenhout,0.024399999999999977,0.5122,0.4878
 2024-09-29 14:27:03.858362,Matches - Day 4 Singles - S. Im vs R. Henley - Winner,Russell Henley,0.023800000000000043,0.5238,0.5
-2024-09-29 08:30:19.236313,Matches - Day 4 Singles - T. Pendrith vs P. Cantlay - Winner,Patrick Cantlay,0.023799999999999932,0.6667,0.6429
-2024-09-29 08:30:19.219900,Matches - Day 4 Singles - J. Day vs X. Schauffele - Winner,Xander Schauffele,0.023799999999999932,0.6667,0.6429
 2024-09-29 11:22:23.228912,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Cusco FC,0.02310000000000001,0.1,0.0769
 2024-09-29 11:22:22.993412,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.02310000000000001,0.1,0.0769
-2024-09-29 11:22:23.200315,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.022600000000000064,0.6226,0.6
 2024-09-29 11:22:25.578793,Matches - Day 4 Singles - M. Hughes vs M. Homa - Winner,Mackenzie Hughes,0.022600000000000064,0.5348,0.5122
-2024-09-29 08:30:19.421335,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Ashleigh Buhai,0.02250000000000002,0.2857,0.2632
-2024-09-29 11:22:22.996340,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,0.022199999999999998,0.2222,0.2
+2024-09-29 11:22:23.200315,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.022600000000000064,0.6226,0.6
 2024-09-29 14:27:03.854061,Matches - Day 4 Singles - H. Matsuyama vs S. Scheffler - Winner,Scottie Scheffler,0.022199999999999998,0.6774,0.6552
+2024-09-29 11:22:22.996340,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,0.022199999999999998,0.2222,0.2
 2024-09-29 11:22:22.999280,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,0.021699999999999997,0.4762,0.4545
 2024-09-29 14:27:03.893591,Matches - Day 4 Singles - M. Hughes vs M. Homa - Winner,Mackenzie Hughes,0.02079999999999993,0.5556,0.5348
 2024-09-29 11:22:22.996340,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,0.02049999999999999,0.1538,0.1333
 2024-09-29 14:27:03.742524,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Atlanta Braves,0.0203,0.0526,0.0323
-2024-09-29 11:22:22.993412,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.02020000000000001,0.1111,0.0909
 2024-09-29 11:22:23.185958,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,0.02020000000000001,0.1111,0.0909
-2024-09-29 08:30:19.299636,Round Match-Ups - Final Round Match-Ups - T. Fleetwood vs S. Lowry - Final Round Match-Ups,Tommy Fleetwood,0.01970000000000005,0.5652,0.5455
+2024-09-29 11:22:22.993412,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.02020000000000001,0.1111,0.0909
 2024-09-29 11:22:23.224125,Primera Division - Chile Primera Division 2024 - Futures - Winner,Colo-Colo,0.019000000000000017,0.2857,0.2667
-2024-09-29 12:46:27.968929,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,0.01820000000000002,0.2,0.1818
 2024-09-29 11:22:22.968303,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,0.01820000000000002,0.2,0.1818
+2024-09-29 12:46:27.968929,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,0.01820000000000002,0.2,0.1818
 2024-09-29 11:22:23.185958,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Molde FK,0.018099999999999998,0.0769,0.0588
 2024-09-29 12:46:27.955861,League One - England League One 2024/25 - Top Goalscorer,Jonson Clarke-Harris,0.018099999999999998,0.0769,0.0588
 2024-09-29 14:27:03.372960,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,New York,0.0179,0.1429,0.125
@@ -85,7 +81,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-29 12:46:27.955861,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,0.013999999999999999,0.0909,0.0769
 2024-09-29 09:26:15.738349,League Two - England League Two 2024/25 - Top Goalscorer,Andy Cook,0.013899999999999996,0.125,0.1111
 2024-09-29 11:22:23.228912,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Alianza Atletico,0.013,0.0196,0.0066
-2024-09-29 08:30:19.421335,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Jeeno Thitikul,0.012299999999999991,0.1176,0.1053
 2024-09-29 12:46:30.181517,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Tennessee,0.011900000000000008,0.0952,0.0833
 2024-09-29 14:27:03.742524,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.011899999999999994,0.25,0.2381
 2024-09-29 12:46:27.968929,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,0.011199999999999995,0.0588,0.0476
@@ -98,12 +93,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-29 12:46:27.972099,League One - England League One 2024/25 - Top 6 Finish,Exeter City,-0.0102,0.0667,0.0769
 2024-09-29 12:46:27.965738,League One - England League One 2024/25 - To Finish Bottom,Northampton Town,-0.0102,0.0667,0.0769
 2024-09-29 11:22:23.209988,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,-0.0103,0.002,0.0123
-2024-09-29 14:27:03.372960,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,Pennsylvania,-0.010499999999999982,0.2,0.2105
 2024-09-29 14:27:03.372960,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,California,-0.010499999999999982,0.2,0.2105
+2024-09-29 14:27:03.372960,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,Pennsylvania,-0.010499999999999982,0.2,0.2105
 2024-09-29 11:22:25.509469,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,-0.010500000000000065,0.7895,0.8
 2024-09-29 11:22:23.163711,Ligue 2 - France Ligue 2 2024/25 - Outright,AC Ajaccio,-0.010700000000000001,0.0278,0.0385
-2024-09-29 14:27:03.820887,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,-0.011099999999999999,0.2667,0.2778
 2024-09-29 11:22:23.139832,First Division A - Belgium First Division A 2024/25 - Outright,Anderlecht,-0.011099999999999999,0.1,0.1111
+2024-09-29 14:27:03.820887,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,-0.011099999999999999,0.2667,0.2778
 2024-09-29 11:22:23.020593,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Guillermo Martinez,-0.011199999999999995,0.0476,0.0588
 2024-09-29 11:22:22.968303,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Colorado Rapids,-0.0116,0.0033,0.0149
 2024-09-29 09:26:17.671093,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,California,-0.011700000000000016,0.2105,0.2222
@@ -112,32 +107,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-29 14:27:03.755197,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,New York Mets,-0.012600000000000007,0.0588,0.0714
 2024-09-29 11:22:23.200315,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.012699999999999989,0.3509,0.3636
 2024-09-29 11:22:23.200315,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,-0.012899999999999995,0.1538,0.1667
-2024-09-29 11:22:23.237534,National League - English National League - To Be Promoted,Woking,-0.013,0.0066,0.0196
 2024-09-29 11:22:23.233788,National League - English National League - Outright Winner 2024/25,Halifax Town,-0.013,0.0066,0.0196
-2024-09-29 11:22:23.020593,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Alexis Vega,-0.0131,0.0345,0.0476
+2024-09-29 11:22:23.237534,National League - English National League - To Be Promoted,Woking,-0.013,0.0066,0.0196
 2024-09-29 12:46:27.965738,League One - England League One 2024/25 - To Finish Bottom,Exeter City,-0.0131,0.0345,0.0476
 2024-09-29 11:22:23.020593,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Diber Cambindo,-0.0131,0.0345,0.0476
+2024-09-29 11:22:23.020593,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Alexis Vega,-0.0131,0.0345,0.0476
 2024-09-29 11:22:23.228912,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,FBC Melgar,-0.013899999999999996,0.1111,0.125
-2024-09-29 09:26:17.671093,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,Georgia,-0.013999999999999999,0.0769,0.0909
 2024-09-29 09:26:15.738349,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,-0.013999999999999999,0.0769,0.0909
+2024-09-29 09:26:17.671093,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,Georgia,-0.013999999999999999,0.0769,0.0909
 2024-09-29 12:46:27.952578,League One - England League One 2024/25 - Winner,Stockport County,-0.014099999999999994,0.0526,0.0667
 2024-09-29 12:46:27.965738,League One - England League One 2024/25 - To Finish Bottom,Reading,-0.014100000000000001,0.0385,0.0526
 2024-09-29 11:22:23.163711,Ligue 2 - France Ligue 2 2024/25 - Outright,Red Star,-0.014199999999999999,0.0152,0.0294
 2024-09-29 09:26:17.634538,Political Specials - New York Mayor: When will Eric Adams resign? - When will Eric Adams resign?,January to March 2025,-0.015100000000000002,0.1667,0.1818
 2024-09-29 12:46:27.955861,League One - England League One 2024/25 - Top Goalscorer,Alfie May,-0.016699999999999993,0.25,0.2667
 2024-09-29 12:46:27.968929,League One - England League One 2024/25 - Top 2 Finish,Barnsley,-0.016700000000000007,0.0833,0.1
-2024-09-29 12:46:27.959335,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,-0.0179,0.125,0.1429
 2024-09-29 11:22:22.965430,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.0179,0.125,0.1429
+2024-09-29 12:46:27.959335,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,-0.0179,0.125,0.1429
 2024-09-29 11:22:23.237534,National League - English National League - To Be Promoted,Hartlepool United,-0.0179,0.0099,0.0278
-2024-09-29 12:46:27.955861,League One - England League One 2024/25 - Top Goalscorer,Dion Charles,-0.018099999999999998,0.0588,0.0769
 2024-09-29 11:22:23.024478,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,-0.018099999999999998,0.0588,0.0769
+2024-09-29 12:46:27.955861,League One - England League One 2024/25 - Top Goalscorer,Dion Charles,-0.018099999999999998,0.0588,0.0769
 2024-09-29 14:27:03.750502,MLB Futures - MLB 2024 American League Winner - Winning Division,AL West,-0.01899999999999999,0.2083,0.2273
 2024-09-29 11:22:23.233788,National League - English National League - Outright Winner 2024/25,Rochdale,-0.019099999999999992,0.0476,0.0667
 2024-09-29 11:22:22.996340,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Atlético Mineiro,-0.019099999999999995,0.0244,0.0435
 2024-09-29 11:22:22.961996,MLS - USA MLS 2024 - Futures - Golden Boot Award,Daniel Gazdag,-0.02020000000000001,0.0909,0.1111
-2024-09-29 11:22:23.205255,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Boca Juniors,-0.0203,0.0385,0.0588
 2024-09-29 11:22:22.987252,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,-0.0203,0.0385,0.0588
 2024-09-29 11:22:23.163711,Ligue 2 - France Ligue 2 2024/25 - Outright,Rodez Aveyron,-0.0203,0.0385,0.0588
+2024-09-29 11:22:23.205255,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Boca Juniors,-0.0203,0.0385,0.0588
 2024-09-29 11:22:22.993412,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Grêmio,-0.02049999999999999,0.1333,0.1538
 2024-09-29 14:27:03.889183,Matches - Day 4 Singles - C. Bezuidenhout vs B. Harman - Winner,Brian Harman,-0.02079999999999993,0.5348,0.5556
 2024-09-29 14:27:03.854061,Matches - Day 4 Singles - H. Matsuyama vs S. Scheffler - Winner,Hideki Matsuyama,-0.02100000000000002,0.3636,0.3846
@@ -145,24 +140,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-29 14:27:03.858362,Matches - Day 4 Singles - S. Im vs R. Henley - Winner,Sungjae Im,-0.02169999999999994,0.5238,0.5455
 2024-09-29 11:22:23.224125,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad de Chile,-0.022199999999999998,0.7778,0.8
 2024-09-29 11:22:23.024478,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Tigres UANL,-0.022199999999999998,0.2,0.2222
-2024-09-29 08:30:19.236313,Matches - Day 4 Singles - T. Pendrith vs P. Cantlay - Winner,Taylor Pendrith,-0.02260000000000001,0.3774,0.4
 2024-09-29 14:27:03.372960,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,Minnesota,-0.02260000000000001,0.3774,0.4
-2024-09-29 08:30:19.219900,Matches - Day 4 Singles - J. Day vs X. Schauffele - Winner,Jason Day,-0.02260000000000001,0.3774,0.4
 2024-09-29 11:22:25.578793,Matches - Day 4 Singles - M. Hughes vs M. Homa - Winner,Max Homa,-0.022600000000000064,0.5122,0.5348
 2024-09-29 12:46:27.962536,League One - England League One 2024/25 - To Be Relegated,Lincoln City,-0.0232,0.0435,0.0667
-2024-09-29 11:22:23.024478,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,-0.023799999999999988,0.1429,0.1667
-2024-09-29 12:46:27.959335,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.023799999999999988,0.1429,0.1667
 2024-09-29 09:26:17.671093,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,Kentucky,-0.023799999999999988,0.1429,0.1667
-2024-09-29 08:30:19.299636,Round Match-Ups - Final Round Match-Ups - T. Fleetwood vs S. Lowry - Final Round Match-Ups,Shane Lowry,-0.023799999999999988,0.4762,0.5
+2024-09-29 12:46:27.959335,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.023799999999999988,0.1429,0.1667
+2024-09-29 11:22:23.024478,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,-0.023799999999999988,0.1429,0.1667
 2024-09-29 12:46:27.968929,League One - England League One 2024/25 - Top 2 Finish,Peterborough United,-0.024299999999999995,0.0526,0.0769
 2024-09-29 14:27:03.893591,Matches - Day 4 Singles - M. Hughes vs M. Homa - Winner,Max Homa,-0.024399999999999977,0.4878,0.5122
 2024-09-29 12:46:27.962536,League One - England League One 2024/25 - To Be Relegated,Mansfield Town,-0.0245,0.0588,0.0833
 2024-09-29 12:46:27.965738,League One - England League One 2024/25 - To Finish Bottom,Stevenage,-0.024600000000000004,0.0099,0.0345
 2024-09-29 12:46:27.959335,League One - England League One 2024/25 - To Be Promoted,Peterborough United,-0.024999999999999994,0.1,0.125
 2024-09-29 12:46:30.181517,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Mississippi,-0.029299999999999993,0.0476,0.0769
+2024-09-29 11:22:25.549413,Matches - Day 4 Singles - T. Pendrith vs P. Cantlay - Winner,Patrick Cantlay,-0.030299999999999994,0.6364,0.6667
 2024-09-29 11:22:23.228912,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Alianza Lima,-0.030299999999999994,0.3333,0.3636
 2024-09-29 12:46:27.959335,League One - England League One 2024/25 - To Be Promoted,Wrexham,-0.030299999999999994,0.3333,0.3636
-2024-09-29 11:22:25.549413,Matches - Day 4 Singles - T. Pendrith vs P. Cantlay - Winner,Patrick Cantlay,-0.030299999999999994,0.6364,0.6667
 2024-09-29 12:46:30.435593,Matches - Day 4 Singles - C. Conners vs T. Finau - Winner,Tony Finau,-0.03179999999999994,0.5238,0.5556
 2024-09-29 11:22:22.961996,MLS - USA MLS 2024 - Futures - Golden Boot Award,Cristian Arango,-0.031799999999999995,0.1111,0.1429
 2024-09-29 11:22:23.185958,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Bodø/Glimt,-0.03410000000000002,0.875,0.9091
