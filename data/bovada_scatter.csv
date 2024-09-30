@@ -1,16 +1,36 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-09-30 04:32:15.372924,J1 League - Japan J1 League 2024 - Winner,Sanfrecce Hiroshima,0.1819,0.5455,0.3636
 2024-09-29 22:27:59.358117,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,0.1744,0.5744,0.4
 2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Breanna Stewart (NYL),0.10669999999999999,0.3448,0.2381
 2024-09-30 03:01:41.309002,WNBA Championship - WNBA Championship 2024 - Championship Winner,Connecticut Sun,0.09720000000000001,0.2222,0.125
+2024-09-30 04:32:15.372924,J1 League - Japan J1 League 2024 - Winner,Vissel Kobe,0.08329999999999999,0.3333,0.25
 2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Alyssa Thomas (CON),0.0777,0.1333,0.0556
 2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Sabrina Ionescu (NYL),0.0567,0.2105,0.1538
+2024-09-30 04:32:15.358973,Premiership - Scotland Premiership 2024/25 - Winner,Rangers,0.04620000000000002,0.2,0.1538
 2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Marina Mabrey (CON),0.037099999999999994,0.0588,0.0217
+2024-09-30 04:32:15.196280,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.033300000000000024,0.2,0.1667
+2024-09-30 04:32:15.344518,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,SønderjyskE,0.032299999999999995,0.3448,0.3125
+2024-09-30 04:32:15.196280,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.03179999999999994,0.5556,0.5238
+2024-09-30 04:32:15.344518,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,0.029299999999999993,0.9524,0.9231
+2024-09-30 04:32:15.200943,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,0.023799999999999932,0.8571,0.8333
+2024-09-30 04:32:15.191622,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.014700000000000046,0.7647,0.75
+2024-09-30 04:32:15.344518,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Viborg FF,0.013999999999999999,0.0909,0.0769
+2024-09-30 04:32:15.226808,Championship - England Championship 2024/25 - Winner,Leeds United,0.010099999999999998,0.4545,0.4444
 2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Kelsey Plum (LVA),-0.010600000000000002,0.0217,0.0323
 2024-09-30 03:37:09.855497,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,-0.010699999999999932,0.5348,0.5455
 2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Courtney Williams (MIN),-0.0113,0.0066,0.0179
+2024-09-30 04:32:15.200943,Ligue 1 - France Ligue 1 2024/25 - Winner,Rennes,-0.0116,0.0033,0.0149
+2024-09-30 04:32:15.200943,Ligue 1 - France Ligue 1 2024/25 - Winner,Marseille,-0.013999999999999999,0.0769,0.0909
 2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Jonquel Jones (NYL),-0.0208,0.0417,0.0625
 2024-09-29 22:27:59.358117,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.02250000000000002,0.2632,0.2857
+2024-09-30 04:32:15.344518,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Lyngby BK,-0.027700000000000058,0.5556,0.5833
+2024-09-30 04:32:15.344518,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,-0.02779999999999999,0.2222,0.25
+2024-09-30 04:32:15.372924,J1 League - Japan J1 League 2024 - Winner,Gamba Osaka,-0.0373,0.0294,0.0667
+2024-09-30 04:32:15.372924,J1 League - Japan J1 League 2024 - Winner,Kashima Antlers,-0.04329999999999999,0.0476,0.0909
+2024-09-30 04:32:15.196280,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,-0.04849999999999999,0.1333,0.1818
+2024-09-30 04:32:15.358973,Premiership - Scotland Premiership 2024/25 - Winner,Celtic,-0.052000000000000046,0.8571,0.9091
 2024-09-30 03:01:41.309002,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.0965,0.1667,0.2632
 2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),-0.1071,0.1429,0.25
 2024-09-29 22:27:59.358117,WNBA Championship - WNBA Championship 2024 - Championship Winner,Las Vegas Aces,-0.11900000000000002,0.1667,0.2857
 2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Napheesa Collier (MIN),-0.124,0.1538,0.2778
+2024-09-30 04:32:15.372924,J1 League - Japan J1 League 2024 - Winner,Machida Zelvia,-0.1666,0.1667,0.3333
