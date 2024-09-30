@@ -1,23 +1,15 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-29 22:27:59.358117,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,0.1744,0.5744,0.4
-2024-09-29 14:27:03.889183,Matches - Day 4 Singles - C. Bezuidenhout vs B. Harman - Winner,Christiaan Bezuidenhout,0.024399999999999977,0.5122,0.4878
-2024-09-29 14:27:03.858362,Matches - Day 4 Singles - S. Im vs R. Henley - Winner,Russell Henley,0.023800000000000043,0.5238,0.5
-2024-09-29 14:27:03.854061,Matches - Day 4 Singles - H. Matsuyama vs S. Scheffler - Winner,Scottie Scheffler,0.022199999999999998,0.6774,0.6552
-2024-09-29 14:27:03.893591,Matches - Day 4 Singles - M. Hughes vs M. Homa - Winner,Mackenzie Hughes,0.02079999999999993,0.5556,0.5348
-2024-09-29 14:27:03.742524,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Atlanta Braves,0.0203,0.0526,0.0323
-2024-09-29 14:27:03.372960,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,New York,0.0179,0.1429,0.125
-2024-09-29 14:27:03.750502,MLB Futures - MLB 2024 American League Winner - Winning Division,AL Central,0.017299999999999982,0.303,0.2857
-2024-09-29 14:27:03.742524,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.011899999999999994,0.25,0.2381
-2024-09-29 14:27:03.820887,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,0.010500000000000065,0.8,0.7895
-2024-09-29 14:27:03.372960,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,California,-0.010499999999999982,0.2,0.2105
-2024-09-29 14:27:03.372960,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,Pennsylvania,-0.010499999999999982,0.2,0.2105
-2024-09-29 14:27:03.820887,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,-0.011099999999999999,0.2667,0.2778
-2024-09-29 14:27:03.755197,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,New York Mets,-0.012600000000000007,0.0588,0.0714
-2024-09-29 14:27:03.750502,MLB Futures - MLB 2024 American League Winner - Winning Division,AL West,-0.01899999999999999,0.2083,0.2273
-2024-09-29 14:27:03.889183,Matches - Day 4 Singles - C. Bezuidenhout vs B. Harman - Winner,Brian Harman,-0.02079999999999993,0.5348,0.5556
-2024-09-29 14:27:03.854061,Matches - Day 4 Singles - H. Matsuyama vs S. Scheffler - Winner,Hideki Matsuyama,-0.02100000000000002,0.3636,0.3846
-2024-09-29 14:27:03.858362,Matches - Day 4 Singles - S. Im vs R. Henley - Winner,Sungjae Im,-0.02169999999999994,0.5238,0.5455
+2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Breanna Stewart (NYL),0.10669999999999999,0.3448,0.2381
+2024-09-30 03:01:41.309002,WNBA Championship - WNBA Championship 2024 - Championship Winner,Connecticut Sun,0.09720000000000001,0.2222,0.125
+2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Alyssa Thomas (CON),0.0777,0.1333,0.0556
+2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Sabrina Ionescu (NYL),0.0567,0.2105,0.1538
+2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Marina Mabrey (CON),0.037099999999999994,0.0588,0.0217
+2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Kelsey Plum (LVA),-0.010600000000000002,0.0217,0.0323
+2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Courtney Williams (MIN),-0.0113,0.0066,0.0179
+2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Jonquel Jones (NYL),-0.0208,0.0417,0.0625
 2024-09-29 22:27:59.358117,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.02250000000000002,0.2632,0.2857
-2024-09-29 14:27:03.372960,Presidential Debates - CBS VP Debate Oct 1st: First State Mentioned - 1st State Mentioned,Minnesota,-0.02260000000000001,0.3774,0.4
-2024-09-29 14:27:03.893591,Matches - Day 4 Singles - M. Hughes vs M. Homa - Winner,Max Homa,-0.024399999999999977,0.4878,0.5122
+2024-09-30 03:01:41.309002,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.0965,0.1667,0.2632
+2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),-0.1071,0.1429,0.25
 2024-09-29 22:27:59.358117,WNBA Championship - WNBA Championship 2024 - Championship Winner,Las Vegas Aces,-0.11900000000000002,0.1667,0.2857
+2024-09-30 03:01:41.321270,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Napheesa Collier (MIN),-0.124,0.1538,0.2778
