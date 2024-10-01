@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 10:33:32.984245,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,0.131,0.4167,0.2857
 2024-10-01 18:34:56.024890,Cut Lines - Matt Fitzpatrick - Make Cut / Miss Cut - Matt Fitzpatrick,Miss,0.10089999999999999,0.3509,0.25
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ernie Els,0.0857,0.1333,0.0476
+2024-10-01 20:27:59.714414,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Eating pets,0.08330000000000001,0.25,0.1667
 2024-10-01 11:24:38.374176,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,0.08150000000000002,0.2353,0.1538
 2024-10-01 10:33:32.935510,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,0.08080000000000004,0.4444,0.3636
 2024-10-01 10:33:32.984245,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,0.07779999999999998,0.3077,0.2299
@@ -15,14 +16,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 18:34:56.197147,Match-Ups - Tournament Match-Up - J. Suh v A. Tosti - Requests,Justin Suh,0.061999999999999944,0.6364,0.5744
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Frankie Capan III,0.0584,0.0588,0.0004
 2024-10-01 13:33:16.639654,League One - England League One 2024/25 - Top 6 Finish,Blackpool,0.05559999999999998,0.5,0.4444
-2024-10-01 18:34:56.002413,Cut Lines - Alex Noren - Make Cut / Miss Cut - Alex Noren,Miss,0.05299999999999999,0.303,0.25
 2024-10-01 18:34:56.029409,Cut Lines - Matt Wallace - Make Cut / Miss Cut - Matt Wallace,Miss,0.05299999999999999,0.303,0.25
+2024-10-01 18:34:56.002413,Cut Lines - Alex Noren - Make Cut / Miss Cut - Alex Noren,Miss,0.05299999999999999,0.303,0.25
 2024-10-01 10:33:32.984245,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.04910000000000003,0.4,0.3509
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Harrison Frazar,0.0476,0.0526,0.005
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Brian Campbell,0.0427,0.0526,0.0099
 2024-10-01 11:24:40.496258,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Nico Collins (HOU),0.04120000000000001,0.1,0.0588
 2024-10-01 10:33:32.980876,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.04040000000000002,0.2222,0.1818
-2024-10-01 07:25:47.006764,MLB Futures - MLB 2024 World Series Winner - Winning League,National League,0.03610000000000002,0.5917,0.5556
 2024-10-01 10:33:32.990392,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Torino,0.034100000000000005,0.125,0.0909
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Tim Widing,0.034,0.0345,0.0005
 2024-10-01 11:24:40.488200,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Mason Rudolph (TEN),0.0335,0.0385,0.005
@@ -33,7 +33,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 15:28:36.152128,MLB Playoff Specials - Batter Specials - Juan Soto Post Season Batting Average,Over 0.270,0.03179999999999994,0.5556,0.5238
 2024-10-01 11:24:40.496258,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),0.031399999999999983,0.2667,0.2353
 2024-10-01 09:29:15.865873,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Andrei Mikhailovich,0.031,0.1739,0.1429
-2024-10-01 07:25:47.032148,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,LA Dodgers beat NY Mets,0.030699999999999998,0.0833,0.0526
 2024-10-01 13:33:16.626857,League One - England League One 2024/25 - To Be Promoted,Blackpool,0.028700000000000003,0.2105,0.1818
 2024-10-01 10:33:33.206055,Serie B - Italy Serie B 2024/25 - To Be Promoted,Brescia,0.027999999999999997,0.1818,0.1538
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Taylor Dickson,0.0279,0.0345,0.0066
@@ -41,12 +40,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Quade Cummins,0.027399999999999997,0.0278,0.0004
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Cristobal Del Solar,0.027299999999999998,0.0278,0.0005
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Steven Fisk,0.026600000000000002,0.0345,0.0079
-2024-10-01 17:28:24.203551,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),T'Vondre Sweat (TEN),0.025900000000000003,0.0476,0.0217
 2024-10-01 11:24:40.480742,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jared Goff (DET),0.025900000000000003,0.0476,0.0217
+2024-10-01 17:28:24.203551,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),T'Vondre Sweat (TEN),0.025900000000000003,0.0476,0.0217
 2024-10-01 10:33:32.990392,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,0.025600000000000067,0.6923,0.6667
 2024-10-01 10:33:32.935510,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.02560000000000001,0.3333,0.3077
-2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Pontus Nyholm,0.0239,0.0244,0.0005
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Jackson Suber,0.0239,0.0244,0.0005
+2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Pontus Nyholm,0.0239,0.0244,0.0005
 2024-10-01 10:33:33.206055,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,0.023800000000000043,0.5238,0.5
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ken Duke,0.0234,0.0244,0.001
 2024-10-01 10:33:32.977637,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Lazio,0.023200000000000002,0.0526,0.0294
@@ -60,35 +59,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Carter Jenkins,0.0192,0.0196,0.0004
 2024-10-01 10:33:32.990392,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.019000000000000017,0.2857,0.2667
 2024-10-01 10:33:33.202910,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.01820000000000002,0.2,0.1818
-2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Alex Cejka,0.018099999999999998,0.0526,0.0345
 2024-10-01 11:24:38.440580,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Shamrock Rovers,0.018099999999999998,0.0769,0.0588
+2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Alex Cejka,0.018099999999999998,0.0526,0.0345
 2024-10-01 16:34:57.337698,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Tim Tszyu,0.017900000000000027,0.875,0.8571
 2024-10-01 10:33:32.987304,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,0.01759999999999999,0.1176,0.1
 2024-10-01 10:33:32.929054,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.01759999999999995,0.6667,0.6491
 2024-10-01 10:33:35.634119,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Tim Tszyu,0.016799999999999926,0.8571,0.8403
-2024-10-01 10:33:32.984245,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.016699999999999993,0.2667,0.25
 2024-10-01 18:34:55.580265,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Dog,0.016699999999999993,0.4167,0.4
 2024-10-01 10:33:33.188612,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.016699999999999993,0.2667,0.25
+2024-10-01 10:33:32.984245,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.016699999999999993,0.2667,0.25
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ken Tanigawa,0.0163,0.0196,0.0033
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Matt Gogel,0.0163,0.0196,0.0033
 2024-10-01 11:24:40.496258,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Jayden Daniels (WAS),0.0156,0.0196,0.004
-2024-10-01 07:25:47.003204,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Mets,0.015300000000000001,0.0476,0.0323
 2024-10-01 17:28:23.097122,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Rick Carlisle,0.015300000000000001,0.0476,0.0323
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Roberto Diaz,0.0148,0.0152,0.0004
 2024-10-01 17:28:24.452525,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,0.01479999999999998,0.3922,0.3774
+2024-10-01 20:27:59.717819,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said by Tim Walz - Parlay,"""Cat"" & ""Couch""",0.014399999999999996,0.0769,0.0625
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tim Herron,0.0142,0.0152,0.001
 2024-10-01 13:33:16.403088,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,0.014100000000000001,0.0526,0.0385
-2024-10-01 07:25:47.032148,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,SD Padres beat NY Mets,0.014099999999999998,0.0385,0.0244
 2024-10-01 14:30:19.938368,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Get off the couch,0.013999999999999999,0.0909,0.0769
 2024-10-01 10:33:32.987304,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Parma,0.013899999999999996,0.125,0.1111
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tim O'Neal,0.0132,0.0152,0.002
-2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Bob Estes,0.012400000000000001,0.0164,0.004
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Stuart Appleby,0.012400000000000001,0.0164,0.004
+2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Bob Estes,0.012400000000000001,0.0164,0.004
 2024-10-01 17:28:24.444531,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.011300000000000004,0.2,0.1887
 2024-10-01 08:33:55.761792,Tour Championship - Tour Championship - Winner,Jeremy Paul,0.011300000000000001,0.0123,0.001
-2024-10-01 10:33:33.202910,Serie B - Italy Serie B 2024/25 - Winner,Brescia,0.011199999999999995,0.0588,0.0476
-2024-10-01 10:33:32.987304,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Genoa,0.011199999999999995,0.0588,0.0476
 2024-10-01 09:29:15.934371,Alfred Dunhill - Alfred Dunhill Links Championship - Winner,Brooks Koepka,0.011199999999999995,0.0588,0.0476
+2024-10-01 10:33:32.987304,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Genoa,0.011199999999999995,0.0588,0.0476
+2024-10-01 10:33:33.202910,Serie B - Italy Serie B 2024/25 - Winner,Brescia,0.011199999999999995,0.0588,0.0476
 2024-10-01 17:28:24.444531,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,0.011099999999999999,0.1111,0.1
 2024-10-01 10:33:33.206055,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,0.010899999999999993,0.1538,0.1429
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Shane Bertsch,0.0102,0.0152,0.005
@@ -97,16 +95,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 16:34:57.329197,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,0.010099999999999998,0.3226,0.3125
 2024-10-01 09:29:15.915410,Boxing Lines - Kosei Tanaka vs Phumelele Cafu - To Win the Bout,Kosei Tanaka,-0.010199999999999987,0.9231,0.9333
 2024-10-01 10:33:32.987304,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Empoli,-0.0102,0.0667,0.0769
-2024-10-01 17:28:24.467755,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Atlanta Braves,-0.010899999999999993,0.08,0.0909
 2024-10-01 17:28:24.452525,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Kansas City Royals,-0.010899999999999993,0.08,0.0909
 2024-10-01 10:33:32.935510,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,-0.010899999999999993,0.1429,0.1538
+2024-10-01 17:28:24.467755,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Atlanta Braves,-0.010899999999999993,0.08,0.0909
 2024-10-01 10:33:32.977637,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,-0.011099999999999999,0.1,0.1111
-2024-10-01 10:33:32.938512,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,-0.011199999999999995,0.0476,0.0588
 2024-10-01 17:28:24.444531,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Atlanta Braves,-0.011199999999999995,0.0476,0.0588
+2024-10-01 10:33:32.938512,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,-0.011199999999999995,0.0476,0.0588
 2024-10-01 15:28:36.191438,MLB Playoff Specials - Batter Specials - Pete Alonso Postseason Batting Average,Over 0.230,-0.011600000000000055,0.5122,0.5238
 2024-10-01 15:28:36.086909,MLB Playoff Specials - Batter Specials - Aaron Judge Post Season Batting Average,Over 0.287,-0.012199999999999989,0.5,0.5122
 2024-10-01 10:33:32.977637,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,-0.012799999999999978,0.2857,0.2985
-2024-10-01 07:25:47.032148,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,ATL Braves beat MIL Brewers,-0.012800000000000002,0.0217,0.0345
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Kirk Triplett,-0.013,0.0066,0.0196
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Vijay Singh,-0.0131,0.0345,0.0476
 2024-10-01 11:24:40.496258,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),James Cook (BUF),-0.013699999999999999,0.0141,0.0278
@@ -116,10 +113,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 10:33:32.984245,Serie A - Italy Serie A 2024/25 - To Be Relegated,Fiorentina,-0.015300000000000001,0.0435,0.0588
 2024-10-01 10:33:32.938512,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Osasuna,-0.015300000000000001,0.0435,0.0588
 2024-10-01 11:24:38.383698,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Helsingborgs IF,-0.015300000000000001,0.0435,0.0588
-2024-10-01 07:25:47.032148,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,MIL Brewers beat SD Padres,-0.0157,0.0278,0.0435
 2024-10-01 11:24:38.383698,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Östers IF,-0.016700000000000007,0.0833,0.1
 2024-10-01 10:33:35.634119,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Bakhram Murtazaliev,-0.01680000000000001,0.2105,0.2273
-2024-10-01 07:25:47.003204,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.0174,0.2326,0.25
 2024-10-01 11:24:40.496258,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),-0.018099999999999998,0.0345,0.0526
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Dicky Pride,-0.0187,0.0057,0.0244
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Robert Karlsson,-0.0189,0.0196,0.0385
@@ -127,27 +122,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 16:34:57.337698,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Bakhram Murtazaliev,-0.01999999999999999,0.1905,0.2105
 2024-10-01 11:24:38.378983,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Racing Club,-0.02020000000000001,0.0909,0.1111
 2024-10-01 15:28:36.155718,MLB Playoff Specials - Batter Specials - Kyle Schwarber Post Season Batting Average,Under 0.210,-0.022600000000000064,0.5122,0.5348
-2024-10-01 10:33:32.935510,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,-0.023799999999999988,0.4762,0.5
 2024-10-01 10:33:32.987304,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,-0.023799999999999988,0.3333,0.3571
+2024-10-01 10:33:32.935510,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,-0.023799999999999988,0.4762,0.5
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Paul Stankowski,-0.023899999999999998,0.0196,0.0435
 2024-10-01 11:24:40.496258,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Breece Hall (NYJ),-0.024,0.0385,0.0625
 2024-10-01 10:33:32.987304,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Como,-0.024299999999999995,0.0345,0.0588
 2024-10-01 10:33:32.990392,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Monza,-0.024600000000000004,0.0099,0.0345
 2024-10-01 11:24:38.374176,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,-0.025599999999999956,0.5744,0.6
-2024-10-01 07:25:47.032148,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,SD Padres beat MIL Brewers,-0.026499999999999996,0.0323,0.0588
-2024-10-01 07:25:47.032148,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,LA Dodgers beat MIL Brewers,-0.0267,0.0909,0.1176
 2024-10-01 09:29:15.865873,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Zhanibek Alimkhanuly,-0.027799999999999936,0.8889,0.9167
-2024-10-01 07:25:47.032148,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,MIL Brewers beat LA Dodgers,-0.029299999999999993,0.0476,0.0769
 2024-10-01 18:34:56.015968,Cut Lines - Jon Rahm - Make Cut / Miss Cut - Jon Rahm,Make,-0.029299999999999993,0.9231,0.9524
 2024-10-01 12:51:13.098232,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Proposition,Inside the Park Home Run in any game*,-0.031,0.0278,0.0588
 2024-10-01 10:33:32.935510,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.031799999999999995,0.1111,0.1429
 2024-10-01 10:33:32.980876,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Valentin Castellanos (Lazio),-0.0321,0.0588,0.0909
-2024-10-01 10:33:32.980876,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),-0.0321,0.0588,0.0909
 2024-10-01 10:33:32.980876,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Arthen Dovbyk (AS Roma),-0.0321,0.0588,0.0909
+2024-10-01 10:33:32.980876,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),-0.0321,0.0588,0.0909
 2024-10-01 15:28:36.152128,MLB Playoff Specials - Batter Specials - Juan Soto Post Season Batting Average,Under 0.270,-0.033299999999999996,0.5122,0.5455
 2024-10-01 12:51:13.098232,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Proposition,Any Player to Hit a 470+Ft Home Run in any game*,-0.035699999999999996,0.0476,0.0833
 2024-10-01 18:34:55.575620,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Hillbily,-0.03570000000000001,0.25,0.2857
-2024-10-01 07:25:47.006764,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,-0.035999999999999976,0.4762,0.5122
 2024-10-01 11:24:38.374176,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.03710000000000002,0.3333,0.3704
 2024-10-01 10:33:33.206055,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,-0.0378,0.4167,0.4545
 2024-10-01 12:51:13.098232,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Proposition,Home Run First Pitch of the Night any Game*,-0.038299999999999994,0.0526,0.0909
@@ -158,8 +149,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 10:33:33.202910,Serie B - Italy Serie B 2024/25 - Winner,Cremonese,-0.04620000000000002,0.1538,0.2
 2024-10-01 10:33:32.935510,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.048100000000000004,0.0769,0.125
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Steve Flesch,-0.0491,0.0278,0.0769
-2024-10-01 18:34:56.002413,Cut Lines - Alex Noren - Make Cut / Miss Cut - Alex Noren,Make,-0.05349999999999999,0.7647,0.8182
 2024-10-01 18:34:56.029409,Cut Lines - Matt Wallace - Make Cut / Miss Cut - Matt Wallace,Make,-0.05349999999999999,0.7647,0.8182
+2024-10-01 18:34:56.002413,Cut Lines - Alex Noren - Make Cut / Miss Cut - Alex Noren,Make,-0.05349999999999999,0.7647,0.8182
 2024-10-01 11:24:40.505000,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Marvin Harrison Jr. (ARI),-0.05710000000000001,0.1429,0.2
 2024-10-01 11:24:40.496258,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),CeeDee Lamb (DAL),-0.0625,0.0625,0.125
 2024-10-01 08:33:55.767213,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Miguel Angel Jimenez,-0.06309999999999999,0.0278,0.0909
