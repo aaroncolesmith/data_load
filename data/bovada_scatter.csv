@@ -2,69 +2,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-30 18:34:47.873874,NBL - Australia NBL 2024/25 - To Make Grand Final,Illawarra Hawks,0.19039999999999999,0.3333,0.1429
 2024-09-30 15:29:01.770551,NFL Weekly Specials - NFL Week 4 - Monday Specials - MNF Specials,"G.Smith, J.Goff, T.Huntley & W.Levis 30+ Yards Longest Passing Completion Each",0.1756,0.2,0.0244
 2024-09-30 15:29:01.770551,NFL Weekly Specials - NFL Week 4 - Monday Specials - MNF Specials,"D.Hopkins, T.Lockett, T.Hill, C.Ridley, D.Metcalf, J.Waddle, A.St.Brown, J.Williams & J.Smith-Njigba 25+ Rec Yds Each",0.1265,0.1429,0.0164
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Los Angeles Dodgers to beat Cleveland Guardians,0.0502,0.0625,0.0123
 2024-09-30 18:34:47.873874,NBL - Australia NBL 2024/25 - To Make Grand Final,New Zealand Breakers,0.04909999999999999,0.1667,0.1176
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Philadelphia Phillies to beat New York Yankees,0.0429,0.0625,0.0196
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Philadelphia Phillies to beat Cleveland Guardians,0.042100000000000005,0.0476,0.0055
 2024-09-30 18:34:47.883854,LNB Pro A - France LNB Pro A 2024/25 - Winner,JL Bourg,0.0384,0.0769,0.0385
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Cleveland Guardians to beat Los Angeles Dodgers,0.0323,0.0385,0.0062
 2024-10-01 02:01:52.315534,Coppa Italia - Coppa Italia 2024/25 - Winner,Napoli,0.031799999999999995,0.1429,0.1111
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,New York Yankees to beat Los Angeles Dodgers,0.029299999999999993,0.0769,0.0476
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Cleveland Guardians to beat Philadelphia Phillies,0.028900000000000002,0.0323,0.0034
 2024-09-30 21:25:42.091729,Tour Championship - Tour Championship - Outright,Quade Cummins,0.027,0.0278,0.0008
 2024-09-30 21:25:42.091729,Tour Championship - Tour Championship - Outright,Harry Higgs,0.026099999999999998,0.0278,0.0017
 2024-09-30 15:29:02.019761,Alfred Dunhill - Alfred Dunhill Links Championship - Winner,Matt Wallace,0.0257,0.0323,0.0066
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,San Diego Padres to beat New York Yankees,0.0257,0.0323,0.0066
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Los Angeles Dodgers to beat New York Yankees,0.0245,0.0833,0.0588
 2024-09-30 21:25:42.091729,Tour Championship - Tour Championship - Outright,Brandon Crick,0.0242,0.0278,0.0036
 2024-09-30 21:25:42.091729,Tour Championship - Tour Championship - Outright,Rick Lamb,0.023100000000000002,0.0244,0.0013
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Cleveland Guardians to beat San Diego Padres,0.023100000000000002,0.0244,0.0013
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,San Diego Padres to beat Cleveland Guardians,0.0227,0.0244,0.0017
 2024-10-01 02:01:52.315534,Coppa Italia - Coppa Italia 2024/25 - Winner,Juventus,0.022199999999999998,0.2222,0.2
 2024-09-30 21:25:42.091729,Tour Championship - Tour Championship - Outright,Seung-Yul Noh,0.021900000000000003,0.0244,0.0025
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Los Angeles Dodgers to beat Kansas City Royals,0.021599999999999998,0.0278,0.0062
 2024-09-30 21:25:42.091729,Tour Championship - Tour Championship - Outright,Trevor Cone,0.0211,0.0244,0.0033
-2024-09-30 14:31:27.099387,MLB Playoff Specials - Batter Specials - Shohei Ohtani Post Season Batting Average,Over 0.276,0.02079999999999993,0.5556,0.5348
 2024-09-30 20:28:12.622007,MLB Playoff Specials - Batter Specials - Aaron Judge Post Season Batting Average,Under 0.287,0.02079999999999993,0.5556,0.5348
 2024-09-30 21:25:42.091729,Tour Championship - Tour Championship - Outright,Pontus Nyholm,0.0204,0.0244,0.004
 2024-09-30 15:29:02.019761,Alfred Dunhill - Alfred Dunhill Links Championship - Winner,Alex Noren,0.020000000000000004,0.0323,0.0123
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Philadelphia Phillies to beat Houston Astros,0.0189,0.0385,0.0196
 2024-09-30 21:25:42.091729,Tour Championship - Tour Championship - Outright,Kyle Westmoreland,0.0189,0.0196,0.0007
 2024-09-30 20:28:11.133510,Average Threes Made Per Game - Average Threes Per Game  - Stephen Curry (GSW) - Threes Per Game,Over 4.5,0.01880000000000004,0.5744,0.5556
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Houston Astros to beat Philadelphia Phillies,0.0172,0.0385,0.0213
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Philadelphia Phillies to beat Kansas City Royals,0.0171,0.0196,0.0025
 2024-09-30 23:26:36.523319,Euro Cup - Euro Cup 2024/25 - Outright,Besiktas,0.016600000000000004,0.0833,0.0667
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Philadelphia Phillies to beat Detroit Tigers,0.0153,0.0196,0.0043
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Milwaukee Brewers to beat Cleveland Guardians,0.015000000000000001,0.0164,0.0014
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Los Angeles Dodgers to beat Detroit Tigers,0.0145,0.0244,0.0099
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Philadelphia Phillies to beat Baltimore Orioles,0.014400000000000003,0.0323,0.0179
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Baltimore Orioles to beat Philadelphia Phillies,0.014400000000000003,0.0323,0.0179
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Milwaukee Brewers to beat New York Yankees,0.0141,0.0196,0.0055
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Kansas City Royals to beat Los Angeles Dodgers,0.014000000000000002,0.0164,0.0024
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Cleveland Guardians to beat Milwaukee Brewers,0.0139,0.0152,0.0013
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Houston Astros to beat San Diego Padres,0.0134,0.0217,0.0083
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,San Diego Padres to beat Houston Astros,0.013399999999999999,0.0196,0.0062
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Kansas City Royals to beat Philadelphia Phillies,0.0129,0.0141,0.0012
 2024-10-01 02:01:52.075954,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.012700000000000045,0.6491,0.6364
 2024-09-30 21:25:42.091729,Tour Championship - Tour Championship - Outright,Doc Redman,0.012700000000000003,0.0323,0.0196
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,San Diego Padres to beat Baltimore Orioles,0.0124,0.0179,0.0055
 2024-10-01 02:01:52.315534,Coppa Italia - Coppa Italia 2024/25 - Winner,Empoli,0.0118,0.0217,0.0099
 2024-09-30 15:29:01.770551,NFL Weekly Specials - NFL Week 4 - Monday Specials - MNF Specials,"D.Hopkins, T.Lockett, T.Boyd, T.Pollard, C.Okonkwo, J.Waddle, J.Gibbs & D.Achane 3+ Receptions Each",0.011699999999999999,0.0196,0.0079
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Detroit Tigers to beat Philadelphia Phillies,0.0116,0.0141,0.0025
 2024-09-30 22:29:20.332632,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,0.010599999999999998,0.4651,0.4545
 2024-10-01 02:01:52.315534,Coppa Italia - Coppa Italia 2024/25 - Winner,AS Roma,-0.0102,0.0667,0.0769
 2024-09-30 20:28:12.824501,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.010599999999999998,0.4545,0.4651
 2024-09-30 18:34:47.873874,NBL - Australia NBL 2024/25 - To Make Grand Final,Adelaide 36ers,-0.010899999999999993,0.1429,0.1538
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Houston Astros to beat Atlanta Braves,-0.0138,0.0132,0.027
 2024-10-01 02:01:52.315534,Coppa Italia - Coppa Italia 2024/25 - Winner,Atalanta,-0.013999999999999999,0.0769,0.0909
 2024-09-30 18:34:47.873874,NBL - Australia NBL 2024/25 - To Make Grand Final,Brisbane Bullets,-0.014099999999999994,0.0526,0.0667
 2024-10-01 02:01:52.111425,Serie A - Italy Serie A 2024/25 - Winner,Juventus,-0.01820000000000002,0.1818,0.2
 2024-09-30 20:28:11.281450,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,-0.01880000000000004,0.5556,0.5744
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Atlanta Braves to beat Houston Astros,-0.019100000000000002,0.0132,0.0323
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Atlanta Braves to beat Baltimore Orioles,-0.021300000000000003,0.011,0.0323
-2024-09-30 14:31:27.165271,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Baltimore Orioles to beat Atlanta Braves,-0.022400000000000003,0.0099,0.0323
 2024-09-30 20:28:12.622007,MLB Playoff Specials - Batter Specials - Aaron Judge Post Season Batting Average,Over 0.287,-0.022600000000000064,0.5122,0.5348
-2024-09-30 14:31:27.099387,MLB Playoff Specials - Batter Specials - Shohei Ohtani Post Season Batting Average,Under 0.276,-0.022600000000000064,0.5122,0.5348
 2024-10-01 02:01:52.335141,Super League - Greece Super League 2024/25 - Winner,Panathinaikos,-0.023799999999999988,0.1429,0.1667
 2024-09-30 20:28:11.133510,Average Threes Made Per Game - Average Threes Per Game  - Stephen Curry (GSW) - Threes Per Game,Under 4.5,-0.024399999999999977,0.4878,0.5122
 2024-09-30 18:34:47.873874,NBL - Australia NBL 2024/25 - To Make Grand Final,SE Melbourne Phoenix,-0.05710000000000001,0.1429,0.2
