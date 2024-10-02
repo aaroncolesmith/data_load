@@ -15,6 +15,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,High school coach,0.11260000000000003,0.4762,0.3636
 2024-10-01 18:34:56.024890,Cut Lines - Matt Fitzpatrick - Make Cut / Miss Cut - Matt Fitzpatrick,Miss,0.10089999999999999,0.3509,0.25
 2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Haitian,0.09350000000000003,0.4444,0.3509
+2024-10-02 01:52:14.250274,League One - England League One 2024/25 - Winner,Birmingham City,0.08550000000000002,0.7778,0.6923
 2024-10-01 20:27:59.714414,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Eating pets,0.08330000000000001,0.25,0.1667
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Venture capitalist,0.08079999999999998,0.6364,0.5556
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,High school coach,0.07939999999999997,0.5556,0.4762
@@ -23,76 +24,108 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-01 18:34:56.304927,Cut Lines - Alejandro Tosti - Make Cut / Miss Cut - Alejandro Tosti,Make,0.06230000000000002,0.6078,0.5455
 2024-10-01 18:34:56.197147,Match-Ups - Tournament Match-Up - J. Suh v A. Tosti - Requests,Justin Suh,0.061999999999999944,0.6364,0.5744
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Tampon,0.05980000000000002,0.4444,0.3846
+2024-10-02 01:52:16.290159,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter,0.0585,0.1111,0.0526
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Eating pets,0.05559999999999998,0.5,0.4444
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Haitian,0.05559999999999998,0.5,0.4444
-2024-10-01 13:33:16.639654,League One - England League One 2024/25 - Top 6 Finish,Blackpool,0.05559999999999998,0.5,0.4444
-2024-10-01 18:34:56.002413,Cut Lines - Alex Noren - Make Cut / Miss Cut - Alex Noren,Miss,0.05299999999999999,0.303,0.25
+2024-10-02 01:52:16.413245,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Detroit Tigers,0.0533,0.1333,0.08
+2024-10-02 01:52:16.413245,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Kansas City Royals,0.0533,0.1333,0.08
 2024-10-01 18:34:56.029409,Cut Lines - Matt Wallace - Make Cut / Miss Cut - Matt Wallace,Miss,0.05299999999999999,0.303,0.25
+2024-10-01 18:34:56.002413,Cut Lines - Alex Noren - Make Cut / Miss Cut - Alex Noren,Miss,0.05299999999999999,0.303,0.25
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Radical left,0.04760000000000009,0.7143,0.6667
 2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Neighbors,0.04760000000000009,0.7143,0.6667
+2024-10-02 01:52:16.290159,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Jalen Milroe,0.04329999999999999,0.0909,0.0476
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Stolen election,0.0353,0.2353,0.2
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Diet Mountain Dew,0.031799999999999995,0.1429,0.1111
 2024-10-01 15:28:36.152128,MLB Playoff Specials - Batter Specials - Juan Soto Post Season Batting Average,Over 0.270,0.03179999999999994,0.5556,0.5238
-2024-10-01 13:33:16.626857,League One - England League One 2024/25 - To Be Promoted,Blackpool,0.028700000000000003,0.2105,0.1818
+2024-10-02 01:52:14.255171,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.028799999999999992,0.1538,0.125
+2024-10-02 01:52:14.215482,Championship - England Championship 2024/25 - Winner,Middlesbrough,0.028799999999999992,0.1538,0.125
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Fentanyl,0.02839999999999998,0.9375,0.9091
+2024-10-02 01:52:14.215482,Championship - England Championship 2024/25 - Winner,Sunderland,0.0267,0.1176,0.0909
 2024-10-01 23:25:16.885215,Presidential Debates - CBS VP Debat Oct 1st: Debate Winner - Who will win the debate according to polls?,J.D. Vance,0.026500000000000024,0.3774,0.3509
 2024-10-01 17:28:24.203551,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),T'Vondre Sweat (TEN),0.025900000000000003,0.0476,0.0217
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,MAGA/Make America great again,0.025600000000000067,0.6923,0.6667
 2024-10-01 21:26:17.705921,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Victor Wembanyama (SAS),0.024999999999999994,0.125,0.1
-2024-10-01 18:34:56.015968,Cut Lines - Jon Rahm - Make Cut / Miss Cut - Jon Rahm,Miss,0.022199999999999998,0.1333,0.1111
 2024-10-01 17:28:24.467755,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,San Diego Padres,0.022199999999999998,0.2222,0.2
+2024-10-01 18:34:56.015968,Cut Lines - Jon Rahm - Make Cut / Miss Cut - Jon Rahm,Miss,0.022199999999999998,0.1333,0.1111
 2024-10-01 15:28:36.155718,MLB Playoff Specials - Batter Specials - Kyle Schwarber Post Season Batting Average,Over 0.210,0.02079999999999993,0.5556,0.5348
-2024-10-01 13:33:16.403088,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayern Munich,0.02020000000000001,0.1111,0.0909
+2024-10-02 01:52:14.215482,Championship - England Championship 2024/25 - Winner,Burnley,0.02049999999999999,0.1538,0.1333
+2024-10-02 01:52:14.255171,League Two - England League Two 2024/25 - Winner,Notts County,0.02020000000000001,0.1111,0.0909
+2024-10-02 01:52:16.290159,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,0.01949999999999999,0.0909,0.0714
+2024-10-02 01:52:14.255171,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,0.018099999999999998,0.0769,0.0588
+2024-10-02 01:52:14.255171,League Two - England League Two 2024/25 - Winner,Fleetwood Town,0.018099999999999998,0.0769,0.0588
 2024-10-01 16:34:57.337698,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Tim Tszyu,0.017900000000000027,0.875,0.8571
-2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,"When unions are strong, America is strong",0.016699999999999993,0.2667,0.25
+2024-10-02 01:52:14.079874,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Arsenal,0.01759999999999999,0.1176,0.1
 2024-10-01 18:34:55.580265,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Dog,0.016699999999999993,0.4167,0.4
+2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,"When unions are strong, America is strong",0.016699999999999993,0.2667,0.25
+2024-10-02 01:52:16.413245,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,0.016000000000000014,0.4082,0.3922
 2024-10-01 17:28:23.097122,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Rick Carlisle,0.015300000000000001,0.0476,0.0323
 2024-10-01 17:28:24.452525,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,0.01479999999999998,0.3922,0.3774
 2024-10-01 20:27:59.717819,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said by Tim Walz - Parlay,"""Cat"" & ""Couch""",0.014399999999999996,0.0769,0.0625
-2024-10-01 13:33:16.403088,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,0.014100000000000001,0.0526,0.0385
 2024-10-01 14:30:19.938368,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Get off the couch,0.013999999999999999,0.0909,0.0769
+2024-10-02 01:52:16.494299,Boxing Lines - Tenshin Nasukawa vs Gerwin Asilo - To Win the Bout,Gerwin Asilo,0.013899999999999996,0.125,0.1111
+2024-10-02 01:52:16.413245,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Cleveland Guardians,0.011700000000000016,0.2222,0.2105
 2024-10-01 17:28:24.444531,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.011300000000000004,0.2,0.1887
+2024-10-02 01:52:14.079874,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayer Leverkusen,0.011199999999999995,0.0588,0.0476
+2024-10-02 01:52:14.255171,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,0.011099999999999999,0.1111,0.1
 2024-10-01 17:28:24.444531,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,0.011099999999999999,0.1111,0.1
+2024-10-02 01:52:16.290159,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Jaxson Dart,0.010700000000000001,0.0385,0.0278
 2024-10-01 16:34:57.329197,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,0.010099999999999998,0.3226,0.3125
 2024-10-01 15:28:36.191438,MLB Playoff Specials - Batter Specials - Pete Alonso Postseason Batting Average,Under 0.230,0.010099999999999998,0.5556,0.5455
-2024-10-01 17:28:24.467755,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Atlanta Braves,-0.010899999999999993,0.08,0.0909
+2024-10-02 01:52:14.215482,Championship - England Championship 2024/25 - Winner,Norwich City,-0.010100000000000001,0.0244,0.0345
+2024-10-02 01:52:14.250274,League One - England League One 2024/25 - Winner,Charlton Athletic,-0.010300000000000002,0.0141,0.0244
 2024-10-01 17:28:24.452525,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Kansas City Royals,-0.010899999999999993,0.08,0.0909
+2024-10-01 17:28:24.467755,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Atlanta Braves,-0.010899999999999993,0.08,0.0909
+2024-10-02 01:52:14.255171,League Two - England League Two 2024/25 - Winner,Chesterfield,-0.010899999999999993,0.1429,0.1538
 2024-10-01 17:28:24.444531,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Atlanta Braves,-0.011199999999999995,0.0476,0.0588
 2024-10-01 22:29:42.355467,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tim Herron,-0.0112,0.004,0.0152
+2024-10-02 01:52:14.215482,Championship - England Championship 2024/25 - Winner,Blackburn Rovers,-0.011399999999999997,0.0164,0.0278
 2024-10-01 15:28:36.191438,MLB Playoff Specials - Batter Specials - Pete Alonso Postseason Batting Average,Over 0.230,-0.011600000000000055,0.5122,0.5238
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Tampon,-0.011700000000000016,0.2105,0.2222
 2024-10-01 15:28:36.086909,MLB Playoff Specials - Batter Specials - Aaron Judge Post Season Batting Average,Over 0.287,-0.012199999999999989,0.5,0.5122
+2024-10-02 01:52:14.250274,League One - England League One 2024/25 - Winner,Blackpool,-0.0131,0.0345,0.0476
+2024-10-02 01:52:14.250274,League One - England League One 2024/25 - Winner,Peterborough United,-0.013400000000000002,0.011,0.0244
 2024-10-01 22:29:42.355467,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Darren Clarke,-0.014099999999999994,0.0526,0.0667
+2024-10-02 01:52:16.494299,Boxing Lines - Tenshin Nasukawa vs Gerwin Asilo - To Win the Bout,Tenshin Nasukawa,-0.014100000000000001,0.9333,0.9474
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Small businesses,-0.014399999999999968,0.9231,0.9375
+2024-10-02 01:52:14.079874,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,-0.01469999999999999,0.2353,0.25
+2024-10-02 01:52:14.215482,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,-0.016700000000000007,0.0833,0.1
+2024-10-02 01:52:16.290159,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,JT Tuimoloau,-0.017099999999999997,0.0123,0.0294
+2024-10-02 01:52:14.250274,League One - England League One 2024/25 - Winner,Wrexham,-0.018099999999999998,0.0588,0.0769
 2024-10-01 16:34:57.337698,Boxing Lines - Bakhram Murtazaliev vs Tim Tszyu - To Win the Bout,Bakhram Murtazaliev,-0.01999999999999999,0.1905,0.2105
 2024-10-01 23:25:16.885215,Presidential Debates - CBS VP Debat Oct 1st: Debate Winner - Who will win the debate according to polls?,Tim Walz,-0.02200000000000002,0.6923,0.7143
+2024-10-02 01:52:14.255171,League Two - England League Two 2024/25 - Winner,Walsall,-0.022199999999999998,0.1111,0.1333
 2024-10-01 15:28:36.155718,MLB Playoff Specials - Batter Specials - Kyle Schwarber Post Season Batting Average,Under 0.210,-0.022600000000000064,0.5122,0.5348
+2024-10-02 01:52:14.079874,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,-0.026000000000000023,0.2597,0.2857
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Trump 30+ times,-0.027700000000000002,0.4167,0.4444
 2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Tampon,-0.02779999999999999,0.2222,0.25
+2024-10-02 01:52:14.255171,League Two - England League Two 2024/25 - Winner,Gillingham,-0.027999999999999997,0.1053,0.1333
+2024-10-02 01:52:14.215482,Championship - England Championship 2024/25 - Winner,Leeds United,-0.029000000000000026,0.4255,0.4545
 2024-10-01 18:34:56.015968,Cut Lines - Jon Rahm - Make Cut / Miss Cut - Jon Rahm,Make,-0.029299999999999993,0.9231,0.9524
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Yale,-0.030299999999999994,0.6364,0.6667
-2024-10-01 12:51:13.098232,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Proposition,Inside the Park Home Run in any game*,-0.031,0.0278,0.0588
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Take care of our troops,-0.03179999999999994,0.5238,0.5556
 2024-10-01 15:28:36.152128,MLB Playoff Specials - Batter Specials - Juan Soto Post Season Batting Average,Under 0.270,-0.033299999999999996,0.5122,0.5455
-2024-10-01 12:51:13.098232,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Proposition,Any Player to Hit a 470+Ft Home Run in any game*,-0.035699999999999996,0.0476,0.0833
-2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,"When unions are strong, America is strong",-0.03570000000000001,0.25,0.2857
 2024-10-01 18:34:55.575620,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Hillbily,-0.03570000000000001,0.25,0.2857
-2024-10-01 12:51:13.098232,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Proposition,Home Run First Pitch of the Night any Game*,-0.038299999999999994,0.0526,0.0909
+2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,"When unions are strong, America is strong",-0.03570000000000001,0.25,0.2857
 2024-10-01 22:29:42.355467,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Scott Parel,-0.0436,0.004,0.0476
 2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Take care of our troops,-0.044399999999999995,0.5556,0.6
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Moral values,-0.053099999999999925,0.5833,0.6364
-2024-10-01 18:34:56.002413,Cut Lines - Alex Noren - Make Cut / Miss Cut - Alex Noren,Make,-0.05349999999999999,0.7647,0.8182
 2024-10-01 18:34:56.029409,Cut Lines - Matt Wallace - Make Cut / Miss Cut - Matt Wallace,Make,-0.05349999999999999,0.7647,0.8182
+2024-10-01 18:34:56.002413,Cut Lines - Alex Noren - Make Cut / Miss Cut - Alex Noren,Make,-0.05349999999999999,0.7647,0.8182
 2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Trump 30+ times,-0.05559999999999998,0.4444,0.5
+2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Prosperous future,-0.05559999999999998,0.5,0.5556
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Institutions of our society,-0.05559999999999998,0.4444,0.5
 2024-10-01 23:25:16.894442,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Prosperous future,-0.05559999999999998,0.4444,0.5
-2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Prosperous future,-0.05559999999999998,0.5,0.5556
+2024-10-02 01:52:16.290159,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Mykel Williams,-0.0585,0.0526,0.1111
+2024-10-02 01:52:16.290159,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Conner Weigman,-0.05859999999999999,0.0323,0.0909
 2024-10-01 22:29:41.491880,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By Tim Walz - To Be Said By Tim Walz,Abortion is health care,-0.06659999999999999,0.2667,0.3333
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Weird,-0.06669999999999998,0.6,0.6667
+2024-10-02 01:52:16.413245,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Baltimore Orioles,-0.06669999999999998,0.1,0.1667
 2024-10-01 18:34:56.304927,Cut Lines - Alejandro Tosti - Make Cut / Miss Cut - Alejandro Tosti,Miss,-0.06930000000000003,0.4545,0.5238
 2024-10-01 18:34:56.197147,Match-Ups - Tournament Match-Up - J. Suh v A. Tosti - Requests,Alejandro Tosti,-0.07450000000000001,0.4255,0.5
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,De-woke-ification,-0.07500000000000001,0.125,0.2
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Illegal alien,-0.0948,0.8,0.8948
+2024-10-02 01:52:16.290159,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,James Pearce Jr.,-0.0948,0.0385,0.1333
+2024-10-02 01:52:16.413245,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Houston Astros,-0.09720000000000001,0.125,0.2222
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,White working class,-0.09999999999999998,0.4,0.5
 2024-10-01 18:34:56.024890,Cut Lines - Matt Fitzpatrick - Make Cut / Miss Cut - Matt Fitzpatrick,Make,-0.10389999999999999,0.7143,0.8182
 2024-10-01 22:29:41.487437,Presidential Debates - CBS VP Debate Oct 1st: To Be Said By JD Vance - To Be Said By JD Vance,Childless cat ladies,-0.10390000000000002,0.1818,0.2857
