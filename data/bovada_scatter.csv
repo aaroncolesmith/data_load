@@ -1,10 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-10-02 12:49:50.412276,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Michael King (SD),0.18330000000000002,0.25,0.0667
-2024-10-02 12:49:50.407338,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Fernando Tatis Jr,0.08529999999999999,0.1176,0.0323
+2024-10-03 01:52:39.781496,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,0.0796,0.4878,0.4082
+2024-10-03 01:52:39.781496,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Detroit Tigers,0.07949999999999999,0.2128,0.1333
 2024-10-02 18:35:02.896026,Electoral College Winner - New Hampshire (NH) - New Hampshire,Democrat,0.07120000000000004,0.9231,0.8519
 2024-10-02 18:35:03.046976,US Senate Elections 2024 - Senate Election Winner - Nevada - Winner,Democrat,0.07069999999999999,0.8889,0.8182
 2024-10-02 15:28:40.756197,MLB Futures - MLB 2024 National League Winner - MLB 2024 - NLCS Name The Finalists,PHI Phillies vs. SD Padres,0.0648,0.25,0.1852
 2024-10-02 18:35:03.051413,US Senate Elections 2024 - Senate Election Winner - Ohio - Winner,Republican,0.05860000000000004,0.5348,0.4762
+2024-10-03 01:52:39.781496,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Kansas City Royals,0.0572,0.1905,0.1333
 2024-10-02 15:28:40.756197,MLB Futures - MLB 2024 National League Winner - MLB 2024 - NLCS Name The Finalists,LA Dodgers vs. NY Mets,0.05679999999999999,0.1818,0.125
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,New York Yankees to beat Philadelphia Phillies,0.0552,0.0769,0.0217
 2024-10-02 18:35:02.775961,Electoral College Winner - Alaska (AK) - Alaska,Democrat,0.05379999999999999,0.1538,0.1
@@ -13,14 +14,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-02 20:29:06.548652,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter,0.04830000000000001,0.2222,0.1739
 2024-10-02 18:35:03.042566,US Senate Elections 2024 - Senate Election Winner - Montana - Winner,Republican,0.04579999999999995,0.8077,0.7619
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,New York Yankees to beat San Diego Padres,0.0443,0.0526,0.0083
-2024-10-02 13:31:54.007766,Tournament Match-Ups - Tournament Match-Up - L. Oosthuizen vs M. Fitzpatrick - Tournament Match-Up,Louis Oosthuizen,0.043399999999999994,0.5556,0.5122
 2024-10-02 19:21:58.143451,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,CJ McCollum (NO),0.04329999999999999,0.0909,0.0476
 2024-10-02 15:28:40.343277,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.03810000000000002,0.8,0.7619
 2024-10-02 20:29:07.548511,Sanderson Farms - 2/3 Balls - 1st Round 3-Balls - G. Higgo / B. Haas / J. Teater - 1st Round 3-Balls ,Garrick Higgo,0.035999999999999976,0.5122,0.4762
 2024-10-02 18:35:03.014844,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.033299999999999996,0.8333,0.8
-2024-10-02 13:31:53.646403,Alfred Dunhill - 2/3 Balls - 1st Round 2-Balls - M. Fitzpatrick / T. Hatton - 1st Round 2-Balls,Tyrrell Hatton,0.03259999999999996,0.6552,0.6226
 2024-10-02 22:30:25.899931,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Joselito Velazquez,0.030299999999999994,0.697,0.6667
-2024-10-02 13:31:53.633663,Alfred Dunhill - 2/3 Balls - 1st Round 2-Balls - A. Noren / P. Harrington - 1st Round 2-Balls,Alex Noren,0.030299999999999994,0.697,0.6667
 2024-10-02 18:35:02.891363,Electoral College Winner - Nevada (NV) - Nevada,Democrat,0.028900000000000037,0.5744,0.5455
 2024-10-02 22:30:24.733981,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),0.028199999999999996,0.0667,0.0385
 2024-10-02 18:35:02.905155,Electoral College Winner - New Mexico (NM) - New Mexico,Democrat,0.0242,0.9333,0.9091
@@ -31,25 +29,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-02 18:35:03.055838,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Republican,0.01999999999999999,0.2105,0.1905
 2024-10-02 19:21:58.161727,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Johnson (ATL),0.01949999999999999,0.0909,0.0714
 2024-10-02 21:27:13.878110,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Giannis Antetokounmpo (MIL),0.018099999999999998,0.0526,0.0345
-2024-10-02 12:49:50.418481,World Series MVP - World Series MVP  - World Series MVP,Fernando Tatis Jr. (SD),0.017100000000000004,0.0323,0.0152
-2024-10-02 12:49:50.480411,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Andrei Mikhailovich,0.016600000000000004,0.1905,0.1739
+2024-10-03 01:52:39.804210,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Zhanibek Alimkhanuly,0.015699999999999936,0.8824,0.8667
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,San Diego Padres to beat New York Yankees,0.015300000000000001,0.0476,0.0323
-2024-10-02 16:33:55.019735,Boxing Lines - Nelson Birchall vs Mark Butler - To Win the Bout,Nelson Birchall,0.014900000000000024,0.9804,0.9655
 2024-10-02 17:27:12.258801,Boxing Lines - Junto Nakatani vs Tasana Salapat - To Win the Bout,Junto Nakatani,0.014900000000000024,0.9804,0.9655
+2024-10-02 16:33:55.019735,Boxing Lines - Nelson Birchall vs Mark Butler - To Win the Bout,Nelson Birchall,0.014900000000000024,0.9804,0.9655
 2024-10-02 18:35:02.754181,Electoral College Winner - Michigan (MI) - Michigan,Republican,0.01479999999999998,0.3922,0.3774
-2024-10-02 12:49:50.418481,World Series MVP - World Series MVP  - World Series MVP,Bobby Witt Jr. (KC),0.0145,0.0244,0.0099
+2024-10-03 01:52:37.467935,Championship - England Championship 2024/25 - Winner,Sheffield United,0.01440000000000001,0.1053,0.0909
 2024-10-02 16:33:55.096114,Boxing Lines - Tenshin Nasukawa vs Gerwin Asilo - To Win the Bout,Tenshin Nasukawa,0.014100000000000001,0.9474,0.9333
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,New York Yankees to beat Los Angeles Dodgers,0.013999999999999999,0.0909,0.0769
 2024-10-02 17:27:12.164389,Boxing Lines - Mea Motu vs Shannon O'Connell - To Win the Bout,Mea Motu,0.013900000000000023,0.8889,0.875
 2024-10-02 20:29:06.548652,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers,0.0131,0.0476,0.0345
-2024-10-02 12:49:50.418481,World Series MVP - World Series MVP  - World Series MVP,Manny Machado (SD),0.012800000000000002,0.0244,0.0116
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Philadelphia Phillies to beat Detroit Tigers,0.012700000000000003,0.0323,0.0196
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,New York Mets to beat New York Yankees,0.012100000000000001,0.0244,0.0123
 2024-10-02 18:35:02.801993,Electoral College Winner - Florida (FL) - Florida,Republican,0.0121,0.8788,0.8667
 2024-10-02 18:35:03.060336,US Senate Elections 2024 - Senate Election Winner - Wisconsin - Winner,Republican,0.011700000000000016,0.2222,0.2105
-2024-10-02 17:27:11.403644,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011600000000000055,0.5238,0.5122
 2024-10-02 15:28:41.395713,Tournament Match-Ups - Tournament Match-Up - B. Horschel vs B. Koepka - Tournament Match-Up,Billy Horschel,0.011600000000000055,0.5238,0.5122
 2024-10-02 17:27:11.408261,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.011600000000000055,0.5238,0.5122
+2024-10-02 17:27:11.403644,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011600000000000055,0.5238,0.5122
 2024-10-02 21:27:15.049803,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Joselito Velazquez,0.011499999999999955,0.6667,0.6552
 2024-10-02 18:35:03.038194,US Senate Elections 2024 - Senate Election Winner - Michigan - Winner,Democrat,0.011299999999999977,0.8113,0.8
 2024-10-02 22:30:25.294422,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,0.01100000000000001,0.5348,0.5238
@@ -57,18 +53,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-02 22:30:25.277742,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.01100000000000001,0.5348,0.5238
 2024-10-02 21:27:13.870588,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Nikola Jokic (DEN),0.010700000000000001,0.0385,0.0278
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Los Angeles Dodgers to beat Detroit Tigers,0.010100000000000001,0.0345,0.0244
-2024-10-02 15:28:41.395713,Tournament Match-Ups - Tournament Match-Up - B. Horschel vs B. Koepka - Tournament Match-Up,Brooks Koepka,-0.010099999999999998,0.5455,0.5556
 2024-10-02 18:35:02.754181,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.010099999999999998,0.6774,0.6875
+2024-10-02 15:28:41.395713,Tournament Match-Ups - Tournament Match-Up - B. Horschel vs B. Koepka - Tournament Match-Up,Brooks Koepka,-0.010099999999999998,0.5455,0.5556
 2024-10-02 18:35:02.788984,Electoral College Winner - Colorado (CO) - Colorado,Republican,-0.010099999999999998,0.0952,0.1053
 2024-10-02 20:29:06.548652,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Miller Moss,-0.010100000000000001,0.0244,0.0345
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Cleveland Guardians to beat Milwaukee Brewers,-0.0102,0.005,0.0152
 2024-10-02 18:35:03.038194,US Senate Elections 2024 - Senate Election Winner - Michigan - Winner,Republican,-0.010299999999999976,0.2564,0.2667
-2024-10-02 12:49:50.407338,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Gunnar Henderson (BAL),-0.010600000000000002,0.0217,0.0323
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Baltimore Orioles to beat Milwaukee Brewers,-0.0108,0.0033,0.0141
 2024-10-02 18:35:03.060336,US Senate Elections 2024 - Senate Election Winner - Wisconsin - Winner,Democrat,-0.01090000000000002,0.8462,0.8571
 2024-10-02 17:27:11.421869,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.01100000000000001,0.5238,0.5348
-2024-10-02 17:27:11.408261,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.01100000000000001,0.5238,0.5348
 2024-10-02 17:27:11.403644,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.01100000000000001,0.5238,0.5348
+2024-10-02 17:27:11.408261,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.01100000000000001,0.5238,0.5348
 2024-10-02 18:35:02.767129,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,-0.011099999999999999,0.4651,0.4762
 2024-10-02 19:21:58.161727,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Brandin Podziemski (GSW),-0.011199999999999995,0.0323,0.0435
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Milwaukee Brewers to beat Houston Astros,-0.0113,0.0028,0.0141
@@ -79,54 +74,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-02 19:21:58.161727,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cam Whitmore (HOU),-0.012100000000000001,0.0123,0.0244
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Philadelphia Phillies to beat Baltimore Orioles,-0.012700000000000003,0.0196,0.0323
 2024-10-02 18:35:03.348883,Boxing Lines - Mikiah Kreps vs Mayerlin Rivas - To Win the Bout,Mikiah Kreps,-0.012700000000000045,0.6364,0.6491
-2024-10-02 12:49:50.407338,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Alex Bregman (HOU),-0.012800000000000002,0.0116,0.0244
 2024-10-02 18:35:02.948973,Electoral College Winner - Texas (TX) - Texas,Democrat,-0.012899999999999995,0.1538,0.1667
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Houston Astros to beat Milwaukee Brewers,-0.012899999999999998,0.005,0.0179
-2024-10-02 13:31:53.633663,Alfred Dunhill - 2/3 Balls - 1st Round 2-Balls - A. Noren / P. Harrington - 1st Round 2-Balls,Padraig Harrington,-0.013800000000000034,0.3636,0.3774
-2024-10-02 22:30:24.733981,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Naz Reid (MIN),-0.013899999999999996,0.1111,0.125
 2024-10-02 16:33:55.096114,Boxing Lines - Tenshin Nasukawa vs Gerwin Asilo - To Win the Bout,Gerwin Asilo,-0.013899999999999996,0.1111,0.125
-2024-10-02 12:49:50.480411,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Zhanibek Alimkhanuly,-0.013900000000000023,0.875,0.8889
-2024-10-02 19:21:58.161727,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Evan Mobley (CLE),-0.013999999999999999,0.0769,0.0909
+2024-10-02 22:30:24.733981,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Naz Reid (MIN),-0.013899999999999996,0.1111,0.125
 2024-10-02 22:30:24.733981,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Donte DiVincenzo (NYK),-0.013999999999999999,0.0769,0.0909
+2024-10-02 19:21:58.161727,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Evan Mobley (CLE),-0.013999999999999999,0.0769,0.0909
 2024-10-02 15:28:40.756197,MLB Futures - MLB 2024 National League Winner - MLB 2024 - NLCS Name The Finalists,ATL Braves vs. NY Mets,-0.014099999999999998,0.0244,0.0385
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Houston Astros to beat Philadelphia Phillies,-0.014099999999999998,0.0244,0.0385
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Atlanta Braves to beat New York Yankees,-0.0145,0.0099,0.0244
 2024-10-02 19:21:58.161727,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Paolo Banchero (ORL),-0.014899999999999997,0.0476,0.0625
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Houston Astros to beat Los Angeles Dodgers,-0.015300000000000001,0.0323,0.0476
-2024-10-02 16:33:55.019735,Boxing Lines - Nelson Birchall vs Mark Butler - To Win the Bout,Mark Butler,-0.016600000000000004,0.0667,0.0833
-2024-10-02 22:30:24.733981,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Norman Powell (LAC),-0.016600000000000004,0.0667,0.0833
 2024-10-02 17:27:12.258801,Boxing Lines - Junto Nakatani vs Tasana Salapat - To Win the Bout,Tasana Salapat,-0.016600000000000004,0.0667,0.0833
 2024-10-02 17:27:12.164389,Boxing Lines - Mea Motu vs Shannon O'Connell - To Win the Bout,Shannon O'Connell,-0.016600000000000004,0.1739,0.1905
+2024-10-02 16:33:55.019735,Boxing Lines - Nelson Birchall vs Mark Butler - To Win the Bout,Mark Butler,-0.016600000000000004,0.0667,0.0833
+2024-10-02 22:30:24.733981,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Norman Powell (LAC),-0.016600000000000004,0.0667,0.0833
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Baltimore Orioles to beat Philadelphia Phillies,-0.017100000000000004,0.0152,0.0323
 2024-10-02 18:35:03.055838,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Democratic,-0.017900000000000027,0.8571,0.875
-2024-10-02 12:49:50.407338,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Marcell Ozuna (ATL),-0.019800000000000005,0.0278,0.0476
+2024-10-03 01:52:39.804210,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Andrei Mikhailovich,-0.01820000000000002,0.1818,0.2
 2024-10-02 18:35:02.905155,Electoral College Winner - New Mexico (NM) - New Mexico,Republican,-0.02049999999999999,0.1333,0.1538
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Philadelphia Phillies to beat Houston Astros,-0.0206,0.0179,0.0385
 2024-10-02 21:27:15.761495,Positions - Finishing Position - Patrick Rodgers - Finishing Position,36th or better,-0.02079999999999993,0.5348,0.5556
 2024-10-02 20:29:07.548511,Sanderson Farms - 2/3 Balls - 1st Round 3-Balls - G. Higgo / B. Haas / J. Teater - 1st Round 3-Balls ,Bill Haas,-0.020799999999999985,0.3125,0.3333
-2024-10-02 12:49:50.412276,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Gerrit Cole (NYY),-0.02239999999999999,0.0952,0.1176
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Los Angeles Dodgers to beat Baltimore Orioles,-0.023200000000000002,0.0244,0.0476
-2024-10-02 12:49:50.407338,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Anthony Santander (BAL),-0.024,0.0385,0.0625
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Los Angeles Dodgers to beat Houston Astros,-0.024800000000000003,0.0278,0.0526
 2024-10-02 15:28:40.756197,MLB Futures - MLB 2024 National League Winner - MLB 2024 - NLCS Name The Finalists,ATL Braves vs. MIL Brewers,-0.0269,0.0116,0.0385
 2024-10-02 15:28:40.728852,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Exact Result,Baltimore Orioles to beat Los Angeles Dodgers,-0.027099999999999996,0.0164,0.0435
 2024-10-02 20:29:06.548652,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Nico Iamaleava,-0.028399999999999995,0.0625,0.0909
-2024-10-02 12:49:50.407338,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Yordan Alvarez (HOU),-0.031,0.0278,0.0588
 2024-10-02 22:30:24.733981,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,CJ McCollum (NO),-0.0321,0.0588,0.0909
-2024-10-02 13:31:53.646403,Alfred Dunhill - 2/3 Balls - 1st Round 2-Balls - M. Fitzpatrick / T. Hatton - 1st Round 2-Balls,Matthew Fitzpatrick,-0.03210000000000002,0.3846,0.4167
 2024-10-02 18:35:03.014844,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,-0.03259999999999999,0.2,0.2326
 2024-10-02 18:35:02.891363,Electoral College Winner - Nevada (NV) - Nevada,Republican,-0.03600000000000003,0.4878,0.5238
 2024-10-02 22:30:25.899931,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Andres Campos,-0.03640000000000004,0.3636,0.4
-2024-10-02 12:49:50.412276,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Framber Valdez (HOU),-0.0384,0.0385,0.0769
-2024-10-02 12:49:50.412276,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Corbin Burnes (BAL),-0.04329999999999999,0.0476,0.0909
 2024-10-02 18:35:03.042566,US Senate Elections 2024 - Senate Election Winner - Montana - Winner,Democrat,-0.043300000000000005,0.2597,0.303
-2024-10-02 13:31:54.007766,Tournament Match-Ups - Tournament Match-Up - L. Oosthuizen vs M. Fitzpatrick - Tournament Match-Up,Matt Fitzpatrick,-0.043399999999999994,0.5122,0.5556
 2024-10-02 15:28:40.343277,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,-0.04519999999999999,0.2326,0.2778
 2024-10-02 15:28:40.756197,MLB Futures - MLB 2024 National League Winner - MLB 2024 - NLCS Name The Finalists,LA Dodgers vs. MIL Brewers,-0.0509,0.0667,0.1176
-2024-10-02 12:49:50.407338,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Kyle Tucker (HOU),-0.052399999999999995,0.0385,0.0909
 2024-10-02 18:35:03.051413,US Senate Elections 2024 - Senate Election Winner - Ohio - Winner,Democrat,-0.05689999999999995,0.5348,0.5917
 2024-10-02 18:35:02.775961,Electoral College Winner - Alaska (AK) - Alaska,Republican,-0.05799999999999994,0.9091,0.9671
 2024-10-02 15:28:40.756197,MLB Futures - MLB 2024 National League Winner - MLB 2024 - NLCS Name The Finalists,ATL Braves vs. PHI Phillies,-0.06620000000000001,0.0588,0.125
 2024-10-02 18:35:03.046976,US Senate Elections 2024 - Senate Election Winner - Nevada - Winner,Republican,-0.07139999999999999,0.1786,0.25
 2024-10-02 18:35:02.896026,Electoral College Winner - New Hampshire (NH) - New Hampshire,Republican,-0.07450000000000001,0.1429,0.2174
-2024-10-02 12:49:50.418481,World Series MVP - World Series MVP  - World Series MVP,Anthony Santander (BAL),-0.1171,0.0079,0.125
