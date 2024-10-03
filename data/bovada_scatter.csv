@@ -5,8 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 03:32:27.698378,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - La Liga,FC Barcelona,0.1647,0.4,0.2353
 2024-10-03 03:32:27.713508,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Club Brugge,0.1647,0.4,0.2353
 2024-10-03 03:32:27.713508,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Atlético Madrid,0.13990000000000002,0.7143,0.5744
-2024-10-03 03:32:27.703748,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Juventus,0.13979999999999998,0.4255,0.2857
 2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Juventus,0.13979999999999998,0.4255,0.2857
+2024-10-03 03:32:27.703748,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Juventus,0.13979999999999998,0.4255,0.2857
 2024-10-03 03:32:27.695707,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Borussia Dortmund,0.11430000000000001,0.4,0.2857
 2024-10-03 03:32:27.713508,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bayern Munich,0.11430000000000001,0.4,0.2857
 2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Benfica,0.11030000000000001,0.2353,0.125
@@ -17,8 +17,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 03:32:27.701026,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Premier League,Aston Villa,0.08979999999999999,0.1667,0.0769
 2024-10-03 13:32:10.214453,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,NY Yankees beat DET Tigers,0.08970000000000003,0.2564,0.1667
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat Milwaukee Brewers,0.0876,0.0909,0.0033
-2024-10-03 01:52:39.781496,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,0.0796,0.4878,0.4082
-2024-10-03 01:52:39.781496,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Detroit Tigers,0.07949999999999999,0.2128,0.1333
 2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Atalanta,0.07930000000000001,0.2222,0.1429
 2024-10-03 03:32:27.695707,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Bayer Leverkusen,0.07789999999999997,0.3636,0.2857
 2024-10-03 09:28:01.998156,Positions - Finishing Position - Nick Dunlap - Finishing Position,32nd or better,0.07710000000000006,0.6226,0.5455
@@ -27,7 +25,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Seattle Sounders,0.06620000000000001,0.125,0.0588
 2024-10-03 08:32:32.005047,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,0.0635,0.9524,0.8889
 2024-10-03 13:32:10.214453,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,KC Royals beat DET Tigers,0.06180000000000001,0.1053,0.0435
-2024-10-03 01:52:39.781496,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Kansas City Royals,0.0572,0.1905,0.1333
 2024-10-03 08:32:31.995624,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,0.05710000000000001,0.2,0.1429
 2024-10-03 12:50:03.237474,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.056400000000000006,0.2564,0.2
 2024-10-03 08:32:32.295117,Copa do Brasil - Copa do Brasil 2024 - Winner,Atlético Mineiro,0.055900000000000005,0.3636,0.3077
@@ -37,6 +34,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 13:32:10.214453,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,DET Tigers beat KC Royals,0.052399999999999995,0.0909,0.0385
 2024-10-03 13:32:10.191209,ALCS MVP - ALCS MVP - ALCS MVP,Aaron Judge (NYY),0.052000000000000005,0.1429,0.0909
 2024-10-03 08:32:32.309535,J1 League - Japan J1 League 2024 - Winner,Vissel Kobe,0.05130000000000001,0.3846,0.3333
+2024-10-03 14:30:19.726387,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Cole Ragans (KC),0.0509,0.1176,0.0667
 2024-10-03 03:32:27.707293,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Liverpool,0.04849999999999999,0.1818,0.1333
 2024-10-03 05:30:18.413249,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,No,0.04179999999999995,0.697,0.6552
 2024-10-03 13:32:10.191209,ALCS MVP - ALCS MVP - ALCS MVP,Bobby Witt Jr. (KC),0.0384,0.0769,0.0385
@@ -48,17 +46,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 12:50:03.245877,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Milwaukee Brewers,0.0334,0.0769,0.0435
 2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,PHI Phillies beat SD Padres,0.033399999999999985,0.1667,0.1333
 2024-10-03 12:50:03.245877,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Philadelphia Phillies,0.032299999999999995,0.3448,0.3125
-2024-10-03 08:32:32.134756,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,0.031799999999999995,0.1429,0.1111
 2024-10-03 03:32:27.707293,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Arsenal,0.031799999999999995,0.1429,0.1111
+2024-10-03 08:32:32.134756,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,0.031799999999999995,0.1429,0.1111
 2024-10-03 08:32:32.295117,Copa do Brasil - Copa do Brasil 2024 - Winner,Corinthians,0.031799999999999995,0.1429,0.1111
+2024-10-03 14:30:19.714674,NLCS MVP - NLCS MVP - NLCS MVP,Manny Machado (SD),0.031,0.0588,0.0278
 2024-10-03 09:28:02.194802,Match-Ups - Tournament Match-Up - N. Dunlap vs K. Mitchell - Requests,Nick Dunlap,0.030399999999999983,0.5652,0.5348
 2024-10-03 08:32:32.134756,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,0.030299999999999994,0.6667,0.6364
 2024-10-03 08:32:32.131567,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,0.029899999999999982,0.2299,0.2
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Detroit Tigers,0.029299999999999993,0.0769,0.0476
-2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Kansas City Royals,0.029299999999999993,0.0769,0.0476
 2024-10-03 07:25:45.101257,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Juventus,0.029299999999999993,0.0769,0.0476
-2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,SD Padres beat PHI Phillies,0.028799999999999992,0.1538,0.125
+2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Kansas City Royals,0.029299999999999993,0.0769,0.0476
 2024-10-03 03:32:27.703748,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Atalanta,0.028799999999999992,0.1538,0.125
+2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,SD Padres beat PHI Phillies,0.028799999999999992,0.1538,0.125
 2024-10-03 13:32:10.214453,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,KC Royals beat CLE Guardians,0.028399999999999995,0.0909,0.0625
 2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Lille,0.028199999999999996,0.0667,0.0385
 2024-10-03 04:33:00.230413,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Dusan Vlahovic (Juventus),0.028000000000000004,0.0476,0.0196
@@ -69,8 +68,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,SD Padres beat MIL Brewers,0.026499999999999996,0.0588,0.0323
 2024-10-03 09:28:01.916991,Scores - 1st Round Score - Nick Dunlap - 1st Round Score,Under 69.5,0.026499999999999968,0.5917,0.5652
 2024-10-03 05:30:17.422859,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.02560000000000001,0.3333,0.3077
-2024-10-03 08:32:34.572923,Boxing Lines - Mikiah Kreps vs Mayerlin Rivas - To Win the Bout,Mikiah Kreps,0.025599999999999956,0.6552,0.6296
 2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayer Leverkusen,0.025599999999999956,0.6,0.5744
+2024-10-03 08:32:34.572923,Boxing Lines - Mikiah Kreps vs Mayerlin Rivas - To Win the Bout,Mikiah Kreps,0.025599999999999956,0.6552,0.6296
 2024-10-03 11:22:45.029986,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Joselito Velazquez,0.0252,0.7222,0.697
 2024-10-03 12:50:03.315378,Boxing Lines - Nick Ball vs Ronny Rios - To Win the Bout,Ronny Rios,0.024999999999999994,0.125,0.1
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Detroit Tigers,0.024800000000000003,0.0526,0.0278
@@ -78,47 +77,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Kansas City Royals,0.024,0.0625,0.0385
 2024-10-03 05:30:21.131352,Scores - 1st Round Score - Mackenzie Hughes - 1st Round Score,Over 69.5,0.023800000000000043,0.5238,0.5
 2024-10-03 06:35:24.109788,Round Match-Ups - 1st Round Match-Up - C. Syme v R. Mansell - 1st Round Match-Up ,Connor Syme,0.023800000000000043,0.5238,0.5
+2024-10-03 14:30:19.732829,World Series MVP - World Series MVP  - World Series MVP,Juan Soto (NYY),0.0238,0.0714,0.0476
 2024-10-03 09:28:01.545775,Sanderson Farms - 2/3 Balls - 1st Round 3-Balls - R. Campos / T. Crowe / R. Pereda - 1st Round 3-Balls,Trace Crowe,0.023799999999999988,0.5,0.4762
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. New York Yankees,0.023799999999999988,0.1667,0.1429
 2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Manchester City,0.023799999999999932,0.8571,0.8333
 2024-10-03 12:50:03.237474,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Milwaukee Brewers,0.023200000000000002,0.0476,0.0244
+2024-10-03 14:30:19.714674,NLCS MVP - NLCS MVP - NLCS MVP,Fernando Tatis Jr. (SD),0.0232,0.0667,0.0435
 2024-10-03 12:50:03.245877,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,San Diego Padres,0.022799999999999987,0.2667,0.2439
 2024-10-03 09:28:01.489201,Sanderson Farms - 2/3 Balls - 1st Round 3-Balls - C. Villegas / N. Hardy / R. Brehm - 1st Round 3-Balls ,Nick Hardy,0.022600000000000064,0.5348,0.5122
 2024-10-03 03:32:27.709945,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,0.022199999999999998,0.2222,0.2
+2024-10-03 14:30:19.720907,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Aaron Judge (NYY),0.022199999999999998,0.2222,0.2
 2024-10-03 09:28:01.984297,Positions - Finishing Position - Keith Mitchell - Finishing Position,29th or worse,0.02169999999999994,0.5455,0.5238
 2024-10-03 09:28:02.007368,Positions - Finishing Position - Patrick Rodgers - Finishing Position,37th or worse,0.02079999999999993,0.5556,0.5348
-2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Kansas City Royals,0.0203,0.0526,0.0323
-2024-10-03 03:32:27.707293,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Aston Villa,0.0203,0.0588,0.0385
-2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Detroit Tigers,0.0203,0.0526,0.0323
-2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Mohamed Salah (Liverpool),0.0203,0.0588,0.0385
-2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),0.0203,0.0588,0.0385
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Cleveland Guardians,0.0203,0.0588,0.0385
+2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Detroit Tigers,0.0203,0.0526,0.0323
+2024-10-03 14:30:19.732829,World Series MVP - World Series MVP  - World Series MVP,Mookie Betts (LAD),0.0203,0.0588,0.0385
+2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Mohamed Salah (Liverpool),0.0203,0.0588,0.0385
+2024-10-03 03:32:27.707293,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Aston Villa,0.0203,0.0588,0.0385
+2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),0.0203,0.0588,0.0385
+2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Kansas City Royals,0.0203,0.0526,0.0323
 2024-10-03 03:32:27.707293,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Bayer Leverkusen,0.02020000000000001,0.1111,0.0909
 2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,MIL Brewers beat LA Dodgers,0.019800000000000005,0.0476,0.0278
-2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Kansas City Royals,0.019800000000000005,0.0476,0.0278
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Kansas City Royals,0.019800000000000005,0.0476,0.0278
+2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Kansas City Royals,0.019800000000000005,0.0476,0.0278
 2024-10-03 04:33:00.230413,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Benjamin Sesko (RB Leipzig),0.019600000000000003,0.0345,0.0149
 2024-10-03 08:32:33.974984,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.019499999999999962,0.6491,0.6296
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Detroit Tigers,0.019300000000000005,0.0345,0.0152
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Detroit Tigers,0.019099999999999992,0.0667,0.0476
 2024-10-03 06:35:23.722154,AFC East - AFC East 2024/25 - AFC East Winner,New York Jets,0.019000000000000017,0.2857,0.2667
 2024-10-03 09:28:01.497909,Sanderson Farms - 2/3 Balls - 1st Round 3-Balls - N. Dunlap / S. Jaeger / P. Malnati - 1st Round 3-Balls,Nick Dunlap,0.018900000000000028,0.4444,0.4255
+2024-10-03 14:30:19.714674,NLCS MVP - NLCS MVP - NLCS MVP,Bryce Harper (PHI),0.01830000000000001,0.0952,0.0769
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Detroit Tigers,0.018099999999999998,0.0526,0.0345
 2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Jeremie Frimpong (Bayer Leverkusen),0.017800000000000003,0.0244,0.0066
 2024-10-03 12:50:03.237474,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,0.017100000000000004,0.16,0.1429
 2024-10-03 12:50:03.206760,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,Lamar Jackson Regular Season MVP & Aidan Hutchinson Defensive Player Of The Year,0.017099999999999997,0.0294,0.0123
+2024-10-03 14:30:19.726387,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Michael King (SD),0.016699999999999993,0.2667,0.25
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Kansas City Royals,0.0159,0.0323,0.0164
-2024-10-03 01:52:39.804210,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Zhanibek Alimkhanuly,0.015699999999999936,0.8824,0.8667
-2024-10-03 03:32:27.707293,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Inter Milan,0.015300000000000001,0.0588,0.0435
 2024-10-03 12:50:03.206760,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,Patrick Mahomes Regular Season MVP & Caleb Williams Offensive Rookie Of The Year,0.015300000000000001,0.0476,0.0323
-2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,0.015100000000000002,0.1818,0.1667
+2024-10-03 03:32:27.707293,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Inter Milan,0.015300000000000001,0.0588,0.0435
 2024-10-03 07:25:45.101257,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Liverpool,0.015100000000000002,0.1818,0.1667
+2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,0.015100000000000002,0.1818,0.1667
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Milwaukee Brewers vs. New York Yankees,0.014900000000000004,0.0345,0.0196
 2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Arsenal,0.014700000000000046,0.7647,0.75
 2024-10-03 08:32:32.128403,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,0.01469999999999999,0.25,0.2353
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Milwaukee Brewers vs. Cleveland Guardians,0.0145,0.0244,0.0099
 2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Dominik Szoboszlai (Liverpool),0.014499999999999999,0.0294,0.0149
-2024-10-03 01:52:37.467935,Championship - England Championship 2024/25 - Winner,Sheffield United,0.01440000000000001,0.1053,0.0909
 2024-10-03 06:35:23.795355,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.01440000000000001,0.1053,0.0909
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Cleveland Guardians,0.014399999999999996,0.0769,0.0625
 2024-10-03 12:50:03.237474,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Detroit Tigers,0.014399999999999996,0.0769,0.0625
@@ -126,30 +129,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 04:33:00.230413,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),0.014099999999999998,0.0385,0.0244
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat San Diego Padres,0.014099999999999994,0.0667,0.0526
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Philadelphia Phillies,0.013999999999999999,0.0909,0.0769
+2024-10-03 14:30:19.732829,World Series MVP - World Series MVP  - World Series MVP,Shohei Ohtani (LAD),0.013999999999999999,0.0909,0.0769
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Real Salt Lake,0.013899999999999996,0.125,0.1111
+2024-10-03 14:30:19.714674,NLCS MVP - NLCS MVP - NLCS MVP,Shohei Ohtani (LAD),0.013899999999999996,0.125,0.1111
 2024-10-03 12:50:03.245877,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Los Angeles Dodgers,0.013800000000000034,0.3774,0.3636
 2024-10-03 13:32:10.214453,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,NY Yankees beat CLE Guardians,0.01319999999999999,0.2632,0.25
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Milwaukee Brewers vs. Detroit Tigers,0.013,0.0196,0.0066
+2024-10-03 14:30:19.732829,World Series MVP - World Series MVP  - World Series MVP,Aaron Judge (NYY),0.012600000000000007,0.0714,0.0588
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. New York Yankees,0.012299999999999991,0.1176,0.1053
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat New York Yankees,0.011899999999999994,0.0833,0.0714
 2024-10-03 06:35:24.476476,Tournament Match-Ups - Tournament Match-Up - R. MacIntyre vs S. Lowry - Tournament Match-Up,Robert MacIntyre,0.011600000000000055,0.5238,0.5122
 2024-10-03 09:28:01.377976,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.0116,0.4878,0.4762
 2024-10-03 13:32:10.201555,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Milwaukee Brewers vs. Kansas City Royals,0.0113,0.0179,0.0066
+2024-10-03 14:30:19.732829,World Series MVP - World Series MVP  - World Series MVP,Fernando Tatis Jr. (SD),0.011199999999999995,0.0435,0.0323
+2024-10-03 14:30:19.732829,World Series MVP - World Series MVP  - World Series MVP,Bryce Harper (PHI),0.011199999999999995,0.0588,0.0476
 2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Phil Foden (Man City),0.011199999999999995,0.0588,0.0476
-2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Houston Dynamo,0.011199999999999995,0.0588,0.0476
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat New York Yankees,0.011199999999999995,0.0588,0.0476
+2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Houston Dynamo,0.011199999999999995,0.0588,0.0476
 2024-10-03 08:32:31.995624,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,0.011099999999999999,0.1111,0.1
 2024-10-03 03:32:27.713508,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Dinamo Zagreb,0.010899999999999993,0.1538,0.1429
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Cleveland Guardians,0.010600000000000002,0.0323,0.0217
+2024-10-03 14:30:19.720907,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Shohei Ohtani (LAD),0.010499999999999982,0.2105,0.2
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat Philadelphia Phillies,0.010300000000000002,0.0244,0.0141
 2024-10-03 03:32:27.707293,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,FC Barcelona,0.0102,0.0769,0.0667
-2024-10-03 05:30:17.422859,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,0.0102,0.0769,0.0667
 2024-10-03 06:35:23.795355,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy (SF),0.0102,0.0769,0.0667
+2024-10-03 05:30:17.422859,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,0.0102,0.0769,0.0667
+2024-10-03 14:30:19.714674,NLCS MVP - NLCS MVP - NLCS MVP,Mookie Betts (LAD),0.0102,0.0769,0.0667
 2024-10-03 12:50:03.206760,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,"Patrick Mahomes MVP, Derrick Henry OPOY and TJ Watt DPOY",0.0101,0.0141,0.004
 2024-10-03 08:32:32.295117,Copa do Brasil - Copa do Brasil 2024 - Winner,Flamengo,0.010099999999999998,0.4545,0.4444
 2024-10-03 06:35:24.476476,Tournament Match-Ups - Tournament Match-Up - R. MacIntyre vs S. Lowry - Tournament Match-Up,Shane Lowry,-0.010099999999999998,0.5455,0.5556
-2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Lamine Yamal (Barcelona),-0.0102,0.0667,0.0769
 2024-10-03 05:30:17.419446,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,-0.0102,0.0667,0.0769
+2024-10-03 14:30:19.726387,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Dylan Cease (SD),-0.0102,0.0667,0.0769
+2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Lamine Yamal (Barcelona),-0.0102,0.0667,0.0769
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Atlanta United,-0.0109,0.004,0.0149
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Nashville SC,-0.0109,0.004,0.0149
 2024-10-03 10:32:24.431763,Boxing Lines - Nick Ball vs Ronny Rios - To Win the Bout,Ronny Rios,-0.011099999999999999,0.1,0.1111
@@ -160,12 +171,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 13:32:10.205833,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,-0.012700000000000003,0.0196,0.0323
 2024-10-03 08:32:32.128403,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,-0.0131,0.2222,0.2353
 2024-10-03 12:50:03.206760,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,"Josh Allen Reg Season MVP, Saquon Barkley OPOY & TJ Watt  DPOY",-0.013400000000000002,0.011,0.0244
+2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Kevin De Bruyne (Man City),-0.013899999999999996,0.1111,0.125
+2024-10-03 08:32:32.134756,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,-0.013899999999999996,0.1111,0.125
 2024-10-03 03:32:27.693017,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Dinamo Zagreb,-0.013899999999999996,0.1111,0.125
 2024-10-03 08:32:31.995624,MLS - USA MLS 2024 - Futures - Winner,Columbus Crew,-0.013899999999999996,0.1111,0.125
-2024-10-03 08:32:32.134756,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,-0.013899999999999996,0.1111,0.125
-2024-10-03 04:33:00.226640,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Kevin De Bruyne (Man City),-0.013899999999999996,0.1111,0.125
 2024-10-03 06:35:23.795355,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),C.J. Stroud (HOU),-0.013999999999999999,0.0769,0.0909
 2024-10-03 07:25:45.101257,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Monaco,-0.014099999999999998,0.0244,0.0385
+2024-10-03 14:30:19.726387,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Nestor Cortes (NYY),-0.014099999999999998,0.0244,0.0385
 2024-10-03 12:50:03.206760,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,Patrick Mahomes Regular Season MVP & Micah Parsons Defensive Player Of The Year,-0.014599999999999998,0.0132,0.0278
 2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,LA Dodgers beat PHI Phillies,-0.01469999999999999,0.2353,0.25
 2024-10-03 09:28:01.489201,Sanderson Farms - 2/3 Balls - 1st Round 3-Balls - C. Villegas / N. Hardy / R. Brehm - 1st Round 3-Balls ,Camilo Villegas,-0.01469999999999999,0.2353,0.25
@@ -179,7 +191,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 08:32:31.995624,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,-0.018099999999999998,0.0588,0.0769
 2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,SD Padres beat NY Mets,-0.018099999999999998,0.0588,0.0769
 2024-10-03 08:32:33.974984,Electoral College Winner - Georgia (GA) - Georgia,Democrat,-0.018100000000000005,0.4167,0.4348
-2024-10-03 01:52:39.804210,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Andrei Mikhailovich,-0.01820000000000002,0.1818,0.2
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Columbus Crew,-0.01820000000000002,0.1818,0.2
 2024-10-03 11:22:45.029986,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Andres Campos,-0.018799999999999983,0.3448,0.3636
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Portland Timbers,-0.0189,0.0196,0.0385
@@ -187,9 +198,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 12:50:03.206760,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,Jalen Hurts Regular Season MVP & Malik Nabers Offensive Rookie Of The Year,-0.019499999999999997,0.0099,0.0294
 2024-10-03 05:30:21.131352,Scores - 1st Round Score - Mackenzie Hughes - 1st Round Score,Under 69.5,-0.01970000000000005,0.5455,0.5652
 2024-10-03 08:32:31.998634,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,-0.020199999999999996,0.8889,0.9091
-2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,NY Mets beat SD Padres,-0.0203,0.0323,0.0526
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,New York Red Bulls,-0.0203,0.0385,0.0588
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Vancouver Whitecaps,-0.0203,0.0385,0.0588
+2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,NY Mets beat SD Padres,-0.0203,0.0323,0.0526
 2024-10-03 09:28:01.984297,Positions - Finishing Position - Keith Mitchell - Finishing Position,28th or better,-0.02169999999999994,0.5238,0.5455
 2024-10-03 03:32:27.713508,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Borussia Dortmund,-0.02169999999999994,0.5238,0.5455
 2024-10-03 06:35:24.109788,Round Match-Ups - 1st Round Match-Up - C. Syme v R. Mansell - 1st Round Match-Up ,Richard Mansell,-0.02169999999999994,0.5238,0.5455
@@ -200,17 +211,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 12:50:03.528190,Round Match-Ups - 1st Round Match-Ups - S. Ryder vs M. Thorbjornsen - 1st Round Match-Ups ,Sam Ryder,-0.022699999999999998,0.4651,0.4878
 2024-10-03 07:25:45.101257,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Atlético Madrid,-0.02310000000000001,0.0769,0.1
 2024-10-03 08:32:32.309535,J1 League - Japan J1 League 2024 - Winner,Kashima Antlers,-0.023200000000000002,0.0244,0.0476
-2024-10-03 09:28:01.916991,Scores - 1st Round Score - Nick Dunlap - 1st Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
 2024-10-03 08:32:32.309535,J1 League - Japan J1 League 2024 - Winner,Machida Zelvia,-0.023799999999999988,0.1429,0.1667
 2024-10-03 08:32:32.134756,Championship - England Championship 2024/25 - Top 6 Finish,Watford,-0.023799999999999988,0.1429,0.1667
+2024-10-03 09:28:01.916991,Scores - 1st Round Score - Nick Dunlap - 1st Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
+2024-10-03 14:30:19.726387,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Joe Musgrove (SD),-0.023899999999999998,0.0196,0.0435
 2024-10-03 13:32:10.222936,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,NY Mets beat LA Dodgers,-0.024,0.0385,0.0625
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.024999999999999994,0.1,0.125
 2024-10-03 03:32:27.693017,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Feyenoord,-0.0254,0.004,0.0294
 2024-10-03 04:33:00.230413,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Harry Kane (Bayern Munich),-0.025499999999999967,0.4,0.4255
 2024-10-03 08:32:32.134756,Championship - England Championship 2024/25 - Top 6 Finish,Sunderland,-0.025600000000000067,0.6667,0.6923
 2024-10-03 08:32:34.572923,Boxing Lines - Mikiah Kreps vs Mayerlin Rivas - To Win the Bout,Mayerlin Rivas,-0.026600000000000013,0.4082,0.4348
-2024-10-03 08:32:31.995624,MLS - USA MLS 2024 - Futures - Winner,Colorado Rapids,-0.028000000000000004,0.0196,0.0476
 2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bologna,-0.028000000000000004,0.0196,0.0476
+2024-10-03 08:32:31.995624,MLS - USA MLS 2024 - Futures - Winner,Colorado Rapids,-0.028000000000000004,0.0196,0.0476
 2024-10-03 08:32:31.998634,MLS - USA MLS 2024 - Futures - Golden Boot Award,Juan Hernandez,-0.0286,0.0099,0.0385
 2024-10-03 08:32:32.128403,Championship - England Championship 2024/25 - To Finish Bottom,Preston North End,-0.028799999999999992,0.125,0.1538
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Inter Miami,-0.030299999999999994,0.6364,0.6667
@@ -223,8 +235,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-03 03:32:27.713508,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sporting CP,-0.04039999999999999,0.7778,0.8182
 2024-10-03 03:32:27.701026,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Premier League,Arsenal,-0.04099999999999998,0.2667,0.3077
 2024-10-03 03:32:27.707293,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Atlético Madrid,-0.04229999999999999,0.0244,0.0667
-2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,RB Leipzig,-0.04329999999999999,0.0476,0.0909
 2024-10-03 08:32:32.002098,MLS - USA MLS 2024 - Futures - To Reach the Final,Colorado Rapids,-0.04329999999999999,0.0476,0.0909
+2024-10-03 03:32:27.716664,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,RB Leipzig,-0.04329999999999999,0.0476,0.0909
 2024-10-03 03:32:27.709945,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,-0.045499999999999985,0.5,0.5455
 2024-10-03 05:30:17.425995,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.047599999999999976,0.2857,0.3333
 2024-10-03 03:32:27.701026,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Premier League,Manchester City,-0.05070000000000002,0.4255,0.4762
