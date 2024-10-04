@@ -7,8 +7,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Lazio,0.1049,0.1818,0.0769
 2024-10-04 08:32:30.007276,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Lyon,0.09830000000000005,0.5238,0.4255
 2024-10-04 08:32:30.007276,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Lazio,0.09350000000000003,0.6491,0.5556
-2024-10-04 08:32:30.123928,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,São Paulo,0.09230000000000005,0.6923,0.6
 2024-10-04 08:32:30.330593,Primera Division - Chile Primera Division 2024 - Futures - Winner,Colo-Colo,0.09230000000000005,0.4,0.3077
+2024-10-04 08:32:30.123928,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,São Paulo,0.09230000000000005,0.6923,0.6
 2024-10-04 13:31:18.311845,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Fernando Tatis Jr,0.0915,0.1111,0.0196
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Lyon,0.0909,0.1818,0.0909
 2024-10-04 12:49:35.785832,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Chandler Kinney,0.08329999999999999,0.3333,0.25
@@ -45,19 +45,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-04 08:32:30.123928,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,0.02969999999999995,0.9709,0.9412
 2024-10-04 09:27:47.408911,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,2025,0.025300000000000003,0.1429,0.1176
 2024-10-04 08:32:30.117761,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Grêmio,0.024999999999999994,0.125,0.1
-2024-10-04 05:30:17.705273,Round Match-Ups - 2nd Round Match-Ups - D. Burmester vs J. Smith - 2nd Round Match-Ups,Dean Burmester,0.023800000000000043,0.5238,0.5
 2024-10-04 08:32:32.980657,Round Match-Ups - 2nd Round Match-Ups - C. Kim vs P. Fishburn - 2nd Round Match-Ups,Patrick Fishburn,0.023800000000000043,0.5238,0.5
 2024-10-04 13:31:16.123752,Harry Potter Reboot - Who will play Minerva McGonagall? - Who will play Minerva McGonagall?,Helen Mirren,0.023799999999999988,0.1667,0.1429
 2024-10-04 09:27:47.445133,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.023799999999999932,0.8571,0.8333
 2024-10-04 12:49:38.165573,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Jack Rafferty,0.022699999999999998,0.4878,0.4651
+2024-10-04 18:34:14.278319,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Joselito Velazquez,0.022199999999999998,0.8,0.7778
+2024-10-04 18:34:14.274076,Boxing Lines - Mikiah Kreps vs Mayerlin Rivas - To Win the Bout,Mikiah Kreps,0.022199999999999998,0.6774,0.6552
 2024-10-04 09:27:48.023522,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Joselito Velazquez,0.021700000000000053,0.7778,0.7561
 2024-10-04 10:33:12.042642,Round Match-Ups - 2nd Round Match-Ups - C. Kim vs P. Fishburn - 2nd Round Match-Ups,Patrick Fishburn,0.02169999999999994,0.5455,0.5238
 2024-10-04 13:31:18.316468,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Trea Turner (PHI),0.0203,0.0588,0.0385
 2024-10-04 08:32:32.786715,Boxing Lines - Quinton Randall vs Janelson Figueroa Bocachica - To Win the Bout,Janelson Figueroa Bocachica,0.019499999999999962,0.6491,0.6296
-2024-10-04 13:31:18.316468,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Johan Rojas (PHI),0.019099999999999992,0.0667,0.0476
 2024-10-04 13:31:18.316468,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Lane Thomas (CLE),0.019099999999999992,0.0667,0.0476
-2024-10-04 12:49:35.998472,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.019000000000000017,0.2857,0.2667
+2024-10-04 13:31:18.316468,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Johan Rojas (PHI),0.019099999999999992,0.0667,0.0476
 2024-10-04 06:35:39.986063,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.019000000000000017,0.2857,0.2667
+2024-10-04 12:49:35.998472,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.019000000000000017,0.2857,0.2667
 2024-10-04 08:32:30.117761,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,0.018999999999999906,0.7333,0.7143
 2024-10-04 07:25:15.010706,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Andrei Mikhailovich,0.01820000000000002,0.2,0.1818
 2024-10-04 16:34:05.011327,Boxing Lines - Kenshiro Teraji vs Cristofer Rosales - To Win the Bout,Cristofer Rosales,0.01820000000000002,0.2,0.1818
@@ -67,17 +68,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-04 06:35:39.967285,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Kirk Cousins (ATL),0.016600000000000004,0.0345,0.0179
 2024-10-04 08:32:32.782544,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Joselito Velazquez,0.015800000000000036,0.7561,0.7403
 2024-10-04 08:32:32.597031,NFL Weekly Specials - NFL Week 5 - RedZone Specials - Sunday October 6 - Combined Player Stats Specials Early Games,"Trevor Lawrence, Joe Burrow, C.J. Stroud and Josh Allen to Combine for 1050+ Passing Yards",0.01579999999999998,0.3333,0.3175
-2024-10-04 09:27:47.419421,Political Specials - Trump To Win Presidency & Nominate To Cabinet - Trump Nominees To Cabinet,Tulsi Gabbard,0.015100000000000002,0.1818,0.1667
 2024-10-04 16:34:04.470056,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Make The Playoff Parlays,"Ohio St., Texas, Alabama, Oregon, Clemson, Tenn & Penn State all to make the Playoffs",0.015100000000000002,0.1818,0.1667
+2024-10-04 09:27:47.419421,Political Specials - Trump To Win Presidency & Nominate To Cabinet - Trump Nominees To Cabinet,Tulsi Gabbard,0.015100000000000002,0.1818,0.1667
 2024-10-04 12:49:38.119162,Boxing Lines - Quinton Randall vs Janelson Figueroa Bocachica - To Win the Bout,Janelson Figueroa Bocachica,0.014800000000000035,0.6226,0.6078
 2024-10-04 09:27:47.450709,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,52,0.014500000000000013,0.3175,0.303
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Eintracht Frankfurt,0.014100000000000001,0.0526,0.0385
 2024-10-04 13:31:18.321150,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Yoshinobu Yamamato,0.014099999999999998,0.0385,0.0244
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Olympiakos,0.014099999999999998,0.0385,0.0244
-2024-10-04 12:49:35.785832,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Danny Amendola,0.013999999999999999,0.0909,0.0769
-2024-10-04 13:31:18.316468,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Bryson Stott (PHI),0.013999999999999999,0.0909,0.0769
-2024-10-04 12:49:35.785832,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Phaedra Parks,0.013999999999999999,0.0909,0.0769
 2024-10-04 06:35:39.805885,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Green Bay Packers,0.013999999999999999,0.0909,0.0769
+2024-10-04 12:49:35.785832,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Danny Amendola,0.013999999999999999,0.0909,0.0769
+2024-10-04 12:49:35.785832,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Phaedra Parks,0.013999999999999999,0.0909,0.0769
+2024-10-04 13:31:18.316468,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Bryson Stott (PHI),0.013999999999999999,0.0909,0.0769
 2024-10-04 13:31:16.123752,Harry Potter Reboot - Who will play Minerva McGonagall? - Who will play Minerva McGonagall?,Gillian Anderson,0.013899999999999996,0.125,0.1111
 2024-10-04 17:27:51.460576,"MLB Division Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Shohei Ohtani v Aaron Judge - Most Hits, Runs, RBIs in the Series",Aaron Judge (NYY),0.012199999999999989,0.5122,0.5
 2024-10-04 13:31:18.297130,NLCS MVP - NLCS MVP - NLCS MVP,Brandon Nimmo (NYM),0.0118,0.0217,0.0099
@@ -91,27 +92,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-04 16:34:05.023986,Boxing Lines - Junto Nakatani vs Tasana Salapat - To Win the Bout,Tasana Salapat,0.0102,0.0769,0.0667
 2024-10-04 08:32:30.123928,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Flamengo,0.010199999999999987,0.9333,0.9231
 2024-10-04 13:31:18.311845,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Pete Alonso (NYM),0.010100000000000001,0.0345,0.0244
-2024-10-04 12:49:38.119162,Boxing Lines - Quinton Randall vs Janelson Figueroa Bocachica - To Win the Bout,Quinton Randall,-0.010099999999999998,0.4444,0.4545
 2024-10-04 16:34:05.019766,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,-0.010099999999999998,0.3125,0.3226
+2024-10-04 12:49:38.119162,Boxing Lines - Quinton Randall vs Janelson Figueroa Bocachica - To Win the Bout,Quinton Randall,-0.010099999999999998,0.4444,0.4545
 2024-10-04 06:35:39.805885,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Dallas Cowboys,-0.0102,0.0667,0.0769
 2024-10-04 06:35:39.800431,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Baltimore Ravens,-0.010499999999999982,0.2,0.2105
+2024-10-04 18:34:14.252894,Boxing Lines - Chase Martinez vs Travis Floyd - To Win the Bout,Travis Floyd,-0.011099999999999999,0.1,0.1111
 2024-10-04 06:35:39.800431,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Miami Dolphins,-0.011300000000000001,0.0244,0.0357
 2024-10-04 08:32:30.123928,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Grêmio,-0.011699999999999999,0.0079,0.0196
 2024-10-04 07:25:15.166721,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - P. Rodgers / B. Hossler / B. Griffin - 2nd Round 3-Balls,Beau Hossler,-0.011899999999999966,0.339,0.3509
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Braga,-0.012100000000000001,0.0123,0.0244
-2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Fenerbahce,-0.0131,0.0345,0.0476
 2024-10-04 16:34:05.015531,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,-0.0131,0.7647,0.7778
+2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Fenerbahce,-0.0131,0.0345,0.0476
 2024-10-04 09:27:47.398914,Donald Trump Specials - Will Donald Trump serve time in a prison before the presidential election? - Will Trump Be Imprisoned Before Election?,Yes,-0.013999999999999999,0.0769,0.0909
 2024-10-04 08:32:30.007276,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Dynamo Kiev,-0.014100000000000001,0.0385,0.0526
 2024-10-04 07:25:15.166721,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - P. Rodgers / B. Hossler / B. Griffin - 2nd Round 3-Balls,Ben Griffin,-0.01419999999999999,0.3704,0.3846
-2024-10-04 13:31:16.123752,Harry Potter Reboot - Who will play Minerva McGonagall? - Who will play Minerva McGonagall?,Sarah Lancashire,-0.014399999999999996,0.0625,0.0769
 2024-10-04 13:31:16.123752,Harry Potter Reboot - Who will play Minerva McGonagall? - Who will play Minerva McGonagall?,Lily Tomlin,-0.014399999999999996,0.0625,0.0769
+2024-10-04 13:31:16.123752,Harry Potter Reboot - Who will play Minerva McGonagall? - Who will play Minerva McGonagall?,Sarah Lancashire,-0.014399999999999996,0.0625,0.0769
 2024-10-04 06:35:39.800431,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Houston Texans,-0.014800000000000008,0.1333,0.1481
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,AZ Alkmaar,-0.014900000000000004,0.0196,0.0345
 2024-10-04 08:32:32.782544,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Andres Campos,-0.014900000000000024,0.3077,0.3226
 2024-10-04 09:27:47.419421,Political Specials - Trump To Win Presidency & Nominate To Cabinet - Trump Nominees To Cabinet,Elon Musk,-0.015100000000000002,0.1667,0.1818
-2024-10-04 07:25:15.010706,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Zhanibek Alimkhanuly,-0.015699999999999936,0.8667,0.8824
 2024-10-04 16:34:05.011327,Boxing Lines - Kenshiro Teraji vs Cristofer Rosales - To Win the Bout,Kenshiro Teraji,-0.015699999999999936,0.8667,0.8824
+2024-10-04 07:25:15.010706,Boxing Lines - Zhanibek Alimkhanuly vs Andrei Mikhailovich - To Win the Bout,Zhanibek Alimkhanuly,-0.015699999999999936,0.8667,0.8824
 2024-10-04 09:27:47.450709,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,53,-0.01759999999999999,0.1,0.1176
 2024-10-04 08:32:30.123928,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Mineiro,-0.0179,0.125,0.1429
 2024-10-04 08:32:32.786715,Boxing Lines - Quinton Randall vs Janelson Figueroa Bocachica - To Win the Bout,Quinton Randall,-0.018100000000000005,0.4167,0.4348
@@ -119,8 +121,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-04 08:32:30.007276,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Maccabi Tel Aviv,-0.0189,0.0196,0.0385
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Slavia Prague,-0.0189,0.0196,0.0385
 2024-10-04 08:32:30.120852,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.018999999999999906,0.7143,0.7333
+2024-10-04 18:34:14.278319,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Andres Campos,-0.019000000000000017,0.2667,0.2857
 2024-10-04 09:27:48.023522,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Andres Campos,-0.021999999999999964,0.2857,0.3077
 2024-10-04 06:35:39.805885,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,-0.022199999999999998,0.1111,0.1333
+2024-10-04 18:34:14.274076,Boxing Lines - Mikiah Kreps vs Mayerlin Rivas - To Win the Bout,Mayerlin Rivas,-0.02360000000000001,0.3846,0.4082
 2024-10-04 06:35:39.800431,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,-0.023800000000000016,0.1667,0.1905
 2024-10-04 10:33:12.042642,Round Match-Ups - 2nd Round Match-Ups - C. Kim vs P. Fishburn - 2nd Round Match-Ups,Chan Kim,-0.023800000000000043,0.5,0.5238
 2024-10-04 08:32:30.007276,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Ajax,-0.025499999999999967,0.4,0.4255
@@ -129,8 +133,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-04 08:32:30.007276,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Slavia Prague,-0.029899999999999982,0.2,0.2299
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Nice,-0.0312,0.0123,0.0435
 2024-10-04 14:29:58.012916,Round Match-Ups - 2nd Round Match-Ups - P. Malnati vs C. Champ - 2nd Round Match-Ups,Peter Malnati,-0.031799999999999995,0.4444,0.4762
-2024-10-04 09:27:47.434764,White House Specials - White House Halloween Event: Jill Biden's Costume - Jill Biden Halloween Costume,Mummy,-0.033300000000000024,0.1667,0.2
 2024-10-04 09:27:47.434764,White House Specials - White House Halloween Event: Jill Biden's Costume - Jill Biden Halloween Costume,Bo Peep,-0.033300000000000024,0.1667,0.2
+2024-10-04 09:27:47.434764,White House Specials - White House Halloween Event: Jill Biden's Costume - Jill Biden Halloween Costume,Mummy,-0.033300000000000024,0.1667,0.2
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Galatasaray,-0.03420000000000001,0.0769,0.1111
 2024-10-04 08:32:30.004113,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,FC Porto,-0.0344,0.0244,0.0588
 2024-10-04 08:32:30.007276,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,FC Porto,-0.0348,0.4,0.4348
