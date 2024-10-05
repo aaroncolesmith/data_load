@@ -27,8 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-05 09:28:30.171796,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,0.03179999999999994,0.5556,0.5238
 2024-10-05 10:29:45.216323,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,0.031399999999999983,0.2667,0.2353
 2024-10-05 11:22:17.338278,Sanderson Farms - 2/3 Balls - 3rd Round 2-Balls - A. Smalley v N. Dunlap - 3rd Round 2-Balls,Alex Smalley,0.030299999999999994,0.4651,0.4348
-2024-10-05 09:28:30.188389,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,0.030299999999999994,0.3636,0.3333
 2024-10-05 09:28:30.185400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,0.030299999999999994,0.6667,0.6364
+2024-10-05 09:28:30.188389,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,0.030299999999999994,0.3636,0.3333
 2024-10-05 13:27:58.966810,NLCS MVP - NLCS MVP - NLCS MVP,Shohei Ohtani (LAD),0.028799999999999992,0.1538,0.125
 2024-10-05 09:28:30.380085,Serie B - Italy Serie B 2024/25 - Winner,Juve Stabia,0.028000000000000004,0.0476,0.0196
 2024-10-05 10:29:44.907005,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,0.02779999999999999,0.25,0.2222
@@ -36,11 +36,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-05 09:28:30.135084,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.025600000000000067,0.6923,0.6667
 2024-10-05 09:28:30.171796,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Borussia Mönchengladbach,0.0242,0.0909,0.0667
 2024-10-05 12:46:31.055433,Stat Leaders - Most Hits in the 2024 MLB Playoffs - Most Hits in the 2024 MLB Playoffs,Bobby Witt Jr,0.024,0.0625,0.0385
+2024-10-05 10:29:44.907005,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,0.023799999999999988,0.1667,0.1429
 2024-10-05 16:31:30.521793,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Jack Rafferty,0.023799999999999988,0.5,0.4762
 2024-10-05 10:29:44.907005,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.023799999999999988,0.5,0.4762
-2024-10-05 10:29:44.907005,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,0.023799999999999988,0.1667,0.1429
-2024-10-05 16:31:28.340875,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Makensy Manbeck,0.023799999999999932,0.6667,0.6429
 2024-10-05 09:28:30.144279,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Atlético Madrid,0.023799999999999932,0.8571,0.8333
+2024-10-05 16:31:28.340875,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Makensy Manbeck,0.023799999999999932,0.6667,0.6429
 2024-10-05 09:28:30.406815,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,0.0233,0.0385,0.0152
 2024-10-05 12:46:31.055433,Stat Leaders - Most Hits in the 2024 MLB Playoffs - Most Hits in the 2024 MLB Playoffs,Jackson Merrill (SD),0.022400000000000003,0.0323,0.0099
 2024-10-05 13:27:58.966810,NLCS MVP - NLCS MVP - NLCS MVP,Bryce Harper (PHI),0.02239999999999999,0.1176,0.0952
@@ -49,19 +49,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-05 09:28:30.191394,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,0.02200000000000002,0.7143,0.6923
 2024-10-05 09:28:30.365843,Ligue 2 - France Ligue 2 2024/25 - Outright,Annecy,0.0203,0.0588,0.0385
 2024-10-05 09:28:30.135084,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Mallorca,0.019600000000000003,0.0345,0.0149
-2024-10-05 12:46:31.055433,Stat Leaders - Most Hits in the 2024 MLB Playoffs - Most Hits in the 2024 MLB Playoffs,Mark Vientos (NYM),0.0194,0.0244,0.005
 2024-10-05 12:46:31.055433,Stat Leaders - Most Hits in the 2024 MLB Playoffs - Most Hits in the 2024 MLB Playoffs,Salvador Perez (KC),0.0194,0.0244,0.005
+2024-10-05 12:46:31.055433,Stat Leaders - Most Hits in the 2024 MLB Playoffs - Most Hits in the 2024 MLB Playoffs,Mark Vientos (NYM),0.0194,0.0244,0.005
 2024-10-05 09:28:30.205073,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lens,0.019000000000000017,0.2857,0.2667
 2024-10-05 10:29:45.249798,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,0.018999999999999906,0.7333,0.7143
 2024-10-05 11:22:17.329103,Sanderson Farms - 2/3 Balls - 3rd Round 2-Balls - E. Grillo v J. Vegas - 3rd Round 2-Balls,Jhonattan Vegas,0.01880000000000004,0.5744,0.5556
 2024-10-05 09:28:30.383227,Serie B - Italy Serie B 2024/25 - To Be Promoted,Salernitana,0.01820000000000002,0.2,0.1818
 2024-10-05 09:28:30.202072,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Rennes,0.018200000000000004,0.0476,0.0294
-2024-10-05 09:28:30.202072,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Saint-Étienne,0.018100000000000005,0.4348,0.4167
 2024-10-05 09:28:30.383227,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.018100000000000005,0.4348,0.4167
+2024-10-05 09:28:30.202072,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Saint-Étienne,0.018100000000000005,0.4348,0.4167
 2024-10-05 06:33:40.444781,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,0.017900000000000027,0.875,0.8571
 2024-10-05 09:28:30.188389,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Parma,0.0179,0.1429,0.125
-2024-10-05 16:31:28.340875,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,0.0179,0.1429,0.125
 2024-10-05 09:28:30.135084,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.0179,0.1429,0.125
+2024-10-05 16:31:28.340875,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,0.0179,0.1429,0.125
 2024-10-05 10:29:44.907005,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.017600000000000005,0.3509,0.3333
 2024-10-05 06:33:40.418049,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.01759999999999995,0.6667,0.6491
 2024-10-05 13:27:58.966810,NLCS MVP - NLCS MVP - NLCS MVP,Fernando Tatis Jr. (SD),0.016600000000000004,0.0833,0.0667
@@ -71,48 +71,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-05 12:46:31.055433,Stat Leaders - Most Hits in the 2024 MLB Playoffs - Most Hits in the 2024 MLB Playoffs,Wenceel Perez (DET),0.014599999999999998,0.0196,0.005
 2024-10-05 09:28:30.199086,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lens,0.01440000000000001,0.1053,0.0909
 2024-10-05 09:28:30.365843,Ligue 2 - France Ligue 2 2024/25 - Outright,Rodez Aveyron,0.014100000000000001,0.0526,0.0385
-2024-10-05 09:28:30.370622,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,0.013999999999999999,0.0909,0.0769
-2024-10-05 10:29:45.221220,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.013999999999999999,0.0909,0.0769
 2024-10-05 09:28:30.370622,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,0.013999999999999999,0.0909,0.0769
+2024-10-05 10:29:45.221220,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.013999999999999999,0.0909,0.0769
+2024-10-05 09:28:30.370622,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,0.013999999999999999,0.0909,0.0769
 2024-10-05 09:28:30.202072,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Nantes,0.013899999999999996,0.125,0.1111
+2024-10-05 14:26:54.562419,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011600000000000055,0.5238,0.5122
 2024-10-05 11:22:17.438054,Round Match-Ups - 3rd Round Match-Ups - L. Glover vs M. Thorbjornsen - 3rd Round Match-Ups,Michael Thorbjornsen,0.011600000000000055,0.5238,0.5122
 2024-10-05 14:26:54.566464,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.011600000000000055,0.5238,0.5122
-2024-10-05 14:26:54.562419,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011600000000000055,0.5238,0.5122
 2024-10-05 06:33:40.444781,Ligue 1 - France Ligue 1 2024/25 - Winner,Rennes,0.0116,0.0149,0.0033
 2024-10-05 12:46:31.055433,Stat Leaders - Most Hits in the 2024 MLB Playoffs - Most Hits in the 2024 MLB Playoffs,Pete Alonso (NYM),0.0114,0.0164,0.005
+2024-10-05 17:27:54.984663,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,0.011099999999999999,0.4762,0.4651
 2024-10-05 09:28:30.165582,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,0.010899999999999993,0.1538,0.1429
 2024-10-05 09:28:30.165582,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Borussia Dortmund,0.010899999999999993,0.1538,0.1429
 2024-10-05 16:31:30.554112,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,0.010599999999999998,0.4651,0.4545
 2024-10-05 12:46:31.055433,Stat Leaders - Most Hits in the 2024 MLB Playoffs - Most Hits in the 2024 MLB Playoffs,Jose Ramirez (CLE),0.010300000000000002,0.0244,0.0141
-2024-10-05 15:26:33.167858,Boxing Lines - Joe Cooper vs Lukasz Barabasz - To Win the Bout,Lukasz Barabasz,0.0102,0.0769,0.0667
 2024-10-05 09:28:30.388022,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,AZ Alkmaar,0.0102,0.0769,0.0667
+2024-10-05 15:26:33.167858,Boxing Lines - Joe Cooper vs Lukasz Barabasz - To Win the Bout,Lukasz Barabasz,0.0102,0.0769,0.0667
 2024-10-05 10:29:44.907005,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,0.010099999999999998,0.4545,0.4444
+2024-10-05 09:28:30.383227,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,-0.010099999999999998,0.4444,0.4545
 2024-10-05 06:33:40.440188,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.010099999999999998,0.5455,0.5556
 2024-10-05 12:46:31.183659,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Jack Rafferty,-0.010099999999999998,0.4444,0.4545
-2024-10-05 09:28:30.383227,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,-0.010099999999999998,0.4444,0.4545
 2024-10-05 09:28:30.365843,Ligue 2 - France Ligue 2 2024/25 - Outright,Stade Lavallois,-0.010100000000000001,0.0244,0.0345
+2024-10-05 10:29:45.221220,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,-0.0102,0.0667,0.0769
 2024-10-05 16:31:28.340875,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Rubina Bernabe,-0.0102,0.0667,0.0769
 2024-10-05 10:29:44.907005,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,-0.0102,0.0667,0.0769
-2024-10-05 10:29:45.221220,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,-0.0102,0.0667,0.0769
 2024-10-05 12:46:31.096263,"MLB Daily Playoff Specials - Saturday, October 5 - Daily MLB Playoff Specials","All 3 of Kerry Carpenter, Francisco Lindor & Bryce Harper to Hit A Home Run",-0.0103,0.0076,0.0179
 2024-10-05 12:46:31.216639,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.010599999999999998,0.4545,0.4651
+2024-10-05 14:26:54.562419,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.01100000000000001,0.5238,0.5348
 2024-10-05 11:22:17.438054,Round Match-Ups - 3rd Round Match-Ups - L. Glover vs M. Thorbjornsen - 3rd Round Match-Ups,Lucas Glover,-0.01100000000000001,0.5238,0.5348
 2024-10-05 14:26:54.566464,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.01100000000000001,0.5238,0.5348
-2024-10-05 14:26:54.562419,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.01100000000000001,0.5238,0.5348
 2024-10-05 09:28:30.406815,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Degerfors IF,-0.011199999999999988,0.9412,0.9524
 2024-10-05 09:28:30.174755,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.01150000000000001,0.3333,0.3448
 2024-10-05 09:28:30.135084,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Rayo Vallecano,-0.011699999999999999,0.0079,0.0196
+2024-10-05 17:27:54.949987,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Jack Rafferty,-0.012199999999999989,0.4878,0.5
 2024-10-05 09:28:30.144279,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,-0.012699999999999989,0.3509,0.3636
 2024-10-05 10:29:45.249798,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,-0.012899999999999995,0.1538,0.1667
-2024-10-05 10:29:45.320322,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Galway United,-0.0131,0.0345,0.0476
 2024-10-05 09:28:30.383227,Serie B - Italy Serie B 2024/25 - To Be Promoted,FC Südtirol,-0.0131,0.0345,0.0476
+2024-10-05 10:29:45.320322,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Galway United,-0.0131,0.0345,0.0476
 2024-10-05 09:28:30.191394,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Torino,-0.013899999999999996,0.1111,0.125
 2024-10-05 07:24:56.050039,College Game Day Specials - Saturday October 5th - Specials,"Eli Holstein, Carson Beck, Jaxson Dart and Jalen Milroe to Combine for 1300+ Passing Yards",-0.013899999999999996,0.1111,0.125
 2024-10-05 10:29:44.907005,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Sociedad,-0.014099999999999998,0.0294,0.0435
 2024-10-05 09:28:30.144279,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Girona,-0.015100000000000002,0.1667,0.1818
 2024-10-05 09:28:30.185400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,-0.016699999999999993,0.4,0.4167
-2024-10-05 06:33:40.444781,Ligue 1 - France Ligue 1 2024/25 - Winner,Marseille,-0.018099999999999998,0.0588,0.0769
 2024-10-05 09:28:30.202072,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Reims,-0.018099999999999998,0.0588,0.0769
+2024-10-05 06:33:40.444781,Ligue 1 - France Ligue 1 2024/25 - Winner,Marseille,-0.018099999999999998,0.0588,0.0769
 2024-10-05 10:29:44.996101,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,-0.01849999999999996,0.9524,0.9709
 2024-10-05 09:28:30.165582,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Bayer Leverkusen,-0.018999999999999906,0.7143,0.7333
 2024-10-05 09:28:30.202072,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Strasbourg,-0.019699999999999995,0.1053,0.125
