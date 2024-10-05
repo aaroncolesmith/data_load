@@ -1,5 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-10-05 04:30:45.964078,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Napheesa Collier (MIN),0.1307,0.3125,0.1818
+2024-10-05 04:30:45.959280,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,0.122,0.3125,0.1905
 2024-10-05 01:51:10.601214,Scores - 3rd Round Score - Jon Rahm - 3rd Round Score,Over 67.5,0.1078,0.6078,0.5
+2024-10-05 04:30:45.959280,WNBA Championship - WNBA Championship 2024 - Championship Winner,Las Vegas Aces,0.08179999999999998,0.1818,0.1
+2024-10-05 04:30:45.964078,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,A'ja Wilson (LVA),0.07579999999999999,0.1667,0.0909
 2024-10-04 23:25:02.096889,NBL - Australia NBL 2024/25 - To Make Grand Final,Melbourne United,0.07120000000000004,0.4348,0.3636
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Jason Caron,0.0617,0.0769,0.0152
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Joe Durant,0.0605,0.0769,0.0164
@@ -16,15 +20,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ken Duke,0.0282,0.0526,0.0244
 2024-10-05 01:51:10.405286,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Henry Turner,0.026499999999999968,0.5917,0.5652
 2024-10-04 22:29:13.148110,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Jack Rafferty,0.023799999999999988,0.5,0.4762
-2024-10-04 18:34:14.274076,Boxing Lines - Mikiah Kreps vs Mayerlin Rivas - To Win the Bout,Mikiah Kreps,0.022199999999999998,0.6774,0.6552
 2024-10-04 18:34:14.278319,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Joselito Velazquez,0.022199999999999998,0.8,0.7778
+2024-10-04 18:34:14.274076,Boxing Lines - Mikiah Kreps vs Mayerlin Rivas - To Win the Bout,Mikiah Kreps,0.022199999999999998,0.6774,0.6552
+2024-10-05 04:30:47.790560,Sanderson Farms - 2/3 Balls - 3rd Round 2-Balls - S. Power / E. Cole - 3rd Round 2-Balls,Seamus Power,0.02079999999999993,0.5556,0.5348
 2024-10-04 20:27:25.562161,Boxing Lines - Quinton Randall vs Janelson Figueroa Bocachica - To Win the Bout,Quinton Randall,0.019699999999999995,0.4545,0.4348
-2024-10-04 23:25:02.093055,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,0.019000000000000017,0.2857,0.2667
 2024-10-04 20:27:25.558038,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Andres Campos,0.019000000000000017,0.2857,0.2667
+2024-10-04 23:25:02.093055,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,0.019000000000000017,0.2857,0.2667
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tim Petrovic,0.0189,0.0385,0.0196
 2024-10-04 16:34:05.011327,Boxing Lines - Kenshiro Teraji vs Cristofer Rosales - To Win the Bout,Cristofer Rosales,0.01820000000000002,0.2,0.1818
-2024-10-04 20:27:25.608995,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Henry Turner,0.017299999999999982,0.5917,0.5744
 2024-10-04 16:34:05.015531,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,0.017299999999999982,0.303,0.2857
+2024-10-04 20:27:25.608995,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Henry Turner,0.017299999999999982,0.5917,0.5744
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tim Herron,0.0156,0.0196,0.004
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Greg Chalmers,0.015300000000000001,0.0476,0.0323
 2024-10-04 16:34:04.470056,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Make The Playoff Parlays,"Ohio St., Texas, Alabama, Oregon, Clemson, Tenn & Penn State all to make the Playoffs",0.015100000000000002,0.1818,0.1667
@@ -42,8 +47,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-04 16:34:05.019766,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,-0.010099999999999998,0.3125,0.3226
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tim O'Neal,-0.0102,0.005,0.0152
 2024-10-04 18:34:14.252894,Boxing Lines - Chase Martinez vs Travis Floyd - To Win the Bout,Travis Floyd,-0.011099999999999999,0.1,0.1111
-2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Shane Bertsch,-0.0116,0.0025,0.0141
+2024-10-05 04:30:45.964078,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,DeWanna Bonner (CON),-0.011200000000000002,0.0132,0.0244
 2024-10-04 20:27:25.608995,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Jack Rafferty,-0.0116,0.4762,0.4878
+2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Shane Bertsch,-0.0116,0.0025,0.0141
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Charlie Wi,-0.012400000000000001,0.004,0.0164
 2024-10-04 16:34:05.015531,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,-0.0131,0.7647,0.7778
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Matt Gogel,-0.014599999999999998,0.005,0.0196
@@ -60,15 +66,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-04 22:29:11.397972,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.020799999999999985,0.3125,0.3333
 2024-10-04 20:27:25.562161,Boxing Lines - Quinton Randall vs Janelson Figueroa Bocachica - To Win the Bout,Janelson Figueroa Bocachica,-0.02180000000000004,0.6078,0.6296
 2024-10-04 20:27:25.558038,Boxing Lines - Joselito Velazquez vs Andres Campos - To Win the Bout,Joselito Velazquez,-0.022199999999999998,0.7778,0.8
+2024-10-05 04:30:45.964078,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Sabrina Ionescu (NYL),-0.022699999999999998,0.2273,0.25
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Steve Flesch,-0.023100000000000002,0.0013,0.0244
+2024-10-05 04:30:45.964078,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Marina Mabrey (CON),-0.023200000000000002,0.0244,0.0476
 2024-10-04 18:34:14.274076,Boxing Lines - Mikiah Kreps vs Mayerlin Rivas - To Win the Bout,Mayerlin Rivas,-0.02360000000000001,0.3846,0.4082
 2024-10-05 01:51:10.405286,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Jack Rafferty,-0.023799999999999988,0.4762,0.5
+2024-10-05 04:30:47.790560,Sanderson Farms - 2/3 Balls - 3rd Round 2-Balls - S. Power / E. Cole - 3rd Round 2-Balls,Eric Cole,-0.024399999999999977,0.4878,0.5122
 2024-10-04 22:29:11.397972,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,-0.024999999999999994,0.1,0.125
 2024-10-04 22:29:13.148110,Boxing Lines - Jack Rafferty vs Henry Turner - To Win the Bout,Henry Turner,-0.026499999999999968,0.5652,0.5917
 2024-10-04 23:25:02.093055,NBL - Australia NBL 2024/25 - Regular Season League Winner,Perth Wildcats,-0.0267,0.0909,0.1176
+2024-10-05 04:30:45.964078,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Jonquel Jones (NYL),-0.027099999999999996,0.0164,0.0435
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Cameron Percy,-0.0336,0.0099,0.0435
 2024-10-04 22:29:11.397972,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,-0.042899999999999994,0.1,0.1429
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Harrison Frazar,-0.0436,0.004,0.0476
+2024-10-05 04:30:45.964078,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Alyssa Thomas (CON),-0.0524,0.0476,0.1
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ernie Els,-0.07239999999999999,0.0526,0.125
 2024-10-04 22:29:13.352207,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Steven Alker,-0.07930000000000001,0.1429,0.2222
+2024-10-05 04:30:45.959280,WNBA Championship - WNBA Championship 2024 - Championship Winner,Connecticut Sun,-0.0804,0.0625,0.1429
+2024-10-05 04:30:45.964078,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Breanna Stewart (NYL),-0.08560000000000001,0.3226,0.4082
 2024-10-05 01:51:10.601214,Scores - 3rd Round Score - Jon Rahm - 3rd Round Score,Under 67.5,-0.11070000000000002,0.4545,0.5652
+2024-10-05 04:30:45.959280,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,-0.1318999999999999,0.5348,0.6667
