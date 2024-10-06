@@ -1,18 +1,25 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Rocco Mediate,0.25639999999999996,0.3333,0.0769
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Bob Estes,0.2,0.2667,0.0667
 2024-10-06 07:23:58.858257,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,LA Dodgers beat NY Mets,0.1559,0.3226,0.1667
 2024-10-06 07:23:58.851262,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,NY Yankees beat CLE Guardians,0.13680000000000003,0.4,0.2632
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Walsall,0.13670000000000004,0.6923,0.5556
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,0.12529999999999997,0.6491,0.5238
 2024-10-06 07:23:58.855215,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,New York Mets,0.124,0.2778,0.1538
 2024-10-06 07:23:58.855215,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Los Angeles Dodgers,0.12030000000000002,0.4651,0.3448
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,0.11900000000000002,0.2857,0.1667
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.09889999999999999,0.3846,0.2857
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Walsall,0.0988,0.4762,0.3774
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.09230000000000005,0.4,0.3077
 2024-10-06 03:34:51.381123,Ligue 1 - France Ligue 1 2024/25 - Winner,Monaco,0.0889,0.2,0.1111
 2024-10-06 07:23:58.858257,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,NY Mets beat LA Dodgers,0.08770000000000001,0.1786,0.0909
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.08549999999999996,0.3077,0.2222
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. New York Yankees,0.08239999999999999,0.1538,0.0714
 2024-10-06 07:23:58.848078,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,0.07939999999999997,0.5556,0.4762
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,0.0781,0.3448,0.2667
+2024-10-06 09:26:19.354419,National League - English National League - To Be Promoted,Forest Green Rovers,0.07690000000000002,0.3846,0.3077
 2024-10-06 07:23:58.848078,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Cleveland Guardians,0.07189999999999996,0.2941,0.2222
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,0.06860000000000002,0.2353,0.1667
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,0.067,0.4444,0.3774
+2024-10-06 09:26:19.281593,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.06659999999999999,0.3333,0.2667
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Francisco Lindor (NYM),0.06649999999999999,0.0909,0.0244
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Cleveland Guardians,0.066,0.1429,0.0769
 2024-10-06 06:34:11.215504,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.06489999999999999,0.303,0.2381
@@ -20,6 +27,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat New York Yankees,0.0629,0.1538,0.0909
 2024-10-06 03:00:13.968383,J1 League - Japan J1 League 2024 - Winner,Vissel Kobe,0.05980000000000002,0.4444,0.3846
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Los Angeles Dodgers,0.0596,0.1429,0.0833
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,0.057699999999999974,0.75,0.6923
 2024-10-06 06:34:11.215504,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Mets,0.056400000000000006,0.1333,0.0769
 2024-10-06 01:59:13.463344,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,0.05509999999999998,0.4255,0.3704
 2024-10-05 23:24:18.577565,Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 68.5,0.05449999999999999,0.4545,0.4
@@ -29,69 +37,90 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.05070000000000002,0.4762,0.4255
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,0.05,0.1,0.05
 2024-10-06 07:23:58.732364,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Georgia,0.04849999999999999,0.1818,0.1333
+2024-10-06 09:26:19.350725,National League - English National League - Outright Winner 2024/25,Gateshead,0.048100000000000004,0.2299,0.1818
 2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Port Vale,0.048100000000000004,0.125,0.0769
+2024-10-06 09:26:19.327145,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,0.047599999999999976,0.3333,0.2857
+2024-10-06 09:26:19.127774,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,AJ Auxerre,0.04620000000000002,0.2,0.1538
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.045499999999999985,0.5455,0.5
 2024-10-06 06:34:09.022866,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,0.044499999999999984,0.2667,0.2222
 2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.044499999999999984,0.2667,0.2222
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Vijay Singh,0.04440000000000001,0.1111,0.0667
-2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,0.044399999999999995,0.4444,0.4
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Swindon Town,0.04440000000000001,0.1111,0.0667
 2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,0.044399999999999995,0.6,0.5556
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.044399999999999995,0.6,0.5556
+2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,0.044399999999999995,0.4444,0.4
+2024-10-06 09:26:21.439528,NFL Weekly Specials - NFL Week 5 - RedZone Specials - Sunday October 6 - 1pm EST Games,43+ Touchdowns Combined,0.042600000000000006,0.0476,0.005
 2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Giancarlo Stanton (NYY),0.04239999999999999,0.0769,0.0345
+2024-10-06 09:26:19.284782,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,0.04169999999999999,0.1667,0.125
 2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Juan Soto (NYY),0.04169999999999999,0.1667,0.125
 2024-10-06 05:28:07.859192,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.04139999999999999,0.5652,0.5238
 2024-10-06 06:34:11.215504,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,0.0407,0.1176,0.0769
 2024-10-06 05:28:07.859192,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.0393,0.4167,0.3774
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Mario Tiziani,0.0392,0.0588,0.0196
-2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Watford,0.03889999999999999,0.1818,0.1429
 2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Aaron Judge (NYY),0.03889999999999999,0.1818,0.1429
+2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Watford,0.03889999999999999,0.1818,0.1429
 2024-10-06 08:30:05.918160,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Brentford,0.03839999999999999,0.9615,0.9231
-2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Jose Ramirez (CLE),0.038299999999999994,0.0909,0.0526
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Cleveland Guardians,0.038299999999999994,0.0909,0.0526
+2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Jose Ramirez (CLE),0.038299999999999994,0.0909,0.0526
 2024-10-06 03:34:51.376644,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.037800000000000056,0.5833,0.5455
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat New York Yankees,0.0375,0.0625,0.025
 2024-10-06 06:34:09.025990,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,0.0368,0.2667,0.2299
 2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Burton Albion,0.03639999999999999,0.6364,0.6
-2024-10-06 08:30:05.905818,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,0.035699999999999954,0.75,0.7143
 2024-10-06 08:30:05.918160,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Everton,0.035699999999999954,0.75,0.7143
+2024-10-06 08:30:05.905818,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,0.035699999999999954,0.75,0.7143
 2024-10-06 08:30:05.905818,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,0.034100000000000005,0.125,0.0909
+2024-10-06 09:26:19.127774,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Toulouse,0.033300000000000024,0.2,0.1667
 2024-10-06 06:34:09.016581,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,0.033299999999999996,0.1333,0.1
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. Cleveland Guardians,0.03219999999999999,0.0667,0.0345
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,0.031799999999999995,0.1429,0.1111
-2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,Sheffield United,0.031799999999999995,0.1429,0.1111
-2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Walsall,0.031799999999999995,0.1429,0.1111
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,0.031799999999999995,0.1429,0.1111
+2024-10-06 09:26:19.327145,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,0.031799999999999995,0.4762,0.4444
+2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Walsall,0.031799999999999995,0.1429,0.1111
+2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,Sheffield United,0.031799999999999995,0.1429,0.1111
 2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Peterborough United,0.031399999999999983,0.2667,0.2353
+2024-10-06 09:26:19.319263,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.031399999999999983,0.2667,0.2353
+2024-10-06 09:26:19.124997,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.030299999999999994,0.6667,0.6364
 2024-10-06 08:30:05.918160,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Nottingham Forest,0.029299999999999993,0.9524,0.9231
+2024-10-06 09:26:19.281593,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,0.028900000000000037,0.5744,0.5455
 2024-10-06 05:28:07.862334,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Liverpool,0.028800000000000048,0.875,0.8462
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Aaron Judge (NYY),0.0286,0.1,0.0714
 2024-10-06 05:28:09.948008,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Masamichi Yabuki,0.028299999999999992,0.3509,0.3226
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,0.028199999999999996,0.0667,0.0385
 2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.027999999999999997,0.1818,0.1538
 2024-10-06 07:23:58.732364,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,0.02779999999999999,0.25,0.2222
+2024-10-06 09:26:19.327145,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,0.02779999999999999,0.25,0.2222
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.02779999999999999,0.25,0.2222
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Pete Alonso (NYM),0.0268,0.04,0.0132
-2024-10-05 21:25:25.402116,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Fabio Wardley,0.026499999999999968,0.5917,0.5652
 2024-10-06 07:23:58.967838,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - B. Snedeker / B. Kohles - Final Round 2-Balls,Ben Kohles,0.026499999999999968,0.5917,0.5652
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Francisco Lindor (NYM),0.0259,0.0455,0.0196
+2024-10-06 09:26:19.354419,National League - English National League - To Be Promoted,Barnet,0.025600000000000067,0.6923,0.6667
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,0.025600000000000067,0.6923,0.6667
 2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Wrexham,0.02560000000000001,0.3333,0.3077
 2024-10-06 05:28:07.862334,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.025599999999999956,0.6,0.5744
 2024-10-06 07:23:58.930787,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - B. Garnett / M. Hubbard - Final Round 2-Balls,Mark Hubbard,0.025599999999999956,0.6,0.5744
+2024-10-06 09:26:19.354419,National League - English National League - To Be Promoted,Gateshead,0.025499999999999967,0.4255,0.4
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.025499999999999967,0.4255,0.4
 2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.025499999999999967,0.4255,0.4
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Shohei Ohtani (LAD),0.024800000000000016,0.1786,0.1538
-2024-10-06 06:34:09.022866,Championship - England Championship 2024/25 - To Finish Bottom,Oxford United,0.0242,0.0909,0.0667
 2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,0.0242,0.9333,0.9091
 2024-10-06 06:34:09.013144,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,0.0242,0.0909,0.0667
+2024-10-06 06:34:09.022866,Championship - England Championship 2024/25 - To Finish Bottom,Oxford United,0.0242,0.0909,0.0667
 2024-10-06 07:23:58.727257,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cade Klubnik (CLEM),0.024,0.0625,0.0385
 2024-10-06 08:30:05.905818,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Liverpool,0.023800000000000043,0.5238,0.5
+2024-10-06 09:26:19.350725,National League - English National League - Outright Winner 2024/25,Barnet,0.023799999999999988,0.5,0.4762
+2024-10-06 09:26:19.319263,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,0.023799999999999988,0.1667,0.1429
+2024-10-06 09:26:19.130545,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,0.023799999999999932,0.8571,0.8333
 2024-10-06 05:28:07.862334,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.023799999999999932,0.8571,0.8333
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Swindon Town,0.023200000000000002,0.0476,0.0244
 2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.022600000000000064,0.6226,0.6
-2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Cambridge United,0.022199999999999998,0.8,0.7778
+2024-10-06 09:26:19.284782,League Two - England League Two 2024/25 - To Finish Bottom,Morecambe,0.02260000000000001,0.4,0.3774
+2024-10-06 09:26:19.324021,Serie B - Italy Serie B 2024/25 - Winner,Pisa,0.022199999999999998,0.1333,0.1111
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,0.022199999999999998,0.2222,0.2
 2024-10-06 03:00:13.973117,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.022199999999999998,0.2222,0.2
+2024-10-06 09:26:19.324021,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.022199999999999998,0.2222,0.2
+2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Cambridge United,0.022199999999999998,0.8,0.7778
 2024-10-06 06:34:09.013144,Championship - England Championship 2024/25 - Top Goalscorer,Josh Maja,0.022199999999999998,0.2222,0.2
-2024-10-06 08:30:05.895720,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Liverpool,0.021999999999999964,0.3077,0.2857
 2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,0.021999999999999964,0.3077,0.2857
 2024-10-06 06:34:09.016581,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.021999999999999964,0.3077,0.2857
+2024-10-06 08:30:05.895720,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Liverpool,0.021999999999999964,0.3077,0.2857
 2024-10-06 06:34:11.222319,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,0.021699999999999997,0.4762,0.4545
 2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.02100000000000002,0.3846,0.3636
 2024-10-06 01:59:13.460196,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,0.020799999999999985,0.3333,0.3125
@@ -108,47 +137,57 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-06 03:00:13.973117,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,0.018799999999999983,0.3636,0.3448
 2024-10-06 06:34:09.022866,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,0.01820000000000002,0.2,0.1818
 2024-10-06 08:30:05.831887,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,0.01820000000000002,0.2,0.1818
+2024-10-06 09:26:19.281593,League Two - England League Two 2024/25 - To Be Relegated,Cheltenham Town,0.01820000000000002,0.2,0.1818
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.01820000000000002,0.2,0.1818
 2024-10-06 03:34:51.372069,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.018199999999999994,0.8182,0.8
 2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,0.018100000000000005,0.9412,0.9231
 2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,Leeds United,0.018100000000000005,0.4348,0.4167
-2024-10-06 03:00:13.833399,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.018099999999999998,0.0769,0.0588
 2024-10-06 06:34:09.022866,Championship - England Championship 2024/25 - To Finish Bottom,Queens Park Rangers,0.018099999999999998,0.0769,0.0588
 2024-10-06 06:34:09.025990,Championship - England Championship 2024/25 - Top 2 Finish,Norwich City,0.018099999999999998,0.0769,0.0588
+2024-10-06 03:00:13.833399,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.018099999999999998,0.0769,0.0588
 2024-10-06 07:23:58.717860,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,0.017600000000000005,0.3509,0.3333
-2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.016699999999999993,0.2667,0.25
-2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,0.016699999999999993,0.2667,0.25
 2024-10-06 01:59:14.847665,Alfred Dunhill - 2/3 Balls - Final Round 3 Balls - A. Putnam / A. Noren / F. Laporta - Final Round 3 Balls,Francesco Laporta,0.016699999999999993,0.2667,0.25
+2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,0.016699999999999993,0.2667,0.25
+2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.016699999999999993,0.2667,0.25
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Crewe Alexandra,0.016600000000000004,0.0833,0.0667
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat Los Angeles Dodgers,0.0157,0.0435,0.0278
-2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Leyton Orient,0.015100000000000002,0.1818,0.1667
-2024-10-06 08:30:05.831887,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.015100000000000002,0.1818,0.1667
 2024-10-06 08:30:05.912017,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,0.015100000000000002,0.8333,0.8182
+2024-10-06 08:30:05.831887,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.015100000000000002,0.1818,0.1667
+2024-10-06 09:26:19.350725,National League - English National League - Outright Winner 2024/25,Forest Green Rovers,0.015100000000000002,0.1818,0.1667
+2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Leyton Orient,0.015100000000000002,0.1818,0.1667
 2024-10-06 07:23:58.704364,AFC South - AFC South 2024/25 - AFC South Winner,Houston Texans,0.014700000000000046,0.7647,0.75
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Pete Alonso (NYM),0.014700000000000001,0.0263,0.0116
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Blackburn Rovers,0.014100000000000001,0.0526,0.0385
-2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,Norwich City,0.014099999999999998,0.0385,0.0244
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Jose Ramirez (CLE),0.014099999999999998,0.0385,0.0244
+2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,Norwich City,0.014099999999999998,0.0385,0.0244
 2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Exeter City,0.014099999999999998,0.0385,0.0244
 2024-10-06 05:28:07.859192,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Bournemouth,0.013999999999999999,0.0909,0.0769
-2024-10-06 08:30:05.912017,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,West Ham United,0.013999999999999999,0.0909,0.0769
-2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,0.013999999999999999,0.0909,0.0769
 2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Peterborough United,0.013999999999999999,0.0909,0.0769
+2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,0.013999999999999999,0.0909,0.0769
+2024-10-06 09:26:19.324021,Serie B - Italy Serie B 2024/25 - Winner,Spezia,0.013999999999999999,0.0909,0.0769
+2024-10-06 08:30:05.912017,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,West Ham United,0.013999999999999999,0.0909,0.0769
+2024-10-06 09:26:19.124997,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,0.013899999999999996,0.125,0.1111
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,0.013899999999999996,0.125,0.1111
 2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Wrexham,0.013799999999999923,0.6364,0.6226
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat New York Mets,0.013200000000000003,0.0345,0.0213
 2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Austin Wells (NYY),0.013199999999999996,0.0455,0.0323
 2024-10-06 03:34:51.376644,Serie A - Italy Serie A 2024/25 - Winner,AS Roma,0.012899999999999998,0.0278,0.0149
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Barrow FC,0.012899999999999995,0.1667,0.1538
 2024-10-06 01:59:13.467016,NBL - Australia NBL 2024/25 - To Make Grand Final,Adelaide 36ers,0.012899999999999995,0.1667,0.1538
+2024-10-06 09:26:19.130545,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,0.012799999999999978,0.2985,0.2857
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Giancarlo Stanton (NYY),0.012700000000000003,0.0323,0.0196
 2024-10-06 08:30:05.831887,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.012699999999999989,0.3636,0.3509
 2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Josh Naylor (CLE),0.0121,0.0556,0.0435
 2024-10-05 22:29:17.099336,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.0116,0.4878,0.4762
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Josh Naylor (CLE),0.011200000000000002,0.0244,0.0132
+2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Gerrit Cole (NYY),0.011199999999999995,0.0588,0.0476
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,0.011199999999999995,0.0588,0.0476
+2024-10-06 04:30:47.924614,League One - England League One 2024/25 - Winner,Huddersfield Town,0.011199999999999995,0.0588,0.0476
+2024-10-06 09:26:19.127774,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Rennes,0.011199999999999995,0.0588,0.0476
 2024-10-06 08:30:05.834986,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,0.011199999999999995,0.0588,0.0476
 2024-10-06 08:30:05.834986,League One - England League One 2024/25 - Top 2 Finish,Mansfield Town,0.011199999999999995,0.0588,0.0476
-2024-10-06 04:30:47.924614,League One - England League One 2024/25 - Winner,Huddersfield Town,0.011199999999999995,0.0588,0.0476
-2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Gerrit Cole (NYY),0.011199999999999995,0.0588,0.0476
-2024-10-06 05:28:07.855726,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),0.011099999999999999,0.9,0.8889
 2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Lincoln City,0.011099999999999999,0.1111,0.1
+2024-10-06 05:28:07.855726,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),0.011099999999999999,0.9,0.8889
 2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Wycombe,0.010899999999999993,0.1538,0.1429
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.010899999999999993,0.1538,0.1429
 2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Steven Kwan (CLE),0.010700000000000001,0.0385,0.0278
@@ -157,73 +196,83 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-06 07:23:59.016550,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - K. Mitchell / B. Hossler - Final Round 2-Balls,Beau Hossler,0.010599999999999998,0.4651,0.4545
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.0102,0.0769,0.0667
 2024-10-06 08:30:05.831887,League One - England League One 2024/25 - To Finish Bottom,Northampton Town,0.0102,0.0769,0.0667
-2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Stevenage,0.0102,0.0769,0.0667
 2024-10-06 08:30:05.834986,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.0102,0.0769,0.0667
+2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Stevenage,0.0102,0.0769,0.0667
 2024-10-06 03:34:51.376644,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,0.010100000000000001,0.0345,0.0244
 2024-10-06 08:30:05.918160,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,0.010099999999999998,0.4545,0.4444
 2024-10-06 03:00:13.968383,J1 League - Japan J1 League 2024 - Winner,Sanfrecce Hiroshima,0.010099999999999998,0.5556,0.5455
-2024-10-06 08:30:05.912017,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester United,-0.010099999999999998,0.4444,0.4545
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,0.010099999999999998,0.4545,0.4444
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Cleveland Guardians,-0.010099999999999998,0.0455,0.0556
+2024-10-06 08:30:05.912017,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester United,-0.010099999999999998,0.4444,0.4545
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.010099999999999998,0.4444,0.4545
+2024-10-06 08:30:05.834986,League One - England League One 2024/25 - Top 2 Finish,Barnsley,-0.0102,0.0667,0.0769
+2024-10-06 01:59:13.471864,LNB Pro A - France LNB Pro A 2024/25 - Winner,JL Bourg,-0.0102,0.0667,0.0769
 2024-10-06 08:30:05.912017,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,-0.0102,0.0667,0.0769
 2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Fleetwood Town,-0.0102,0.0667,0.0769
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Retief Goosen,-0.0102,0.005,0.0152
-2024-10-06 01:59:13.471864,LNB Pro A - France LNB Pro A 2024/25 - Winner,JL Bourg,-0.0102,0.0667,0.0769
-2024-10-06 08:30:05.834986,League One - England League One 2024/25 - Top 2 Finish,Barnsley,-0.0102,0.0667,0.0769
 2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,-0.0102,0.0667,0.0769
 2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,Blackburn Rovers,-0.010300000000000002,0.0141,0.0244
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Xander Bogaerts (SD),-0.010300000000000002,0.0141,0.0244
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.010899999999999993,0.1429,0.1538
 2024-10-06 01:59:13.467016,NBL - Australia NBL 2024/25 - To Make Grand Final,New Zealand Breakers,-0.010899999999999993,0.1429,0.1538
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,David Duval,-0.011,0.0013,0.0123
-2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Notts County,-0.011099999999999999,0.1,0.1111
 2024-10-06 07:23:58.851262,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,CLE Guardians beat KC Royals,-0.011099999999999999,0.1,0.1111
-2024-10-05 23:24:18.344797,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,-0.011099999999999999,0.1,0.1111
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,-0.011099999999999999,0.1,0.1111
 2024-10-06 07:23:58.717860,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,-0.011099999999999999,0.1,0.1111
-2024-10-06 08:30:05.834986,League One - England League One 2024/25 - Top 2 Finish,Blackpool,-0.011099999999999999,0.1,0.1111
+2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Notts County,-0.011099999999999999,0.1,0.1111
+2024-10-06 09:26:19.327145,Serie B - Italy Serie B 2024/25 - To Be Promoted,Modena,-0.011099999999999999,0.1,0.1111
+2024-10-06 09:26:19.284782,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,-0.011099999999999999,0.1,0.1111
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,-0.011099999999999999,0.2667,0.2778
 2024-10-06 05:28:07.859192,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Nottingham Forest,-0.011099999999999999,0.1,0.1111
+2024-10-05 23:24:18.344797,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,-0.011099999999999999,0.1,0.1111
+2024-10-06 08:30:05.834986,League One - England League One 2024/25 - Top 2 Finish,Blackpool,-0.011099999999999999,0.1,0.1111
 2024-10-06 06:34:09.013144,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,-0.011199999999999995,0.0476,0.0588
-2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Fernando Tatis Jr. (SD),-0.011199999999999995,0.0323,0.0435
 2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Mansfield Town,-0.011199999999999995,0.0476,0.0588
+2024-10-06 09:26:19.274856,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.011199999999999995,0.0476,0.0588
+2024-10-06 09:26:19.274856,League Two - England League Two 2024/25 - Top Goalscorer,Charlie Wyke,-0.011199999999999995,0.0476,0.0588
+2024-10-06 09:26:19.319263,Ligue 2 - France Ligue 2 2024/25 - Outright,Grenoble,-0.011199999999999995,0.0476,0.0588
+2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Fernando Tatis Jr. (SD),-0.011199999999999995,0.0323,0.0435
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Manny Machado (SD),-0.011199999999999995,0.0476,0.0588
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Colchester United,-0.011199999999999995,0.0476,0.0588
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Zack Wheeler (PHI),-0.011199999999999995,0.0323,0.0435
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat San Diego Padres,-0.0113,0.0083,0.0196
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Ranger Suarez (PHI),-0.011399999999999997,0.0164,0.0278
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Norwich City,-0.011399999999999997,0.0164,0.0278
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Thomas Bjorn,-0.0116,0.0025,0.0141
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ricardo Gonzalez,-0.011699999999999999,0.0079,0.0196
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Kansas City Royals to beat Philadelphia Phillies,-0.0118,0.0099,0.0217
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Kyle Schwarber (PHI),-0.011800000000000001,0.0227,0.0345
 2024-10-06 01:59:14.847665,Alfred Dunhill - 2/3 Balls - Final Round 3 Balls - A. Putnam / A. Noren / F. Laporta - Final Round 3 Balls,Alex Noren,-0.012199999999999989,0.4878,0.5
-2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Detroit Tigers,-0.012600000000000007,0.0588,0.0714
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Cleveland Guardians,-0.012600000000000007,0.0588,0.0714
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Brett Quigley,-0.0127,0.0025,0.0152
+2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Detroit Tigers,-0.012600000000000007,0.0588,0.0714
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Jurickson Profar (SD),-0.012700000000000003,0.0196,0.0323
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Trea Turner (PHI),-0.012700000000000003,0.0196,0.0323
 2024-10-06 07:23:58.727257,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Miller Moss (USC),-0.012800000000000002,0.0116,0.0244
 2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Exeter City,-0.012899999999999995,0.1538,0.1667
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tim Herron,-0.013,0.0066,0.0196
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Mookie Betts (LAD),-0.0133,0.0455,0.0588
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Jake Cronenworth (SD),-0.013400000000000002,0.011,0.0244
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Bryson Stott (PHI),-0.013699999999999999,0.0141,0.0278
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Luis Arraez (SD),-0.013699999999999999,0.0141,0.0278
 2024-10-06 07:23:59.238110,Alfred Dunhill - Requests - Final Round Match-Up - P. Reed v S. Jones - Requests,Patrick Reed,-0.013799999999999923,0.6226,0.6364
 2024-10-06 06:34:09.016581,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.013800000000000034,0.3636,0.3774
+2024-10-06 09:26:19.274856,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,-0.013899999999999996,0.1111,0.125
+2024-10-06 09:26:19.350725,National League - English National League - Outright Winner 2024/25,Aldershot Town,-0.013900000000000001,0.0025,0.0164
 2024-10-06 08:30:05.834986,League One - England League One 2024/25 - Top 2 Finish,Birmingham City,-0.013900000000000023,0.875,0.8889
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,-0.013999999999999999,0.0769,0.0909
 2024-10-06 01:59:13.467016,NBL - Australia NBL 2024/25 - To Make Grand Final,SE Melbourne Phoenix,-0.013999999999999999,0.0769,0.0909
-2024-10-06 06:34:09.016581,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.013999999999999999,0.0769,0.0909
 2024-10-06 01:59:13.463344,NBL - Australia NBL 2024/25 - Regular Season League Winner,Tasmania JackJumpers,-0.013999999999999999,0.0769,0.0909
-2024-10-06 06:34:09.013144,Championship - England Championship 2024/25 - Top Goalscorer,Haji Wright,-0.013999999999999999,0.0769,0.0909
+2024-10-06 09:26:19.274856,League Two - England League Two 2024/25 - Top Goalscorer,Will Grigg,-0.013999999999999999,0.0769,0.0909
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.013999999999999999,0.0769,0.0909
 2024-10-06 08:30:05.895720,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Chelsea,-0.013999999999999999,0.0769,0.0909
+2024-10-06 06:34:09.016581,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.013999999999999999,0.0769,0.0909
+2024-10-06 06:34:09.013144,Championship - England Championship 2024/25 - Top Goalscorer,Haji Wright,-0.013999999999999999,0.0769,0.0909
 2024-10-06 08:30:05.918160,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Crystal Palace,-0.014000000000000012,0.9091,0.9231
 2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Stevenage,-0.014099999999999994,0.0526,0.0667
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Alec Bohm (PHI),-0.014099999999999998,0.0244,0.0385
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Scott Parel,-0.0142,0.001,0.0152
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat New York Yankees,-0.014399999999999996,0.0625,0.0769
 2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Gillingham,-0.01440000000000001,0.0909,0.1053
+2024-10-06 09:26:19.124997,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Rennes,-0.014499999999999999,0.0149,0.0294
 2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,-0.014700000000000046,0.75,0.7647
 2024-10-06 06:34:11.215504,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Kansas City Royals,-0.014899999999999997,0.0476,0.0625
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Kansas City Royals,-0.0151,0.0152,0.0303
-2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Blackpool,-0.015100000000000002,0.1667,0.1818
 2024-10-06 05:28:07.862334,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,-0.015100000000000002,0.1667,0.1818
+2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Blackpool,-0.015100000000000002,0.1667,0.1818
 2024-10-06 06:34:09.025990,Championship - England Championship 2024/25 - Top 2 Finish,Luton Town,-0.015300000000000001,0.0323,0.0476
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Trea Turner (PHI),-0.015300000000000001,0.0323,0.0476
 2024-10-06 03:34:51.381123,Ligue 1 - France Ligue 1 2024/25 - Winner,Marseille,-0.015300000000000001,0.0435,0.0588
@@ -235,67 +284,92 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat New York Yankees,-0.017099999999999997,0.0385,0.0556
 2024-10-05 22:29:17.099336,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Fabio Wardley,-0.017299999999999982,0.5744,0.5917
 2024-10-06 08:30:05.895720,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.01759999999999995,0.6491,0.6667
-2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.0179,0.125,0.1429
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,-0.017600000000000005,0.3333,0.3509
 2024-10-06 01:59:13.471864,LNB Pro A - France LNB Pro A 2024/25 - Winner,Paris,-0.0179,0.125,0.1429
-2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.018099999999999998,0.0588,0.0769
-2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Wolverhampton Wanderers,-0.018099999999999998,0.0588,0.0769
+2024-10-06 08:30:05.825672,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.0179,0.125,0.1429
+2024-10-06 09:26:19.284782,League Two - England League Two 2024/25 - To Finish Bottom,Swindon Town,-0.018099999999999998,0.0588,0.0769
 2024-10-06 08:30:08.055465,ALCS MVP - ALCS MVP - ALCS MVP,Tarik Skubal (DET),-0.018099999999999998,0.0345,0.0526
 2024-10-06 06:34:11.215504,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Detroit Tigers,-0.018099999999999998,0.0588,0.0769
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Tranmere Rovers,-0.018099999999999998,0.0588,0.0769
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,-0.018099999999999998,0.0588,0.0769
+2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.018099999999999998,0.0588,0.0769
+2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Wolverhampton Wanderers,-0.018099999999999998,0.0588,0.0769
 2024-10-06 03:00:13.973117,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.018100000000000005,0.4167,0.4348
+2024-10-06 09:26:19.319263,Ligue 2 - France Ligue 2 2024/25 - Outright,Amiens,-0.018200000000000004,0.0294,0.0476
 2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Peterborough United,-0.018200000000000004,0.0294,0.0476
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Harrogate Town,-0.018200000000000004,0.0294,0.0476
+2024-10-06 09:26:19.327145,Serie B - Italy Serie B 2024/25 - To Be Promoted,Salernitana,-0.01820000000000002,0.1818,0.2
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.01820000000000002,0.1818,0.2
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,-0.01820000000000002,0.1818,0.2
+2024-10-06 09:26:19.127774,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Montpellier,-0.018400000000000027,0.2941,0.3125
 2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Blackpool,-0.018900000000000028,0.4255,0.4444
 2024-10-06 06:34:09.025990,Championship - England Championship 2024/25 - Top 2 Finish,Middlesbrough,-0.019000000000000017,0.2667,0.2857
 2024-10-06 08:30:05.918160,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,-0.019000000000000017,0.2667,0.2857
+2024-10-06 09:26:19.324021,Serie B - Italy Serie B 2024/25 - Winner,Cesena,-0.019099999999999992,0.0476,0.0667
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat San Diego Padres,-0.019099999999999992,0.0476,0.0667
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.019099999999999992,0.0476,0.0667
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Queens Park Rangers,-0.019099999999999992,0.0476,0.0667
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Detroit Tigers,-0.019300000000000005,0.0152,0.0345
 2024-10-06 01:59:13.463344,NBL - Australia NBL 2024/25 - Regular Season League Winner,Perth Wildcats,-0.01949999999999999,0.0714,0.0909
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Greg Chalmers,-0.019800000000000005,0.0278,0.0476
+2024-10-06 09:26:19.284782,League Two - England League Two 2024/25 - To Finish Bottom,Crewe Alexandra,-0.019499999999999997,0.0099,0.0294
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,-0.020100000000000007,0.2299,0.25
 2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.020100000000000007,0.2299,0.25
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Kyle Schwarber (PHI),-0.0203,0.0385,0.0588
+2024-10-06 09:26:19.281593,League Two - England League Two 2024/25 - To Be Relegated,Crewe Alexandra,-0.0203,0.0385,0.0588
 2024-10-06 08:30:08.066556,World Series MVP - World Series MVP  - World Series MVP,Bryce Harper (PHI),-0.0203,0.0385,0.0588
 2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.02049999999999999,0.1333,0.1538
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Rod Pampling,-0.0206,0.0179,0.0385
 2024-10-06 07:23:58.930787,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - B. Garnett / M. Hubbard - Final Round 2-Balls,Brice Garnett,-0.020699999999999996,0.4444,0.4651
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Philadelphia Phillies,-0.0208,0.0625,0.0833
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,-0.02169999999999994,0.5238,0.5455
 2024-10-06 07:23:58.967838,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - B. Snedeker / B. Kohles - Final Round 2-Balls,Brandt Snedeker,-0.021699999999999997,0.4545,0.4762
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,-0.021999999999999964,0.2857,0.3077
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.02200000000000002,0.6923,0.7143
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Burnley,-0.02200000000000002,0.6923,0.7143
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Kansas City Royals,-0.0221,0.0196,0.0417
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.022199999999999998,0.2,0.2222
+2024-10-06 09:26:19.327145,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sampdoria,-0.022199999999999998,0.2,0.2222
 2024-10-06 03:34:51.376644,Serie A - Italy Serie A 2024/25 - Winner,Napoli,-0.022199999999999998,0.2,0.2222
-2024-10-05 21:25:25.402116,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,-0.023799999999999988,0.4762,0.5
+2024-10-06 09:26:19.350725,National League - English National League - Outright Winner 2024/25,Oldham Athletic,-0.0232,0.0435,0.0667
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,-0.023800000000000043,0.5,0.5238
+2024-10-06 09:26:19.130545,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Rennes,-0.0242,0.0667,0.0909
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Aaron Nola (PHI),-0.024399999999999998,0.0141,0.0385
 2024-10-06 06:34:09.022866,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,-0.0245,0.0588,0.0833
 2024-10-06 07:23:58.858257,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,PHI Phillies beat LA Dodgers,-0.024800000000000016,0.1538,0.1786
 2024-10-06 07:23:58.858257,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,SD Padres beat NY Mets,-0.024999999999999994,0.1,0.125
 2024-10-06 04:30:47.929390,League Two - England League Two 2024/25 - Winner,Chesterfield,-0.025300000000000003,0.1176,0.1429
 2024-10-06 08:30:05.828778,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,-0.025499999999999967,0.4,0.4255
+2024-10-06 09:26:19.130545,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,-0.025499999999999967,0.4,0.4255
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,-0.025599999999999956,0.5744,0.6
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,-0.02560000000000001,0.3077,0.3333
 2024-10-06 05:28:07.859192,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,-0.02560000000000001,0.3077,0.3333
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.025600000000000067,0.6667,0.6923
 2024-10-06 05:28:09.948008,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,-0.025999999999999912,0.7143,0.7403
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Kansas City Royals,-0.026300000000000004,0.0213,0.0476
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Miguel Angel Jimenez,-0.0265,0.0013,0.0278
-2024-10-06 07:23:58.851262,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,DET Tigers beat NY Yankees,-0.0267,0.0909,0.1176
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Sheffield Wednesday,-0.0267,0.0909,0.1176
 2024-10-06 05:28:07.859192,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Brentford,-0.0267,0.0909,0.1176
+2024-10-06 07:23:58.851262,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,DET Tigers beat NY Yankees,-0.0267,0.0909,0.1176
 2024-10-06 05:28:07.859192,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,-0.02750000000000008,0.6154,0.6429
 2024-10-06 06:34:09.022866,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,-0.02779999999999999,0.2222,0.25
 2024-10-06 01:59:13.463344,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,-0.02779999999999999,0.2222,0.25
 2024-10-06 06:34:09.016581,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,-0.027800000000000047,0.75,0.7778
 2024-10-06 04:30:47.924614,League One - England League One 2024/25 - Winner,Birmingham City,-0.027800000000000047,0.75,0.7778
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,-0.027999999999999997,0.1538,0.1818
 2024-10-06 06:34:11.225972,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Detroit Tigers,-0.028000000000000004,0.0196,0.0476
+2024-10-06 09:26:19.319263,Ligue 2 - France Ligue 2 2024/25 - Outright,Guingamp,-0.02840000000000001,0.0769,0.1053
 2024-10-06 07:23:58.704364,AFC South - AFC South 2024/25 - AFC South Winner,Indianapolis Colts,-0.028700000000000003,0.1818,0.2105
+2024-10-06 09:26:19.324021,Serie B - Italy Serie B 2024/25 - Winner,Sampdoria,-0.029299999999999993,0.0476,0.0769
 2024-10-06 07:23:58.858257,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,LA Dodgers beat PHI Phillies,-0.029700000000000004,0.1786,0.2083
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.029899999999999982,0.2,0.2299
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.030299999999999994,0.3333,0.3636
 2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,-0.030299999999999994,0.3333,0.3636
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Detroit Tigers,-0.0309,0.0217,0.0526
 2024-10-06 08:30:05.918160,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Ipswich Town,-0.03179999999999994,0.5238,0.5556
-2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Millwall,-0.031799999999999995,0.1111,0.1429
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,-0.03179999999999994,0.5238,0.5556
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,-0.031799999999999995,0.1111,0.1429
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Darren Clarke,-0.03219999999999999,0.0345,0.0667
+2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Millwall,-0.031799999999999995,0.1111,0.1429
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Kansas City Royals,-0.033100000000000004,0.0294,0.0625
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. New York Yankees,-0.034100000000000005,0.0909,0.125
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Paul Goydos,-0.0352,0.0033,0.0385
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Tranmere Rovers,-0.03420000000000001,0.0769,0.1111
 2024-10-06 08:30:05.905818,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,-0.035699999999999954,0.7143,0.75
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Fernando Tatis Jr. (SD),-0.035699999999999996,0.0476,0.0833
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.03570000000000001,0.25,0.2857
@@ -303,36 +377,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-06 08:30:05.915084,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.0368,0.2299,0.2667
 2024-10-06 07:23:58.732364,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Tennessee,-0.037500000000000006,0.0625,0.1
 2024-10-06 07:23:58.727257,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cam Ward (MIA),-0.037699999999999984,0.129,0.1667
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Jason Caron,-0.0384,0.0385,0.0769
+2024-10-06 09:26:19.354419,National League - English National League - To Be Promoted,Southend Utd,-0.0384,0.0385,0.0769
 2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Stevenage,-0.03889999999999999,0.1429,0.1818
 2024-10-06 06:34:09.029158,Championship - England Championship 2024/25 - Top 6 Finish,Luton Town,-0.03950000000000001,0.2105,0.25
 2024-10-06 03:34:51.376644,Serie A - Italy Serie A 2024/25 - Winner,Juventus,-0.04040000000000002,0.1818,0.2222
 2024-10-06 03:34:51.372069,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.04040000000000002,0.1818,0.2222
 2024-10-06 06:34:11.218820,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. New York Yankees,-0.04169999999999999,0.125,0.1667
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ernie Els,-0.0427,0.0099,0.0526
+2024-10-06 09:26:19.327145,Serie B - Italy Serie B 2024/25 - To Be Promoted,Frosinone,-0.04240000000000001,0.0909,0.1333
+2024-10-06 09:26:19.281593,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.043200000000000016,0.3077,0.3509
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Gillingham,-0.044499999999999984,0.2222,0.2667
 2024-10-06 06:34:09.025990,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,-0.044499999999999984,0.2222,0.2667
 2024-10-06 07:23:58.851262,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,DET Tigers beat KC Royals,-0.045399999999999996,0.0455,0.0909
 2024-10-06 08:30:08.060898,NLCS MVP - NLCS MVP - NLCS MVP,Bryce Harper (PHI),-0.04619999999999999,0.0714,0.1176
+2024-10-06 09:26:19.124997,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,-0.04620000000000002,0.1538,0.2
 2024-10-06 08:30:05.838074,League One - England League One 2024/25 - Top 6 Finish,Barnsley,-0.047599999999999976,0.2857,0.3333
 2024-10-06 04:30:47.904680,Championship - England Championship 2024/25 - Winner,Burnley,-0.04849999999999999,0.1053,0.1538
-2024-10-06 01:59:13.467016,NBL - Australia NBL 2024/25 - To Make Grand Final,Perth Wildcats,-0.04999999999999999,0.2,0.25
+2024-10-06 09:26:19.354419,National League - English National League - To Be Promoted,Oldham Athletic,-0.04849999999999999,0.1333,0.1818
 2024-10-06 01:59:13.467016,NBL - Australia NBL 2024/25 - To Make Grand Final,Tasmania JackJumpers,-0.04999999999999999,0.2,0.25
+2024-10-06 01:59:13.467016,NBL - Australia NBL 2024/25 - To Make Grand Final,Perth Wildcats,-0.04999999999999999,0.2,0.25
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.04999999999999999,0.2,0.25
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ken Duke,-0.0516,0.001,0.0526
+2024-10-06 09:26:19.127774,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Saint-Étienne,-0.05020000000000002,0.3846,0.4348
 2024-10-06 03:00:13.968383,J1 League - Japan J1 League 2024 - Winner,Machida Zelvia,-0.052000000000000005,0.0909,0.1429
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Steven Alker,-0.052000000000000005,0.0909,0.1429
 2024-10-06 03:00:13.833399,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.053100000000000036,0.3636,0.4167
+2024-10-06 09:26:19.291063,League Two - England League Two 2024/25 - Top 7 Finish,Tranmere Rovers,-0.05350000000000002,0.1818,0.2353
+2024-10-06 09:26:19.281593,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,-0.05559999999999998,0.1111,0.1667
 2024-10-06 03:34:51.381123,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,-0.05679999999999996,0.8182,0.875
 2024-10-06 05:28:07.833334,Premiership - Scotland Premiership 2024/25 - Winner,Rangers,-0.05710000000000001,0.1429,0.2
+2024-10-06 09:26:19.284782,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,-0.05710000000000001,0.1429,0.2
 2024-10-06 07:23:58.851262,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,KC Royals beat DET Tigers,-0.0577,0.0476,0.1053
 2024-10-05 23:24:18.577565,Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 68.5,-0.05889999999999995,0.6078,0.6667
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Freddie Jacobson,-0.0634,0.0033,0.0667
 2024-10-06 07:23:58.851262,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,NY Yankees beat DET Tigers,-0.06410000000000002,0.1923,0.2564
 2024-10-06 07:23:58.848078,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Kansas City Royals,-0.0655,0.125,0.1905
+2024-10-06 09:26:19.287928,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,-0.06659999999999999,0.2667,0.3333
 2024-10-06 08:30:05.918160,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,-0.06659999999999999,0.6667,0.7333
+2024-10-06 09:26:19.278458,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.06670000000000004,0.3333,0.4
 2024-10-06 06:34:09.016581,Championship - England Championship 2024/25 - To Be Promoted,Burnley,-0.06670000000000004,0.3333,0.4
 2024-10-06 06:34:09.019743,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,-0.06930000000000003,0.4545,0.5238
-2024-10-05 21:25:25.643147,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Joe Durant,-0.0759,0.001,0.0769
 2024-10-06 07:23:58.848078,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Detroit Tigers,-0.07949999999999999,0.1333,0.2128
 2024-10-06 06:34:11.215504,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,-0.0889,0.1111,0.2
 2024-10-06 07:23:58.732364,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Alabama,-0.0889,0.1333,0.2222
