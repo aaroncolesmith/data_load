@@ -25,12 +25,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-08 08:33:04.872670,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,0.021699999999999997,0.4762,0.4545
 2024-10-08 08:33:04.793467,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,0.021699999999999997,0.4762,0.4545
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Kansas City Royals,0.021299999999999996,0.0435,0.0222
-2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Detroit Tigers,0.0208,0.0625,0.0417
 2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Detroit Tigers,0.0208,0.0625,0.0417
+2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Detroit Tigers,0.0208,0.0625,0.0417
 2024-10-08 02:58:57.731353,Boxing Lines - Skye Nicolson vs Raven Chapman - To Win the Bout,Raven Chapman,0.020100000000000007,0.1739,0.1538
+2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Lucy Li,0.0192,0.0196,0.0004
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Kansas City Royals,0.0192,0.0455,0.0263
 2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Pajaree Anannarukarn,0.0192,0.0196,0.0004
-2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Lucy Li,0.0192,0.0196,0.0004
 2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Patty Tavatanakit,0.0191,0.0196,0.0005
 2024-10-08 01:52:58.635602,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.019000000000000017,0.3175,0.2985
 2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Detroit Tigers,0.019000000000000003,0.0625,0.0435
@@ -42,14 +42,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-07 22:30:31.928969,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.017299999999999982,0.5917,0.5744
 2024-10-08 08:33:04.780970,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,0.016699999999999993,0.2667,0.25
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Kansas City Royals,0.016499999999999997,0.0435,0.027
-2024-10-07 21:25:46.571260,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Anthony Olascuaga,0.015800000000000036,0.7561,0.7403
-2024-10-07 21:25:46.318415,NFL Weekly Specials - Week 5 Telegram Sepcials - Proposition,"Patrick Mahomes 200+ Passing Yards, Alvin Kamara 50+ Rushing Yards, Travis Kelce 50+ Receiving Yards (Was +180)",0.015400000000000025,0.4,0.3846
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Detroit Tigers,0.015300000000000001,0.0476,0.0323
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Tim Petrovic,0.0147,0.0152,0.0005
 2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. Kansas City Royals,0.014699999999999998,0.0385,0.0238
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Harrison Frazar,0.014599999999999998,0.0196,0.005
 2024-10-08 04:31:17.157030,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,0.014399999999999996,0.0769,0.0625
-2024-10-07 21:25:46.567206,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,0.014399999999999968,0.8039,0.7895
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Bob Estes,0.0142,0.0152,0.001
 2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. Detroit Tigers,0.013900000000000003,0.0417,0.0278
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Ken Duke,0.0139,0.0152,0.0013
@@ -58,8 +55,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-08 08:33:04.784113,League Two - England League Two 2024/25 - To Be Relegated,Newport County,0.0131,0.2353,0.2222
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Detroit Tigers,0.012300000000000002,0.0417,0.0294
 2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Riley Greene (DET),0.012200000000000003,0.04,0.0278
-2024-10-08 03:34:16.438087,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.012199999999999989,0.5,0.4878
 2024-10-08 03:34:16.450752,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,0.012199999999999989,0.5,0.4878
+2024-10-08 03:34:16.438087,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.012199999999999989,0.5,0.4878
 2024-10-08 03:34:16.433933,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.012199999999999989,0.5,0.4878
 2024-10-07 23:25:21.363850,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Joe Burrow (CIN),0.0121,0.0556,0.0435
 2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Arpichaya Yubol,0.0119,0.0123,0.0004
@@ -72,51 +69,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Detroit Tigers,0.010600000000000002,0.04,0.0294
 2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Matt Vierling (DET),0.010600000000000002,0.0323,0.0217
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Mark Hensby,0.0103,0.0123,0.002
-2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jasmine Suwannapura,0.0103,0.0123,0.002
 2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Chanettee Wannasaen,0.0103,0.0123,0.002
+2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jasmine Suwannapura,0.0103,0.0123,0.002
 2024-10-08 08:33:07.260102,Open de France - Open de France - Winner,Billy Horschel,0.0102,0.0769,0.0667
 2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Kerry Carpenter (DET),0.010100000000000001,0.0345,0.0244
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Kansas City Royals,0.010100000000000001,0.0217,0.0116
-2024-10-08 01:52:58.623639,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.010099999999999998,0.5556,0.5455
 2024-10-08 01:52:58.619613,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.010099999999999998,0.5556,0.5455
-2024-10-08 03:34:16.433933,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.010099999999999998,0.5455,0.5556
+2024-10-08 01:52:58.623639,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.010099999999999998,0.5556,0.5455
 2024-10-08 03:34:16.438087,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.010099999999999998,0.5455,0.5556
+2024-10-08 03:34:16.433933,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.010099999999999998,0.5455,0.5556
+2024-10-08 09:28:03.043488,Black Desert - Black Desert - Winner,Patrick Rodgers,-0.010100000000000001,0.0244,0.0345
 2024-10-08 01:52:59.256949,Boxing Lines - Jai Opetaia vs Jack Massey - To Win the Bout,Jack Massey,-0.0102,0.0667,0.0769
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Cleveland Guardians,-0.010700000000000001,0.0179,0.0286
 2024-10-08 08:33:04.793467,League Two - England League Two 2024/25 - Top 7 Finish,Newport County,-0.011199999999999995,0.0476,0.0588
-2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Gerrit Cole (NYY),-0.011199999999999995,0.0476,0.0588
 2024-10-08 07:25:46.925360,World Series MVP - World Series MVP  - World Series MVP,Jose Ramirez (CLE),-0.011199999999999995,0.0323,0.0435
+2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Gerrit Cole (NYY),-0.011199999999999995,0.0476,0.0588
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat New York Yankees,-0.0114,0.0303,0.0417
-2024-10-07 22:30:31.928969,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.0116,0.4762,0.4878
 2024-10-08 06:35:37.292583,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,-0.0116,0.4762,0.4878
 2024-10-08 06:35:37.343308,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.0116,0.4762,0.4878
+2024-10-07 22:30:31.928969,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.0116,0.4762,0.4878
 2024-10-08 06:35:37.292583,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Kansas City Royals,-0.011700000000000016,0.2105,0.2222
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat New York Yankees,-0.011900000000000008,0.0833,0.0952
 2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Josh Naylor (CLE),-0.0121,0.0435,0.0556
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Steve Flesch,-0.012100000000000001,0.0123,0.0244
 2024-10-07 22:30:31.206707,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.012199999999999989,0.5,0.5122
 2024-10-08 01:52:58.623639,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.012199999999999989,0.4878,0.5
-2024-10-08 01:52:58.619613,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.012199999999999989,0.4878,0.5
 2024-10-08 01:52:58.635602,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.012199999999999989,0.4878,0.5
-2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. New York Yankees,-0.012899999999999995,0.1538,0.1667
+2024-10-08 01:52:58.619613,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.012199999999999989,0.4878,0.5
 2024-10-08 04:31:17.157030,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,-0.012899999999999995,0.1538,0.1667
+2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. New York Yankees,-0.012899999999999995,0.1538,0.1667
 2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Austin Wells (NYY),-0.013199999999999996,0.0323,0.0455
 2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,-0.014099999999999994,0.0526,0.0667
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Miguel Angel Jimenez,-0.014099999999999998,0.0244,0.0385
 2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. Cleveland Guardians,-0.014100000000000001,0.0385,0.0526
 2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. New York Yankees,-0.01440000000000001,0.0909,0.1053
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Rob Labritz,-0.014599999999999998,0.0033,0.0179
-2024-10-07 21:25:46.567206,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,-0.014600000000000002,0.2632,0.2778
-2024-10-07 21:25:46.571260,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,-0.014900000000000024,0.3077,0.3226
 2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Aaron Judge (NYY),-0.015100000000000002,0.1667,0.1818
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Kirk Triplett,-0.0163,0.0033,0.0196
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Paul Goydos,-0.0165,0.0079,0.0244
-2024-10-08 05:29:31.421865,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,-0.017299999999999982,0.5744,0.5917
 2024-10-08 07:25:47.000271,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,-0.017299999999999982,0.5744,0.5917
+2024-10-08 05:29:31.421865,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,-0.017299999999999982,0.5744,0.5917
 2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Danielle Kang,-0.017800000000000003,0.0066,0.0244
-2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat New York Yankees,-0.01949999999999999,0.0714,0.0909
 2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Cleveland Guardians,-0.01949999999999999,0.0714,0.0909
 2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Cleveland Guardians,-0.01949999999999999,0.0714,0.0909
+2024-10-08 04:31:17.320916,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat New York Yankees,-0.01949999999999999,0.0714,0.0909
 2024-10-08 04:31:17.310394,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.019600000000000006,0.2703,0.2899
 2024-10-08 02:58:57.731353,Boxing Lines - Skye Nicolson vs Raven Chapman - To Win the Bout,Skye Nicolson,-0.020199999999999996,0.8889,0.9091
 2024-10-08 07:25:46.925360,World Series MVP - World Series MVP  - World Series MVP,Aaron Judge (NYY),-0.02020000000000001,0.0909,0.1111
@@ -124,8 +120,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-08 07:25:46.925360,World Series MVP - World Series MVP  - World Series MVP,Juan Soto (NYY),-0.02310000000000001,0.0769,0.1
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Retief Goosen,-0.023200000000000002,0.0244,0.0476
 2024-10-08 08:33:07.271894,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Yu Liu,-0.0233,0.0152,0.0385
-2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,-0.023799999999999988,0.1429,0.1667
 2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Juan Soto (NYY),-0.023799999999999988,0.1429,0.1667
+2024-10-08 04:31:17.313775,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,-0.023799999999999988,0.1429,0.1667
 2024-10-08 07:25:46.913194,ALCS MVP - ALCS MVP - ALCS MVP,Jose Ramirez (CLE),-0.0242,0.0667,0.0909
 2024-10-08 07:25:46.925360,World Series MVP - World Series MVP  - World Series MVP,Shohei Ohtani (LAD),-0.0286,0.0714,0.1
 2024-10-08 08:33:07.277293,SAS Championship - SAS Championship - Winner,Joe Durant,-0.0306,0.0079,0.0385
