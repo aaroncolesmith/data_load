@@ -1,37 +1,87 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-10-09 05:30:59.074135,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,San Diego Padres,0.1637,0.4762,0.3125
+2024-10-09 05:30:59.074135,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,New York Mets,0.141,0.3333,0.1923
 2024-10-08 20:22:55.607138,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,0.1174,0.4878,0.3704
+2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,0.0857,0.2857,0.2
 2024-10-08 19:19:00.401148,Round Match-Ups - 1st Round Match-Ups - N. Norgaard vs J. Rose - 1st Round Match-Ups ,Niklas Norgaard,0.07740000000000002,0.5652,0.4878
+2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Mets,0.06669999999999998,0.1667,0.1
 2024-10-08 20:22:54.594503,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 47.5,0.057699999999999974,0.5455,0.4878
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. New York Yankees,0.052000000000000005,0.1429,0.0909
 2024-10-08 18:34:22.414400,MLB Division Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Shohei Ohtani v Aaron Judge - Most Home Runs in the Series,Shohei Ohtani (LAD),0.04760000000000009,0.7143,0.6667
 2024-10-08 20:22:54.666495,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 20.5,0.043399999999999994,0.5556,0.5122
 2024-10-08 20:22:55.615292,Boxing Lines - Jack Catterall vs Regis Prograis - To Win the Bout,Jack Catterall,0.04039999999999999,0.8182,0.7778
-2024-10-08 16:34:27.433401,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Utah,0.033300000000000024,0.2,0.1667
-2024-10-08 16:34:27.483841,MLB Division Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Shohei Ohtani v Aaron Judge - Most Home Runs in the Series,Shohei Ohtani (LAD),0.030299999999999994,0.6667,0.6364
-2024-10-08 16:34:27.480402,"MLB Division Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Shohei Ohtani v Aaron Judge - Most Hits, Runs, RBIs in the Series",Shohei Ohtani (LAD),0.02839999999999998,0.9375,0.9091
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. Cleveland Guardians,0.0384,0.0769,0.0385
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Detroit Tigers,0.037500000000000006,0.1,0.0625
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. Detroit Tigers,0.035199999999999995,0.0769,0.0417
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat New York Yankees,0.03420000000000001,0.1111,0.0769
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. New York Yankees,0.033300000000000024,0.2,0.1667
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat New York Yankees,0.0322,0.0625,0.0303
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Cleveland Guardians,0.0286,0.1,0.0714
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Kansas City Royals,0.028399999999999995,0.0909,0.0625
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. Kansas City Royals,0.028199999999999996,0.0667,0.0385
 2024-10-09 01:52:01.195391,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Bam Adebayo (MIA),0.024299999999999995,0.0769,0.0526
-2024-10-08 16:34:27.638365,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,0.021699999999999997,0.4762,0.4545
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,0.024299999999999995,0.0769,0.0526
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Cleveland Guardians,0.0225,0.0625,0.04
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Detroit Tigers,0.0225,0.0625,0.04
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Kansas City Royals,0.019000000000000003,0.0625,0.0435
 2024-10-08 19:19:00.027133,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,0.01759999999999995,0.6667,0.6491
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Kansas City Royals,0.0168,0.0385,0.0217
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat New York Mets,0.0167,0.04,0.0233
 2024-10-08 18:34:22.548330,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Masamichi Yabuki,0.016699999999999993,0.4167,0.4
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Cleveland Guardians,0.016600000000000004,0.0345,0.0179
+2024-10-09 05:30:59.104908,Boxing Lines - Skye Nicolson vs Raven Chapman - To Win the Bout,Raven Chapman,0.016600000000000004,0.1905,0.1739
 2024-10-08 20:22:55.578459,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,0.014300000000000035,0.274,0.2597
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat San Diego Padres,0.013499999999999998,0.0385,0.025
 2024-10-08 21:26:04.390582,LKL - Lithuania LKL 2024/25 - Outright,Rytas,0.012899999999999995,0.1667,0.1538
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat San Diego Padres,0.012800000000000002,0.0345,0.0217
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Kansas City Royals to beat San Diego Padres,0.012700000000000003,0.0323,0.0196
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Detroit Tigers,0.0119,0.0323,0.0204
 2024-10-08 21:26:05.644053,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Kansas City Royals,0.011700000000000016,0.2222,0.2105
 2024-10-08 20:22:54.439599,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 43.5,0.011600000000000055,0.5238,0.5122
 2024-10-08 20:22:55.562069,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.011099999999999999,0.4762,0.4651
-2024-10-08 16:34:27.445839,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Northern Illinois,0.011099999999999999,0.1111,0.1
+2024-10-09 05:30:59.117219,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,0.011099999999999999,0.4762,0.4651
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat New York Mets,0.010100000000000001,0.0345,0.0244
 2024-10-08 20:22:54.439599,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 43.5,-0.010099999999999998,0.5455,0.5556
+2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,-0.010099999999999998,0.0952,0.1053
+2024-10-09 05:30:59.058229,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,-0.011099999999999999,0.4651,0.4762
 2024-10-08 20:22:55.566168,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.011099999999999999,0.4651,0.4762
-2024-10-08 17:28:07.555867,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ariya Jutanugarn,-0.011199999999999995,0.0476,0.0588
 2024-10-08 18:34:22.948415,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Minjee Lee,-0.011199999999999995,0.0476,0.0588
+2024-10-09 05:30:59.092375,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,-0.011499999999999955,0.6552,0.6667
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Kansas City Royals,-0.013199999999999996,0.0323,0.0455
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat Philadelphia Phillies,-0.0138,0.0132,0.027
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Detroit Tigers,-0.013900000000000003,0.0278,0.0417
+2024-10-09 05:30:59.104908,Boxing Lines - Skye Nicolson vs Raven Chapman - To Win the Bout,Skye Nicolson,-0.013900000000000023,0.875,0.8889
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Kansas City Royals to beat Philadelphia Phillies,-0.014599999999999998,0.0132,0.0278
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat Los Angeles Dodgers,-0.0147,0.0123,0.027
 2024-10-08 20:22:55.578459,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,-0.015800000000000036,0.7937,0.8095
-2024-10-08 16:34:27.638365,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,-0.016100000000000003,0.5917,0.6078
 2024-10-08 19:19:00.027133,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Masamichi Yabuki,-0.016699999999999993,0.4,0.4167
 2024-10-08 18:34:22.548330,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,-0.01759999999999995,0.6491,0.6667
-2024-10-08 16:34:27.480402,"MLB Division Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Shohei Ohtani v Aaron Judge - Most Hits, Runs, RBIs in the Series",Aaron Judge (NYY),-0.02049999999999999,0.1333,0.1538
-2024-10-08 16:34:27.483841,MLB Division Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Shohei Ohtani v Aaron Judge - Most Home Runs in the Series,Aaron Judge (NYY),-0.025499999999999967,0.4,0.4255
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat Cleveland Guardians,-0.020600000000000004,0.0294,0.05
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Kansas City Royals,-0.021299999999999996,0.0222,0.0435
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Cleveland Guardians,-0.022000000000000002,0.0256,0.0476
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Detroit Tigers,-0.0225,0.04,0.0625
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Detroit Tigers,-0.025400000000000002,0.0222,0.0476
+2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Kansas City Royals,-0.0267,0.0909,0.1176
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Kansas City Royals,-0.027900000000000008,0.0435,0.0714
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Cleveland Guardians,-0.031400000000000004,0.04,0.0714
 2024-10-08 21:26:05.644053,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,-0.031799999999999995,0.4444,0.4762
+2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.03219999999999998,0.2381,0.2703
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat New York Yankees,-0.032900000000000006,0.0385,0.0714
 2024-10-08 20:22:55.615292,Boxing Lines - Jack Catterall vs Regis Prograis - To Win the Bout,Regis Prograis,-0.03570000000000001,0.25,0.2857
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Cleveland Guardians,-0.0384,0.0385,0.0769
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Kansas City Royals,-0.0391,0.0323,0.0714
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Detroit Tigers,-0.0391,0.0323,0.0714
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Philadelphia Phillies,-0.0416,0.0417,0.0833
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat New York Yankees,-0.0433,0.04,0.0833
 2024-10-08 20:22:54.666495,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 20.5,-0.043399999999999994,0.5122,0.5556
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Los Angeles Dodgers,-0.044599999999999994,0.0323,0.0769
 2024-10-08 18:34:22.414400,MLB Division Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Shohei Ohtani v Aaron Judge - Most Home Runs in the Series,Aaron Judge (NYY),-0.04910000000000003,0.3509,0.4
 2024-10-08 20:22:54.594503,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 47.5,-0.05059999999999998,0.5238,0.5744
+2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Philadelphia Phillies,-0.0642,0.1176,0.1818
 2024-10-08 19:19:00.401148,Round Match-Ups - 1st Round Match-Ups - N. Norgaard vs J. Rose - 1st Round Match-Ups ,Justin Rose,-0.07440000000000002,0.5,0.5744
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,-0.0769,0.0769,0.1538
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. New York Yankees,-0.0769,0.0769,0.1538
+2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.0889,0.1111,0.2
 2024-10-08 20:22:55.607138,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,-0.1179,0.5744,0.6923
+2024-10-09 05:30:59.074135,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Philadelphia Phillies,-0.1307,0.1818,0.3125
+2024-10-09 05:30:59.074135,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Los Angeles Dodgers,-0.1587,0.1538,0.3125
