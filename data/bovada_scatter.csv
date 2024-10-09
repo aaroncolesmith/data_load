@@ -20,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-09 06:36:25.417849,NLCS MVP - NLCS MVP - NLCS MVP,Jackson Merrill (SD),0.026899999999999993,0.0769,0.05
 2024-10-09 07:25:13.265891,World Series MVP - World Series MVP  - World Series MVP,Francisco Lindor (NYM),0.026799999999999997,0.0625,0.0357
 2024-10-09 06:36:25.417849,NLCS MVP - NLCS MVP - NLCS MVP,Pete Alonso (NYM),0.026799999999999997,0.0625,0.0357
-2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,0.024299999999999995,0.0769,0.0526
 2024-10-09 01:52:01.195391,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Bam Adebayo (MIA),0.024299999999999995,0.0769,0.0526
+2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,0.024299999999999995,0.0769,0.0526
 2024-10-09 07:25:13.265891,World Series MVP - World Series MVP  - World Series MVP,Manny Machado (SD),0.024,0.0625,0.0385
 2024-10-09 08:32:45.307147,Tournament Match-Ups - Tournament Match-Ups - R. Hojgaard vs T. Lawrence - Tournament Match-Ups,Thriston Lawrence,0.023799999999999988,0.5,0.4762
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Detroit Tigers,0.0225,0.0625,0.04
@@ -37,13 +37,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Cleveland Guardians,0.016600000000000004,0.0345,0.0179
 2024-10-09 06:36:25.417849,NLCS MVP - NLCS MVP - NLCS MVP,Brandon Nimmo (NYM),0.014099999999999998,0.0435,0.0294
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat San Diego Padres,0.013499999999999998,0.0385,0.025
-2024-10-08 21:26:04.390582,LKL - Lithuania LKL 2024/25 - Outright,Rytas,0.012899999999999995,0.1667,0.1538
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat San Diego Padres,0.012800000000000002,0.0345,0.0217
 2024-10-09 07:25:13.265891,World Series MVP - World Series MVP  - World Series MVP,Pete Alonso (NYM),0.012700000000000003,0.0323,0.0196
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Kansas City Royals to beat San Diego Padres,0.012700000000000003,0.0323,0.0196
 2024-10-09 08:32:42.311861,National League - English National League - Outright Winner 2024/25,Barnet,0.012199999999999989,0.5122,0.5
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Detroit Tigers,0.0119,0.0323,0.0204
-2024-10-08 21:26:05.644053,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Kansas City Royals,0.011700000000000016,0.2222,0.2105
+2024-10-09 09:28:49.893852,Round Match-Ups - 1st Round Match-Ups - R. Fox vs S. Jaeger - 1st Round Match-Ups,Ryan Fox,0.011600000000000055,0.5238,0.5122
 2024-10-09 07:25:13.265891,World Series MVP - World Series MVP  - World Series MVP,Jackson Merrill (SD),0.011199999999999995,0.0435,0.0323
 2024-10-09 05:30:59.117219,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,0.011099999999999999,0.4762,0.4651
 2024-10-09 06:36:25.417849,NLCS MVP - NLCS MVP - NLCS MVP,Mark Vientos (NYM),0.010700000000000001,0.0345,0.0238
@@ -51,6 +50,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,-0.010099999999999998,0.0952,0.1053
 2024-10-09 07:25:13.265891,World Series MVP - World Series MVP  - World Series MVP,Kyle Schwarber (PHI),-0.010600000000000002,0.0217,0.0323
 2024-10-09 06:36:25.417849,NLCS MVP - NLCS MVP - NLCS MVP,Alec Bohm (PHI),-0.010700000000000001,0.0196,0.0303
+2024-10-09 09:28:49.893852,Round Match-Ups - 1st Round Match-Ups - R. Fox vs S. Jaeger - 1st Round Match-Ups,Stephan Jaeger,-0.01100000000000001,0.5238,0.5348
 2024-10-09 05:30:59.058229,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,-0.011099999999999999,0.4651,0.4762
 2024-10-09 05:30:59.092375,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,-0.011499999999999955,0.6552,0.6667
 2024-10-09 07:25:13.265891,World Series MVP - World Series MVP  - World Series MVP,Teoscar Hernandez (LAD),-0.012100000000000001,0.0123,0.0244
@@ -83,20 +83,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Kansas City Royals,-0.027900000000000008,0.0435,0.0714
 2024-10-09 08:32:42.311861,National League - English National League - Outright Winner 2024/25,Gateshead,-0.029899999999999982,0.2,0.2299
 2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. Cleveland Guardians,-0.031400000000000004,0.04,0.0714
-2024-10-08 21:26:05.644053,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,-0.031799999999999995,0.4444,0.4762
 2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.03219999999999998,0.2381,0.2703
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Philadelphia Phillies to beat New York Yankees,-0.032900000000000006,0.0385,0.0714
 2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Cleveland Guardians,-0.0384,0.0385,0.0769
-2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Detroit Tigers,-0.0391,0.0323,0.0714
 2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Kansas City Royals,-0.0391,0.0323,0.0714
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Detroit Tigers,-0.0391,0.0323,0.0714
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Philadelphia Phillies,-0.0416,0.0417,0.0833
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat New York Yankees,-0.0433,0.04,0.0833
 2024-10-09 06:36:25.417849,NLCS MVP - NLCS MVP - NLCS MVP,Bryce Harper (PHI),-0.04440000000000001,0.0556,0.1
 2024-10-09 05:30:59.061892,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Los Angeles Dodgers,-0.044599999999999994,0.0323,0.0769
 2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Philadelphia Phillies,-0.0642,0.1176,0.1818
 2024-10-09 06:36:25.417849,NLCS MVP - NLCS MVP - NLCS MVP,Shohei Ohtani (LAD),-0.0762,0.0667,0.1429
-2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,-0.0769,0.0769,0.1538
 2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Philadelphia Phillies vs. New York Yankees,-0.0769,0.0769,0.1538
+2024-10-09 05:30:59.054700,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,-0.0769,0.0769,0.1538
 2024-10-09 05:30:59.051342,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.0889,0.1111,0.2
 2024-10-09 05:30:59.074135,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Philadelphia Phillies,-0.1307,0.1818,0.3125
 2024-10-09 05:30:59.074135,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Los Angeles Dodgers,-0.1587,0.1538,0.3125
