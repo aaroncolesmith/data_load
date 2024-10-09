@@ -3,3 +3,4 @@ numpy==1.21.0
 requests
 pyarrow==14.0.1
 lxml==4.9.3
+beautifulsoup4
