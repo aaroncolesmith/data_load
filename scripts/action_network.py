@@ -566,7 +566,9 @@ def refresh_fbref_data(df):
   pq.write_table(table, './data/fb_ref_data.parquet',compression='BROTLI')
 
 ## to do -- update this to only run once or a few times per day
-refresh_fbref_data(df_soccer)
+
+if datetime.now().hour in (2,12,20):
+  refresh_fbref_data(df_soccer)
 
 
 
