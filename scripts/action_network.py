@@ -7,6 +7,10 @@ import time
 from datetime import datetime, timedelta
 import statistics
 import numpy as np
+from bs4 import BeautifulSoup
+import ast
+import re
+from io import StringIO
 
 
 def req_to_df(r):
@@ -472,7 +476,97 @@ pq.write_table(table, './data/df_mlb.parquet',compression='BROTLI')
 
 teams_df.drop_duplicates().to_csv('./data/teams_db.csv',index=False)
 
-# Parquet with Brotli compression
-table = pa.Table.from_pandas(teams_df.drop_duplicates())
-pq.write_table(table, './data/teams_db.parquet',compression='BROTLI')
+
+
+
+
+
+### FBREF SECTION
+
+headers = {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'GET',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Max-Age': '3600',
+    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'
+    }
+
+def get_proxy():
+    r = requests.get('https://www.us-proxy.org/')
+    soup = BeautifulSoup(r.content, 'html.parser')
+    table = soup.find_all('table')[0]
+    df = pd.read_html(StringIO(str(table)))[0]  # Use StringIO to wrap HTML
+    i = random.randint(0, df.index.size - 3)
+    proxy_string = "{'http': '" + df.loc[i]['IP Address'] + ':' + df.loc[i]['Port'].astype('str') + "'}"
+    proxy = ast.literal_eval(proxy_string)
+    return proxy
+
+def extract_date_and_league(url):
+    # Regular expression to match the date and league part
+    match = re.search(r'(\w+-\d+-\d+)-(.*)', url)
+    if match:
+        date_str = match.group(1)
+        league_str = match.group(2)
+        return pd.to_datetime(date_str), league_str
+    return None, None
+
+
+def refresh_fbref_data(df):
+  df['start_time_pt'] = pd.to_datetime(df['start_time']).dt.tz_convert('US/Pacific')
+  date_list=df.sort_values('start_time_pt',ascending=True)['start_time_pt'].dt.date.astype(str).unique().tolist()
+  ## last 5 elements from date_list
+  date_list_recent = date_list[-5:]
+
+  df_all = pd.read_parquet('https://github.com/aaroncolesmith/data_load/raw/refs/heads/main/data/fb_ref_data.parquet', engine='pyarrow')
+
+  for date in date_list_recent:
+    print(date)
+    proxy=get_proxy()
+    sleep_time=2.0 + np.random.uniform(1,4) +  np.random.uniform(0,1)
+    time.sleep(sleep_time)
+
+
+    url=f'https://fbref.com/en/matches/{date}'
+    r = requests.get(url,headers=headers,proxies=proxy)
+
+
+    soup = BeautifulSoup(r.content, "html.parser")
+    all_urls = []
+    for td_tag in soup.find_all('td', {"class":"center"}):
+        if 'href' in str(td_tag):
+            all_urls.append(
+                "https://fbref.com" +str(td_tag).split('href="')[1].split('">')[0]
+            )
+
+
+    dfs = pd.read_html(url, header=0, index_col=0)
+    df = pd.DataFrame(dfs[0])
+    for i in range(1, len(dfs)):
+        df = pd.concat([df,dfs[i]])
+    df=df.query('Score.notnull()')
+    df = df.loc[df.Home!='Home']
+    df.reset_index(drop=False,inplace=True)
+    df['url'] = pd.Series(all_urls)
+    df['match_selector'] = df['Home']+' '+df['Score']+' '+df['Away']
+    df['date_scraped'] = datetime.now()
+    df['date'] = date
+    df=df.rename(columns={'xG':'home_xg', 'xG.1':'away_xg'})
+
+
+    df_all = pd.concat([df_all,df])
+    print(df_all.index.size)
+    time.sleep(4)
+
+
+  df_all = df_all.drop_duplicates(subset=['date','Home','Away','Venue','Score'], keep='last')
+  # df_all.to_csv('/content/drive/MyDrive/Analytics/fbref_match_data.csv',index=False)
+
+  df_all['date_scraped'] = df_all['date_scraped'].astype(str)
+  table = pa.Table.from_pandas(df_all)
+  pq.write_table(table, './data/fb_ref_data.parquet',compression='BROTLI')
+
+## to do -- update this to only run once or a few times per day
+refresh_fbref_data(df_soccer)
+
+
 
