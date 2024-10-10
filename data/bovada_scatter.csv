@@ -1,6 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 21:26:06.945125,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,LA Dodgers beat NY Mets,0.2384,0.3922,0.1538
 2024-10-10 21:26:06.945125,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,NY Mets beat LA Dodgers,0.15,0.25,0.1
+2024-10-10 23:25:32.286251,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,David Mundell,0.11110000000000009,0.7778,0.6667
+2024-10-10 23:25:32.290468,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,James Lilley,0.1070000000000001,0.8403,0.7333
 2024-10-10 12:49:39.633799,NLCS MVP - NLCS MVP - NLCS MVP,Shohei Ohtani (LAD),0.09999999999999999,0.1667,0.0667
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Thorbjorn Olesen,0.0953,0.1429,0.0476
 2024-10-10 20:27:50.193402,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,0.08030000000000004,0.5348,0.4545
@@ -16,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 12:49:39.633799,NLCS MVP - NLCS MVP - NLCS MVP,Francisco Lindor (NYM),0.04169999999999999,0.1667,0.125
 2024-10-10 12:49:39.633799,NLCS MVP - NLCS MVP - NLCS MVP,Mookie Betts (LAD),0.0391,0.0714,0.0323
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Tarik Skubal (DET),0.038299999999999994,0.0909,0.0526
+2024-10-10 23:25:32.273866,BKFC: Tenaglia vs Soto - Fran Suarez vs David Mora - To Win the Bout,David Mora,0.0363,0.7333,0.697
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Justin Rose,0.03439999999999999,0.0667,0.0323
 2024-10-10 14:28:09.612962,BKFC: Tenaglia vs Soto - Dan Chapman vs Mike Jurik - To Win the Bout,Dan Chapman,0.03420000000000001,0.9231,0.8889
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Adrien Saddier,0.0335,0.0476,0.0141
@@ -30,13 +33,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 14:28:09.493680,Elite Boxing - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.026499999999999968,0.5917,0.5652
 2024-10-10 20:27:50.160079,BKFC: Tenaglia vs Soto - Fran Suarez vs David Mora - To Win the Bout,David Mora,0.024899999999999922,0.697,0.6721
 2024-10-10 20:27:50.155957,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Nico Gaffie,0.024500000000000022,0.4167,0.3922
-2024-10-10 10:32:14.594946,Euro Cup - Euro Cup 2024/25 - Outright,Bourg,0.0245,0.0833,0.0588
 2024-10-10 13:32:31.606885,Tournament Match-Ups - Tournament Match-Up - P. Kizzire vs B. Cauley - Tournament Match-Up,Bud Cauley,0.023800000000000043,0.5238,0.5
 2024-10-10 16:33:06.658655,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,0.023799999999999988,0.5,0.4762
-2024-10-10 11:23:18.315282,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.02260000000000001,0.4,0.3774
 2024-10-10 12:49:39.639705,World Series MVP - World Series MVP  - World Series MVP,Mookie Betts (LAD),0.022199999999999998,0.0435,0.0213
 2024-10-10 12:49:39.633799,NLCS MVP - NLCS MVP - NLCS MVP,Teoscar Hernandez (LAD),0.0221,0.0417,0.0196
 2024-10-10 17:29:12.825342,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.021699999999999997,0.4762,0.4545
+2024-10-10 23:25:32.307012,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,0.02169999999999994,0.5455,0.5238
 2024-10-10 12:49:39.639705,World Series MVP - World Series MVP  - World Series MVP,Francisco Lindor (NYM),0.0208,0.0833,0.0625
 2024-10-10 21:26:07.109003,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,0.02079999999999993,0.5556,0.5348
 2024-10-10 12:49:39.639705,World Series MVP - World Series MVP  - World Series MVP,Aaron Judge (NYY),0.02020000000000001,0.1111,0.0909
@@ -44,16 +46,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 21:26:07.000572,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,John Riel Casimero,0.01970000000000005,0.5652,0.5455
 2024-10-10 16:33:06.625334,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Masamichi Yabuki,0.019699999999999995,0.4545,0.4348
 2024-10-10 14:28:06.941745,MLS - USA MLS 2024 - Futures - To Reach the Final,Inter Miami,0.01880000000000004,0.6552,0.6364
-2024-10-10 10:32:14.594946,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.01820000000000002,0.2,0.1818
 2024-10-10 14:28:09.466028,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,0.01820000000000002,0.2,0.1818
 2024-10-10 13:32:31.196608,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Arbi Chakaev,0.018100000000000005,0.7403,0.7222
+2024-10-10 23:25:32.298808,BKFC: Tenaglia vs Soto - Hannah Rankin vs Deborah Melhorn - To Win the Bout,Hannah Rankin,0.018100000000000005,0.7403,0.7222
 2024-10-10 12:49:39.633799,NLCS MVP - NLCS MVP - NLCS MVP,Mark Vientos (NYM),0.018099999999999998,0.0526,0.0345
+2024-10-10 23:25:32.227801,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Anthony Olascuaga,0.017899999999999916,0.7826,0.7647
 2024-10-10 17:29:12.720066,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Fabio Wardley,0.017299999999999982,0.5917,0.5744
-2024-10-10 11:23:18.432073,Black Desert - 2/3 Balls - 1st Round 3 Balls - M. McCarty / M. Thorbjornsen / P. Kuest - 1st Round 3 Balls,Matt McCarty,0.017299999999999982,0.4255,0.4082
 2024-10-10 12:49:39.639705,World Series MVP - World Series MVP  - World Series MVP,Freddie Freeman (LAD),0.017100000000000004,0.0323,0.0152
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Giancarlo Stanton (NYY),0.017099999999999997,0.0556,0.0385
 2024-10-10 14:28:09.480817,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,0.016699999999999937,0.6,0.5833
-2024-10-10 10:32:14.594946,Euro Cup - Euro Cup 2024/25 - Outright,Bahcesehir Koleji,0.016600000000000004,0.0833,0.0667
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Dan Bradbury,0.0165,0.0244,0.0079
 2024-10-10 20:27:50.180872,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,0.016100000000000003,0.6078,0.5917
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Riley Greene (DET),0.015599999999999996,0.0556,0.04
@@ -63,34 +64,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 16:33:06.673140,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,0.014600000000000002,0.2778,0.2632
 2024-10-10 12:49:39.639705,World Series MVP - World Series MVP  - World Series MVP,Mark Vientos (NYM),0.014599999999999998,0.0278,0.0132
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Rasmus Hojgaard,0.013999999999999999,0.0909,0.0769
-2024-10-10 10:32:14.590002,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.0131,0.2353,0.2222
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Guido Migliozzi,0.012700000000000003,0.0323,0.0196
+2024-10-10 17:29:12.728351,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,0.012199999999999989,0.5122,0.5
 2024-10-10 21:26:06.312361,Electoral College Winner - Michigan (MI) - Michigan,Republican,0.012199999999999989,0.5122,0.5
 2024-10-10 21:26:06.325147,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.012199999999999989,0.5,0.4878
-2024-10-10 17:29:12.728351,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,0.012199999999999989,0.5122,0.5
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Marcus Kinhult,0.012100000000000001,0.0244,0.0123
-2024-10-10 18:34:46.352116,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,0.011600000000000055,0.5238,0.5122
 2024-10-10 22:29:31.717289,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,0.011600000000000055,0.5238,0.5122
-2024-10-10 10:32:15.948369,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.0116,0.4878,0.4762
+2024-10-10 18:34:46.352116,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,0.011600000000000055,0.5238,0.5122
 2024-10-10 20:27:50.176739,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,Felipe Maia,0.01150000000000001,0.3448,0.3333
 2024-10-10 22:29:31.605395,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.011099999999999999,0.4762,0.4651
-2024-10-10 13:32:31.175999,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,James Lilley,0.011099999999999999,0.7333,0.7222
 2024-10-10 21:26:07.092634,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,James Lilley,0.011099999999999999,0.7333,0.7222
+2024-10-10 13:32:31.175999,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,James Lilley,0.011099999999999999,0.7333,0.7222
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Jazz Chisholm (NYY),0.010700000000000001,0.0385,0.0278
 2024-10-10 17:29:12.821285,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,Felipe Maia,0.010699999999999987,0.3333,0.3226
 2024-10-10 18:34:46.299457,Elite Boxing - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,0.010599999999999998,0.4651,0.4545
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Connor Syme,0.010300000000000002,0.0244,0.0141
-2024-10-10 10:32:15.952495,Boxing Lines - Gabriel Flores Jr vs Dennis Contreras - To Win the Bout,Gabriel Flores Jr,0.010199999999999987,0.9333,0.9231
-2024-10-10 15:28:22.974875,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.010099999999999998,0.5556,0.5455
 2024-10-10 15:28:22.978912,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.010099999999999998,0.5556,0.5455
+2024-10-10 15:28:22.974875,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.010099999999999998,0.5556,0.5455
+2024-10-10 22:29:31.617488,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Vince Paras,-0.010099999999999998,0.3125,0.3226
 2024-10-10 22:29:31.717289,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,-0.010099999999999998,0.5455,0.5556
 2024-10-10 18:34:46.352116,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,John Riel Casimero,-0.010099999999999998,0.5455,0.5556
-2024-10-10 22:29:31.617488,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Vince Paras,-0.010099999999999998,0.3125,0.3226
 2024-10-10 14:28:09.621150,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,Felipe Maia,-0.010699999999999987,0.3226,0.3333
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Alejandro Del Rey,-0.011,0.0013,0.0123
+2024-10-10 14:28:06.941745,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.011099999999999999,0.1,0.1111
 2024-10-10 21:26:06.992404,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,-0.011099999999999999,0.4651,0.4762
 2024-10-10 20:27:50.176739,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,James Lilley,-0.011099999999999999,0.7222,0.7333
-2024-10-10 14:28:06.941745,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.011099999999999999,0.1,0.1111
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Carlos Rodon (NYY),-0.011300000000000001,0.0244,0.0357
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Andy Sullivan,-0.011300000000000001,0.001,0.0123
 2024-10-10 12:49:39.639705,World Series MVP - World Series MVP  - World Series MVP,Josh Naylor (CLE),-0.011399999999999999,0.0099,0.0213
@@ -99,19 +97,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 17:29:12.720066,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,-0.0116,0.4762,0.4878
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Adrian Otaegui,-0.011699999999999999,0.0079,0.0196
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Tanner Bibee (CLE),-0.0118,0.0099,0.0217
-2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Nicolas Colsaerts,-0.0121,0.002,0.0141
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Julien Guerrier,-0.0121,0.002,0.0141
+2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Nicolas Colsaerts,-0.0121,0.002,0.0141
+2024-10-10 15:28:22.990997,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.012199999999999989,0.4878,0.5
 2024-10-10 15:28:22.978912,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.012199999999999989,0.4878,0.5
 2024-10-10 15:28:22.974875,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.012199999999999989,0.4878,0.5
-2024-10-10 15:28:22.990997,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.012199999999999989,0.4878,0.5
-2024-10-10 10:32:14.590002,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,-0.012899999999999995,0.1538,0.1667
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Jasson Dominguez (NYY),-0.013,0.0066,0.0196
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Seth Lugo (KC),-0.0134,0.0083,0.0217
-2024-10-10 10:32:14.594946,Euro Cup - Euro Cup 2024/25 - Outright,Venezia,-0.014099999999999998,0.0294,0.0435
 2024-10-10 16:33:06.673140,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,-0.014399999999999968,0.7895,0.8039
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Bobby Witt Jr. (KC),-0.014399999999999996,0.0625,0.0769
-2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Rikuya Hoshino,-0.014400000000000001,0.002,0.0164
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Romain Langasque,-0.014400000000000001,0.002,0.0164
+2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Rikuya Hoshino,-0.014400000000000001,0.002,0.0164
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Francesco Molinari,-0.014400000000000001,0.002,0.0164
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Bernd Wiesberger,-0.0145,0.0099,0.0244
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Vinnie Pasquantino (KC),-0.014599999999999998,0.0132,0.0278
@@ -119,32 +115,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 14:28:06.941745,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,-0.015400000000000025,0.3846,0.4
 2024-10-10 17:29:12.825342,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,-0.016100000000000003,0.5917,0.6078
 2024-10-10 13:32:31.010690,"MLB Daily Playoff Specials - Thursday, October 10 - MLB Daily Playoff Specials","Guardians, Tigers, Yankees and Royals 18+ Combined Runs",-0.016699999999999993,0.4,0.4167
-2024-10-10 10:32:15.948369,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Fabio Wardley,-0.017299999999999982,0.5744,0.5917
 2024-10-10 12:49:39.639705,World Series MVP - World Series MVP  - World Series MVP,Bobby Witt Jr. (KC),-0.0173,0.0244,0.0417
 2024-10-10 14:28:09.466028,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Detroit Tigers,-0.0179,0.125,0.1429
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Laurie Canter,-0.0184,0.0033,0.0217
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Frederic Lacroix,-0.0186,0.001,0.0196
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Thomas Detry,-0.0189,0.0196,0.0385
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Josh Naylor (CLE),-0.019099999999999995,0.0244,0.0435
-2024-10-10 11:23:18.432073,Black Desert - 2/3 Balls - 1st Round 3 Balls - M. McCarty / M. Thorbjornsen / P. Kuest - 1st Round 3 Balls,Michael Thorbjornsen,-0.019699999999999995,0.4348,0.4545
-2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Alex Fitzpatrick,-0.019700000000000002,0.002,0.0217
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Joost Luiten,-0.019700000000000002,0.002,0.0217
+2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Alex Fitzpatrick,-0.019700000000000002,0.002,0.0217
 2024-10-10 12:49:39.639705,World Series MVP - World Series MVP  - World Series MVP,Jose Ramirez (CLE),-0.0204,0.0196,0.04
-2024-10-10 11:23:18.315282,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,-0.02080000000000004,0.6667,0.6875
+2024-10-10 23:25:32.227801,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,-0.021299999999999986,0.2817,0.303
+2024-10-10 23:25:32.307012,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,-0.02169999999999994,0.5238,0.5455
 2024-10-10 20:27:50.180872,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,-0.021699999999999997,0.4545,0.4762
 2024-10-10 14:28:09.493680,Elite Boxing - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.021699999999999997,0.4545,0.4762
 2024-10-10 16:33:06.625334,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,-0.02180000000000004,0.6078,0.6296
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Niklas Norgaard,-0.022099999999999998,0.0164,0.0385
 2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Steven Kwan (CLE),-0.0221,0.0179,0.04
 2024-10-10 13:32:31.196608,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Jose Daniel Toledo,-0.022199999999999998,0.3226,0.3448
+2024-10-10 23:25:32.298808,BKFC: Tenaglia vs Soto - Hannah Rankin vs Deborah Melhorn - To Win the Bout,Deborah Melhorn,-0.022199999999999998,0.3226,0.3448
 2024-10-10 21:26:07.109003,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.022600000000000064,0.5122,0.5348
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Matthieu Pavon,-0.022799999999999997,0.005,0.0278
 2024-10-10 20:27:50.155957,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,-0.02300000000000002,0.6491,0.6721
 2024-10-10 12:49:39.633799,NLCS MVP - NLCS MVP - NLCS MVP,Manny Machado (SD),-0.02310000000000001,0.0769,0.1
 2024-10-10 21:26:07.000572,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,-0.023800000000000043,0.5,0.5238
 2024-10-10 12:49:39.633799,NLCS MVP - NLCS MVP - NLCS MVP,Jackson Merrill (SD),-0.024299999999999995,0.0526,0.0769
-2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Jose Ramirez (CLE),-0.024999999999999994,0.0417,0.0667
 2024-10-10 12:49:39.639705,World Series MVP - World Series MVP  - World Series MVP,Fernando Tatis Jr. (SD),-0.024999999999999994,0.1,0.125
+2024-10-10 12:49:39.628049,ALCS MVP - ALCS MVP - ALCS MVP,Jose Ramirez (CLE),-0.024999999999999994,0.0417,0.0667
 2024-10-10 20:27:50.185016,BKFC: Tenaglia vs Soto - Hannah Rankin vs Deborah Melhorn - To Win the Bout,Deborah Melhorn,-0.02560000000000001,0.3448,0.3704
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Matteo Manassero,-0.0262,0.0123,0.0385
 2024-10-10 16:33:06.658655,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,John Riel Casimero,-0.026499999999999968,0.5652,0.5917
@@ -152,6 +148,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 20:27:50.160079,BKFC: Tenaglia vs Soto - Fran Suarez vs David Mora - To Win the Bout,Fran Suarez,-0.028600000000000014,0.3636,0.3922
 2024-10-10 13:32:31.606885,Tournament Match-Ups - Tournament Match-Up - P. Kizzire vs B. Cauley - Tournament Match-Up,Patton Kizzire,-0.028900000000000037,0.5455,0.5744
 2024-10-10 14:28:09.480817,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Detroit Tigers,-0.030299999999999994,0.303,0.3333
+2024-10-10 23:25:32.273866,BKFC: Tenaglia vs Soto - Fran Suarez vs David Mora - To Win the Bout,Fran Suarez,-0.030299999999999994,0.3333,0.3636
 2024-10-10 13:32:31.010690,"MLB Daily Playoff Specials - Thursday, October 10 - MLB Daily Playoff Specials","Guardians, Tigers, Yankees and Royals 16+ Combined Runs",-0.030399999999999983,0.5348,0.5652
 2024-10-10 18:34:46.608651,Open de France - Open de France - Winner,Victor Perez,-0.031200000000000002,0.0164,0.0476
 2024-10-10 22:29:31.697032,BKFC: Tenaglia vs Soto - Dan Chapman vs Mike Jurik - To Win the Bout,Mike Jurik,-0.033299999999999996,0.1,0.1333
@@ -165,3 +162,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 22:29:31.721475,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Jose Daniel Toledo,-0.06290000000000001,0.2597,0.3226
 2024-10-10 20:27:50.193402,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.07299999999999995,0.5348,0.6078
 2024-10-10 21:26:06.945125,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Exact Result,SD Padres beat NY Mets,-0.0933,0.2703,0.3636
+2024-10-10 23:25:32.290468,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,Felipe Maia,-0.10599999999999998,0.2273,0.3333
+2024-10-10 23:25:32.286251,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,Danny Christie,-0.11430000000000001,0.2857,0.4
