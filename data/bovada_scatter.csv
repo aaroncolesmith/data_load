@@ -7,7 +7,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 05:30:09.984021,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,0.1405,0.2174,0.0769
 2024-10-10 05:30:09.980642,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.1389,0.25,0.1111
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Celine Boutier,0.12919999999999998,0.1818,0.0526
-2024-10-09 22:29:11.868933,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Detroit Tigers,0.1175,0.3448,0.2273
 2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Aaron Rodgers (NYJ),0.11719999999999997,0.3077,0.1905
 2024-10-10 05:30:09.998843,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,DET Tigers beat NY Yankees,0.0993,0.2326,0.1333
 2024-10-10 05:30:10.140242,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,0.0958,0.6875,0.5917
@@ -23,19 +22,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 05:30:09.991164,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Detroit Tigers,0.0611,0.0833,0.0222
 2024-10-10 05:30:09.980642,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Detroit Tigers,0.0596,0.1429,0.0833
 2024-10-10 05:30:09.980642,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.05879999999999996,0.2941,0.2353
-2024-10-10 05:30:09.980642,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Mets,0.05550000000000002,0.2222,0.1667
 2024-10-10 02:55:56.972128,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu (IND),0.05550000000000002,0.2222,0.1667
+2024-10-10 05:30:09.980642,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Mets,0.05550000000000002,0.2222,0.1667
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,0.0474,0.0909,0.0435
 2024-10-10 05:30:09.987516,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,0.047099999999999975,0.5122,0.4651
 2024-10-10 02:55:56.972128,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Kamari Lassiter (HOU),0.042899999999999994,0.1429,0.1
-2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Justin Fields (PIT),0.0409,0.0588,0.0179
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Lucy Li,0.0409,0.0588,0.0179
+2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Justin Fields (PIT),0.0409,0.0588,0.0179
 2024-10-10 05:30:09.984021,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. Detroit Tigers,0.0407,0.1176,0.0769
 2024-10-10 06:35:49.425312,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Arbi Chakaev,0.03469999999999995,0.7222,0.6875
 2024-10-10 06:35:49.404703,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,James Lilley,0.03379999999999994,0.7059,0.6721
 2024-10-10 06:35:49.140111,AFC East - AFC East 2024/25 - AFC East Winner,Miami Dolphins,0.033399999999999985,0.1667,0.1333
-2024-10-10 01:52:22.007670,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,Danny Christie,0.03260000000000002,0.3774,0.3448
 2024-10-10 04:31:00.319204,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Jose Daniel Toledo,0.03260000000000002,0.3774,0.3448
+2024-10-10 01:52:22.007670,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,Danny Christie,0.03260000000000002,0.3774,0.3448
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Quinn,0.031399999999999983,0.2667,0.2353
 2024-10-10 08:32:19.646811,Black Desert - 2/3 Balls - 1st Round 3 Balls - D. Berger / J. Dahmen / M. Kim - 1st Round 3 Balls,Daniel Berger,0.030299999999999994,0.4651,0.4348
 2024-10-10 05:30:09.991164,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Detroit Tigers,0.030199999999999998,0.0625,0.0323
@@ -46,6 +45,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 02:55:56.972128,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Andru Phillips (NYG),0.027099999999999996,0.0435,0.0164
 2024-10-10 08:32:19.742015,Black Desert - 2/3 Balls - 1st Round 3 Balls - K. Mitchell / S. O'Hair / T. Duncan - 1st Round 3 Balls,Keith Mitchell,0.025599999999999956,0.6,0.5744
 2024-10-10 05:30:09.991164,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat Los Angeles Dodgers,0.025300000000000003,0.0357,0.0104
+2024-10-10 10:32:14.594946,Euro Cup - Euro Cup 2024/25 - Outright,Bourg,0.0245,0.0833,0.0588
 2024-10-10 05:30:09.991164,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat New York Mets,0.024299999999999995,0.0588,0.0345
 2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),0.0242,0.0909,0.0667
 2024-10-10 06:35:49.145095,AFC South - AFC South 2024/25 - AFC South Winner,Houston Texans,0.023799999999999932,0.8571,0.8333
@@ -66,7 +66,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kirk Cousins (ATL),0.019000000000000017,0.2857,0.2667
 2024-10-10 01:52:22.452429,Tournament Match-Ups - Tournament Match-Up - D. Ghim vs J. Lower - Tournament Match-Up,Doug Ghim,0.01880000000000004,0.5744,0.5556
 2024-10-10 05:30:09.867689,NFC East - NFC East 2024/25 - NFC East Winner,Washington Commanders,0.018799999999999983,0.3636,0.3448
-2024-10-09 22:29:09.877865,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Philadelphia 76ers OR Oklahoma City Thunder,0.01830000000000001,0.2564,0.2381
+2024-10-10 10:32:14.594946,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.01820000000000002,0.2,0.1818
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,0.018200000000000004,0.0476,0.0294
 2024-10-10 09:28:23.450371,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Masamichi Yabuki,0.018100000000000005,0.4348,0.4167
 2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Nick Chubb (CLE),0.018099999999999998,0.0769,0.0588
@@ -76,36 +76,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Andy Dalton (CAR),0.017100000000000004,0.0323,0.0152
 2024-10-10 05:30:09.862861,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.016700000000000048,0.75,0.7333
 2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),0.016700000000000007,0.1,0.0833
+2024-10-10 10:32:14.594946,Euro Cup - Euro Cup 2024/25 - Outright,Bahcesehir Koleji,0.016600000000000004,0.0833,0.0667
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Brian Callahan,0.015499999999999998,0.0278,0.0123
 2024-10-10 05:30:10.066012,Boxing Lines - Shokichi Iwata vs Jairo Noriega - To Win the Bout,Jairo Noriega,0.015400000000000025,0.4,0.3846
-2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Demeco Ryans,0.015300000000000001,0.0588,0.0435
 2024-10-10 02:55:56.972128,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tyler Nubin (NYG),0.015300000000000001,0.0476,0.0323
+2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Demeco Ryans,0.015300000000000001,0.0588,0.0435
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike McDaniel,0.014599999999999998,0.0196,0.005
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Peiyun Chien,0.0145,0.0244,0.0099
 2024-10-10 02:55:56.972128,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Payton Wilson (PIT),0.014400000000000003,0.0323,0.0179
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Angel Yin,0.014100000000000001,0.0526,0.0385
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,0.014100000000000001,0.0526,0.0385
+2024-10-10 06:35:49.150008,AFC West - AFC West 2024/25 - AFC West Winner,Los Angeles Chargers,0.014099999999999994,0.0667,0.0526
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,0.014099999999999994,0.0667,0.0526
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,0.014099999999999994,0.0667,0.0526
-2024-10-10 06:35:49.150008,AFC West - AFC West 2024/25 - AFC West Winner,Los Angeles Chargers,0.014099999999999994,0.0667,0.0526
 2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Daniel Jones (NYG),0.0131,0.0476,0.0345
+2024-10-10 10:32:14.590002,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.0131,0.2353,0.2222
 2024-10-10 03:32:21.509380,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,0.012700000000000045,0.6491,0.6364
 2024-10-10 08:32:19.479031,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,0.012700000000000045,0.6491,0.6364
 2024-10-10 05:30:09.862861,AFC North - AFC North 2024/25 - AFC North Winner,Cincinnati Bengals,0.012299999999999991,0.1176,0.1053
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McDermott,0.012100000000000001,0.0244,0.0123
+2024-10-10 10:32:15.948369,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.0116,0.4878,0.4762
 2024-10-10 08:32:19.474964,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Omar Rosario,0.01150000000000001,0.3448,0.3333
 2024-10-10 09:28:23.556820,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,Felipe Maia,0.01150000000000001,0.3448,0.3333
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Muni He,0.0113,0.0179,0.0066
 2024-10-10 03:32:21.457632,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Matt LaFleur,0.011199999999999995,0.0435,0.0323
 2024-10-10 05:30:10.025384,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Omar Rosario,0.010699999999999987,0.3333,0.3226
 2024-10-10 02:55:56.972128,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jonah Elliss (DEN),0.010600000000000002,0.0323,0.0217
-2024-10-09 22:29:09.877865,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Indiana Pacers OR Oklahoma City Thunder,0.010499999999999982,0.1667,0.1562
 2024-10-10 06:35:49.104881,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,0.010499999999999982,0.2105,0.2
-2024-10-09 22:29:09.877865,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Orlando Magic OR Oklahoma City Thunder,0.010499999999999982,0.1667,0.1562
-2024-10-09 22:29:09.877865,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Miami Heat OR Oklahoma City Thunder,0.010499999999999982,0.1667,0.1562
-2024-10-09 22:29:09.877865,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Chicago Bulls OR Oklahoma City Thunder,0.010200000000000015,0.1481,0.1379
 2024-10-10 03:32:22.179028,Open de France - Open de France - Winner,Rasmus Hojgaard,0.0102,0.0769,0.0667
 2024-10-10 06:35:49.145095,AFC South - AFC South 2024/25 - AFC South Winner,Jacksonville Jaguars,0.0102,0.0769,0.0667
+2024-10-10 10:32:15.952495,Boxing Lines - Gabriel Flores Jr vs Dennis Contreras - To Win the Bout,Gabriel Flores Jr,0.010199999999999987,0.9333,0.9231
 2024-10-10 04:31:00.294141,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,David Mundell,-0.010099999999999998,0.6774,0.6875
 2024-10-10 04:31:00.238126,Boxing Lines - Junto Nakatani vs Tasana Salapat - To Win the Bout,Tasana Salapat,-0.0102,0.0667,0.0769
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jasmine Suwannapura,-0.0103,0.002,0.0123
@@ -114,22 +114,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 06:35:49.154921,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,-0.010699999999999987,0.3226,0.3333
 2024-10-10 05:30:10.066012,Boxing Lines - Shokichi Iwata vs Jairo Noriega - To Win the Bout,Shokichi Iwata,-0.010700000000000043,0.6667,0.6774
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Kristen Gillman,-0.011,0.0013,0.0123
-2024-10-10 08:32:19.474964,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Elijah Flores,-0.011099999999999999,0.7222,0.7333
 2024-10-10 09:28:23.556820,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,James Lilley,-0.011099999999999999,0.7222,0.7333
+2024-10-10 08:32:19.474964,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Elijah Flores,-0.011099999999999999,0.7222,0.7333
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Hye Jin Choi,-0.0112,0.004,0.0152
-2024-10-10 09:28:23.641296,Black Desert - 2/3 Balls - 1st Round 3 Balls - G. Sigg / J. Lower / M. NeSmith - 1st Round 3 Balls,Matt NeSmith,-0.01150000000000001,0.3333,0.3448
-2024-10-10 03:32:21.483264,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Detroit Tigers,-0.01150000000000001,0.3333,0.3448
 2024-10-10 09:28:23.641296,Black Desert - 2/3 Balls - 1st Round 3 Balls - G. Sigg / J. Lower / M. NeSmith - 1st Round 3 Balls,Greyson Sigg,-0.01150000000000001,0.3333,0.3448
+2024-10-10 03:32:21.483264,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Detroit Tigers,-0.01150000000000001,0.3333,0.3448
+2024-10-10 09:28:23.641296,Black Desert - 2/3 Balls - 1st Round 3 Balls - G. Sigg / J. Lower / M. NeSmith - 1st Round 3 Balls,Matt NeSmith,-0.01150000000000001,0.3333,0.3448
 2024-10-10 08:32:19.742015,Black Desert - 2/3 Balls - 1st Round 3 Balls - K. Mitchell / S. O'Hair / T. Duncan - 1st Round 3 Balls,Sean O'Hair,-0.011700000000000016,0.2105,0.2222
 2024-10-10 05:30:09.991164,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Cleveland Guardians,-0.011800000000000001,0.0227,0.0345
-2024-10-10 09:28:23.604595,Black Desert - 2/3 Balls - 1st Round 3 Balls - C. Kim / K. Chappell / R. Sloan - 1st Round 3 Balls,Roger Sloan,-0.012399999999999967,0.2817,0.2941
 2024-10-10 09:28:23.604595,Black Desert - 2/3 Balls - 1st Round 3 Balls - C. Kim / K. Chappell / R. Sloan - 1st Round 3 Balls,Kevin Chappell,-0.012399999999999967,0.2817,0.2941
+2024-10-10 09:28:23.604595,Black Desert - 2/3 Balls - 1st Round 3 Balls - C. Kim / K. Chappell / R. Sloan - 1st Round 3 Balls,Roger Sloan,-0.012399999999999967,0.2817,0.2941
 2024-10-10 04:31:00.186896,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,-0.012700000000000045,0.6364,0.6491
+2024-10-10 10:32:14.590002,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,-0.012899999999999995,0.1538,0.1667
 2024-10-10 08:32:19.708931,Black Desert - 2/3 Balls - 1st Round 3 Balls - CT Pan / H. Springer / T. Wilkinson - 1st Round 3 Balls,Tim Wilkinson,-0.012899999999999995,0.1538,0.1667
 2024-10-10 05:30:10.090381,Boxing Lines - Adam Azim vs Ohara Davies - To Win the Bout,Ohara Davies,-0.012899999999999995,0.1538,0.1667
 2024-10-10 06:35:49.140111,AFC East - AFC East 2024/25 - AFC East Winner,New York Jets,-0.0131,0.2222,0.2353
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Yu Jin Sung,-0.0132,0.002,0.0152
 2024-10-10 01:52:21.903062,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,-0.013999999999999999,0.0769,0.0909
+2024-10-10 10:32:14.594946,Euro Cup - Euro Cup 2024/25 - Outright,Venezia,-0.014099999999999998,0.0294,0.0435
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Patty Tavatanakit,-0.0145,0.0099,0.0244
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Albane Valenzuela,-0.0145,0.0099,0.0244
 2024-10-09 23:26:55.445883,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Taylor Heinicke (ATL),-0.014599999999999998,0.005,0.0196
@@ -137,6 +139,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Yuna Nishimura,-0.0154,0.001,0.0164
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,A Lim Kim,-0.0168,0.0028,0.0196
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Haruka Morita,-0.017100000000000004,0.0152,0.0323
+2024-10-10 10:32:15.948369,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Fabio Wardley,-0.017299999999999982,0.5744,0.5917
 2024-10-10 08:32:19.646811,Black Desert - 2/3 Balls - 1st Round 3 Balls - D. Berger / J. Dahmen / M. Kim - 1st Round 3 Balls,Michael Kim,-0.017600000000000005,0.3333,0.3509
 2024-10-10 05:30:09.991164,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Kansas City Royals,-0.0177,0.0208,0.0385
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Gaby Lopez,-0.017800000000000003,0.0066,0.0244
@@ -157,8 +160,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 06:35:49.425312,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Jose Daniel Toledo,-0.03260000000000002,0.3448,0.3774
 2024-10-10 05:30:09.984021,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. New York Yankees,-0.033300000000000024,0.1667,0.2
 2024-10-10 05:30:09.991164,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat New York Yankees,-0.03420000000000001,0.0769,0.1111
-2024-10-10 04:31:00.319204,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Arbi Chakaev,-0.03469999999999995,0.6875,0.7222
 2024-10-10 01:52:22.007670,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,David Mundell,-0.03469999999999995,0.6875,0.7222
+2024-10-10 04:31:00.319204,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Arbi Chakaev,-0.03469999999999995,0.6875,0.7222
 2024-10-10 06:35:49.404703,BKFC: Tenaglia vs Soto - Felipe Maia vs James Lilley - To Win the Bout,Felipe Maia,-0.03510000000000002,0.3571,0.3922
 2024-10-10 05:30:09.984021,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,New York Mets vs. Cleveland Guardians,-0.035199999999999995,0.0417,0.0769
 2024-10-10 01:52:22.452429,Tournament Match-Ups - Tournament Match-Up - D. Ghim vs J. Lower - Tournament Match-Up,Justin Lower,-0.03600000000000003,0.4878,0.5238
@@ -172,8 +175,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 05:30:09.991164,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Kansas City Royals,-0.042499999999999996,0.02,0.0625
 2024-10-10 02:55:56.972128,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Marshawn Kneeland (DAL),-0.0427,0.0099,0.0526
 2024-10-10 05:30:09.987516,MLB Futures - MLB 2024 World Series Winner - Winning League,National League,-0.044399999999999995,0.5556,0.6
-2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ariya Jutanugarn,-0.0466,0.001,0.0476
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Hannah Green,-0.0466,0.001,0.0476
+2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ariya Jutanugarn,-0.0466,0.001,0.0476
 2024-10-10 05:30:09.991164,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,San Diego Padres to beat Cleveland Guardians,-0.0473,0.0152,0.0625
 2024-10-10 05:30:09.998843,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,NY Yankees beat CLE Guardians,-0.0476,0.1429,0.1905
 2024-10-10 09:28:24.193801,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ruoning Yin,-0.0491,0.0278,0.0769
@@ -183,7 +186,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-10 05:30:09.998843,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,CLE Guardians beat NY Yankees,-0.0715,0.0714,0.1429
 2024-10-10 05:30:09.984021,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,San Diego Padres vs. Cleveland Guardians,-0.0737,0.0263,0.1
 2024-10-10 05:30:09.998843,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,KC Royals beat DET Tigers,-0.08979999999999999,0.0769,0.1667
-2024-10-09 22:29:11.868933,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Cleveland Guardians,-0.09240000000000001,0.125,0.2174
 2024-10-10 05:30:10.140242,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,-0.0988,0.3774,0.4762
 2024-10-10 05:30:09.998843,MLB Futures - MLB 2024 American League Winner - MLB 2024 - ALCS Exact Result,CLE Guardians beat KC Royals,-0.1106,0.0323,0.1429
 2024-10-10 05:30:09.980642,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,-0.11229999999999998,0.1818,0.2941
