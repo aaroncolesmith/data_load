@@ -1,6 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-10-11 10:31:37.368054,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Chelsie Baham,0.16360000000000008,0.8,0.6364
-2024-10-11 10:31:37.368054,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,0.15910000000000002,0.25,0.0909
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Thomas Detry,0.14709999999999998,0.1667,0.0196
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Rasmus Hojgaard,0.1049,0.1818,0.0769
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,0.09720000000000001,0.2222,0.125
@@ -9,16 +7,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Duke,0.06190000000000001,0.4255,0.3636
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Dan Bradbury,0.058899999999999994,0.0833,0.0244
 2024-10-11 16:32:54.190398,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Elijah Flores,0.055600000000000094,0.7778,0.7222
-2024-10-11 16:32:53.279792,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 30.5,0.05300000000000005,0.5652,0.5122
 2024-10-11 12:48:57.947962,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,0.05300000000000005,0.5652,0.5122
+2024-10-11 16:32:53.279792,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 30.5,0.05300000000000005,0.5652,0.5122
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Jesper Svensson,0.048100000000000004,0.125,0.0769
 2024-10-11 21:27:45.144596,BKFC: Tenaglia vs Soto - Fran Suarez vs David Mora - To Win the Bout,David Mora,0.04799999999999993,0.7403,0.6923
 2024-10-11 13:30:18.175243,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs P. Fishburn - 2nd Round Match-Ups,Patrick Fishburn,0.04760000000000003,0.5238,0.4762
-2024-10-11 10:31:37.317788,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Joey Graziadei,0.047599999999999976,0.3333,0.2857
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,0.044499999999999984,0.2667,0.2222
-2024-10-11 10:31:39.567429,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,David Mundell,0.03949999999999998,0.7895,0.75
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Matthew Jordan,0.0385,0.0435,0.005
-2024-10-11 11:24:16.412620,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.03689999999999999,0.3226,0.2857
 2024-10-11 20:28:46.817916,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Elijah Flores,0.035600000000000076,0.8182,0.7826
 2024-10-11 14:29:26.101110,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Arbi Chakaev,0.035600000000000076,0.8182,0.7826
 2024-10-11 18:34:23.332679,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Anthony Olascuaga,0.035600000000000076,0.8182,0.7826
@@ -27,45 +22,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Paul Waring,0.0335,0.0476,0.0141
 2024-10-11 15:27:35.569141,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,0.033300000000000024,0.2,0.1667
 2024-10-11 20:28:46.928907,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Nico Gaffie,0.031799999999999995,0.4762,0.4444
-2024-10-11 11:24:16.403662,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Fred Warner (SF),0.029299999999999993,0.0769,0.0476
 2024-10-11 16:32:54.299377,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,0.02859999999999996,0.6364,0.6078
 2024-10-11 15:27:35.569141,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 35 - 64,0.027999999999999997,0.1333,0.1053
-2024-10-11 11:24:16.391935,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy (SF),0.026899999999999993,0.0769,0.05
-2024-10-11 12:48:57.762682,Elite Boxing - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.026499999999999968,0.5917,0.5652
 2024-10-11 18:34:23.269312,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,0.026499999999999968,0.5917,0.5652
+2024-10-11 12:48:57.762682,Elite Boxing - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.026499999999999968,0.5917,0.5652
 2024-10-11 14:29:25.394454,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.024399999999999977,0.5122,0.4878
+2024-10-11 13:30:18.015613,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,0.023800000000000043,0.5238,0.5
 2024-10-11 12:48:58.121948,Round Match-Ups - 2nd Round Match-Ups - L. Glover vs H. English - 2nd Round Match-Ups,Harris English,0.023800000000000043,0.5238,0.5
 2024-10-11 13:30:17.201320,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.023800000000000043,0.5238,0.5
-2024-10-11 13:30:18.015613,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,0.023800000000000043,0.5238,0.5
 2024-10-11 13:30:17.192950,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,0.023699999999999943,0.6154,0.5917
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Texas Tech,0.0232,0.0667,0.0435
 2024-10-11 12:48:58.126575,Round Match-Ups - 2nd Round Match-Ups - N. Taylor vs C. Hadley - 2nd Round Match-Ups,Nick Taylor,0.022600000000000064,0.5348,0.5122
-2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),North Carolina,0.022199999999999998,0.2222,0.2
 2024-10-11 22:29:08.280515,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,0.022199999999999998,0.1333,0.1111
-2024-10-11 11:24:16.391935,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jayden Daniels (WAS),0.022000000000000006,0.1053,0.0833
+2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),North Carolina,0.022199999999999998,0.2222,0.2
 2024-10-11 12:48:57.935429,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.021699999999999997,0.4762,0.4545
+2024-10-11 12:48:58.176883,Round Match-Ups - 2nd Round Match-Ups - H. Norlander vs K.H. Lee - 2nd Round Match-Ups,K H Lee,0.02169999999999994,0.5455,0.5238
 2024-10-11 14:29:26.097014,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,0.02169999999999994,0.5455,0.5238
+2024-10-11 12:48:58.159892,Round Match-Ups - 2nd Round Match-Ups - M. Kim v N. Hardy - 2nd Round Match-Ups,Nick Hardy,0.02169999999999994,0.5455,0.5238
 2024-10-11 12:48:58.109477,Round Match-Ups - 2nd Round Match-Ups - A. Svensson vs A. Smalley - 2nd Round Match-Ups,Adam Svensson,0.02169999999999994,0.5455,0.5238
 2024-10-11 12:48:58.101076,Round Match-Ups - 2nd Round Match-Ups - C.T. Pan vs H. Springer - 2nd Round Match-Ups,C T Pan,0.02169999999999994,0.5455,0.5238
-2024-10-11 12:48:58.159892,Round Match-Ups - 2nd Round Match-Ups - M. Kim v N. Hardy - 2nd Round Match-Ups,Nick Hardy,0.02169999999999994,0.5455,0.5238
-2024-10-11 12:48:58.176883,Round Match-Ups - 2nd Round Match-Ups - H. Norlander vs K.H. Lee - 2nd Round Match-Ups,K H Lee,0.02169999999999994,0.5455,0.5238
 2024-10-11 13:30:17.180338,Electoral College Winner - Arizona (AZ) - Arizona,Republican,0.02080000000000004,0.6875,0.6667
-2024-10-11 12:48:58.134979,Round Match-Ups - 2nd Round Match-Ups - W. Gordon vs D. Lipsky - 2nd Round Match-Ups,David Lipsky,0.02079999999999993,0.5556,0.5348
-2024-10-11 10:31:39.588311,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,0.02079999999999993,0.5556,0.5348
-2024-10-11 12:48:58.151515,Round Match-Ups - 2nd Round Match-Ups - M. Meissner vs B. Hossler - 2nd Round Match-Ups,Beau Hossler,0.02079999999999993,0.5556,0.5348
 2024-10-11 12:48:58.130862,Round Match-Ups - 2nd Round Match-Ups - C. Kirk vs P. Kizzire - 2nd Round Match-Ups,Chris Kirk,0.02079999999999993,0.5556,0.5348
+2024-10-11 12:48:58.151515,Round Match-Ups - 2nd Round Match-Ups - M. Meissner vs B. Hossler - 2nd Round Match-Ups,Beau Hossler,0.02079999999999993,0.5556,0.5348
+2024-10-11 12:48:58.134979,Round Match-Ups - 2nd Round Match-Ups - W. Gordon vs D. Lipsky - 2nd Round Match-Ups,David Lipsky,0.02079999999999993,0.5556,0.5348
 2024-10-11 22:29:09.693666,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.020699999999999996,0.4651,0.4444
 2024-10-11 15:27:35.569141,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 155 - 214,0.0203,0.0588,0.0385
-2024-10-11 12:48:57.922748,BKFC: Tenaglia vs Soto - Dan Chapman vs Mike Jurik - To Win the Bout,Mike Jurik,0.02020000000000001,0.1111,0.0909
 2024-10-11 15:27:35.569141,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 15 - 34,0.02020000000000001,0.1111,0.0909
-2024-10-11 12:48:58.105251,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs P. Fishburn - 2nd Round Match-Ups,Ben Griffin,0.01970000000000005,0.5652,0.5455
+2024-10-11 12:48:57.922748,BKFC: Tenaglia vs Soto - Dan Chapman vs Mike Jurik - To Win the Bout,Mike Jurik,0.02020000000000001,0.1111,0.0909
 2024-10-11 20:28:46.962532,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,0.01970000000000005,0.5652,0.5455
 2024-10-11 13:30:18.233806,Round Match-Ups - 2nd Round Match-Ups - H. Hall v C. Champ - 2nd Round Match-Ups,Harry Hall,0.01970000000000005,0.5652,0.5455
+2024-10-11 12:48:58.105251,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs P. Fishburn - 2nd Round Match-Ups,Ben Griffin,0.01970000000000005,0.5652,0.5455
 2024-10-11 12:48:57.999736,Black Desert - 2/3 Balls - 2nd Round 3-Balls - T. Duncan / K. Mitchell / S. O'Hair - 2nd Round 3-Balls,Keith Mitchell,0.01970000000000005,0.5652,0.5455
 2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Wake Forest,0.01949999999999999,0.0909,0.0714
 2024-10-11 20:28:45.561584,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.019099999999999992,0.0667,0.0476
 2024-10-11 17:27:40.967131,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Nico Gaffie,0.018900000000000028,0.4444,0.4255
-2024-10-11 11:24:16.407971,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Nico Collins (HOU),0.0189,0.0385,0.0196
 2024-10-11 20:28:46.834761,Boxing Lines - Skye Nicolson vs Raven Chapman - To Win the Bout,Raven Chapman,0.01820000000000002,0.2,0.1818
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Justin Rose,0.018099999999999998,0.0769,0.0588
 2024-10-11 13:30:17.468816,US Senate Elections 2024 - Senate Election Winner - Florida - Winner,Republican,0.017900000000000027,0.875,0.8571
@@ -73,7 +63,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-11 20:28:46.937297,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Austin Trout,0.016700000000000048,0.75,0.7333
 2024-10-11 15:27:35.569141,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,0.016700000000000007,0.1,0.0833
 2024-10-11 20:28:46.885628,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,0.016699999999999993,0.2667,0.25
-2024-10-11 11:24:16.403662,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Aidan Hutchinson (DET),0.016699999999999993,0.2667,0.25
 2024-10-11 20:28:46.949891,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,0.016100000000000003,0.6078,0.5917
 2024-10-11 18:34:23.265106,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Elijah Flores,0.015899999999999914,0.7937,0.7778
 2024-10-11 13:30:18.007378,BKFC: Tenaglia vs Soto - Hannah Rankin vs Deborah Melhorn - To Win the Bout,Hannah Rankin,0.015800000000000036,0.7561,0.7403
@@ -81,17 +70,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-11 22:29:08.280515,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,0.015100000000000002,0.1818,0.1667
 2024-10-11 16:32:52.923663,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),0.015100000000000002,0.1818,0.1667
 2024-10-11 21:27:45.161686,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,0.014800000000000035,0.6226,0.6078
-2024-10-11 11:24:16.412620,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Byron Murphy (SEA),0.014399999999999996,0.0769,0.0625
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Fabrizio Zanotti,0.0131,0.0476,0.0345
 2024-10-11 21:27:45.165882,BKFC: Tenaglia vs Soto - Hannah Rankin vs Deborah Melhorn - To Win the Bout,Hannah Rankin,0.0131,0.7778,0.7647
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Sam Bairstow,0.0131,0.0164,0.0033
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Ewen Ferguson,0.012700000000000003,0.0323,0.0196
 2024-10-11 19:21:38.680311,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Assists Per Game Leader,Luka Doncic (DAL),0.012299999999999991,0.1176,0.1053
-2024-10-11 11:24:16.391935,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.012299999999999991,0.1176,0.1053
 2024-10-11 12:48:58.113657,Round Match-Ups - 2nd Round Match-Ups - Z. Blair v C. Young - 2nd Round Match-Ups,Carson Young,0.011600000000000055,0.5238,0.5122
 2024-10-11 17:27:40.898714,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Vince Paras,0.01150000000000001,0.3448,0.3333
 2024-10-11 15:27:35.569141,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 5 - 14,0.011199999999999995,0.0588,0.0476
-2024-10-11 10:31:39.558826,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Austin Trout,0.011099999999999999,0.7333,0.7222
 2024-10-11 21:27:45.019118,Boxing Lines - Herich Ruiz Cordoba vs Travorus Barnes - To Win the Bout,Travorus Barnes,0.011099999999999999,0.1111,0.1
 2024-10-11 19:21:40.019389,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.011099999999999999,0.4762,0.4651
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Cincinnati,0.010700000000000001,0.0385,0.0278
@@ -101,36 +87,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-11 21:27:45.161686,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,-0.010099999999999998,0.4444,0.4545
 2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),SMU,-0.010100000000000001,0.0244,0.0345
 2024-10-11 20:28:46.830531,Boxing Lines - Chris Eubank Jr vs Kamil Szeremeta - To Win the Bout,Kamil Szeremeta,-0.0102,0.0667,0.0769
-2024-10-11 11:24:16.395785,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Macdonald,-0.0102,0.0667,0.0769
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Kansas State,-0.010700000000000001,0.0278,0.0385
 2024-10-11 12:48:58.113657,Round Match-Ups - 2nd Round Match-Ups - Z. Blair v C. Young - 2nd Round Match-Ups,Zac Blair,-0.01100000000000001,0.5238,0.5348
-2024-10-11 17:27:40.898714,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Hiroto Kyoguchi,-0.011099999999999999,0.7222,0.7333
-2024-10-11 15:27:36.471491,BKFC: Tenaglia vs Soto - Dan Chapman vs Mike Jurik - To Win the Bout,Mike Jurik,-0.011099999999999999,0.1,0.1111
+2024-10-11 16:32:54.194550,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Masamichi Yabuki,-0.011099999999999999,0.4651,0.4762
 2024-10-11 19:21:39.884818,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Elijah Flores,-0.011099999999999999,0.7826,0.7937
+2024-10-11 15:27:36.471491,BKFC: Tenaglia vs Soto - Dan Chapman vs Mike Jurik - To Win the Bout,Mike Jurik,-0.011099999999999999,0.1,0.1111
+2024-10-11 13:30:17.867347,Boxing Lines - Herich Ruiz Cordoba vs Travorus Barnes - To Win the Bout,Travorus Barnes,-0.011099999999999999,0.1,0.1111
 2024-10-11 18:34:23.290151,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,-0.011099999999999999,0.4651,0.4762
 2024-10-11 18:34:23.396497,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,-0.011099999999999999,0.4651,0.4762
-2024-10-11 13:30:17.867347,Boxing Lines - Herich Ruiz Cordoba vs Travorus Barnes - To Win the Bout,Travorus Barnes,-0.011099999999999999,0.1,0.1111
-2024-10-11 16:32:54.194550,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Masamichi Yabuki,-0.011099999999999999,0.4651,0.4762
-2024-10-11 10:31:39.558826,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Rico Franco,-0.01150000000000001,0.3333,0.3448
+2024-10-11 17:27:40.898714,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Hiroto Kyoguchi,-0.011099999999999999,0.7222,0.7333
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Antoine Rozner,-0.0116,0.0025,0.0141
 2024-10-11 13:30:17.153687,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.0116,0.4762,0.4878
 2024-10-11 13:30:17.149703,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.0116,0.4762,0.4878
-2024-10-11 13:30:17.197129,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.011600000000000055,0.5122,0.5238
 2024-10-11 22:29:09.605229,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,-0.011600000000000055,0.5122,0.5238
+2024-10-11 13:30:17.197129,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.011600000000000055,0.5122,0.5238
 2024-10-11 18:34:23.265106,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Omar Rosario,-0.011699999999999988,0.274,0.2857
 2024-10-11 21:27:45.174313,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.012199999999999989,0.4878,0.5
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Matt Wallace,-0.012700000000000003,0.0196,0.0323
-2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Brandon Stone,-0.013,0.0066,0.0196
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Marcus Kinhult,-0.013,0.0066,0.0196
+2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Brandon Stone,-0.013,0.0066,0.0196
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Jeff Winther,-0.0131,0.0033,0.0164
 2024-10-11 15:27:35.569141,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,-0.0131,0.2222,0.2353
 2024-10-11 17:27:40.967131,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,-0.013799999999999923,0.6226,0.6364
+2024-10-11 23:24:58.958871,BKFC: Tenaglia vs Soto - Dan Chapman vs Mike Jurik - To Win the Bout,Mike Jurik,-0.013999999999999999,0.0769,0.0909
 2024-10-11 18:34:23.195176,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,-0.013999999999999999,0.0769,0.0909
-2024-10-11 11:24:16.395785,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,-0.014099999999999994,0.0526,0.0667
 2024-10-11 12:48:57.922748,BKFC: Tenaglia vs Soto - Dan Chapman vs Mike Jurik - To Win the Bout,Dan Chapman,-0.014100000000000001,0.9474,0.9615
-2024-10-11 11:24:16.391935,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Sam Darnold (MIN),-0.014399999999999996,0.0625,0.0769
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Billy Horschel,-0.014400000000000001,0.002,0.0164
-2024-10-11 10:31:37.317788,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Dwight Howard,-0.01440000000000001,0.0909,0.1053
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),TCU,-0.0145,0.0099,0.0244
 2024-10-11 22:29:08.280515,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Butler,-0.0145,0.0099,0.0244
 2024-10-11 13:30:17.982891,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,-0.014800000000000035,0.6078,0.6226
@@ -146,68 +128,57 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-11 22:29:08.280515,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Providence,-0.018200000000000004,0.0294,0.0476
 2024-10-11 14:29:25.394454,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.01880000000000004,0.5556,0.5744
 2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Syracuse,-0.019099999999999995,0.0244,0.0435
-2024-10-11 13:30:18.015613,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.01970000000000005,0.5455,0.5652
 2024-10-11 13:30:17.201320,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.01970000000000005,0.5455,0.5652
-2024-10-11 11:24:16.412620,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tyler Nubin (NYG),-0.019800000000000005,0.0278,0.0476
+2024-10-11 13:30:18.015613,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.01970000000000005,0.5455,0.5652
 2024-10-11 13:30:17.468816,US Senate Elections 2024 - Senate Election Winner - Florida - Winner,Democrat,-0.01999999999999999,0.1905,0.2105
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Haotong Li,-0.0204,0.004,0.0244
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Thorbjorn Olesen,-0.02049999999999999,0.1333,0.1538
 2024-10-11 20:28:46.937297,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Rico Franco,-0.020799999999999985,0.3125,0.3333
 2024-10-11 14:29:26.097014,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.02169999999999994,0.5238,0.5455
 2024-10-11 12:48:58.121948,Round Match-Ups - 2nd Round Match-Ups - L. Glover vs H. English - 2nd Round Match-Ups,Lucas Glover,-0.02169999999999994,0.5238,0.5455
-2024-10-11 13:30:17.192950,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,-0.021699999999999997,0.4545,0.4762
-2024-10-11 12:48:57.762682,Elite Boxing - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.021699999999999997,0.4545,0.4762
 2024-10-11 20:28:46.949891,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,-0.021699999999999997,0.4545,0.4762
+2024-10-11 12:48:57.762682,Elite Boxing - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.021699999999999997,0.4545,0.4762
+2024-10-11 13:30:17.192950,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,-0.021699999999999997,0.4545,0.4762
 2024-10-11 12:48:55.714628,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Makensy Manbeck,-0.021999999999999964,0.2857,0.3077
 2024-10-11 22:29:08.280515,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,-0.022199999999999998,0.2,0.2222
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Guido Migliozzi,-0.022400000000000003,0.002,0.0244
 2024-10-11 13:30:17.180338,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.02260000000000001,0.3774,0.4
 2024-10-11 12:48:58.126575,Round Match-Ups - 2nd Round Match-Ups - N. Taylor vs C. Hadley - 2nd Round Match-Ups,Chesson Hadley,-0.022600000000000064,0.5122,0.5348
 2024-10-11 22:29:09.693666,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,-0.022600000000000064,0.6,0.6226
-2024-10-11 10:31:39.588311,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.022600000000000064,0.5122,0.5348
 2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Louisville,-0.02310000000000001,0.0769,0.1
-2024-10-11 12:48:58.105251,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs P. Fishburn - 2nd Round Match-Ups,Patrick Fishburn,-0.023799999999999988,0.4762,0.5
 2024-10-11 13:30:18.233806,Round Match-Ups - 2nd Round Match-Ups - H. Hall v C. Champ - 2nd Round Match-Ups,Cameron Champ,-0.023799999999999988,0.4762,0.5
-2024-10-11 10:31:37.317788,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Stephen Nedoroscik,-0.023799999999999988,0.1429,0.1667
+2024-10-11 12:48:58.105251,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs P. Fishburn - 2nd Round Match-Ups,Patrick Fishburn,-0.023799999999999988,0.4762,0.5
 2024-10-11 18:34:23.269312,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Masamichi Yabuki,-0.023799999999999988,0.4762,0.5
-2024-10-11 12:48:58.101076,Round Match-Ups - 2nd Round Match-Ups - C.T. Pan vs H. Springer - 2nd Round Match-Ups,Hayden Springer,-0.023800000000000043,0.5,0.5238
+2024-10-11 12:48:58.159892,Round Match-Ups - 2nd Round Match-Ups - M. Kim v N. Hardy - 2nd Round Match-Ups,Michael Kim,-0.023800000000000043,0.5,0.5238
 2024-10-11 12:48:58.176883,Round Match-Ups - 2nd Round Match-Ups - H. Norlander vs K.H. Lee - 2nd Round Match-Ups,Henrik Norlander,-0.023800000000000043,0.5,0.5238
+2024-10-11 12:48:58.101076,Round Match-Ups - 2nd Round Match-Ups - C.T. Pan vs H. Springer - 2nd Round Match-Ups,Hayden Springer,-0.023800000000000043,0.5,0.5238
 2024-10-11 20:28:46.962532,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.023800000000000043,0.5,0.5238
 2024-10-11 12:48:58.109477,Round Match-Ups - 2nd Round Match-Ups - A. Svensson vs A. Smalley - 2nd Round Match-Ups,Alex Smalley,-0.023800000000000043,0.5,0.5238
-2024-10-11 12:48:58.159892,Round Match-Ups - 2nd Round Match-Ups - M. Kim v N. Hardy - 2nd Round Match-Ups,Michael Kim,-0.023800000000000043,0.5,0.5238
+2024-10-11 12:48:58.151515,Round Match-Ups - 2nd Round Match-Ups - M. Meissner vs B. Hossler - 2nd Round Match-Ups,Mac Meissner,-0.024399999999999977,0.4878,0.5122
 2024-10-11 12:48:58.130862,Round Match-Ups - 2nd Round Match-Ups - C. Kirk vs P. Kizzire - 2nd Round Match-Ups,Patton Kizzire,-0.024399999999999977,0.4878,0.5122
 2024-10-11 12:48:58.134979,Round Match-Ups - 2nd Round Match-Ups - W. Gordon vs D. Lipsky - 2nd Round Match-Ups,Will Gordon,-0.024399999999999977,0.4878,0.5122
-2024-10-11 12:48:58.151515,Round Match-Ups - 2nd Round Match-Ups - M. Meissner vs B. Hossler - 2nd Round Match-Ups,Mac Meissner,-0.024399999999999977,0.4878,0.5122
-2024-10-11 11:24:16.412620,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Chop Robinson (MIA),-0.028199999999999996,0.0385,0.0667
 2024-10-11 16:32:54.299377,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Nico Gaffie,-0.029000000000000026,0.4255,0.4545
 2024-10-11 20:28:46.928907,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,-0.03090000000000004,0.5917,0.6226
 2024-10-11 18:34:23.332679,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,-0.031700000000000006,0.25,0.2817
 2024-10-11 14:29:26.101110,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Jose Daniel Toledo,-0.031700000000000006,0.25,0.2817
 2024-10-11 20:28:46.817916,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Omar Rosario,-0.031700000000000006,0.25,0.2817
-2024-10-11 11:24:16.391935,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),C.J. Stroud (HOU),-0.031799999999999995,0.1111,0.1429
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),BYU,-0.03219999999999999,0.0345,0.0667
 2024-10-11 22:29:08.280515,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Villanova,-0.03219999999999999,0.0345,0.0667
-2024-10-11 10:31:39.567429,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,Danny Christie,-0.03470000000000001,0.2778,0.3125
 2024-10-11 17:27:40.856466,Boxing Lines - Sivenathi Nontshinga vs Masamichi Yabuki - To Win the Bout,Sivenathi Nontshinga,-0.03479999999999994,0.5652,0.6
 2024-10-11 22:29:08.280515,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,-0.03489999999999999,0.4651,0.5
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Adrien Saddier,-0.0385,0.005,0.0435
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Baylor,-0.03889999999999999,0.1429,0.1818
-2024-10-11 11:24:16.412620,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),T'Vondre Sweat (TEN),-0.0407,0.0769,0.1176
-2024-10-11 11:24:16.391935,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes (KC),-0.04099999999999998,0.2667,0.3077
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Jordan Smith,-0.041,0.0066,0.0476
 2024-10-11 13:30:18.175243,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs P. Fishburn - 2nd Round Match-Ups,Ben Griffin,-0.04139999999999999,0.5238,0.5652
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Joe Dean,-0.047099999999999996,0.0196,0.0667
 2024-10-11 21:27:45.144596,BKFC: Tenaglia vs Soto - Fran Suarez vs David Mora - To Win the Bout,Fran Suarez,-0.04780000000000001,0.3226,0.3704
-2024-10-11 11:24:16.412620,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu (IND),-0.04830000000000001,0.1739,0.2222
 2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Miami Florida,-0.0509,0.0667,0.1176
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Yannik Paul,-0.052399999999999995,0.0385,0.0909
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Nicolai Hojgaard,-0.0544,0.0123,0.0667
-2024-10-11 12:48:57.947962,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,-0.05559999999999998,0.5,0.5556
 2024-10-11 16:32:53.279792,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 30.5,-0.05559999999999998,0.5,0.5556
+2024-10-11 12:48:57.947962,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,-0.05559999999999998,0.5,0.5556
 2024-10-11 16:32:54.190398,Boxing Lines - Elijah Flores vs Omar Rosario - To Win the Bout,Omar Rosario,-0.059099999999999986,0.2857,0.3448
 2024-10-11 16:32:53.283221,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 27.5,-0.06490000000000007,0.697,0.7619
-2024-10-11 11:24:16.412620,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell (PHI),-0.066,0.0769,0.1429
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Arizona,-0.07069999999999999,0.1111,0.1818
 2024-10-11 21:27:45.140299,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,-0.0917,0.5,0.5917
-2024-10-11 10:31:37.368054,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Makensy Manbeck,-0.09230000000000005,0.3077,0.4
 2024-10-11 12:48:55.714628,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,-0.1389,0.1111,0.25
