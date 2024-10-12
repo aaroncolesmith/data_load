@@ -35,8 +35,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-12 03:30:29.527724,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,0.023800000000000043,0.5238,0.5
 2024-10-12 05:29:13.353290,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Cleveland Guardians,0.0238,0.0714,0.0476
 2024-10-11 22:29:08.276551,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Texas Tech,0.0232,0.0667,0.0435
-2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),North Carolina,0.022199999999999998,0.2222,0.2
 2024-10-11 22:29:08.280515,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,0.022199999999999998,0.1333,0.1111
+2024-10-11 22:29:08.272552,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),North Carolina,0.022199999999999998,0.2222,0.2
 2024-10-12 05:29:13.353290,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat Los Angeles Dodgers,0.022199999999999998,0.0455,0.0233
 2024-10-12 04:31:05.658184,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,Danny Christie,0.021999999999999964,0.3077,0.2857
 2024-10-11 22:29:09.693666,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.020699999999999996,0.4651,0.4444
@@ -55,8 +55,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-11 20:28:45.565447,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),0.015300000000000001,0.0476,0.0323
 2024-10-11 22:29:08.280515,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,0.015100000000000002,0.1818,0.1667
 2024-10-11 21:27:45.161686,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,0.014800000000000035,0.6226,0.6078
-2024-10-12 03:30:28.104737,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.013999999999999999,0.0909,0.0769
+2024-10-12 06:33:16.102819,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Austin Trout,0.014700000000000046,0.7647,0.75
 2024-10-12 03:30:27.374273,NBA Championship - NBA Championship 2024-25 - NBA Champion,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
+2024-10-12 03:30:28.104737,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.013999999999999999,0.0909,0.0769
 2024-10-11 21:27:45.165882,BKFC: Tenaglia vs Soto - Hannah Rankin vs Deborah Melhorn - To Win the Bout,Hannah Rankin,0.0131,0.7778,0.7647
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Sam Bairstow,0.0131,0.0164,0.0033
 2024-10-11 18:34:23.563447,Open de France - Open de France - Winner,Fabrizio Zanotti,0.0131,0.0476,0.0345
