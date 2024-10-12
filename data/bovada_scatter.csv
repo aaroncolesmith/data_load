@@ -9,21 +9,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-12 12:45:57.769810,NLCS MVP - NLCS MVP - NLCS MVP,Shohei Ohtani (LAD),0.1666,0.3333,0.1667
 2024-10-12 04:31:05.501953,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.16190000000000002,0.4,0.2381
 2024-10-12 04:31:05.505315,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. New York Yankees,0.15350000000000003,0.4167,0.2632
-2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Luis Severino (NYM),0.14709999999999998,0.1667,0.0196
 2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Jose Quintana (NYM),0.14709999999999998,0.1667,0.0196
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Billy Andrade,0.1234,0.1333,0.0099
+2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Luis Severino (NYM),0.14709999999999998,0.1667,0.0196
 2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Sean Manaea (NYM),0.12319999999999999,0.1667,0.0435
 2024-10-12 13:27:49.488739,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Anthony Volpe (NYY),0.11929999999999999,0.1538,0.0345
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Teoscar Hernandez (LAD),0.1103,0.1538,0.0435
 2024-10-12 13:27:49.479707,Stat Leaders - Most Saves in the 2024 MLB Playoffs - Most Saves in the 2024 MLB Playoffs,Beau Briske,0.10200000000000001,0.2353,0.1333
 2024-10-12 05:29:13.353290,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat New York Yankees,0.0993,0.2326,0.1333
 2024-10-12 13:27:49.488739,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Starling Marte (NYM),0.08360000000000001,0.1,0.0164
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Padraig Harrington,0.07930000000000001,0.2222,0.1429
 2024-10-12 13:27:49.106817,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,0.07819999999999994,0.9671,0.8889
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Francisco Lindor (NYM),0.07750000000000001,0.1053,0.0278
-2024-10-12 13:27:49.479707,Stat Leaders - Most Saves in the 2024 MLB Playoffs - Most Saves in the 2024 MLB Playoffs,Edwin Diaz (NYM),0.0769,0.1538,0.0769
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Mark Vientos (NYM),0.0769,0.1538,0.0769
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Jerry Kelly,0.07239999999999999,0.125,0.0526
+2024-10-12 13:27:49.479707,Stat Leaders - Most Saves in the 2024 MLB Playoffs - Most Saves in the 2024 MLB Playoffs,Edwin Diaz (NYM),0.0769,0.1538,0.0769
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Mookie Betts (LAD),0.0713,0.0909,0.0196
 2024-10-12 12:45:57.775633,World Series MVP - World Series MVP  - World Series MVP,Shohei Ohtani (LAD),0.07069999999999999,0.1818,0.1111
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Pete Alonso (NYM),0.06860000000000002,0.2353,0.1667
@@ -34,130 +31,133 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-12 04:31:05.505315,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Detroit Tigers,0.056400000000000006,0.1333,0.0769
 2024-10-12 04:31:05.645593,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Nico Gaffie,0.05449999999999999,0.6,0.5455
 2024-10-12 12:45:57.769810,NLCS MVP - NLCS MVP - NLCS MVP,Teoscar Hernandez (LAD),0.053500000000000006,0.0952,0.0417
+2024-10-12 14:26:41.401140,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Republican,0.049199999999999994,0.2597,0.2105
 2024-10-12 05:29:13.337505,ALCS MVP - ALCS MVP - ALCS MVP,Giancarlo Stanton (NYY),0.048600000000000004,0.1111,0.0625
 2024-10-12 04:31:05.505315,MLB Futures - MLB 2024 World Series Winner - World Series Finalists - MLB 2024,Los Angeles Dodgers vs. Cleveland Guardians,0.04619999999999999,0.1176,0.0714
 2024-10-12 13:27:49.745822,Round Match-Ups - 3rd Round Match-Up - J. Suh v G. Sigg - 3rd Round Match-Up,Justin Suh,0.045499999999999985,0.5455,0.5
 2024-10-12 13:27:49.704423,Round Match-Ups - 3rd Round Match-Ups - A. Smalley vs N. Taylor - 3rd Round Match-Ups,Nick Taylor,0.043399999999999994,0.5556,0.5122
 2024-10-12 13:27:49.725140,Round Match-Ups - 3rd Round Match-Ups - E. Van Rooyen vs B. Griffin - 3rd Round Match-Ups,Erik Van Rooyen,0.043399999999999994,0.5556,0.5122
 2024-10-12 12:45:57.775633,World Series MVP - World Series MVP  - World Series MVP,Mookie Betts (LAD),0.04329999999999999,0.0909,0.0476
+2024-10-12 14:26:41.357878,US Senate Elections 2024 - Senate Election Winner - Florida - Winner,Republican,0.04169999999999996,0.9167,0.875
+2024-10-12 13:27:49.759285,Round Match-Ups - 3rd Round Match-Up - P. Kizzire v D. Berger - 3rd Round Match-Up,Daniel Berger,0.03959999999999997,0.5744,0.5348
 2024-10-12 13:27:49.754847,Round Match-Ups - 3rd Round Match-Up - L. Hodges v J. Bramlett - 3rd Round Match-Up,Lee Hodges,0.03959999999999997,0.5744,0.5348
 2024-10-12 13:27:49.763681,Round Match-Ups - 3rd Round Match-Up - R. Hisatsune v N. Hardy - 3rd Round Match-Up,Nick Hardy,0.03959999999999997,0.5744,0.5348
-2024-10-12 13:27:49.759285,Round Match-Ups - 3rd Round Match-Up - P. Kizzire v D. Berger - 3rd Round Match-Up,Daniel Berger,0.03959999999999997,0.5744,0.5348
-2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Edwin Diaz (NYM),0.037700000000000004,0.0476,0.0099
 2024-10-12 13:27:49.488739,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Aaron Judge (NYY),0.037700000000000004,0.0476,0.0099
+2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Edwin Diaz (NYM),0.037700000000000004,0.0476,0.0099
+2024-10-12 14:26:41.405479,US Senate Elections 2024 - Senate Election Winner - Wisconsin - Winner,Republican,0.03749999999999998,0.2597,0.2222
 2024-10-12 09:26:27.920094,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.035999999999999976,0.5122,0.4762
 2024-10-12 05:29:13.353290,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Detroit Tigers,0.0353,0.0909,0.0556
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Robert Karlsson,0.0336,0.0435,0.0099
+2024-10-12 14:26:41.100327,Electoral College Winner - Alaska (AK) - Alaska,Republican,0.03210000000000002,0.9412,0.9091
 2024-10-12 13:27:49.750360,Round Match-Ups - 3rd Round Match-Up - KH Lee v M. McGreevy - 3rd Round Match-Up,KH Lee,0.03179999999999994,0.5556,0.5238
-2024-10-12 13:27:49.712736,Round Match-Ups - 3rd Round Match-Ups - C. Kim vs M. McCarty - 3rd Round Match-Ups,Matt McCarty,0.03179999999999994,0.5556,0.5238
-2024-10-12 13:27:49.733404,Round Match-Ups - 3rd Round Match-Ups - H. Hall vs C. Champ - 3rd Round Match-Ups,Harry Hall,0.03179999999999994,0.5556,0.5238
 2024-10-12 13:27:49.737547,Round Match-Ups - 3rd Round Match-Ups - M. Meissner vs A. Svensson - 3rd Round Match-Ups,Mac Meissner,0.03179999999999994,0.5556,0.5238
+2024-10-12 13:27:49.733404,Round Match-Ups - 3rd Round Match-Ups - H. Hall vs C. Champ - 3rd Round Match-Ups,Harry Hall,0.03179999999999994,0.5556,0.5238
+2024-10-12 13:27:49.712736,Round Match-Ups - 3rd Round Match-Ups - C. Kim vs M. McCarty - 3rd Round Match-Ups,Matt McCarty,0.03179999999999994,0.5556,0.5238
 2024-10-12 12:45:57.769810,NLCS MVP - NLCS MVP - NLCS MVP,Freddie Freeman (LAD),0.030699999999999998,0.0833,0.0526
 2024-10-12 04:31:05.641389,BKFC: Tenaglia vs Soto - Fran Suarez vs David Mora - To Win the Bout,Fran Suarez,0.028299999999999992,0.3509,0.3226
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Y E Yang,0.028199999999999996,0.0667,0.0385
 2024-10-12 12:45:57.775633,World Series MVP - World Series MVP  - World Series MVP,Teoscar Hernandez (LAD),0.027,0.0526,0.0256
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Giancarlo Stanton (NYY),0.026899999999999993,0.0769,0.05
 2024-10-12 07:23:35.805567,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Yunus Emre Batan,0.025599999999999956,0.6,0.5744
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Woody Austin,0.0253,0.0278,0.0025
 2024-10-12 03:30:29.527724,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,0.023800000000000043,0.5238,0.5
 2024-10-12 05:29:13.353290,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Cleveland Guardians,0.0238,0.0714,0.0476
 2024-10-12 05:29:13.353290,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat Los Angeles Dodgers,0.022199999999999998,0.0455,0.0233
 2024-10-12 04:31:05.658184,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,Danny Christie,0.021999999999999964,0.3077,0.2857
 2024-10-12 12:45:57.927807,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Nico Gaffie,0.02180000000000004,0.6296,0.6078
 2024-10-12 12:45:57.805444,Elite Boxing - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,0.021699999999999997,0.4762,0.4545
+2024-10-12 14:26:40.343284,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,0.02169999999999994,0.5455,0.5238
+2024-10-12 14:26:41.055721,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.019799999999999984,0.2667,0.2469
 2024-10-12 12:45:57.931941,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Arbi Chakaev,0.01959999999999995,0.8291,0.8095
 2024-10-12 05:29:13.353290,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat Los Angeles Dodgers,0.0192,0.0455,0.0263
 2024-10-12 11:22:22.004753,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Jose Daniel Toledo,0.018699999999999994,0.2597,0.241
 2024-10-12 07:23:35.709036,Boxing Lines - Shokichi Iwata vs Jairo Noriega - To Win the Bout,Jairo Noriega,0.016000000000000014,0.4082,0.3922
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Ricardo Gonzalez,0.015499999999999998,0.0278,0.0123
+2024-10-12 14:26:41.375077,US Senate Elections 2024 - Senate Election Winner - Maryland - Winner,Republican,0.015899999999999997,0.1212,0.1053
 2024-10-12 12:45:57.775633,World Series MVP - World Series MVP  - World Series MVP,Freddie Freeman (LAD),0.015300000000000001,0.0476,0.0323
 2024-10-12 06:33:16.102819,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Austin Trout,0.014700000000000046,0.7647,0.75
 2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Gerrit Cole (NYY),0.01440000000000001,0.1053,0.0909
-2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Tanner Bibee (CLE),0.014100000000000001,0.0526,0.0385
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Jose Ramirez (CLE),0.014100000000000001,0.0526,0.0385
+2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Tanner Bibee (CLE),0.014100000000000001,0.0526,0.0385
 2024-10-12 12:45:57.775633,World Series MVP - World Series MVP  - World Series MVP,Giancarlo Stanton (NYY),0.014100000000000001,0.0526,0.0385
-2024-10-12 03:30:28.104737,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.013999999999999999,0.0909,0.0769
+2024-10-12 14:26:41.126134,Electoral College Winner - Florida (FL) - Florida,Republican,0.014000000000000012,0.9231,0.9091
 2024-10-12 03:30:27.374273,NBA Championship - NBA Championship 2024-25 - NBA Champion,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
+2024-10-12 03:30:28.104737,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.013999999999999999,0.0909,0.0769
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Lane Thomas (CLE),0.0131,0.0476,0.0345
 2024-10-12 09:26:28.015712,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Austin Trout,0.0131,0.7778,0.7647
 2024-10-12 08:30:24.305781,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Germany,0.012899999999999995,0.1667,0.1538
 2024-10-12 12:45:57.769810,NLCS MVP - NLCS MVP - NLCS MVP,Max Muncy (LAD),0.012700000000000003,0.0323,0.0196
 2024-10-12 12:45:57.769810,NLCS MVP - NLCS MVP - NLCS MVP,Will Smith (LAD),0.012700000000000003,0.0323,0.0196
+2024-10-12 14:26:41.920693,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.012199999999999989,0.5,0.4878
+2024-10-12 14:26:41.801592,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.012199999999999989,0.5,0.4878
 2024-10-12 13:27:49.488739,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Brandon Nimmo (NYM),0.012100000000000001,0.0244,0.0123
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Dicky Pride,0.0119,0.0152,0.0033
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Paul Goydos,0.011699999999999999,0.0196,0.0079
-2024-10-12 12:45:57.936165,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Austin Trout,0.011699999999999933,0.7895,0.7778
 2024-10-12 09:26:27.944747,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,0.011699999999999933,0.7895,0.7778
-2024-10-12 01:49:40.937509,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,0.011600000000000055,0.5238,0.5122
+2024-10-12 12:45:57.936165,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Austin Trout,0.011699999999999933,0.7895,0.7778
 2024-10-12 02:52:26.245304,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,0.011600000000000055,0.5238,0.5122
 2024-10-12 12:45:57.952739,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.0116,0.4878,0.4762
 2024-10-12 11:22:21.941146,Boxing Lines - Shokichi Iwata vs Jairo Noriega - To Win the Bout,Shokichi Iwata,0.011499999999999955,0.6667,0.6552
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Scott McCarron,0.0112,0.0152,0.004
-2024-10-12 11:22:22.026544,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.011099999999999999,0.4762,0.4651
+2024-10-12 14:26:41.074674,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.011499999999999955,0.6667,0.6552
 2024-10-12 02:52:26.232882,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.011099999999999999,0.4762,0.4651
 2024-10-12 11:22:21.928468,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Hiroto Kyoguchi,0.011099999999999999,0.7333,0.7222
+2024-10-12 11:22:22.026544,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.011099999999999999,0.4762,0.4651
 2024-10-12 12:45:57.956866,BKFC: Tenaglia vs Soto - Hannah Rankin vs Deborah Melhorn - To Win the Bout,Hannah Rankin,0.010500000000000065,0.8,0.7895
+2024-10-12 14:26:41.388025,US Senate Elections 2024 - Senate Election Winner - Montana - Winner,Republican,0.010500000000000065,0.8182,0.8077
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Will Smith (LAD),0.010300000000000002,0.0244,0.0141
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Michael Wright,0.0102,0.0152,0.005
 2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Nestor Cortes (NYY),0.010100000000000001,0.0345,0.0244
 2024-10-12 05:29:13.349658,MLB Futures - MLB 2024 World Series Winner - Winning League,National League,0.010099999999999998,0.5556,0.5455
-2024-10-12 01:49:40.937509,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.010099999999999998,0.5455,0.5556
 2024-10-12 02:52:26.245304,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,John Riel Casimero,-0.010099999999999998,0.5455,0.5556
 2024-10-12 07:23:35.768228,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,-0.010599999999999998,0.4545,0.4651
 2024-10-12 13:27:49.689907,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.010599999999999998,0.4545,0.4651
+2024-10-12 14:26:41.126134,Electoral College Winner - Florida (FL) - Florida,Democrat,-0.010899999999999993,0.1429,0.1538
 2024-10-12 12:45:57.956866,BKFC: Tenaglia vs Soto - Hannah Rankin vs Deborah Melhorn - To Win the Bout,Deborah Melhorn,-0.011099999999999999,0.2667,0.2778
+2024-10-12 14:26:41.055721,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.011099999999999999,0.4651,0.4762
+2024-10-12 14:26:41.043509,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.011099999999999999,0.4651,0.4762
+2024-10-12 14:26:41.039408,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.011099999999999999,0.4651,0.4762
 2024-10-12 11:22:21.928468,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Vince Paras,-0.01150000000000001,0.3333,0.3448
 2024-10-12 13:27:48.852171,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.0116,0.4762,0.4878
 2024-10-12 05:29:13.349658,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,-0.011600000000000055,0.5122,0.5238
-2024-10-12 10:29:39.775194,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,-0.012199999999999989,0.5,0.5122
 2024-10-12 12:45:57.839805,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,-0.012199999999999989,0.4878,0.5
+2024-10-12 10:29:39.775194,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,-0.012199999999999989,0.5,0.5122
 2024-10-12 12:45:57.775633,World Series MVP - World Series MVP  - World Series MVP,Juan Soto (NYY),-0.013899999999999996,0.1111,0.125
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Rod Pampling,-0.0139,0.0057,0.0196
 2024-10-12 08:30:24.305781,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Netherlands,-0.013999999999999999,0.0769,0.0909
+2024-10-12 14:26:41.375077,US Senate Elections 2024 - Senate Election Winner - Maryland - Winner,Democrat,-0.014100000000000001,0.9474,0.9615
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Alexa Pano,-0.0142,0.001,0.0152
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Vijay Singh,-0.0151,0.0066,0.0217
 2024-10-12 11:22:22.004753,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Arbi Chakaev,-0.016599999999999948,0.8095,0.8261
+2024-10-12 14:26:41.108922,Electoral College Winner - California (CA) - California,Republican,-0.016600000000000004,0.0667,0.0833
 2024-10-12 07:23:35.709036,Boxing Lines - Shokichi Iwata vs Jairo Noriega - To Win the Bout,Shokichi Iwata,-0.016900000000000026,0.6552,0.6721
-2024-10-12 12:45:57.952739,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,-0.017299999999999982,0.5744,0.5917
 2024-10-12 09:26:28.015712,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Rico Franco,-0.017299999999999982,0.2857,0.303
+2024-10-12 12:45:57.952739,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Tony Soto,-0.017299999999999982,0.5744,0.5917
 2024-10-12 12:45:57.805444,Elite Boxing - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,-0.018100000000000005,0.5652,0.5833
 2024-10-12 13:27:49.479707,Stat Leaders - Most Saves in the 2024 MLB Playoffs - Most Saves in the 2024 MLB Playoffs,Jason Foley (DET),-0.0189,0.0196,0.0385
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Thongchai Jaidee,-0.0194,0.005,0.0244
 2024-10-12 12:45:57.927807,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,-0.019699999999999995,0.4348,0.4545
 2024-10-12 03:30:29.527724,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Nico Gaffie,-0.01970000000000005,0.5455,0.5652
-2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Yealimi Noh,-0.0203,0.0323,0.0526
 2024-10-12 13:27:49.493243,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Luis Gil (NYY),-0.0203,0.0323,0.0526
+2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Yealimi Noh,-0.0203,0.0323,0.0526
 2024-10-12 04:31:05.501953,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.02100000000000002,0.3636,0.3846
 2024-10-12 12:45:57.931941,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Jose Daniel Toledo,-0.02159999999999998,0.2381,0.2597
+2024-10-12 14:26:40.343284,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.02169999999999994,0.5238,0.5455
 2024-10-12 04:31:05.658184,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,David Mundell,-0.021700000000000053,0.7561,0.7778
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Paul Broadhurst,-0.022400000000000003,0.0099,0.0323
 2024-10-12 07:23:35.805567,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.022699999999999998,0.4651,0.4878
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Thomas Bjorn,-0.025799999999999997,0.002,0.0278
 2024-10-12 04:31:05.641389,BKFC: Tenaglia vs Soto - Fran Suarez vs David Mora - To Win the Bout,David Mora,-0.025999999999999912,0.7143,0.7403
-2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Pajaree Anannarukarn,-0.026799999999999997,0.001,0.0278
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Xiyu Lin,-0.026799999999999997,0.001,0.0278
+2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Pajaree Anannarukarn,-0.026799999999999997,0.001,0.0278
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Haruka Morita,-0.0279,0.0066,0.0345
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Darren Clarke,-0.035300000000000005,0.0123,0.0476
-2024-10-12 13:27:49.750360,Round Match-Ups - 3rd Round Match-Up - KH Lee v M. McGreevy - 3rd Round Match-Up,Max McGreevy,-0.03600000000000003,0.4878,0.5238
+2024-10-12 14:26:41.100327,Electoral College Winner - Alaska (AK) - Alaska,Democrat,-0.028799999999999992,0.125,0.1538
 2024-10-12 13:27:49.737547,Round Match-Ups - 3rd Round Match-Ups - M. Meissner vs A. Svensson - 3rd Round Match-Ups,Adam Svensson,-0.03600000000000003,0.4878,0.5238
+2024-10-12 13:27:49.750360,Round Match-Ups - 3rd Round Match-Up - KH Lee v M. McGreevy - 3rd Round Match-Up,Max McGreevy,-0.03600000000000003,0.4878,0.5238
 2024-10-12 13:27:49.712736,Round Match-Ups - 3rd Round Match-Ups - C. Kim vs M. McCarty - 3rd Round Match-Ups,Chan Kim,-0.03600000000000003,0.4878,0.5238
 2024-10-12 13:27:49.733404,Round Match-Ups - 3rd Round Match-Ups - H. Hall vs C. Champ - 3rd Round Match-Ups,Cameron Champ,-0.03600000000000003,0.4878,0.5238
 2024-10-12 09:26:27.920094,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Fabio Wardley,-0.03610000000000002,0.5556,0.5917
 2024-10-12 13:27:49.479707,Stat Leaders - Most Saves in the 2024 MLB Playoffs - Most Saves in the 2024 MLB Playoffs,Will Vest (DET),-0.038099999999999995,0.0952,0.1333
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Steven Alker,-0.0417,0.0833,0.125
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Bernhard Langer,-0.04239999999999999,0.0345,0.0769
+2024-10-12 14:26:41.405479,US Senate Elections 2024 - Senate Election Winner - Wisconsin - Winner,Democrat,-0.03849999999999998,0.8077,0.8462
+2024-10-12 14:26:41.357878,US Senate Elections 2024 - Senate Election Winner - Florida - Winner,Democrat,-0.04239999999999999,0.1481,0.1905
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Angel Yin,-0.042499999999999996,0.001,0.0435
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Richard Green,-0.0427,0.0099,0.0526
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Nasa Hataoka,-0.044700000000000004,0.0079,0.0526
 2024-10-12 13:27:49.745822,Round Match-Ups - 3rd Round Match-Up - J. Suh v G. Sigg - 3rd Round Match-Up,Greyson Sigg,-0.045499999999999985,0.5,0.5455
 2024-10-12 13:27:49.484247,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Shohei Ohtani (LAD),-0.04620000000000002,0.1538,0.2
-2024-10-12 13:27:49.704423,Round Match-Ups - 3rd Round Match-Ups - A. Smalley vs N. Taylor - 3rd Round Match-Ups,Alex Smalley,-0.04700000000000004,0.4878,0.5348
 2024-10-12 13:27:49.725140,Round Match-Ups - 3rd Round Match-Ups - E. Van Rooyen vs B. Griffin - 3rd Round Match-Ups,Ben Griffin,-0.04700000000000004,0.4878,0.5348
-2024-10-12 13:27:49.759285,Round Match-Ups - 3rd Round Match-Up - P. Kizzire v D. Berger - 3rd Round Match-Up,Patton Kizzire,-0.047099999999999975,0.4651,0.5122
-2024-10-12 13:27:49.754847,Round Match-Ups - 3rd Round Match-Up - L. Hodges v J. Bramlett - 3rd Round Match-Up,Joseph Bramlett,-0.047099999999999975,0.4651,0.5122
+2024-10-12 13:27:49.704423,Round Match-Ups - 3rd Round Match-Ups - A. Smalley vs N. Taylor - 3rd Round Match-Ups,Alex Smalley,-0.04700000000000004,0.4878,0.5348
 2024-10-12 13:27:49.763681,Round Match-Ups - 3rd Round Match-Up - R. Hisatsune v N. Hardy - 3rd Round Match-Up,Ryo Hisatsune,-0.047099999999999975,0.4651,0.5122
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Ernie Els,-0.0491,0.0278,0.0769
+2024-10-12 13:27:49.754847,Round Match-Ups - 3rd Round Match-Up - L. Hodges v J. Bramlett - 3rd Round Match-Up,Joseph Bramlett,-0.047099999999999975,0.4651,0.5122
+2024-10-12 13:27:49.759285,Round Match-Ups - 3rd Round Match-Up - P. Kizzire v D. Berger - 3rd Round Match-Up,Patton Kizzire,-0.047099999999999975,0.4651,0.5122
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Celine Boutier,-0.049300000000000004,0.0033,0.0526
+2024-10-12 14:26:41.401140,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Democratic,-0.0494,0.8077,0.8571
 2024-10-12 13:27:49.488739,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Lane Thomas (CLE),-0.0503,0.0164,0.0667
 2024-10-12 04:31:05.645593,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,-0.05870000000000003,0.4651,0.5238
 2024-10-12 13:27:49.488739,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Shohei Ohtani (LAD),-0.0857,0.2,0.2857
@@ -167,6 +167,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-12 13:27:49.106817,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,-0.09999999999999999,0.0667,0.1667
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Lucy Li,-0.1003,0.005,0.1053
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Sei Young Kim,-0.1131,0.125,0.2381
-2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Stewart Cink,-0.1185,0.0244,0.1429
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Minjee Lee,-0.1234,0.0099,0.1333
 2024-10-12 13:27:49.479707,Stat Leaders - Most Saves in the 2024 MLB Playoffs - Most Saves in the 2024 MLB Playoffs,Michael Kopech (LAD),-0.14229999999999998,0.0244,0.1667
