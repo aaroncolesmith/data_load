@@ -25,11 +25,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-12 05:29:13.353290,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Detroit Tigers to beat Los Angeles Dodgers,0.022199999999999998,0.0455,0.0233
 2024-10-12 04:31:05.658184,BKFC: Tenaglia vs Soto - David Mundell vs Danny Christie - To Win the Bout,Danny Christie,0.021999999999999964,0.3077,0.2857
 2024-10-12 05:29:13.353290,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat Los Angeles Dodgers,0.0192,0.0455,0.0263
+2024-10-12 11:22:22.004753,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Jose Daniel Toledo,0.018699999999999994,0.2597,0.241
 2024-10-12 07:23:35.709036,Boxing Lines - Shokichi Iwata vs Jairo Noriega - To Win the Bout,Jairo Noriega,0.016000000000000014,0.4082,0.3922
 2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Ricardo Gonzalez,0.015499999999999998,0.0278,0.0123
 2024-10-12 06:33:16.102819,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Austin Trout,0.014700000000000046,0.7647,0.75
-2024-10-12 03:30:27.374273,NBA Championship - NBA Championship 2024-25 - NBA Champion,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
 2024-10-12 03:30:28.104737,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.013999999999999999,0.0909,0.0769
+2024-10-12 03:30:27.374273,NBA Championship - NBA Championship 2024-25 - NBA Champion,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
 2024-10-12 09:26:28.015712,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Austin Trout,0.0131,0.7778,0.7647
 2024-10-12 08:30:24.305781,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Germany,0.012899999999999995,0.1667,0.1538
 2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Dicky Pride,0.0119,0.0152,0.0033
@@ -37,20 +38,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-12 09:26:27.944747,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,0.011699999999999933,0.7895,0.7778
 2024-10-12 01:49:40.937509,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,0.011600000000000055,0.5238,0.5122
 2024-10-12 02:52:26.245304,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,0.011600000000000055,0.5238,0.5122
+2024-10-12 11:22:21.941146,Boxing Lines - Shokichi Iwata vs Jairo Noriega - To Win the Bout,Shokichi Iwata,0.011499999999999955,0.6667,0.6552
 2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Scott McCarron,0.0112,0.0152,0.004
+2024-10-12 11:22:22.026544,BKFC: Tenaglia vs Soto - Franco Tenaglia vs Tony Soto - To Win the Bout,Franco Tenaglia,0.011099999999999999,0.4762,0.4651
 2024-10-12 02:52:26.232882,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,0.011099999999999999,0.4762,0.4651
+2024-10-12 11:22:21.928468,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Hiroto Kyoguchi,0.011099999999999999,0.7333,0.7222
 2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Michael Wright,0.0102,0.0152,0.005
 2024-10-12 05:29:13.349658,MLB Futures - MLB 2024 World Series Winner - Winning League,National League,0.010099999999999998,0.5556,0.5455
 2024-10-12 01:49:40.937509,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.010099999999999998,0.5455,0.5556
 2024-10-12 02:52:26.245304,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,John Riel Casimero,-0.010099999999999998,0.5455,0.5556
 2024-10-12 07:23:35.768228,BKFC: Tenaglia vs Soto - Nico Gaffie vs Radek Stadler - To Win the Bout,Radek Stadler,-0.010599999999999998,0.4545,0.4651
+2024-10-12 11:22:21.928468,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Vince Paras,-0.01150000000000001,0.3333,0.3448
 2024-10-12 05:29:13.349658,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,-0.011600000000000055,0.5122,0.5238
 2024-10-12 10:29:39.775194,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Frazer Clarke,-0.012199999999999989,0.5,0.5122
 2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Rod Pampling,-0.0139,0.0057,0.0196
-2024-10-12 08:30:24.305781,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Netherlands,-0.013999999999999999,0.0769,0.0909
 2024-10-11 23:24:58.958871,BKFC: Tenaglia vs Soto - Dan Chapman vs Mike Jurik - To Win the Bout,Mike Jurik,-0.013999999999999999,0.0769,0.0909
+2024-10-12 08:30:24.305781,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Netherlands,-0.013999999999999999,0.0769,0.0909
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Alexa Pano,-0.0142,0.001,0.0152
 2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Vijay Singh,-0.0151,0.0066,0.0217
+2024-10-12 11:22:22.004753,BKFC: Tenaglia vs Soto - Arbi Chakaev vs Jose Daniel Toledo - To Win the Bout,Arbi Chakaev,-0.016599999999999948,0.8095,0.8261
 2024-10-12 07:23:35.709036,Boxing Lines - Shokichi Iwata vs Jairo Noriega - To Win the Bout,Shokichi Iwata,-0.016900000000000026,0.6552,0.6721
 2024-10-12 09:26:28.015712,BKFC: Tenaglia vs Soto - Austin Trout vs Rico Franco - To Win the Bout,Rico Franco,-0.017299999999999982,0.2857,0.303
 2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Thongchai Jaidee,-0.0194,0.005,0.0244
@@ -62,8 +68,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-12 07:23:35.805567,BKFC: Tenaglia vs Soto - Yunus Emre Batan vs Maxime Bellamy - To Win the Bout,Maxime Bellamy,-0.022699999999999998,0.4651,0.4878
 2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Thomas Bjorn,-0.025799999999999997,0.002,0.0278
 2024-10-12 04:31:05.641389,BKFC: Tenaglia vs Soto - Fran Suarez vs David Mora - To Win the Bout,David Mora,-0.025999999999999912,0.7143,0.7403
-2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Xiyu Lin,-0.026799999999999997,0.001,0.0278
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Pajaree Anannarukarn,-0.026799999999999997,0.001,0.0278
+2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Xiyu Lin,-0.026799999999999997,0.001,0.0278
 2024-10-12 09:26:28.102204,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Haruka Morita,-0.0279,0.0066,0.0345
 2024-10-12 01:49:42.548499,SAS Championship - SAS Championship - Winner,Darren Clarke,-0.035300000000000005,0.0123,0.0476
 2024-10-12 09:26:27.920094,Boxing Lines - Fabio Wardley vs Frazer Clarke - To Win the Bout,Fabio Wardley,-0.03610000000000002,0.5556,0.5917
