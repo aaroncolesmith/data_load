@@ -38,6 +38,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-13 09:26:01.286666,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.04040000000000002,0.2222,0.1818
 2024-10-13 06:33:48.256485,"NFL Weekly Specials - NFL Week 6- Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",DET Lions @ DAL Cowboys,0.03950000000000001,0.25,0.2105
 2024-10-13 08:30:20.142609,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,0.0363,0.303,0.2667
+2024-10-13 11:20:57.298952,NFL Weekly Specials - NFL Week 6 - RedZone Specials - Sunday October 13 - RedZone Games,"AJ Brown, Jayden Reed, CeeDee Lamb & Drake London Each 70+ Receiving Yards",0.03420000000000001,0.1111,0.0769
 2024-10-13 09:26:01.280313,League One - England League One 2024/25 - To Be Promoted,Rotherham Utd,0.034100000000000005,0.125,0.0909
 2024-10-13 01:58:56.799958,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat New York Mets,0.0334,0.0769,0.0435
 2024-10-13 09:26:01.280313,League One - England League One 2024/25 - To Be Promoted,Blackpool,0.033300000000000024,0.2,0.1667
@@ -61,15 +62,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-13 01:58:55.629308,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Trae Young (ATL),0.023200000000000002,0.0476,0.0244
 2024-10-13 10:29:48.923077,League Two - England League Two 2024/25 - To Be Relegated,Salford City,0.02310000000000001,0.1,0.0769
 2024-10-13 10:29:48.923077,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,0.022199999999999998,0.1333,0.1111
-2024-10-13 09:26:03.507321,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,0.022199999999999998,0.2222,0.2
-2024-10-13 10:29:48.929363,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,0.022199999999999998,0.2222,0.2
 2024-10-13 10:29:48.923077,League Two - England League Two 2024/25 - To Be Relegated,Cheltenham Town,0.022199999999999998,0.2222,0.2
+2024-10-13 10:29:48.929363,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,0.022199999999999998,0.2222,0.2
+2024-10-13 09:26:03.507321,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,0.022199999999999998,0.2222,0.2
 2024-10-13 10:29:51.358716,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Anthony Olascuaga,0.02210000000000001,0.8403,0.8182
 2024-10-13 09:26:01.286666,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.02100000000000002,0.3846,0.3636
 2024-10-13 09:26:01.300943,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.02020000000000001,0.1111,0.0909
 2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Mansfield Town,0.020100000000000007,0.25,0.2299
 2024-10-13 01:58:55.629308,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Anthony Edwards (MIN),0.019800000000000005,0.0476,0.0278
 2024-10-13 01:58:55.501684,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,0.019099999999999992,0.0667,0.0476
+2024-10-13 11:20:57.317474,NFL Weekly Specials - NFL Week 6- Player & Team Specials - Touchdown Scorer Parlays,"D.Henry, J.Conner, A.Kamara, T.Pollard & S.Barkley 1+ Anytime Touchdown Each",0.019099999999999992,0.0667,0.0476
 2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.019000000000000017,0.2857,0.2667
 2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Stockport County,0.01880000000000004,0.5744,0.5556
 2024-10-13 10:29:48.669421,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Portugal,0.01820000000000002,0.2,0.1818
@@ -84,23 +86,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.015400000000000025,0.4,0.3846
 2024-10-13 09:26:03.507321,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Clemson,0.015300000000000001,0.0476,0.0323
 2024-10-13 01:58:56.777214,ALCS MVP - ALCS MVP - ALCS MVP,Tanner Bibee (CLE),0.0153,0.0294,0.0141
-2024-10-13 10:29:48.669421,UEFA Nations League - UEFA Nations League 2024/25 - Winner,France,0.015100000000000002,0.1818,0.1667
-2024-10-13 01:58:55.443065,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.015100000000000002,0.1818,0.1667
 2024-10-13 01:58:55.501684,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.015100000000000002,0.1818,0.1667
+2024-10-13 01:58:55.443065,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.015100000000000002,0.1818,0.1667
+2024-10-13 10:29:48.669421,UEFA Nations League - UEFA Nations League 2024/25 - Winner,France,0.015100000000000002,0.1818,0.1667
 2024-10-13 10:29:50.887398,White House Specials - White House Halloween Event: Joe Biden's Costume - Joe Biden Halloween Costume,Skeleton,0.014899999999999997,0.0625,0.0476
-2024-10-13 10:29:50.887398,White House Specials - White House Halloween Event: Joe Biden's Costume - Joe Biden Halloween Costume,Wolf,0.014899999999999997,0.0625,0.0476
-2024-10-13 01:58:55.636411,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,Donovan Mitchell (CLE),0.014899999999999997,0.0625,0.0476
-2024-10-13 10:29:50.887398,White House Specials - White House Halloween Event: Joe Biden's Costume - Joe Biden Halloween Costume,Count Dracula,0.014899999999999997,0.0625,0.0476
 2024-10-13 10:29:50.887398,White House Specials - White House Halloween Event: Joe Biden's Costume - Joe Biden Halloween Costume,Dinosaur,0.014899999999999997,0.0625,0.0476
+2024-10-13 01:58:55.636411,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,Donovan Mitchell (CLE),0.014899999999999997,0.0625,0.0476
+2024-10-13 10:29:50.887398,White House Specials - White House Halloween Event: Joe Biden's Costume - Joe Biden Halloween Costume,Wolf,0.014899999999999997,0.0625,0.0476
+2024-10-13 10:29:50.887398,White House Specials - White House Halloween Event: Joe Biden's Costume - Joe Biden Halloween Costume,Count Dracula,0.014899999999999997,0.0625,0.0476
 2024-10-13 06:33:48.263710,"NFL Weekly Specials - NFL Week 6- Leaders - Lowest Scoring Game (Sunday Only, Exc London Game)",LA Chargers @ DEN Broncos,0.01469999999999999,0.25,0.2353
 2024-10-13 09:26:01.300943,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,0.014499999999999999,0.0294,0.0149
+2024-10-13 11:20:57.298952,NFL Weekly Specials - NFL Week 6 - RedZone Specials - Sunday October 13 - RedZone Games,"AJ Brown, Jayden Reed, Amon-Ra St. Brown & Diontae Johnson Each 70+ Receiving Yards",0.014099999999999994,0.0667,0.0526
 2024-10-13 09:26:01.300943,League Two - England League Two 2024/25 - Top Goalscorer,Will Grigg,0.013999999999999999,0.0909,0.0769
 2024-10-13 09:26:01.297740,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,0.013899999999999996,0.125,0.1111
 2024-10-13 01:58:56.793190,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.013800000000000034,0.3774,0.3636
 2024-10-13 01:58:56.787927,World Series MVP - World Series MVP  - World Series MVP,Josh Naylor (CLE),0.013700000000000004,0.0333,0.0196
 2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Lincoln City,0.013600000000000001,0.3077,0.2941
-2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Chad Campbell,0.0132,0.0152,0.002
 2024-10-13 01:58:55.629308,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Victor Wembanyama (SAS),0.0132,0.0152,0.002
+2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Chad Campbell,0.0132,0.0152,0.002
 2024-10-13 09:26:01.280313,League One - England League One 2024/25 - To Be Promoted,Wycombe,0.012899999999999995,0.1667,0.1538
 2024-10-13 10:29:48.932467,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.012899999999999995,0.1667,0.1538
 2024-10-13 01:58:56.787927,World Series MVP - World Series MVP  - World Series MVP,Steven Kwan (CLE),0.012599999999999998,0.0278,0.0152
@@ -111,38 +114,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-13 01:58:56.830583,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Vince Paras,0.01150000000000001,0.3448,0.3333
 2024-10-13 09:26:01.300943,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,0.011199999999999995,0.0588,0.0476
 2024-10-12 23:24:25.717025,League One - England League One 2024/25 - Winner,Stockport County,0.011199999999999995,0.0588,0.0476
-2024-10-13 10:29:48.926233,League Two - England League Two 2024/25 - To Finish Bottom,Cheltenham Town,0.011099999999999999,0.1111,0.1
-2024-10-13 10:29:49.010738,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.011099999999999999,0.1111,0.1
 2024-10-12 23:24:28.309811,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,0.011099999999999999,0.7937,0.7826
+2024-10-13 10:29:49.010738,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.011099999999999999,0.1111,0.1
+2024-10-13 10:29:48.926233,League Two - England League Two 2024/25 - To Finish Bottom,Cheltenham Town,0.011099999999999999,0.1111,0.1
 2024-10-13 02:59:48.244943,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,0.010800000000000032,0.274,0.2632
 2024-10-13 01:58:55.501684,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Wisconsin,0.010700000000000001,0.0385,0.0278
 2024-10-13 03:34:33.685036,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,John Riel Casimero,0.010699999999999932,0.5455,0.5348
 2024-10-13 10:29:48.696044,MLS - USA MLS 2024 - Futures - To Reach the Final,Columbus Crew,0.010499999999999982,0.2105,0.2
 2024-10-13 09:26:03.507321,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,LSU,0.010300000000000002,0.0244,0.0141
-2024-10-13 09:26:01.280313,League One - England League One 2024/25 - To Be Promoted,Mansfield Town,0.0102,0.0769,0.0667
-2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,0.0102,0.0769,0.0667
 2024-10-13 09:26:01.297740,League Two - England League Two 2024/25 - Winner,Bradford City,0.0102,0.0769,0.0667
+2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,0.0102,0.0769,0.0667
+2024-10-13 09:26:01.280313,League One - England League One 2024/25 - To Be Promoted,Mansfield Town,0.0102,0.0769,0.0667
 2024-10-13 09:26:01.297740,League Two - England League Two 2024/25 - Winner,Fleetwood Town,0.0102,0.0769,0.0667
 2024-10-13 01:58:56.851081,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,0.010199999999999987,0.8039,0.7937
 2024-10-13 06:33:48.373875,Boxing Lines - Shokichi Iwata vs Jairo Noriega - To Win the Bout,Shokichi Iwata,0.010099999999999998,0.6875,0.6774
 2024-10-13 01:58:55.443065,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,-0.010100000000000001,0.0244,0.0345
 2024-10-13 02:59:48.244943,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Takuma Inoue,-0.010199999999999987,0.7937,0.8039
 2024-10-13 09:26:01.280313,League One - England League One 2024/25 - To Be Promoted,Birmingham City,-0.010199999999999987,0.9231,0.9333
-2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Mario Tiziani,-0.0102,0.005,0.0152
 2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Cameron Percy,-0.0102,0.005,0.0152
-2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Tranmere Rovers,-0.0102,0.0667,0.0769
+2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Mario Tiziani,-0.0102,0.005,0.0152
 2024-10-13 06:33:48.256485,"NFL Weekly Specials - NFL Week 6- Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",CLE Browns @ PHI Eagles,-0.0102,0.0667,0.0769
+2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Tranmere Rovers,-0.0102,0.0667,0.0769
 2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Darren Clarke,-0.0103,0.002,0.0123
 2024-10-13 01:58:56.851081,Boxing Lines - Takuma Inoue vs Seiya Tsutsumi - To Win the Bout,Seiya Tsutsumi,-0.010800000000000032,0.2632,0.274
 2024-10-13 03:34:33.685036,Boxing Lines - John Riel Casimero vs Saul Sanchez - To Win the Bout,Saul Sanchez,-0.01100000000000001,0.5238,0.5348
 2024-10-13 01:58:56.830583,Boxing Lines - Vince Paras vs Hiroto Kyoguchi - To Win the Bout,Hiroto Kyoguchi,-0.011099999999999999,0.7222,0.7333
-2024-10-13 10:29:48.690123,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,-0.011199999999999995,0.0476,0.0588
-2024-10-13 06:33:48.263710,"NFL Weekly Specials - NFL Week 6- Leaders - Lowest Scoring Game (Sunday Only, Exc London Game)",DET Lions @ DAL Cowboys,-0.011199999999999995,0.0323,0.0435
 2024-10-12 23:24:25.717025,League One - England League One 2024/25 - Winner,Huddersfield Town,-0.011199999999999995,0.0476,0.0588
-2024-10-13 10:29:48.929363,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.011199999999999995,0.0476,0.0588
+2024-10-13 10:29:48.690123,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,-0.011199999999999995,0.0476,0.0588
 2024-10-13 10:29:48.929363,League Two - England League Two 2024/25 - Top 3 Finish,Tranmere Rovers,-0.011199999999999995,0.0476,0.0588
-2024-10-13 09:26:01.286666,League One - England League One 2024/25 - To Finish Bottom,Bristol Rovers,-0.011199999999999995,0.0476,0.0588
+2024-10-13 06:33:48.263710,"NFL Weekly Specials - NFL Week 6- Leaders - Lowest Scoring Game (Sunday Only, Exc London Game)",DET Lions @ DAL Cowboys,-0.011199999999999995,0.0323,0.0435
+2024-10-13 10:29:48.929363,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.011199999999999995,0.0476,0.0588
 2024-10-13 09:26:01.297740,League Two - England League Two 2024/25 - Winner,Barrow FC,-0.011199999999999995,0.0476,0.0588
+2024-10-13 09:26:01.286666,League One - England League One 2024/25 - To Finish Bottom,Bristol Rovers,-0.011199999999999995,0.0476,0.0588
 2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Dicky Pride,-0.0112,0.004,0.0152
 2024-10-13 01:58:56.799958,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat New York Yankees,-0.012299999999999991,0.1053,0.1176
 2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Miguel Angel Jimenez,-0.0127,0.0025,0.0152
@@ -153,8 +156,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Wrexham,-0.013799999999999923,0.6226,0.6364
 2024-10-13 10:29:48.669421,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Belgium,-0.013999999999999999,0.0769,0.0909
 2024-10-13 10:29:48.669421,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Denmark,-0.013999999999999999,0.0769,0.0909
-2024-10-13 01:58:55.443065,NBL - Australia NBL 2024/25 - Outright,Cairns Taipans,-0.014100000000000001,0.0385,0.0526
+2024-10-13 11:20:57.298952,NFL Weekly Specials - NFL Week 6 - RedZone Specials - Sunday October 13 - RedZone Games,Each Of The 20 Teams At Least 1 Successful Field Goal,-0.014099999999999994,0.0526,0.0667
 2024-10-13 06:33:48.256485,"NFL Weekly Specials - NFL Week 6- Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",LA Chargers @ DEN Broncos,-0.014100000000000001,0.0385,0.0526
+2024-10-13 01:58:55.443065,NBL - Australia NBL 2024/25 - Outright,Cairns Taipans,-0.014100000000000001,0.0385,0.0526
 2024-10-13 10:29:48.929363,League Two - England League Two 2024/25 - Top 3 Finish,Carlisle United,-0.014499999999999999,0.0149,0.0294
 2024-10-13 01:58:56.777214,ALCS MVP - ALCS MVP - ALCS MVP,Gerrit Cole (NYY),-0.014899999999999997,0.0476,0.0625
 2024-10-13 09:26:03.507321,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,USC,-0.0151,0.0066,0.0217
@@ -184,11 +188,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-13 01:58:56.846938,Boxing Lines - Kenshiro Teraji vs Cristofer Rosales - To Win the Bout,Cristofer Rosales,-0.01999999999999999,0.1905,0.2105
 2024-10-13 01:58:55.501684,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Rutgers,-0.02020000000000001,0.0909,0.1111
 2024-10-13 01:58:55.501684,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Illinois,-0.02020000000000001,0.0909,0.1111
-2024-10-13 10:29:48.692894,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,-0.0203,0.0385,0.0588
 2024-10-13 06:33:48.256485,"NFL Weekly Specials - NFL Week 6- Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",PIT Steelers @ LV Raiders,-0.0203,0.0385,0.0588
+2024-10-13 09:26:01.289788,League One - England League One 2024/25 - Top 2 Finish,Peterborough United,-0.0203,0.0385,0.0588
 2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.0203,0.0385,0.0588
 2024-10-13 01:58:55.513708,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Florida,-0.0203,0.0385,0.0588
-2024-10-13 09:26:01.289788,League One - England League One 2024/25 - Top 2 Finish,Peterborough United,-0.0203,0.0385,0.0588
+2024-10-13 10:29:48.692894,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,-0.0203,0.0385,0.0588
 2024-10-13 10:29:48.929363,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.02100000000000002,0.3636,0.3846
 2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.021699999999999997,0.4545,0.4762
 2024-10-13 09:26:01.280313,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,-0.021999999999999964,0.2857,0.3077
@@ -209,8 +213,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-13 01:58:55.447879,LNB Pro A - France LNB Pro A 2024/25 - Winner,AS Monaco,-0.029100000000000015,0.7436,0.7727
 2024-10-13 10:29:48.926233,League Two - England League Two 2024/25 - To Finish Bottom,Swindon Town,-0.0294,0.0294,0.0588
 2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Bernhard Langer,-0.029500000000000002,0.005,0.0345
-2024-10-13 01:58:56.804419,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,-0.030299999999999994,0.6667,0.697
 2024-10-13 01:58:55.443065,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.030299999999999994,0.303,0.3333
+2024-10-13 01:58:56.804419,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,-0.030299999999999994,0.6667,0.697
 2024-10-13 09:26:03.507321,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Miami Florida,-0.030699999999999998,0.0526,0.0833
 2024-10-13 10:29:48.932467,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.031799999999999995,0.1111,0.1429
 2024-10-13 09:26:01.297740,League Two - England League Two 2024/25 - Winner,Gillingham,-0.0321,0.0588,0.0909
@@ -229,8 +233,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-13 07:23:34.095347,Boxing Lines - Seigo Yuri Akui vs Thananchai Charunphak - To Win the Bout,Seigo Yuri Akui,-0.0383,0.9091,0.9474
 2024-10-13 01:58:55.513708,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Kentucky,-0.0384,0.0385,0.0769
 2024-10-13 01:58:55.501684,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,-0.03889999999999999,0.1429,0.1818
-2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,-0.04040000000000002,0.1818,0.2222
 2024-10-13 10:29:48.929363,League Two - England League Two 2024/25 - Top 3 Finish,Gillingham,-0.04040000000000002,0.1818,0.2222
+2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,-0.04040000000000002,0.1818,0.2222
 2024-10-13 09:26:01.283538,League One - England League One 2024/25 - To Be Relegated,Shrewsbury Town,-0.040999999999999925,0.6923,0.7333
 2024-10-13 01:58:55.501684,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.04169999999999999,0.125,0.1667
 2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Y E Yang,-0.04229999999999999,0.0244,0.0667
@@ -238,16 +242,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Stephen Ames,-0.0436,0.004,0.0476
 2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,-0.044399999999999995,0.5556,0.6
 2024-10-13 10:29:48.923077,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,-0.04440000000000001,0.0667,0.1111
-2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,-0.045499999999999985,0.5,0.5455
 2024-10-13 10:29:48.932467,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,-0.045499999999999985,0.4545,0.5
-2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,-0.057699999999999974,0.25,0.3077
+2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,-0.045499999999999985,0.5,0.5455
 2024-10-13 10:29:48.923077,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.057699999999999974,0.25,0.3077
+2024-10-13 09:26:01.304379,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,-0.057699999999999974,0.25,0.3077
 2024-10-13 01:58:56.938719,SAS Championship - SAS Championship - Winner,Steven Alker,-0.058899999999999994,0.0244,0.0833
 2024-10-13 01:58:55.629308,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Joel Embiid (PHI),-0.06039999999999998,0.2174,0.2778
 2024-10-13 09:26:01.283538,League One - England League One 2024/25 - To Be Relegated,Exeter City,-0.0629,0.0909,0.1538
 2024-10-13 09:26:01.292933,League One - England League One 2024/25 - Top 6 Finish,Peterborough United,-0.06669999999999998,0.2,0.2667
-2024-10-13 09:26:01.283538,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,-0.06670000000000004,0.3333,0.4
 2024-10-13 10:29:48.926233,League Two - England League Two 2024/25 - To Finish Bottom,Morecambe,-0.06670000000000004,0.3333,0.4
+2024-10-13 09:26:01.283538,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,-0.06670000000000004,0.3333,0.4
 2024-10-13 09:26:03.507321,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,-0.06820000000000001,0.1818,0.25
 2024-10-13 10:29:48.932467,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,-0.06930000000000003,0.4545,0.5238
 2024-10-13 01:58:55.629308,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Giannis Antetokounmpo (MIL),-0.0705,0.0833,0.1538
