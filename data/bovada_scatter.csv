@@ -35,6 +35,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-14 05:30:31.773883,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.030699999999999998,0.0833,0.0526
 2024-10-14 04:31:22.730419,NFC North - NFC North 2024/25 - NFC North Winner,Chicago Bears,0.029299999999999993,0.0769,0.0476
 2024-10-14 01:55:24.208692,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Miami Ohio,0.02840000000000001,0.1053,0.0769
+2024-10-14 11:23:52.467124,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,0.028299999999999992,0.3509,0.3226
 2024-10-14 01:55:24.212954,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Colorado State,0.0282,0.0526,0.0244
 2024-10-14 04:31:22.705599,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.027999999999999997,0.1333,0.1053
 2024-10-14 07:29:19.149024,Boxing Lines - Tenshin Nasukawa vs Gerwin Asilo - To Win the Bout,Gerwin Asilo,0.027800000000000005,0.1111,0.0833
@@ -59,16 +60,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-14 06:36:41.098571,Boxing Lines - Anthony Olascuaga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,0.017299999999999982,0.303,0.2857
 2024-10-14 08:33:05.397765,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jordan Love (GB),0.0168,0.0385,0.0217
 2024-10-14 04:31:22.695752,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Detroit Lions,0.016700000000000007,0.1,0.0833
+2024-10-14 04:31:22.730419,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.016699999999999993,0.4167,0.4
 2024-10-14 06:36:40.954954,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,0.016699999999999993,0.2667,0.25
 2024-10-14 10:33:21.411989,MLS - USA MLS 2024 - Futures - To Reach the Final,Los Angeles FC,0.016699999999999993,0.2667,0.25
-2024-10-14 04:31:22.730419,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.016699999999999993,0.4167,0.4
 2024-10-14 10:33:21.405943,MLS - USA MLS 2024 - Futures - Winner,Columbus Crew,0.015700000000000006,0.1333,0.1176
 2024-10-14 04:31:22.705599,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Chicago Bears,0.0157,0.0435,0.0278
-2024-10-14 08:33:05.401624,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.015300000000000001,0.0588,0.0435
 2024-10-14 08:33:05.397765,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Joe Burrow (CIN),0.015300000000000001,0.0588,0.0435
-2024-10-14 01:55:24.217398,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Georgia,0.015100000000000002,0.1818,0.1667
+2024-10-14 08:33:05.401624,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.015300000000000001,0.0588,0.0435
 2024-10-14 04:31:22.705599,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.015100000000000002,0.1818,0.1667
 2024-10-14 01:55:24.217398,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Alabama,0.015100000000000002,0.1818,0.1667
+2024-10-14 01:55:24.217398,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Georgia,0.015100000000000002,0.1818,0.1667
 2024-10-14 08:33:05.406138,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brian Thomas (JAX),0.014900000000000004,0.0345,0.0196
 2024-10-14 04:31:22.720774,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.014700000000000046,0.7647,0.75
 2024-10-14 01:55:24.221781,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,James Madison,0.01469999999999999,0.25,0.2353
@@ -89,14 +90,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-14 10:33:23.425848,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.011099999999999999,0.4762,0.4651
 2024-10-14 06:36:40.974990,NFC East - NFC East 2024/25 - NFC East Winner,Washington Commanders,0.010599999999999998,0.4651,0.4545
 2024-10-14 01:55:24.204463,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Florida International,0.010300000000000002,0.0244,0.0141
-2024-10-14 08:33:05.397765,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Derrick Henry (BAL),0.0102,0.0152,0.005
 2024-10-14 04:31:22.695752,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Philadelphia Eagles,0.0102,0.0769,0.0667
+2024-10-14 08:33:05.397765,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Derrick Henry (BAL),0.0102,0.0152,0.005
 2024-10-14 08:33:05.406138,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Xavier Worthy (KC),0.010100000000000001,0.0345,0.0244
 2024-10-14 04:31:22.695752,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Washington Commanders,-0.010100000000000001,0.0244,0.0345
 2024-10-14 08:33:05.397765,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy (SF),-0.0102,0.0667,0.0769
+2024-10-14 01:55:24.221781,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,South Alabama,-0.0102,0.0667,0.0769
 2024-10-14 07:29:19.020258,NFC North - NFC North 2024/25 - NFC North Winner,Chicago Bears,-0.0102,0.0667,0.0769
 2024-10-14 09:29:21.525713,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat New York Mets,-0.0102,0.0667,0.0769
-2024-10-14 01:55:24.221781,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,South Alabama,-0.0102,0.0667,0.0769
 2024-10-14 01:55:24.200229,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Washington,-0.0103,0.002,0.0123
 2024-10-14 08:33:05.401624,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jonathan Gannon,-0.010700000000000001,0.0278,0.0385
 2024-10-14 06:36:40.954954,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Minnesota Vikings,-0.010899999999999993,0.1429,0.1538
@@ -139,6 +140,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-14 06:36:40.944997,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Philadelphia Eagles,-0.024299999999999995,0.0526,0.0769
 2024-10-14 01:55:24.212954,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Fresno State,-0.024999999999999994,0.1,0.125
 2024-10-14 01:55:24.204463,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Jacksonville State,-0.025300000000000003,0.1176,0.1429
+2024-10-14 11:23:52.467124,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,-0.025999999999999912,0.7143,0.7403
 2024-10-14 04:31:22.849182,Boxing Lines - Kosei Tanaka vs Phumelele Cafu - To Win the Bout,Phumelele Cafu,-0.026100000000000012,0.1739,0.2
 2024-10-14 04:31:22.744863,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,-0.028199999999999996,0.0385,0.0667
 2024-10-14 08:33:05.473162,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.028299999999999992,0.3226,0.3509
