@@ -7,8 +7,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 15:28:57.760590,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Carlos Rodon (NYY),0.1731,0.25,0.0769
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Francisco Lindor (NYM),0.1655,0.2,0.0345
 2024-10-15 14:30:07.494143,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Starling Marte (NYM),0.1495,0.1818,0.0323
-2024-10-15 14:30:07.498691,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Mark Vientos (NYM),0.1447,0.25,0.1053
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Juan Soto (NYY),0.1447,0.25,0.1053
+2024-10-15 14:30:07.498691,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Mark Vientos (NYM),0.1447,0.25,0.1053
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Teoscar Hernandez (LAD),0.14329999999999998,0.1818,0.0385
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Gleyber Torres (NYY),0.14029999999999998,0.2941,0.1538
 2024-10-15 12:50:44.489628,Cut Lines - Patrick Fishburn - Make Cut / Miss Cut - Patrick Fishburn,Miss,0.13330000000000003,0.4,0.2667
@@ -28,7 +28,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 14:30:07.477097,MLB Championship Series Specials - Hitter Parlays - Hitter Parlays,Max Muncy & Aaron Judge To Hit 3+ Home Runs in the Series Each,0.09029999999999999,0.1429,0.0526
 2024-10-15 15:28:57.745404,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Francisco Lindor (NYM),0.08410000000000001,0.1429,0.0588
 2024-10-15 15:28:57.745404,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Mark Vientos (NYM),0.08150000000000002,0.2353,0.1538
-2024-10-15 05:30:30.112538,AFC East - AFC East 2024/25 - AFC East Winner,Buffalo Bills,0.07780000000000009,0.8,0.7222
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Gleyber Torres (NYY),0.07769999999999999,0.0909,0.0132
 2024-10-15 12:50:44.471846,Cut Lines - Maverick McNealy - Make Cut / Miss Cut - Maverick McNealy,Miss,0.07440000000000002,0.3774,0.303
 2024-10-15 16:33:39.083168,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.0736,0.3333,0.2597
@@ -36,14 +35,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Mookie Betts (LAD),0.0713,0.0909,0.0196
 2024-10-15 15:28:57.740425,Stat Leaders - Most Saves in the 2024 MLB Playoffs - Most Saves in the 2024 MLB Playoffs,Luke Weaver (NYY),0.06930000000000003,0.5238,0.4545
 2024-10-15 15:28:57.760590,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Sean Manaea (NYM),0.06820000000000001,0.25,0.1818
+2024-10-15 18:34:40.213803,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,0.06670000000000004,0.4,0.3333
 2024-10-15 14:30:07.503299,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Tommy Edman (LAD),0.0666,0.1333,0.0667
-2024-10-15 12:50:44.462201,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.06490000000000001,0.3774,0.3125
 2024-10-15 12:50:44.448650,Cut Lines - Adam Svensson - Make Cut / Miss Cut - Adam Svensson,Miss,0.06490000000000001,0.3774,0.3125
+2024-10-15 12:50:44.462201,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.06490000000000001,0.3774,0.3125
 2024-10-15 07:26:58.948092,Copa Argentina - Copa Argentina 2024 - Winner,Huracán,0.0635,0.2857,0.2222
 2024-10-15 15:28:57.760590,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Tanner Bibee (CLE),0.0629,0.1538,0.0909
 2024-10-15 15:28:57.707382,Stat Leaders - ALCS & NLCS Stat Leader Parlays - ALCS & NLCS Stat Leader Parlays,Max Muncy & Aaron Judge To Each Hit the Most HRs in the NLCS & ALCS,0.061500000000000006,0.1,0.0385
-2024-10-15 12:50:44.439533,Cut Lines - J J Spaun - Make Cut / Miss Cut - J J Spaun,Miss,0.06059999999999999,0.3636,0.303
 2024-10-15 12:50:44.430532,Cut Lines - Ben Griffin - Make Cut / Miss Cut - Ben Griffin,Miss,0.06059999999999999,0.3636,0.303
+2024-10-15 12:50:44.439533,Cut Lines - J J Spaun - Make Cut / Miss Cut - J J Spaun,Miss,0.06059999999999999,0.3636,0.303
 2024-10-15 14:30:07.516952,Stat Leaders - Most RBIs in the Series - ALCS - NYY v CLE - Most RBIs in the Series - ALCS - NYY v CLE,Aaron Judge (NYY),0.05960000000000004,0.4167,0.3571
 2024-10-15 14:30:07.494143,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Mark Vientos (NYM),0.05859999999999999,0.0909,0.0323
 2024-10-15 15:28:57.745404,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Giancarlo Stanton (NYY),0.056400000000000006,0.1333,0.0769
@@ -52,16 +52,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 15:28:57.707382,Stat Leaders - ALCS & NLCS Stat Leader Parlays - ALCS & NLCS Stat Leader Parlays,Shohei Ohtani & Juan Soto To Each Hit the Most HRs in the NLCS & ALCS,0.0524,0.1,0.0476
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Freddie Freeman (LAD),0.052399999999999995,0.0909,0.0385
 2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,0.04999999999999999,0.25,0.2
-2024-10-15 12:50:44.457739,Cut Lines - Daniel Berger - Make Cut / Miss Cut - Daniel Berger,Miss,0.04410000000000003,0.3774,0.3333
 2024-10-15 12:50:44.476265,Cut Lines - Doug Ghim - Make Cut / Miss Cut - Doug Ghim,Miss,0.04410000000000003,0.3774,0.3333
+2024-10-15 12:50:44.457739,Cut Lines - Daniel Berger - Make Cut / Miss Cut - Daniel Berger,Miss,0.04410000000000003,0.3774,0.3333
 2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Francisco Lindor (NYM),0.04329999999999999,0.0909,0.0476
 2024-10-15 15:28:57.766361,ALCS MVP - ALCS MVP - ALCS MVP,Carlos Rodon (NYY),0.0429,0.0625,0.0196
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Giancarlo Stanton (NYY),0.04229999999999999,0.0667,0.0244
 2024-10-15 07:26:58.948092,Copa Argentina - Copa Argentina 2024 - Winner,Vélez Sarsfield,0.04099999999999998,0.3077,0.2667
 2024-10-15 14:30:07.477097,MLB Championship Series Specials - Hitter Parlays - Hitter Parlays,Shohei Ohtani & Mark Vientos To Hit 4+ Home Runs in the Series Each,0.0409,0.0588,0.0179
 2024-10-15 14:30:07.512396,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Aaron Judge (NYY),0.03710000000000002,0.3704,0.3333
-2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Alex Verdugo (NYY),0.037099999999999994,0.0588,0.0217
 2024-10-15 14:30:07.477097,MLB Championship Series Specials - Hitter Parlays - Hitter Parlays,Juan Soto & Shohei Ohtani To record 10+ Hits in the Series Each,0.037099999999999994,0.0588,0.0217
+2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Alex Verdugo (NYY),0.037099999999999994,0.0588,0.0217
 2024-10-15 11:23:09.199828,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Derrick Henry (BAL),0.03640000000000004,0.4,0.3636
 2024-10-15 12:50:44.383537,Cut Lines - Kurt Kitayama - Make Cut / Miss Cut - Kurt Kitayama,Miss,0.0363,0.303,0.2667
 2024-10-15 14:30:07.485366,"MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Hits, Runs & RBIs in the Series - Shohei Ohtani v Aaron Judge",Aaron Judge (NYY),0.036199999999999996,0.1538,0.1176
@@ -81,25 +81,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 14:30:07.477097,MLB Championship Series Specials - Hitter Parlays - Hitter Parlays,Francisco Lindor & Steven Kwan To record 10+ Hits in the Series Each,0.0244,0.0323,0.0079
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Andres Gimenez (CLE),0.0242,0.0909,0.0667
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Brandon Nimmo (NYM),0.023200000000000002,0.0476,0.0244
+2024-10-15 18:34:40.236795,Electoral College Winner - Michigan (MI) - Michigan,Republican,0.02169999999999994,0.5455,0.5238
+2024-10-15 18:34:40.249678,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.02169999999999994,0.5455,0.5238
 2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 35 - 64,0.02049999999999999,0.1538,0.1333
 2024-10-15 14:30:07.477097,MLB Championship Series Specials - Hitter Parlays - Hitter Parlays,Francisco Lindor & Aaron Judge To Hit 4+ Home Runs in the Series Each,0.020000000000000004,0.0323,0.0123
 2024-10-15 15:28:57.755538,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Steven Kwan (CLE),0.019100000000000002,0.0323,0.0132
-2024-10-15 15:28:57.745404,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Juan Soto (NYY),0.019099999999999992,0.0667,0.0476
 2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Giancarlo Stanton (NYY),0.019099999999999992,0.0667,0.0476
-2024-10-15 15:28:57.760590,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Luis Severino (NYM),0.01820000000000002,0.2,0.1818
+2024-10-15 15:28:57.745404,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Juan Soto (NYY),0.019099999999999992,0.0667,0.0476
+2024-10-15 18:34:40.228198,Electoral College Winner - Arizona (AZ) - Arizona,Republican,0.018399999999999972,0.7059,0.6875
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Steven Kwan (CLE),0.01820000000000002,0.2,0.1818
-2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 215+,0.018099999999999998,0.0769,0.0588
+2024-10-15 15:28:57.760590,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Luis Severino (NYM),0.01820000000000002,0.2,0.1818
 2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 155 - 214,0.018099999999999998,0.0769,0.0588
+2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 215+,0.018099999999999998,0.0769,0.0588
 2024-10-15 07:26:58.948092,Copa Argentina - Copa Argentina 2024 - Winner,Central Córdoba,0.0179,0.1429,0.125
 2024-10-15 12:50:44.426043,Cut Lines - Stephan Jaeger - Make Cut / Miss Cut - Stephan Jaeger,Miss,0.017299999999999982,0.303,0.2857
 2024-10-15 12:50:44.378816,Cut Lines - Beau Hossler - Make Cut / Miss Cut - Beau Hossler,Miss,0.017299999999999982,0.303,0.2857
 2024-10-15 14:30:07.477097,MLB Championship Series Specials - Hitter Parlays - Hitter Parlays,Max Muncy & Aaron Judge To Hit 4+ Home Runs in the Series Each,0.0168,0.0278,0.011
 2024-10-15 12:50:44.412488,Cut Lines - Eric Cole - Make Cut / Miss Cut - Eric Cole,Make,0.016700000000000048,0.75,0.7333
 2024-10-15 12:50:44.292922,Tournament Match-Ups - Tournament Match-Up - T. Kim vs D. Thompson - Tournament Match-Up,Davis Thompson,0.016699999999999993,0.4167,0.4
+2024-10-15 18:34:40.218235,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,0.016699999999999993,0.2667,0.25
 2024-10-15 15:28:56.450597,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),0.016600000000000004,0.0833,0.0667
+2024-10-15 16:33:39.075044,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.01579999999999998,0.3333,0.3175
 2024-10-15 16:33:39.091868,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,0.01579999999999998,0.3333,0.3175
 2024-10-15 16:33:39.078812,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.01579999999999998,0.3333,0.3175
-2024-10-15 16:33:39.075044,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.01579999999999998,0.3333,0.3175
 2024-10-15 15:28:57.771849,NLCS MVP - NLCS MVP - NLCS MVP,Starling Marte (NYM),0.015499999999999998,0.0278,0.0123
 2024-10-15 15:28:57.771849,NLCS MVP - NLCS MVP - NLCS MVP,Max Muncy (LAD),0.015300000000000001,0.0476,0.0323
 2024-10-15 15:28:57.755538,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Mookie Betts (LAD),0.015300000000000001,0.0476,0.0323
@@ -107,7 +111,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Giancarlo Stanton (NYY),0.014899999999999997,0.0625,0.0476
 2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Mark Vientos (NYM),0.014400000000000003,0.0323,0.0179
 2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 15 - 34,0.013899999999999996,0.125,0.1111
-2024-10-15 05:30:30.082749,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,0.012899999999999995,0.1667,0.1538
 2024-10-15 15:28:57.517818,AFC East - AFC East 2024/25 - AFC East Winner,New York Jets,0.012899999999999995,0.1667,0.1538
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Brayan Rocchio (CLE),0.012100000000000001,0.0244,0.0123
 2024-10-15 14:30:07.477097,MLB Championship Series Specials - Hitter Parlays - Hitter Parlays,Shohei Ohtani & Francisco Lindor To Hit 4+ Home Runs in the Series Each,0.011200000000000002,0.0244,0.0132
@@ -116,20 +119,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 14:30:07.477097,MLB Championship Series Specials - Hitter Parlays - Hitter Parlays,Shohei Ohtani & Pete Alonso To Hit 3+ Home Runs in the Series Each,0.0102,0.0769,0.0667
 2024-10-15 14:30:07.522209,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.010099999999999998,0.4545,0.4444
 2024-10-15 15:28:57.755538,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Jazz Chisholm (NYY),-0.010099999999999998,0.0952,0.1053
-2024-10-15 16:33:39.066761,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.010099999999999998,0.4444,0.4545
 2024-10-15 16:33:39.070852,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.010099999999999998,0.4444,0.4545
+2024-10-15 16:33:39.066761,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.010099999999999998,0.4444,0.4545
 2024-10-15 09:28:25.416042,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Netherlands,-0.0102,0.0667,0.0769
 2024-10-15 16:33:39.075044,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.010300000000000087,0.7333,0.7436
 2024-10-15 16:33:39.078812,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.010300000000000087,0.7333,0.7436
-2024-10-15 12:50:44.426043,Cut Lines - Stephan Jaeger - Make Cut / Miss Cut - Stephan Jaeger,Make,-0.010400000000000076,0.7674,0.7778
 2024-10-15 12:50:44.378816,Cut Lines - Beau Hossler - Make Cut / Miss Cut - Beau Hossler,Make,-0.010400000000000076,0.7674,0.7778
+2024-10-15 12:50:44.426043,Cut Lines - Stephan Jaeger - Make Cut / Miss Cut - Stephan Jaeger,Make,-0.010400000000000076,0.7674,0.7778
 2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Josh Naylor (CLE),-0.010600000000000002,0.0217,0.0323
 2024-10-15 12:50:44.360108,Positions - Finishing Position - Tom Kim - Finishing Position,18th or better,-0.010699999999999932,0.5348,0.5455
 2024-10-15 16:33:39.091868,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; DEM House,-0.010699999999999987,0.3226,0.3333
 2024-10-15 14:30:07.512396,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Kyle Manzardo (CLE),-0.010700000000000001,0.0196,0.0303
 2024-10-15 15:28:57.760590,Stat Leaders - Most Strikeouts in the 2024 MLB Playoffs - Most Strikeouts in the 2024 MLB Playoffs,Jose Quintana (NYM),-0.010899999999999993,0.1429,0.1538
 2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Teoscar Hernandez (LAD),-0.011199999999999995,0.0476,0.0588
-2024-10-15 05:30:30.082749,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,New York Jets,-0.011199999999999995,0.0476,0.0588
+2024-10-15 18:34:40.218235,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 5 - 14,-0.011199999999999995,0.0476,0.0588
 2024-10-15 15:28:57.707382,Stat Leaders - ALCS & NLCS Stat Leader Parlays - ALCS & NLCS Stat Leader Parlays,Shohei Ohtani & Josh Naylor To Each Hit the Most HRs in the NLCS & ALCS,-0.0113,0.0066,0.0179
 2024-10-15 12:50:44.292922,Tournament Match-Ups - Tournament Match-Up - T. Kim vs D. Thompson - Tournament Match-Up,Tom Kim,-0.011499999999999955,0.6552,0.6667
 2024-10-15 15:28:57.766361,ALCS MVP - ALCS MVP - ALCS MVP,Jazz Chisholm (NYY),-0.012200000000000003,0.0278,0.04
@@ -138,10 +141,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 16:33:39.091868,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; DEM Senate; DEM House,-0.0131,0.2222,0.2353
 2024-10-15 14:30:07.512396,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Gleyber Torres (NYY),-0.013700000000000004,0.0196,0.0333
 2024-10-15 07:26:58.948092,Copa Argentina - Copa Argentina 2024 - Winner,Boca Juniors,-0.013800000000000034,0.3636,0.3774
+2024-10-15 18:34:40.228198,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.013800000000000034,0.3636,0.3774
+2024-10-15 18:34:40.213803,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; REP House,-0.013999999999999999,0.0769,0.0909
+2024-10-15 18:34:40.288720,Electoral College Winner - Hawaii (HI) - Hawaii,Republican,-0.013999999999999999,0.0769,0.0909
 2024-10-15 15:28:57.745404,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Lane Thomas (CLE),-0.013999999999999999,0.0769,0.0909
-2024-10-15 16:33:39.339162,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,-0.014099999999999994,0.0526,0.0667
-2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 0 - 4,-0.014099999999999994,0.0526,0.0667
 2024-10-15 15:28:57.755538,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Starling Marte (NYM),-0.014099999999999994,0.0526,0.0667
+2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 0 - 4,-0.014099999999999994,0.0526,0.0667
+2024-10-15 16:33:39.339162,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,-0.014099999999999994,0.0526,0.0667
+2024-10-15 18:34:40.218235,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 215+,-0.014100000000000001,0.0385,0.0526
 2024-10-15 15:28:57.766361,ALCS MVP - ALCS MVP - ALCS MVP,Aaron Judge (NYY),-0.01469999999999999,0.2353,0.25
 2024-10-15 15:28:57.766361,ALCS MVP - ALCS MVP - ALCS MVP,Steven Kwan (CLE),-0.014899999999999997,0.0476,0.0625
 2024-10-15 14:30:07.516952,Stat Leaders - Most RBIs in the Series - ALCS - NYY v CLE - Most RBIs in the Series - ALCS - NYY v CLE,Jazz Chisholm (NYY),-0.014900000000000004,0.0196,0.0345
@@ -155,61 +162,70 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 15:28:57.771849,NLCS MVP - NLCS MVP - NLCS MVP,Brandon Nimmo (NYM),-0.0189,0.0196,0.0385
 2024-10-15 11:23:09.199828,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Nico Collins (HOU),-0.0189,0.0196,0.0385
 2024-10-15 12:50:44.417037,Cut Lines - Harry Hall - Make Cut / Miss Cut - Harry Hall,Make,-0.018999999999999906,0.7143,0.7333
-2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Freddie Freeman (LAD),-0.019099999999999992,0.0476,0.0667
 2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Jose Ramirez (CLE),-0.019099999999999992,0.0476,0.0667
+2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Freddie Freeman (LAD),-0.019099999999999992,0.0476,0.0667
 2024-10-15 15:28:57.745404,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Teoscar Hernandez (LAD),-0.019699999999999995,0.1053,0.125
 2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 35 - 64,-0.02020000000000001,0.0909,0.1111
 2024-10-15 14:30:07.512396,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Jhonkensy Noel (CLE),-0.0204,0.0196,0.04
 2024-10-15 14:30:07.512396,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Lane Thomas (CLE),-0.0204,0.0196,0.04
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Oswaldo Cabrera (NYY),-0.020700000000000003,0.0116,0.0323
 2024-10-15 12:50:44.412488,Cut Lines - Eric Cole - Make Cut / Miss Cut - Eric Cole,Miss,-0.020799999999999985,0.3125,0.3333
-2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,-0.022199999999999998,0.2,0.2222
+2024-10-15 18:34:40.249678,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.02169999999999994,0.5238,0.5455
+2024-10-15 18:34:40.236795,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.02169999999999994,0.5238,0.5455
 2024-10-15 15:28:57.517818,AFC East - AFC East 2024/25 - AFC East Winner,Buffalo Bills,-0.022199999999999998,0.7778,0.8
-2024-10-15 05:30:30.112538,AFC East - AFC East 2024/25 - AFC East Winner,Miami Dolphins,-0.022199999999999998,0.1111,0.1333
+2024-10-15 16:33:39.096347,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,-0.022199999999999998,0.2,0.2222
 2024-10-15 15:28:57.707382,Stat Leaders - ALCS & NLCS Stat Leader Parlays - ALCS & NLCS Stat Leader Parlays,Shohei Ohtani & Aaron Judge To Each Hit the Most HRs in the NLCS & ALCS,-0.02239999999999999,0.0952,0.1176
+2024-10-15 18:34:40.218235,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 5 - 14,-0.0232,0.0435,0.0667
 2024-10-15 07:26:58.948092,Copa Argentina - Copa Argentina 2024 - Winner,Gimnasia La Plata,-0.0242,0.0667,0.0909
 2024-10-15 15:28:57.707382,Stat Leaders - ALCS & NLCS Stat Leader Parlays - ALCS & NLCS Stat Leader Parlays,Shohei Ohtani & Jose Ramirez To Each Hit the Most HRs in the NLCS & ALCS,-0.025599999999999998,0.0179,0.0435
 2024-10-15 16:33:39.083168,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,-0.02560000000000001,0.3077,0.3333
 2024-10-15 15:28:57.740425,Stat Leaders - Most Saves in the 2024 MLB Playoffs - Most Saves in the 2024 MLB Playoffs,Emmanuel Clase (CLE),-0.02779999999999999,0.2222,0.25
 2024-10-15 15:28:57.771849,NLCS MVP - NLCS MVP - NLCS MVP,Freddie Freeman (LAD),-0.02850000000000001,0.0667,0.0952
 2024-10-15 14:30:07.516952,Stat Leaders - Most RBIs in the Series - ALCS - NYY v CLE - Most RBIs in the Series - ALCS - NYY v CLE,Austin Wells (NYY),-0.028799999999999992,0.125,0.1538
+2024-10-15 18:34:40.218235,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 155 - 214,-0.029299999999999993,0.0476,0.0769
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Austin Wells (NYY),-0.030199999999999998,0.0323,0.0625
 2024-10-15 11:23:09.199828,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Justin Jefferson (MIN),-0.031,0.1429,0.1739
 2024-10-15 14:30:07.485366,"MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Hits, Runs & RBIs in the Series - Shohei Ohtani v Aaron Judge",Shohei Ohtani (LAD),-0.03210000000000002,0.9091,0.9412
 2024-10-15 12:50:44.383537,Cut Lines - Kurt Kitayama - Make Cut / Miss Cut - Kurt Kitayama,Make,-0.03260000000000007,0.7674,0.8
 2024-10-15 14:30:07.498691,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Pete Alonso (NYM),-0.03420000000000001,0.0769,0.1111
 2024-10-15 14:30:07.494143,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Will Smith (LAD),-0.0344,0.0132,0.0476
-2024-10-15 14:30:07.494143,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Teoscar Hernández (LAD),-0.0344,0.0132,0.0476
 2024-10-15 14:30:07.494143,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Brandon Nimmo (NYM),-0.0344,0.0132,0.0476
+2024-10-15 14:30:07.494143,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Teoscar Hernández (LAD),-0.0344,0.0132,0.0476
 2024-10-15 14:30:07.498691,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Shohei Ohtani (LAD),-0.03570000000000001,0.25,0.2857
 2024-10-15 14:30:07.498691,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Francisco Lindor (NYM),-0.03570000000000001,0.25,0.2857
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Anthony Volpe (NYY),-0.038099999999999995,0.0244,0.0625
 2024-10-15 15:28:57.771849,NLCS MVP - NLCS MVP - NLCS MVP,Teoscar Hernandez (LAD),-0.038299999999999994,0.0526,0.0909
-2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Josh Naylor (CLE),-0.0384,0.0385,0.0769
 2024-10-15 14:30:07.498691,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Mookie Betts (LAD),-0.0384,0.0385,0.0769
+2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Josh Naylor (CLE),-0.0384,0.0385,0.0769
 2024-10-15 14:30:07.503299,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Pete Alonso (NYM),-0.0392,0.0196,0.0588
+2024-10-15 18:34:40.213803,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; DEM Senate; DEM House,-0.04040000000000002,0.1818,0.2222
 2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Mookie Betts (LAD),-0.0407,0.0769,0.1176
 2024-10-15 12:50:44.476265,Cut Lines - Doug Ghim - Make Cut / Miss Cut - Doug Ghim,Make,-0.040999999999999925,0.6923,0.7333
 2024-10-15 12:50:44.457739,Cut Lines - Daniel Berger - Make Cut / Miss Cut - Daniel Berger,Make,-0.040999999999999925,0.6923,0.7333
+2024-10-15 18:34:40.218235,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 35 - 64,-0.04269999999999999,0.1111,0.1538
 2024-10-15 14:30:07.472142,MLB Championship Series Specials - Series Specials - Series Specials,Any Game Back to Back to Back Home Runs (3 consecutive HR's) in ALCS & NLCS series,-0.04409999999999997,0.25,0.2941
 2024-10-15 15:28:57.707382,Stat Leaders - ALCS & NLCS Stat Leader Parlays - ALCS & NLCS Stat Leader Parlays,Pete Alonso & Aaron Judge To Each Hit the Most HRs in the NLCS & ALCS,-0.044599999999999994,0.0323,0.0769
 2024-10-15 15:28:57.766361,ALCS MVP - ALCS MVP - ALCS MVP,Josh Naylor (CLE),-0.0448,0.0385,0.0833
+2024-10-15 18:34:40.218235,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,-0.04620000000000002,0.1538,0.2
+2024-10-15 18:34:40.218235,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 15 - 34,-0.048100000000000004,0.0769,0.125
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Josh Naylor (CLE),-0.0489,0.0099,0.0588
-2024-10-15 14:30:07.503299,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Will Smith (LAD),-0.0491,0.0278,0.0769
 2024-10-15 14:30:07.503299,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Brandon Nimmo (NYM),-0.0491,0.0278,0.0769
+2024-10-15 14:30:07.503299,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Will Smith (LAD),-0.0491,0.0278,0.0769
 2024-10-15 14:30:07.472142,MLB Championship Series Specials - Series Specials - Series Specials,First Pitch Of Any Game To Be A Home Run in ALCS & NLCS series,-0.04999999999999999,0.2,0.25
 2024-10-15 15:28:57.707382,Stat Leaders - ALCS & NLCS Stat Leader Parlays - ALCS & NLCS Stat Leader Parlays,Teoscar Herndandez & Aaron Judge To Each Hit the Most HRs in the NLCS & ALCS,-0.0502,0.0123,0.0625
-2024-10-15 12:50:44.439533,Cut Lines - J J Spaun - Make Cut / Miss Cut - J J Spaun,Make,-0.0504,0.7143,0.7647
 2024-10-15 12:50:44.430532,Cut Lines - Ben Griffin - Make Cut / Miss Cut - Ben Griffin,Make,-0.0504,0.7143,0.7647
+2024-10-15 12:50:44.439533,Cut Lines - J J Spaun - Make Cut / Miss Cut - J J Spaun,Make,-0.0504,0.7143,0.7647
 2024-10-15 12:50:44.393128,Cut Lines - Seamus Power - Make Cut / Miss Cut - Seamus Power,Make,-0.05080000000000007,0.7674,0.8182
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Juan Soto (NYY),-0.052399999999999995,0.0385,0.0909
 2024-10-15 14:30:07.512396,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Josh Naylor (CLE),-0.05249999999999999,0.0244,0.0769
+2024-10-15 18:34:40.218235,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 215+,-0.05249999999999999,0.0244,0.0769
 2024-10-15 15:28:57.777514,World Series MVP - World Series MVP  - World Series MVP,Starling Marte (NYM),-0.0526,0.0099,0.0625
 2024-10-15 14:30:07.512396,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Jose Ramirez (CLE),-0.053599999999999995,0.0714,0.125
 2024-10-15 16:33:39.083168,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.05449999999999999,0.4,0.4545
+2024-10-15 18:34:40.213803,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; DEM House,-0.055900000000000005,0.2667,0.3226
 2024-10-15 14:30:07.516952,Stat Leaders - Most RBIs in the Series - ALCS - NYY v CLE - Most RBIs in the Series - ALCS - NYY v CLE,José Ramírez (CLE),-0.056400000000000006,0.0769,0.1333
-2024-10-15 12:50:44.448650,Cut Lines - Adam Svensson - Make Cut / Miss Cut - Adam Svensson,Make,-0.057699999999999974,0.6923,0.75
 2024-10-15 12:50:44.462201,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.057699999999999974,0.6923,0.75
+2024-10-15 12:50:44.448650,Cut Lines - Adam Svensson - Make Cut / Miss Cut - Adam Svensson,Make,-0.057699999999999974,0.6923,0.75
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Aaron Judge (NYY),-0.058599999999999985,0.0952,0.1538
 2024-10-15 09:28:25.416042,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Belgium,-0.062,0.0149,0.0769
 2024-10-15 15:28:57.766361,ALCS MVP - ALCS MVP - ALCS MVP,Jose Ramirez (CLE),-0.0629,0.0909,0.1538
@@ -222,7 +238,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-15 12:50:44.471846,Cut Lines - Maverick McNealy - Make Cut / Miss Cut - Maverick McNealy,Make,-0.07240000000000002,0.6923,0.7647
 2024-10-15 14:30:07.503299,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Freddie Freeman (LAD),-0.07300000000000001,0.0323,0.1053
 2024-10-15 15:28:57.750591,Stat Leaders - Most RBIs in the 2024 MLB Playoffs - Most RBIs in the 2024 MLB Playoffs,Jose Ramirez (CLE),-0.0756,0.0244,0.1
-2024-10-15 05:30:30.112538,AFC East - AFC East 2024/25 - AFC East Winner,New York Jets,-0.08150000000000002,0.1538,0.2353
 2024-10-15 15:28:57.771849,NLCS MVP - NLCS MVP - NLCS MVP,Mookie Betts (LAD),-0.08240000000000001,0.1176,0.2
 2024-10-15 15:28:57.771849,NLCS MVP - NLCS MVP - NLCS MVP,Shohei Ohtani (LAD),-0.08340000000000003,0.3333,0.4167
 2024-10-15 14:30:07.507905,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Jose Ramirez (CLE),-0.08410000000000001,0.0588,0.1429
