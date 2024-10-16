@@ -3,20 +3,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 11:23:20.004190,Stat Leaders - Most RBIs in the Series - ALCS - NYY v CLE - Most RBIs in the Series - ALCS - NYY v CLE,Aaron Judge (NYY),0.4166,0.8333,0.4167
 2024-10-16 15:28:49.078556,MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Home Runs in the Series - Shohei Ohtani v Aaron Judge,Aaron Judge (NYY),0.3531,0.8182,0.4651
 2024-10-16 15:28:49.071483,MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Hits in the Series - Shohei Ohtani v Aaron Judge,Aaron Judge (NYY),0.33480000000000004,0.5348,0.2
-2024-10-16 04:31:35.513186,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,0.10830000000000006,0.9,0.7917
 2024-10-16 11:23:19.999705,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Jose Ramirez (CLE),0.09529999999999998,0.1667,0.0714
 2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Gleyber Torres (NYY),0.09050000000000002,0.3846,0.2941
 2024-10-16 11:23:19.990815,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Jose Iglesias (NYM),0.08099999999999999,0.0909,0.0099
 2024-10-16 05:30:24.498565,ALCS MVP - ALCS MVP - ALCS MVP,Gleyber Torres (NYY),0.0756,0.1,0.0244
 2024-10-16 05:30:24.498565,ALCS MVP - ALCS MVP - ALCS MVP,Juan Soto (NYY),0.06670000000000004,0.4,0.3333
 2024-10-16 08:33:16.445441,Totals - 1st Round Birdies - Eric Cole - 1st Round Birdies,Over 4.5,0.061999999999999944,0.6364,0.5744
-2024-10-16 04:31:35.501529,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.057699999999999974,0.5122,0.4545
 2024-10-16 13:32:30.275096,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Trump to Win and either Biden or Harris to accept the results and concede,0.056400000000000006,0.9231,0.8667
 2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Juan Soto (NYY),0.05299999999999999,0.303,0.25
 2024-10-16 11:23:19.999705,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Aaron Judge (NYY),0.04630000000000001,0.4167,0.3704
 2024-10-16 15:28:49.680939,Tournament Match-Ups - Tournament Match-Up - S. Power vs S. Jaeger - Tournament Match-Up,Seamus Power,0.04620000000000002,0.5917,0.5455
 2024-10-16 14:29:51.297568,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Harris to Win and Trump to accept the results and concede,0.043800000000000006,0.2105,0.1667
-2024-10-16 04:31:35.508608,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat New York Yankees,0.042200000000000015,0.3125,0.2703
 2024-10-16 13:32:30.275096,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Harris to Win and Trump to accept the results and concede,0.04169999999999999,0.1667,0.125
 2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Brayan Rocchio (CLE),0.038099999999999995,0.0625,0.0244
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Max Muncy (LAD),0.037599999999999995,0.1429,0.1053
@@ -25,51 +22,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Giancarlo Stanton (NYY),0.033399999999999985,0.1667,0.1333
 2024-10-16 15:28:49.470013,Scores - 1st Round Score - Eric Cole - 1st Round Score,Over 68.5,0.033299999999999996,0.4878,0.4545
 2024-10-16 15:28:49.491841,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Over 68.5,0.031799999999999995,0.4762,0.4444
-2024-10-16 15:28:49.465621,Scores - 1st Round Score - Daniel Berger - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
 2024-10-16 15:28:49.487473,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
-2024-10-16 15:28:49.478745,Scores - 1st Round Score - Matt Kuchar - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
+2024-10-16 15:28:49.465621,Scores - 1st Round Score - Daniel Berger - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
 2024-10-16 15:28:49.483127,Scores - 1st Round Score - Nick Taylor - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
+2024-10-16 15:28:49.478745,Scores - 1st Round Score - Matt Kuchar - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
 2024-10-16 07:26:08.485875,Tournament Match-Ups - Tournament Match-Ups - R. Neergaard-Petersen vs S. Soderberg - Tournament Match-Ups ,Sebastian Soderberg,0.030399999999999983,0.5652,0.5348
 2024-10-16 15:28:49.647589,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs M. Schmid - Tournament Match-Up,Matti Schmid,0.030399999999999983,0.5652,0.5348
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Aaron Judge (NYY),0.029299999999999993,0.0769,0.0476
 2024-10-16 05:30:24.511260,World Series MVP - World Series MVP  - World Series MVP,Aaron Judge (NYY),0.027999999999999997,0.1818,0.1538
-2024-10-16 04:31:35.508608,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,0.02779999999999999,0.25,0.2222
 2024-10-16 05:30:24.498565,ALCS MVP - ALCS MVP - ALCS MVP,Jose Ramirez (CLE),0.0267,0.1176,0.0909
 2024-10-16 13:32:30.301125,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Republican,0.026499999999999968,0.5917,0.5652
 2024-10-16 15:28:49.664292,Tournament Match-Ups - Tournament Match-Up - C. Kim vs K. Yu - Tournament Match-Up,Chan Kim,0.026499999999999968,0.5917,0.5652
 2024-10-16 05:30:24.511260,World Series MVP - World Series MVP  - World Series MVP,Giancarlo Stanton (NYY),0.0242,0.0909,0.0667
-2024-10-16 07:26:08.359385,Tournament Match-Ups - Tournament Match-Up - C. Davis vs J.T. Poston - Tournament Match-Up,J.T. Poston,0.023800000000000043,0.5238,0.5
 2024-10-16 15:28:49.461223,Scores - 1st Round Score - Chan Kim - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
-2024-10-16 15:28:49.474345,Scores - 1st Round Score - JT Poston - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
 2024-10-16 07:26:08.367722,Tournament Match-Ups - Tournament Match-Up - H. Hall vs K. Kitayama - Tournament Match-Up,Harry Hall,0.023800000000000043,0.5238,0.5
+2024-10-16 07:26:08.359385,Tournament Match-Ups - Tournament Match-Up - C. Davis vs J.T. Poston - Tournament Match-Up,J.T. Poston,0.023800000000000043,0.5238,0.5
+2024-10-16 15:28:49.474345,Scores - 1st Round Score - JT Poston - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
 2024-10-16 15:28:49.452448,Scores - 1st Round Score - Adam Svensson - 1st Round Score,Over 68.5,0.023799999999999988,0.5,0.4762
-2024-10-16 13:32:30.241814,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.023699999999999943,0.6154,0.5917
 2024-10-16 13:32:30.245801,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.023699999999999943,0.6154,0.5917
+2024-10-16 13:32:30.241814,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.023699999999999943,0.6154,0.5917
 2024-10-16 11:23:20.004190,Stat Leaders - Most RBIs in the Series - ALCS - NYY v CLE - Most RBIs in the Series - ALCS - NYY v CLE,José Ramírez (CLE),0.02310000000000001,0.1,0.0769
 2024-10-16 15:28:49.456880,Scores - 1st Round Score - Ben Griffin - 1st Round Score,Over 68.5,0.021699999999999997,0.4762,0.4545
 2024-10-16 12:50:07.816015,Tournament Match-Ups - Tournament Match-Up - C. Davis vs J.T. Poston - Tournament Match-Up,J.T. Poston,0.02169999999999994,0.5455,0.5238
 2024-10-16 05:30:24.498565,ALCS MVP - ALCS MVP - ALCS MVP,Carlos Rodon (NYY),0.0208,0.0833,0.0625
 2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Josh Naylor (CLE),0.0203,0.0588,0.0385
 2024-10-16 09:28:25.368733,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Spain,0.020100000000000007,0.25,0.2299
-2024-10-16 15:28:49.643422,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs E. Cole - Tournament Match-Up,Eric Cole,0.01970000000000005,0.5652,0.5455
 2024-10-16 15:28:49.660118,Tournament Match-Ups - Tournament Match-Up - C. Davis vs J.T. Poston - Tournament Match-Up,J.T. Poston,0.01970000000000005,0.5652,0.5455
+2024-10-16 15:28:49.643422,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs E. Cole - Tournament Match-Up,Eric Cole,0.01970000000000005,0.5652,0.5455
 2024-10-16 13:32:30.292635,Electoral College Winner - Michigan (MI) - Michigan,Republican,0.01970000000000005,0.5652,0.5455
 2024-10-16 11:23:19.999705,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Giancarlo Stanton (NYY),0.017299999999999982,0.303,0.2857
 2024-10-16 13:32:30.266375,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,0.016699999999999993,0.4167,0.4
 2024-10-16 11:23:19.986339,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Pete Alonso (NYM),0.013999999999999999,0.0909,0.0769
-2024-10-16 04:31:35.508608,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Los Angeles Dodgers,0.01319999999999999,0.2632,0.25
 2024-10-16 11:23:19.986339,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Shohei Ohtani (LAD),0.01319999999999999,0.2632,0.25
+2024-10-16 16:34:36.887108,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Tre Mann (CHA),0.013,0.0196,0.0066
 2024-10-16 05:30:24.563945,Boxing Lines - Adam Azim vs Ohara Davies - To Win the Bout,Ohara Davies,0.012899999999999995,0.1667,0.1538
-2024-10-16 04:31:35.536256,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Omar Salcido Gamez,0.012699999999999989,0.3636,0.3509
 2024-10-16 05:30:24.498565,ALCS MVP - ALCS MVP - ALCS MVP,Brayan Rocchio (CLE),0.0118,0.0217,0.0099
 2024-10-16 13:32:30.424212,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.011600000000000055,0.5238,0.5122
 2024-10-16 13:32:30.257741,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.01150000000000001,0.3448,0.3333
 2024-10-16 13:32:30.296862,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,0.011499999999999955,0.6667,0.6552
-2024-10-16 04:31:35.508608,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat New York Yankees,0.010899999999999993,0.1538,0.1429
 2024-10-16 13:32:30.288407,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.010700000000000043,0.6774,0.6667
-2024-10-16 04:31:35.504900,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,0.010699999999999932,0.5455,0.5348
-2024-10-16 12:50:07.837252,Tournament Match-Ups - Tournament Match-Up - S. Power vs S. Jaeger - Tournament Match-Up,Seamus Power,0.010699999999999932,0.5455,0.5348
 2024-10-16 07:26:08.342559,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs E. Cole - Tournament Match-Up,Eric Cole,0.010699999999999932,0.5455,0.5348
+2024-10-16 12:50:07.837252,Tournament Match-Ups - Tournament Match-Up - S. Power vs S. Jaeger - Tournament Match-Up,Seamus Power,0.010699999999999932,0.5455,0.5348
+2024-10-16 16:34:38.550946,Round Match-Ups - 1st Round Match-Up - H. Hall vs M. Schmid - 1st Round Match-Up,Harry Hall,-0.010099999999999998,0.5455,0.5556
+2024-10-16 16:34:38.521764,Round Match-Ups - 1st Round Match-Up - A. Eckroat vs B. Kohles - 1st Round Match-Up,Austin Eckroat,-0.010099999999999998,0.5455,0.5556
 2024-10-16 13:32:30.424212,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.010099999999999998,0.5455,0.5556
 2024-10-16 09:28:25.368733,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Croatia,-0.0102,0.0667,0.0769
 2024-10-16 14:29:52.148847,Shriners Children's Open - Shriners Children’s Open - Winner,Tom Kim,-0.0102,0.0667,0.0769
@@ -77,75 +72,93 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Anthony Volpe (NYY),-0.010300000000000002,0.0141,0.0244
 2024-10-16 13:32:30.997932,Boxing Lines - Tsendbaatar Erdenebat vs Frency Fortunato Saya - To Win the Bout,Frency Fortunato Saya,-0.010499999999999982,0.2,0.2105
 2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Lane Thomas (CLE),-0.010600000000000002,0.0217,0.0323
+2024-10-16 16:34:38.602669,Round Match-Ups - 1st Round Match-Up - B. Hossler vs T. Hoge - 1st Round Match-Up,Beau Hossler,-0.010699999999999932,0.5348,0.5455
+2024-10-16 16:34:38.517037,Round Match-Ups - 1st Round Match-Up - A. Smalley vs P. Fishburn - 1st Round Match-Up,Patrick Fishburn,-0.010699999999999932,0.5348,0.5455
+2024-10-16 16:34:38.541276,Round Match-Ups - 1st Round Match-Up - D. Berger vs J. Vegas - 1st Round Match-Up,Jhonattan Vegas,-0.010699999999999932,0.5348,0.5455
+2024-10-16 16:34:38.607847,Round Match-Ups - 1st Round Match-Up - K. Kitayama vs S. Jaeger - 1st Round Match-Up,Kurt Kitayama,-0.010699999999999932,0.5348,0.5455
 2024-10-16 11:23:19.986339,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Mookie Betts (LAD),-0.010700000000000001,0.0278,0.0385
-2024-10-16 04:31:35.504900,MLB Futures - MLB 2024 World Series Winner - Winning League,National League,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.546214,Round Match-Ups - 1st Round Match-Up - E. Cole vs JT Poston - 1st Round Match-Up,J.T. Poston,-0.01100000000000001,0.5238,0.5348
 2024-10-16 07:26:08.342559,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs E. Cole - Tournament Match-Up,Adam Hadwin,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.546214,Round Match-Ups - 1st Round Match-Up - E. Cole vs JT Poston - 1st Round Match-Up,Eric Cole,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.612850,Round Match-Ups - 1st Round Match-Up - E. Van Rooyen vs R. Fox - 1st Round Match-Up,Erik Van Rooyen,-0.01100000000000001,0.5238,0.5348
 2024-10-16 12:50:07.837252,Tournament Match-Ups - Tournament Match-Up - S. Power vs S. Jaeger - Tournament Match-Up,Stephan Jaeger,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.612850,Round Match-Ups - 1st Round Match-Up - E. Van Rooyen vs R. Fox - 1st Round Match-Up,Ryan Fox,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.569015,Round Match-Ups - 1st Round Match-Up - K. Mitchell vs M. McCarty - 1st Round Match-Up,Matt McCarty,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.526730,Round Match-Ups - 1st Round Match-Up - B. Griffin vs H. English - 1st Round Match-Up,Ben Griffin,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.597743,Round Match-Ups - 1st Round Match-Up - A. Hadwin vs C. Davis - 1st Round Match-Up,Adam Hadwin,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.597743,Round Match-Ups - 1st Round Match-Up - A. Hadwin vs C. Davis - 1st Round Match-Up,Cam Davis,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.569015,Round Match-Ups - 1st Round Match-Up - K. Mitchell vs M. McCarty - 1st Round Match-Up,Keith Mitchell,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.507935,Round Match-Ups - 1st Round Match-Up - A. Svensson vs C. Kim - 1st Round Match-Up,Adam Svensson,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.507935,Round Match-Ups - 1st Round Match-Up - A. Svensson vs C. Kim - 1st Round Match-Up,Chan Kim,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.526730,Round Match-Ups - 1st Round Match-Up - B. Griffin vs H. English - 1st Round Match-Up,Harris English,-0.01100000000000001,0.5238,0.5348
+2024-10-16 14:29:52.102759,Boxing Lines - Juan Carlos Carrillo vs Castillo Lenin - To Win the Bout,Juan Carlos Carrillo,-0.011099999999999999,0.8889,0.9
+2024-10-16 16:34:38.592817,Round Match-Ups - 1st Round Match-Up - D. Thompson vs T. Kim - 1st Round Match-Up,Davis Thompson,-0.011099999999999999,0.4651,0.4762
 2024-10-16 08:33:14.823049,Euroleague - Euroleague 2024/25 - Outright,Fenerbahce,-0.011099999999999999,0.1,0.1111
 2024-10-16 14:29:50.502392,Euro Cup - Euro Cup 2024/25 - Outright,Gran Canaria,-0.011099999999999999,0.1,0.1111
-2024-10-16 14:29:52.102759,Boxing Lines - Juan Carlos Carrillo vs Castillo Lenin - To Win the Bout,Juan Carlos Carrillo,-0.011099999999999999,0.8889,0.9
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Gleyber Torres (NYY),-0.011399999999999997,0.0164,0.0278
+2024-10-16 16:34:38.531528,Round Match-Ups - 1st Round Match-Up - C. Gotterup vs R. Fowler - 1st Round Match-Up,Chris Gotterup,-0.0116,0.4762,0.4878
+2024-10-16 16:34:38.541276,Round Match-Ups - 1st Round Match-Up - D. Berger vs J. Vegas - 1st Round Match-Up,Daniel Berger,-0.011600000000000055,0.5122,0.5238
+2024-10-16 16:34:38.607847,Round Match-Ups - 1st Round Match-Up - K. Kitayama vs S. Jaeger - 1st Round Match-Up,Stephan Jaeger,-0.011600000000000055,0.5122,0.5238
+2024-10-16 16:34:38.602669,Round Match-Ups - 1st Round Match-Up - B. Hossler vs T. Hoge - 1st Round Match-Up,Tom Hoge,-0.011600000000000055,0.5122,0.5238
+2024-10-16 16:34:38.517037,Round Match-Ups - 1st Round Match-Up - A. Smalley vs P. Fishburn - 1st Round Match-Up,Alex Smalley,-0.011600000000000055,0.5122,0.5238
 2024-10-16 05:30:24.498565,ALCS MVP - ALCS MVP - ALCS MVP,Tanner Bibee (CLE),-0.0118,0.0099,0.0217
+2024-10-16 16:34:38.521764,Round Match-Ups - 1st Round Match-Up - A. Eckroat vs B. Kohles - 1st Round Match-Up,Ben Kohles,-0.012199999999999989,0.5,0.5122
+2024-10-16 16:34:38.550946,Round Match-Ups - 1st Round Match-Up - H. Hall vs M. Schmid - 1st Round Match-Up,Matti Schmid,-0.012199999999999989,0.5,0.5122
 2024-10-16 06:35:19.750416,Boxing Lines - Adam Azim vs Ohara Davies - To Win the Bout,Ohara Davies,-0.012899999999999995,0.1538,0.1667
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Mark Vientos (NYM),-0.0131,0.2222,0.2353
 2024-10-16 11:23:19.981846,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Mark Vientos (NYM),-0.013999999999999999,0.0769,0.0909
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Juan Soto (NYY),-0.014099999999999994,0.0526,0.0667
 2024-10-16 11:23:19.981846,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Francisco Lindor (NYM),-0.014399999999999996,0.0625,0.0769
 2024-10-16 05:30:24.498565,ALCS MVP - ALCS MVP - ALCS MVP,Steven Kwan (CLE),-0.015300000000000001,0.0323,0.0476
-2024-10-16 04:31:35.501529,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.015400000000000025,0.3846,0.4
 2024-10-16 11:23:19.990815,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Mark Vientos (NYM),-0.016699999999999993,0.4,0.4167
 2024-10-16 15:28:49.452448,Scores - 1st Round Score - Adam Svensson - 1st Round Score,Under 68.5,-0.017299999999999982,0.5744,0.5917
-2024-10-16 04:31:35.536256,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Chris Colbert,-0.017300000000000093,0.697,0.7143
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Francisco Lindor (NYM),-0.0179,0.125,0.1429
 2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Austin Wells (NYY),-0.0182,0.0141,0.0323
-2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Steven Kwan (CLE),-0.01820000000000002,0.1818,0.2
 2024-10-16 09:28:25.368733,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Portugal,-0.01820000000000002,0.1818,0.2
+2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Steven Kwan (CLE),-0.01820000000000002,0.1818,0.2
 2024-10-16 13:32:30.245801,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.018900000000000028,0.4255,0.4444
 2024-10-16 13:32:30.241814,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.018900000000000028,0.4255,0.4444
 2024-10-16 05:30:24.511260,World Series MVP - World Series MVP  - World Series MVP,Jose Ramirez (CLE),-0.019800000000000005,0.0278,0.0476
+2024-10-16 15:28:49.478745,Scores - 1st Round Score - Matt Kuchar - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
 2024-10-16 12:50:07.816015,Tournament Match-Ups - Tournament Match-Up - C. Davis vs J.T. Poston - Tournament Match-Up,Cam Davis,-0.02169999999999994,0.5238,0.5455
 2024-10-16 15:28:49.487473,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
 2024-10-16 15:28:49.483127,Scores - 1st Round Score - Nick Taylor - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
 2024-10-16 15:28:49.465621,Scores - 1st Round Score - Daniel Berger - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
-2024-10-16 15:28:49.478745,Scores - 1st Round Score - Matt Kuchar - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
 2024-10-16 05:30:24.504803,NLCS MVP - NLCS MVP - NLCS MVP,Francisco Lindor (NYM),-0.022199999999999998,0.2,0.2222
-2024-10-16 04:31:35.508608,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat New York Mets,-0.0223,0.0303,0.0526
 2024-10-16 15:28:49.491841,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Under 68.5,-0.022600000000000064,0.6,0.6226
 2024-10-16 11:23:19.999705,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Austin Wells (NYY),-0.023200000000000002,0.0244,0.0476
-2024-10-16 15:28:49.664292,Tournament Match-Ups - Tournament Match-Up - C. Kim vs K. Yu - Tournament Match-Up,Kevin Yu,-0.023799999999999988,0.4762,0.5
 2024-10-16 13:32:30.301125,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.023799999999999988,0.4762,0.5
+2024-10-16 15:28:49.664292,Tournament Match-Ups - Tournament Match-Up - C. Kim vs K. Yu - Tournament Match-Up,Kevin Yu,-0.023799999999999988,0.4762,0.5
+2024-10-16 16:34:38.536353,Round Match-Ups - 1st Round Match-Up - S. Power vs T. Pendrith - 1st Round Match-Up,Seamus Power,-0.023800000000000043,0.5,0.5238
 2024-10-16 12:50:07.820256,Tournament Match-Ups - Tournament Match-Up - C. Kim vs K. Yu - Tournament Match-Up,Kevin Yu,-0.023800000000000043,0.5,0.5238
-2024-10-16 15:28:49.643422,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs E. Cole - Tournament Match-Up,Adam Hadwin,-0.023800000000000043,0.5,0.5238
-2024-10-16 13:32:30.292635,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.023800000000000043,0.5,0.5238
 2024-10-16 15:28:49.660118,Tournament Match-Ups - Tournament Match-Up - C. Davis vs J.T. Poston - Tournament Match-Up,Cam Davis,-0.023800000000000043,0.5,0.5238
+2024-10-16 13:32:30.292635,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.023800000000000043,0.5,0.5238
+2024-10-16 15:28:49.643422,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs E. Cole - Tournament Match-Up,Adam Hadwin,-0.023800000000000043,0.5,0.5238
 2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Giancarlo Stanton (NYY),-0.024,0.0385,0.0625
+2024-10-16 16:34:38.587858,Round Match-Ups - 1st Round Match-Up - A. Putnam vs JJ Spaun - 1st Round Match-Up,Andrew Putnam,-0.024399999999999977,0.4878,0.5122
 2024-10-16 11:23:19.990815,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Francisco Lindor (NYM),-0.0267,0.0909,0.1176
 2024-10-16 11:23:19.990815,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Shohei Ohtani (LAD),-0.0267,0.0909,0.1176
-2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Pete Alonso (NYM),-0.02779999999999999,0.2222,0.25
 2024-10-16 11:23:19.986339,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Max Muncy (LAD),-0.02779999999999999,0.2222,0.25
+2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Pete Alonso (NYM),-0.02779999999999999,0.2222,0.25
 2024-10-16 11:23:19.990815,Stat Leaders - Most RBIs in the Series - NLCS - LAD v NYM - Most RBIs in the Series - NLCS - LAD v NYM,Mookie Betts (LAD),-0.02779999999999999,0.2222,0.25
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Teoscar Hernandez (LAD),-0.02840000000000001,0.0769,0.1053
+2024-10-16 07:26:08.367722,Tournament Match-Ups - Tournament Match-Up - H. Hall vs K. Kitayama - Tournament Match-Up,Kurt Kitayama,-0.028900000000000037,0.5455,0.5744
 2024-10-16 07:26:08.359385,Tournament Match-Ups - Tournament Match-Up - C. Davis vs J.T. Poston - Tournament Match-Up,Cam Davis,-0.028900000000000037,0.5455,0.5744
 2024-10-16 10:32:01.877996,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Under 68.5,-0.028900000000000037,0.5455,0.5744
-2024-10-16 07:26:08.367722,Tournament Match-Ups - Tournament Match-Up - H. Hall vs K. Kitayama - Tournament Match-Up,Kurt Kitayama,-0.028900000000000037,0.5455,0.5744
 2024-10-16 11:23:19.981846,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Tommy Edman (LAD),-0.030299999999999994,0.3333,0.3636
 2024-10-16 13:32:30.275096,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Harris to Win and Trump to not concede,-0.03210000000000002,0.9091,0.9412
 2024-10-16 11:23:19.986339,Stat Leaders - Most Home Runs in the Series - NLCS - LAD v NYM - Most Home Runs in the Series - NLCS - LAD v NYM,Francisco Lindor (NYM),-0.03259999999999999,0.2174,0.25
 2024-10-16 11:23:19.981846,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Mookie Betts (LAD),-0.03270000000000001,0.0625,0.0952
 2024-10-16 15:28:49.470013,Scores - 1st Round Score - Eric Cole - 1st Round Score,Under 68.5,-0.033399999999999985,0.5744,0.6078
-2024-10-16 04:31:35.508608,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Cleveland Guardians,-0.03339999999999999,0.0333,0.0667
-2024-10-16 15:28:49.647589,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs M. Schmid - Tournament Match-Up,Andrew Putnam,-0.03480000000000005,0.5,0.5348
 2024-10-16 07:26:08.485875,Tournament Match-Ups - Tournament Match-Ups - R. Neergaard-Petersen vs S. Soderberg - Tournament Match-Ups ,Rasmus Neergaard-Petersen,-0.03480000000000005,0.5,0.5348
+2024-10-16 15:28:49.647589,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs M. Schmid - Tournament Match-Up,Andrew Putnam,-0.03480000000000005,0.5,0.5348
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Lane Thomas (CLE),-0.0384,0.0385,0.0769
 2024-10-16 05:30:24.504803,NLCS MVP - NLCS MVP - NLCS MVP,Shohei Ohtani (LAD),-0.03920000000000001,0.2941,0.3333
-2024-10-16 04:31:35.508608,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat Los Angeles Dodgers,-0.041100000000000005,0.0303,0.0714
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Mookie Betts (LAD),-0.04240000000000001,0.0909,0.1333
 2024-10-16 05:30:24.504803,NLCS MVP - NLCS MVP - NLCS MVP,Mark Vientos (NYM),-0.04269999999999999,0.1111,0.1538
-2024-10-16 15:28:49.685084,Tournament Match-Ups - Tournament Match-Up - T. Hoge vs T. Pendrith - Tournament Match-Up,Tom Hoge,-0.04760000000000003,0.4762,0.5238
 2024-10-16 15:28:49.680939,Tournament Match-Ups - Tournament Match-Up - S. Power vs S. Jaeger - Tournament Match-Up,Stephan Jaeger,-0.04760000000000003,0.4762,0.5238
-2024-10-16 04:31:35.508608,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Cleveland Guardians,-0.048600000000000004,0.0625,0.1111
+2024-10-16 15:28:49.685084,Tournament Match-Ups - Tournament Match-Up - T. Hoge vs T. Pendrith - Tournament Match-Up,Tom Hoge,-0.04760000000000003,0.4762,0.5238
 2024-10-16 14:29:51.297568,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Harris to Win and Trump to not concede,-0.052000000000000046,0.8571,0.9091
-2024-10-16 04:31:35.501529,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,-0.052300000000000006,0.0588,0.1111
 2024-10-16 11:23:19.995253,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Andres Gimenez (CLE),-0.052399999999999995,0.0385,0.0909
 2024-10-16 11:23:19.981846,Stat Leaders - Most Hits in the Series - NLCS - LAD v NYM - Most Hits in the Series - NLCS - LAD v NYM,Shohei Ohtani (LAD),-0.05710000000000001,0.1429,0.2
 2024-10-16 08:33:16.445441,Totals - 1st Round Birdies - Eric Cole - 1st Round Birdies,Under 4.5,-0.06230000000000002,0.4255,0.4878
@@ -155,7 +168,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 11:23:20.004190,Stat Leaders - Most RBIs in the Series - ALCS - NYY v CLE - Most RBIs in the Series - ALCS - NYY v CLE,Austin Wells (NYY),-0.0774,0.0476,0.125
 2024-10-16 11:23:19.999705,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Juan Soto (NYY),-0.08750000000000002,0.3125,0.4
 2024-10-16 11:23:20.004190,Stat Leaders - Most RBIs in the Series - ALCS - NYY v CLE - Most RBIs in the Series - ALCS - NYY v CLE,Giancarlo Stanton (NYY),-0.1071,0.1429,0.25
-2024-10-16 04:31:35.513186,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Cleveland Guardians,-0.12029999999999999,0.1429,0.2632
 2024-10-16 11:23:20.008788,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Fernando Tatis Jr,-0.1389,0.1111,0.25
 2024-10-16 11:23:20.004190,Stat Leaders - Most RBIs in the Series - ALCS - NYY v CLE - Most RBIs in the Series - ALCS - NYY v CLE,Juan Soto (NYY),-0.1666,0.1667,0.3333
 2024-10-16 15:28:49.071483,MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Hits in the Series - Shohei Ohtani v Aaron Judge,Shohei Ohtani (LAD),-0.3319,0.5348,0.8667
