@@ -1,15 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-10-16 15:28:49.075001,"MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Hits, Runs & RBIs in the Series - Shohei Ohtani v Aaron Judge",Aaron Judge (NYY),0.5962000000000001,0.75,0.1538
-2024-10-16 15:28:49.078556,MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Home Runs in the Series - Shohei Ohtani v Aaron Judge,Aaron Judge (NYY),0.3531,0.8182,0.4651
-2024-10-16 15:28:49.071483,MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Hits in the Series - Shohei Ohtani v Aaron Judge,Aaron Judge (NYY),0.33480000000000004,0.5348,0.2
+2024-10-17 03:33:06.246979,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,0.21210000000000007,0.9091,0.697
 2024-10-16 23:26:45.567362,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 37.5,0.09090000000000004,0.4545,0.3636
 2024-10-16 18:34:35.151518,Western Conference - Conference Seeding  - To Be #1 Seed,Oklahoma City Thunder,0.0877,0.4651,0.3774
 2024-10-16 18:34:35.676860,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,Yes,0.0816,0.7959,0.7143
 2024-10-16 23:26:45.563961,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 43.5,0.07780000000000009,0.8,0.7222
 2024-10-17 01:52:56.112172,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 33.5,0.07739999999999991,0.7917,0.7143
 2024-10-16 21:26:01.594609,Positions - Finishing Position - Stephan Jaeger - Finishing Position,34th or worse,0.07710000000000006,0.6226,0.5455
-2024-10-16 21:26:01.555059,Positions - Finishing Position - Cam Davis - Finishing Position,37th or worse,0.07619999999999993,0.6,0.5238
 2024-10-16 21:26:01.585936,Positions - Finishing Position - Matt McCarty - Finishing Position,38th or worse,0.07619999999999993,0.6,0.5238
+2024-10-16 21:26:01.555059,Positions - Finishing Position - Cam Davis - Finishing Position,37th or worse,0.07619999999999993,0.6,0.5238
 2024-10-16 22:29:35.010297,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 46.5,0.07190000000000007,0.7778,0.7059
 2024-10-16 23:26:45.659770,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 59.5,0.07120000000000004,0.4348,0.3636
 2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),0.0705,0.1538,0.0833
@@ -21,9 +19,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 21:26:00.368414,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 16.5,0.0626000000000001,0.7959,0.7333
 2024-10-16 21:26:01.590266,Positions - Finishing Position - Seamus Power - Finishing Position,34th or better,0.05689999999999995,0.5917,0.5348
 2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Detroit Pistons,0.05550000000000002,0.2222,0.1667
-2024-10-16 21:26:01.607642,Positions - Finishing Position - Tom Kim - Finishing Position,19th or worse,0.05449999999999999,0.6,0.5455
-2024-10-16 21:26:01.576975,Positions - Finishing Position - Keith Mitchell - Finishing Position,38th or worse,0.05449999999999999,0.6,0.5455
 2024-10-16 21:26:01.603289,Positions - Finishing Position - Tom Hoge - Finishing Position,35th or worse,0.05449999999999999,0.6,0.5455
+2024-10-16 21:26:01.576975,Positions - Finishing Position - Keith Mitchell - Finishing Position,38th or worse,0.05449999999999999,0.6,0.5455
+2024-10-16 21:26:01.607642,Positions - Finishing Position - Tom Kim - Finishing Position,19th or worse,0.05449999999999999,0.6,0.5455
 2024-10-16 23:26:45.615486,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 47.5,0.051100000000000034,0.4082,0.3571
 2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Philadelphia 76ers,0.05080000000000001,0.2326,0.1818
 2024-10-16 23:26:45.612045,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 53.5,0.050799999999999956,0.7333,0.6825
@@ -33,75 +31,66 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 01:52:56.123905,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 26.5,0.04780000000000001,0.3704,0.3226
 2024-10-16 20:28:00.916779,Average Points Per Game - Average Points Per Game - LeBron James (LAL) - PPG,Under 24.6,0.04760000000000003,0.5238,0.4762
 2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Mike Budenholzer,0.0476,0.0952,0.0476
-2024-10-16 18:34:36.209823,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,0.04700000000000004,0.5348,0.4878
 2024-10-16 20:28:00.883503,Average Points Per Game - Average Points Per Game - Ja Morant (MEM) - PPG,Under 26.3,0.04700000000000004,0.5348,0.4878
+2024-10-16 18:34:36.209823,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,0.04700000000000004,0.5348,0.4878
 2024-10-16 19:21:27.774125,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Memphis Grizzlies,0.04630000000000001,0.4167,0.3704
-2024-10-16 15:28:49.680939,Tournament Match-Ups - Tournament Match-Up - S. Power vs S. Jaeger - Tournament Match-Up,Seamus Power,0.04620000000000002,0.5917,0.5455
 2024-10-16 21:26:01.568166,Positions - Finishing Position - Harry Hall - Finishing Position,40th or better,0.04620000000000002,0.5917,0.5455
 2024-10-17 01:52:56.120511,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 32.5,0.04579999999999995,0.7826,0.7368
-2024-10-16 18:34:35.109472,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Boston Celtics,0.045499999999999985,0.5455,0.5
 2024-10-16 20:28:01.833283,Electoral College Winner - Michigan (MI) - Michigan,Democrat,0.045499999999999985,0.5455,0.5
+2024-10-16 18:34:35.109472,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Boston Celtics,0.045499999999999985,0.5455,0.5
 2024-10-16 18:34:37.309261,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Chris Colbert,0.04479999999999995,0.7222,0.6774
 2024-10-16 23:26:45.636013,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 49.5,0.04410000000000003,0.3774,0.3333
 2024-10-16 21:26:00.371823,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 22.5,0.04179999999999995,0.7561,0.7143
 2024-10-16 18:34:35.372754,Average Points Per Game - Average Points Per Game - Donovan Clingan (POR) - PPG,Under 9.6,0.04139999999999999,0.5652,0.5238
 2024-10-16 18:34:35.647195,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,Yes,0.04070000000000007,0.9231,0.8824
 2024-10-17 01:52:56.053594,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 49.5,0.03980000000000006,0.6552,0.6154
-2024-10-16 21:26:01.550659,Positions - Finishing Position - Beau Hossler - Finishing Position,34th or worse,0.03959999999999997,0.5744,0.5348
 2024-10-16 18:34:36.339218,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 21.5,0.03959999999999997,0.5744,0.5348
+2024-10-16 21:26:01.550659,Positions - Finishing Position - Beau Hossler - Finishing Position,34th or worse,0.03959999999999997,0.5744,0.5348
 2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),0.03860000000000001,0.1053,0.0667
 2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Immanuel Quickley (TOR),0.0384,0.0769,0.0385
 2024-10-17 01:52:56.097050,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 39.5,0.03770000000000007,0.7436,0.7059
-2024-10-17 01:52:56.100425,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 33.5,0.03710000000000002,0.3704,0.3333
 2024-10-17 01:52:56.050252,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 55.5,0.03710000000000002,0.3448,0.3077
+2024-10-17 01:52:56.100425,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 33.5,0.03710000000000002,0.3704,0.3333
 2024-10-16 18:34:35.630175,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,Yes,0.036599999999999994,0.2105,0.1739
 2024-10-16 23:26:45.555438,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 44.5,0.03640000000000004,0.4,0.3636
 2024-10-16 23:26:45.552005,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 50.5,0.0363,0.7333,0.697
 2024-10-16 20:28:01.076759,Average Threes Made Per Game - Average Threes Per Game  - Klay Thompson (DAL) - Threes Per Game,Under 3.5,0.03610000000000002,0.5917,0.5556
 2024-10-16 18:34:36.149590,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 47.5,0.03610000000000002,0.5917,0.5556
-2024-10-16 15:28:49.685084,Tournament Match-Ups - Tournament Match-Up - T. Hoge vs T. Pendrith - Tournament Match-Up,Taylor Pendrith,0.03610000000000002,0.5917,0.5556
 2024-10-16 19:21:27.774125,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,San Antonio Spurs,0.03570000000000001,0.2857,0.25
+2024-10-16 21:26:00.341143,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 35.5,0.03479999999999994,0.6,0.5652
 2024-10-16 18:34:35.302568,Average Assists Per Game - Average Assists Per Game  - Ja Morant (MEM) - APG,Over 7.5,0.03479999999999994,0.6,0.5652
 2024-10-17 01:52:55.929469,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 39.5,0.03479999999999994,0.6,0.5652
-2024-10-16 21:26:00.341143,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 35.5,0.03479999999999994,0.6,0.5652
 2024-10-16 20:28:00.781245,Average Assists Per Game - Average Assists Per Game  - De'Aaron Fox (SAC) - APG,Under 5.9,0.03479999999999994,0.6,0.5652
 2024-10-16 19:21:27.970390,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Donovan Mitchell (CLE),0.0347,0.0625,0.0278
 2024-10-16 19:21:28.000943,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Giannis Antetokounmpo (MIL),0.0343,0.1176,0.0833
 2024-10-17 01:52:56.135615,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 23.5,0.03420000000000001,0.7778,0.7436
 2024-10-16 21:26:00.359984,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 61.5,0.03379999999999994,0.7059,0.6721
-2024-10-16 15:28:49.470013,Scores - 1st Round Score - Eric Cole - 1st Round Score,Over 68.5,0.033299999999999996,0.4878,0.4545
-2024-10-16 23:26:45.591234,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 50.5,0.033299999999999996,0.4255,0.3922
 2024-10-17 01:52:55.936188,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 37.5,0.033299999999999996,0.4878,0.4545
+2024-10-16 23:26:45.591234,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 50.5,0.033299999999999996,0.4255,0.3922
 2024-10-16 18:34:36.283595,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 46.5,0.033299999999999996,0.5455,0.5122
-2024-10-16 19:21:28.000943,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Joel Embiid (PHI),0.03259999999999999,0.25,0.2174
 2024-10-16 18:34:35.728477,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,Yes,0.03259999999999999,0.2326,0.2
+2024-10-16 19:21:28.000943,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Joel Embiid (PHI),0.03259999999999999,0.25,0.2174
 2024-10-16 23:26:45.587818,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 44.5,0.03249999999999997,0.7468,0.7143
-2024-10-16 22:29:34.998363,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 51.5,0.03210000000000002,0.4167,0.3846
 2024-10-16 22:29:35.006871,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 52.5,0.03210000000000002,0.4167,0.3846
-2024-10-16 15:28:49.491841,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Over 68.5,0.031799999999999995,0.4762,0.4444
-2024-10-16 15:28:49.487473,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
+2024-10-16 22:29:34.998363,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 51.5,0.03210000000000002,0.4167,0.3846
 2024-10-16 21:26:01.546111,Positions - Finishing Position - Adam Hadwin - Finishing Position,38th or worse,0.03179999999999994,0.5556,0.5238
-2024-10-16 15:28:49.483127,Scores - 1st Round Score - Nick Taylor - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
-2024-10-16 15:28:49.478745,Scores - 1st Round Score - Matt Kuchar - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
-2024-10-16 15:28:49.465621,Scores - 1st Round Score - Daniel Berger - 1st Round Score,Over 68.5,0.03179999999999994,0.5556,0.5238
 2024-10-16 23:26:45.528191,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Over 46.5,0.030799999999999994,0.4082,0.3774
 2024-10-16 21:26:00.356555,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 55.5,0.030799999999999994,0.4082,0.3774
-2024-10-16 18:34:35.275206,Average Assists Per Game - Average Assists Per Game  - De'Aaron Fox (SAC) - APG,Under 5.9,0.030399999999999983,0.5652,0.5348
-2024-10-16 18:34:36.161573,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 44.5,0.030399999999999983,0.5652,0.5348
-2024-10-16 15:28:49.647589,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs M. Schmid - Tournament Match-Up,Matti Schmid,0.030399999999999983,0.5652,0.5348
 2024-10-16 21:26:01.598951,Positions - Finishing Position - Taylor Pendrith - Finishing Position,30th or better,0.030399999999999983,0.5652,0.5348
-2024-10-16 20:28:00.943566,Average Points Per Game - Average Points Per Game - Stephon Castle (SAS) - PPG,Under 10.1,0.030399999999999983,0.5652,0.5348
-2024-10-16 21:26:01.559431,Positions - Finishing Position - Davis Thompson - Finishing Position,32nd or worse,0.030399999999999983,0.5652,0.5348
-2024-10-16 20:28:01.025143,Average Rebounds Per Game - Average Rebounds Per Game - Zach Edey (MEM) - RPG,Over 7.6,0.030399999999999983,0.5652,0.5348
 2024-10-16 20:28:01.011866,Average Rebounds Per Game - Average Rebounds Per Game - Nicolas Claxton (BKN) - RPG,Under 10.8,0.030399999999999983,0.5652,0.5348
-2024-10-16 20:28:00.926808,Average Points Per Game - Average Points Per Game - Reed Sheppard (HOU) - PPG,Over 9.5,0.030399999999999983,0.5652,0.5348
+2024-10-16 21:26:01.559431,Positions - Finishing Position - Davis Thompson - Finishing Position,32nd or worse,0.030399999999999983,0.5652,0.5348
+2024-10-16 18:34:35.275206,Average Assists Per Game - Average Assists Per Game  - De'Aaron Fox (SAC) - APG,Under 5.9,0.030399999999999983,0.5652,0.5348
+2024-10-16 20:28:00.943566,Average Points Per Game - Average Points Per Game - Stephon Castle (SAS) - PPG,Under 10.1,0.030399999999999983,0.5652,0.5348
 2024-10-16 18:34:36.173607,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 50.5,0.030399999999999983,0.5652,0.5348
+2024-10-16 18:34:36.161573,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 44.5,0.030399999999999983,0.5652,0.5348
+2024-10-16 20:28:01.025143,Average Rebounds Per Game - Average Rebounds Per Game - Zach Edey (MEM) - RPG,Over 7.6,0.030399999999999983,0.5652,0.5348
+2024-10-16 20:28:00.926808,Average Points Per Game - Average Points Per Game - Reed Sheppard (HOU) - PPG,Over 9.5,0.030399999999999983,0.5652,0.5348
 2024-10-16 21:26:02.053591,Cut Lines - Cam Davis - Make Cut / Miss Cut - Cam Davis,Miss,0.030299999999999994,0.3636,0.3333
 2024-10-16 21:26:02.049201,Cut Lines - Adam Hadwin - Make Cut / Miss Cut - Adam Hadwin,Miss,0.030299999999999994,0.3636,0.3333
 2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bogdan Bogdanovic (ATL),0.030199999999999998,0.0625,0.0323
 2024-10-16 23:26:45.510726,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 48.5,0.029600000000000015,0.4,0.3704
-2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,GG Jackson II (MEM),0.029299999999999993,0.0769,0.0476
 2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Kenny Atkinson,0.029299999999999993,0.0769,0.0476
+2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,GG Jackson II (MEM),0.029299999999999993,0.0769,0.0476
 2024-10-16 18:34:35.655661,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,Yes,0.028900000000000037,0.5744,0.5455
 2024-10-16 18:34:36.221851,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 56.5,0.028900000000000037,0.5744,0.5455
 2024-10-16 18:34:35.719665,To Make the Playoffs - Portland Trail Blazers 2024-25 - To Make the Playoffs,Yes,0.028199999999999996,0.0667,0.0385
@@ -112,76 +101,69 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 01:52:56.128854,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 17.5,0.0267,0.2899,0.2632
 2024-10-16 18:34:35.694225,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,No,0.026600000000000013,0.4348,0.4082
 2024-10-16 18:34:35.625958,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,Yes,0.026499999999999996,0.0588,0.0323
-2024-10-16 20:28:00.896797,Average Points Per Game - Average Points Per Game - Joel Embiid (PHI) - PPG,Under 32.4,0.026499999999999968,0.5917,0.5652
 2024-10-16 18:34:36.307941,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 30.5,0.026499999999999968,0.5917,0.5652
 2024-10-16 20:28:01.040129,Average Threes Made Per Game - Average Threes Per Game  - Brandon Miller (CHA) - Threes Per Game,Over 2.7,0.026499999999999968,0.5917,0.5652
-2024-10-16 15:28:49.664292,Tournament Match-Ups - Tournament Match-Up - C. Kim vs K. Yu - Tournament Match-Up,Chan Kim,0.026499999999999968,0.5917,0.5652
+2024-10-16 20:28:00.896797,Average Points Per Game - Average Points Per Game - Joel Embiid (PHI) - PPG,Under 32.4,0.026499999999999968,0.5917,0.5652
 2024-10-16 22:29:34.441617,Average Rebounds Per Game - Average Rebounds Per Game - Nicolas Claxton (BKN) - RPG,Under 10.8,0.026499999999999968,0.5917,0.5652
 2024-10-16 21:26:02.123977,Cut Lines - Chan Kim - Make Cut / Miss Cut - Chan Kim,Make,0.025600000000000067,0.6923,0.6667
-2024-10-16 18:34:35.715421,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,No,0.02560000000000001,0.3704,0.3448
 2024-10-16 23:26:45.651238,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 50.5,0.02560000000000001,0.3704,0.3448
+2024-10-16 18:34:35.715421,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,No,0.02560000000000001,0.3704,0.3448
 2024-10-16 18:34:35.672605,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,0.025599999999999956,0.6,0.5744
 2024-10-16 18:34:35.664138,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,No,0.02529999999999999,0.2105,0.1852
 2024-10-16 22:29:34.982946,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 31.5,0.02510000000000001,0.7619,0.7368
-2024-10-16 21:26:01.468291,Boxing Lines - Tsendbaatar Erdenebat vs Frency Fortunato Saya - To Win the Bout,Frency Fortunato Saya,0.024800000000000016,0.2353,0.2105
 2024-10-16 18:34:35.112728,Eastern Conference - Conference Seeding  - To Be #2 Seed ,Philadelphia 76ers,0.024800000000000016,0.2353,0.2105
+2024-10-16 21:26:01.468291,Boxing Lines - Tsendbaatar Erdenebat vs Frency Fortunato Saya - To Win the Bout,Frency Fortunato Saya,0.024800000000000016,0.2353,0.2105
 2024-10-16 20:28:00.870161,Average Points Per Game - Average Points Per Game - Devin Booker (PHX) - PPG,Under 26.5,0.023800000000000043,0.5238,0.5
-2024-10-16 15:28:49.461223,Scores - 1st Round Score - Chan Kim - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
-2024-10-16 15:28:49.474345,Scores - 1st Round Score - JT Poston - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
 2024-10-16 18:34:37.248079,MLB Daily Fantasy Specials - Best Performing Hitter - LAD @ NYM - Game 3 NLCS - Best Performing Hitter - LAD @ NYM - Game 3 NLCS,Mookie Betts (LAD),0.023799999999999988,0.1667,0.1429
-2024-10-16 15:28:49.452448,Scores - 1st Round Score - Adam Svensson - 1st Round Score,Over 68.5,0.023799999999999988,0.5,0.4762
 2024-10-16 20:28:01.036846,Average Threes Made Per Game - Average Threes Per Game  - Anthony Edwards (MIN) - Threes Per Game,Over 2.4,0.023699999999999943,0.6154,0.5917
 2024-10-16 23:26:45.639413,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 43.5,0.023399999999999976,0.7059,0.6825
 2024-10-16 19:21:27.351980,Average Assists Per Game - Average Assists Per Game  - Tyrese Haliburton (IND) - APG,Under 10.6,0.022600000000000064,0.5348,0.5122
-2024-10-16 19:21:27.338281,Average Assists Per Game - Average Assists Per Game  - Luka Doncic (DAL) - APG,Over 9.4,0.022600000000000064,0.5348,0.5122
 2024-10-16 18:34:36.197773,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 46.5,0.022600000000000064,0.5348,0.5122
+2024-10-16 19:21:27.338281,Average Assists Per Game - Average Assists Per Game  - Luka Doncic (DAL) - APG,Over 9.4,0.022600000000000064,0.5348,0.5122
 2024-10-17 01:52:56.132236,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 20.5,0.022600000000000064,0.5348,0.5122
 2024-10-16 19:21:27.367591,Average Points Per Game - Average Points Per Game - Anthony Edwards (MIN) - PPG,Over 27.3,0.022600000000000064,0.5348,0.5122
-2024-10-16 21:26:02.132723,Cut Lines - Patton Kizzire - Make Cut / Miss Cut - Patton Kizzire,Miss,0.02260000000000001,0.4,0.3774
 2024-10-16 23:26:45.599619,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 47.5,0.02260000000000001,0.4,0.3774
+2024-10-16 21:26:02.132723,Cut Lines - Patton Kizzire - Make Cut / Miss Cut - Patton Kizzire,Miss,0.02260000000000001,0.4,0.3774
 2024-10-16 23:26:45.603008,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 41.5,0.022499999999999964,0.7368,0.7143
 2024-10-16 20:28:01.459752,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Alexandre Sarr (WAS),0.02239999999999999,0.1176,0.0952
 2024-10-16 22:29:34.986443,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 25.5,0.022199999999999998,0.3448,0.3226
 2024-10-16 21:26:02.106534,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.02200000000000002,0.7143,0.6923
 2024-10-16 23:26:45.627430,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 49.5,0.021799999999999986,0.3922,0.3704
 2024-10-17 01:52:56.108798,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 27.5,0.021799999999999986,0.3922,0.3704
-2024-10-16 15:28:49.456880,Scores - 1st Round Score - Ben Griffin - 1st Round Score,Over 68.5,0.021699999999999997,0.4762,0.4545
 2024-10-16 23:26:45.531574,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Over 40.5,0.021400000000000086,0.7436,0.7222
 2024-10-16 17:30:45.697838,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Omar Salcido Gamez,0.02100000000000002,0.3846,0.3636
-2024-10-16 20:28:00.998686,Average Rebounds Per Game - Average Rebounds Per Game - Jalen Duren (DET) - RPG,Over 11.3,0.02079999999999993,0.5556,0.5348
-2024-10-16 18:34:35.285556,Average Assists Per Game - Average Assists Per Game  - Donovan Mitchell (CLE) - APG,Under 6.1,0.02079999999999993,0.5556,0.5348
-2024-10-16 20:28:00.920139,Average Points Per Game - Average Points Per Game - Nikola Jokic (DEN) - PPG,Over 26.5,0.02079999999999993,0.5556,0.5348
 2024-10-16 20:28:00.906842,Average Points Per Game - Average Points Per Game - Kyrie Irving (DAL) - PPG,Under 24.6,0.02079999999999993,0.5556,0.5348
+2024-10-16 20:28:00.998686,Average Rebounds Per Game - Average Rebounds Per Game - Jalen Duren (DET) - RPG,Over 11.3,0.02079999999999993,0.5556,0.5348
+2024-10-16 20:28:00.920139,Average Points Per Game - Average Points Per Game - Nikola Jokic (DEN) - PPG,Over 26.5,0.02079999999999993,0.5556,0.5348
+2024-10-16 18:34:35.285556,Average Assists Per Game - Average Assists Per Game  - Donovan Mitchell (CLE) - APG,Under 6.1,0.02079999999999993,0.5556,0.5348
 2024-10-16 18:34:36.295906,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 36.5,0.02079999999999993,0.5556,0.5348
 2024-10-16 20:28:01.815992,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Trump to Win and either Biden or Harris to not concede,0.02049999999999999,0.1538,0.1333
 2024-10-17 01:52:56.085339,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 43.5,0.02030000000000004,0.3774,0.3571
 2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.0203,0.0526,0.0323
 2024-10-16 19:21:27.970390,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),0.02020000000000001,0.1111,0.0909
 2024-10-16 20:28:01.459752,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Reed Sheppard (HOU),0.020100000000000007,0.1739,0.1538
-2024-10-16 15:28:49.660118,Tournament Match-Ups - Tournament Match-Up - C. Davis vs J.T. Poston - Tournament Match-Up,J.T. Poston,0.01970000000000005,0.5652,0.5455
 2024-10-16 18:34:36.062932,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 49.5,0.01970000000000005,0.5652,0.5455
-2024-10-16 15:28:49.643422,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs E. Cole - Tournament Match-Up,Eric Cole,0.01970000000000005,0.5652,0.5455
 2024-10-16 20:28:02.603323,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Jack McGann,0.019600000000000006,0.2469,0.2273
 2024-10-16 18:34:35.638734,To Make the Playoffs - Cleveland Cavaliers 2024-25 - To Make the Playoffs,No,0.019100000000000006,0.1481,0.129
-2024-10-16 18:34:35.621769,To Make the Playoffs - Boston Celtics 2024-25 - To Make the Playoffs,No,0.019099999999999992,0.0667,0.0476
 2024-10-16 19:21:27.997347,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Chet Holmgren (OKC),0.019099999999999992,0.0667,0.0476
-2024-10-16 21:26:02.075703,Cut Lines - Ben Griffin - Make Cut / Miss Cut - Ben Griffin,Make,0.018999999999999906,0.7333,0.7143
+2024-10-16 18:34:35.621769,To Make the Playoffs - Boston Celtics 2024-25 - To Make the Playoffs,No,0.019099999999999992,0.0667,0.0476
 2024-10-16 21:26:02.062483,Cut Lines - Harry Hall - Make Cut / Miss Cut - Harry Hall,Make,0.018999999999999906,0.7333,0.7143
+2024-10-16 21:26:02.075703,Cut Lines - Ben Griffin - Make Cut / Miss Cut - Ben Griffin,Make,0.018999999999999906,0.7333,0.7143
 2024-10-16 18:34:38.024214,Tournament Match-Ups - Tournament Match-Up - B. Hossler vs K. Mitchell - Tournament Match-Up,Beau Hossler,0.01880000000000004,0.5744,0.5556
-2024-10-16 18:34:35.329953,Average Assists Per Game - Average Assists Per Game  - Trae Young (ATL) - APG,Over 10.4,0.01880000000000004,0.5744,0.5556
 2024-10-16 20:28:00.890188,Average Points Per Game - Average Points Per Game - Jaylen Brown (BOS) - PPG,Over 23.5,0.01880000000000004,0.5744,0.5556
 2024-10-16 18:34:36.319969,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 29.5,0.01880000000000004,0.5744,0.5556
+2024-10-16 18:34:35.329953,Average Assists Per Game - Average Assists Per Game  - Trae Young (ATL) - APG,Over 10.4,0.01880000000000004,0.5744,0.5556
 2024-10-16 18:34:35.292350,Average Assists Per Game - Average Assists Per Game  - Fred VanVleet (HOU) - APG,Under 7.9,0.01880000000000004,0.5744,0.5556
-2024-10-16 23:26:45.624009,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 55.5,0.018799999999999983,0.3636,0.3448
 2024-10-16 23:26:45.579319,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 40.5,0.018799999999999983,0.3636,0.3448
+2024-10-16 23:26:45.624009,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 55.5,0.018799999999999983,0.3636,0.3448
 2024-10-16 23:26:45.575922,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 46.5,0.018399999999999972,0.7059,0.6875
 2024-10-16 18:34:35.651429,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,0.01830000000000001,0.0952,0.0769
 2024-10-16 20:28:01.456163,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.01820000000000002,0.2,0.1818
 2024-10-17 01:52:55.932844,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 43.5,0.018199999999999994,0.8182,0.8
 2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Keldon Johnson (SAS),0.0168,0.0385,0.0217
-2024-10-17 01:52:56.061944,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,0.016699999999999993,0.4167,0.4
 2024-10-16 19:21:27.774125,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Golden State Warriors,0.016699999999999993,0.4167,0.4
 2024-10-16 23:26:45.462947,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 32.5,0.016699999999999993,0.4167,0.4
+2024-10-17 01:52:56.061944,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,0.016699999999999993,0.4167,0.4
 2024-10-16 22:29:36.115472,Boxing Lines - Juan Carlos Carrillo vs Castillo Lenin - To Win the Bout,Castillo Lenin,0.016600000000000004,0.1905,0.1739
 2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Mark Daigneault,0.016600000000000004,0.0833,0.0667
 2024-10-16 18:34:35.737402,To Make the Playoffs - Utah Jazz 2024-25 - To Make the Playoffs,Yes,0.016600000000000004,0.0833,0.0667
@@ -198,115 +180,115 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 16:34:36.887108,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Tre Mann (CHA),0.013,0.0196,0.0066
 2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Coby White (CHI),0.012700000000000003,0.0323,0.0196
 2024-10-16 19:21:27.977789,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),0.012299999999999978,0.6552,0.6429
-2024-10-16 20:28:02.582312,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Omar Salcido Gamez,0.012299999999999978,0.3571,0.3448
 2024-10-16 23:26:46.716807,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Omar Salcido Gamez,0.012299999999999978,0.3571,0.3448
+2024-10-16 20:28:02.582312,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Omar Salcido Gamez,0.012299999999999978,0.3571,0.3448
+2024-10-16 18:34:36.075013,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 51.5,0.012199999999999989,0.5122,0.5
 2024-10-16 18:34:35.261598,Average Assists Per Game - Average Assists Per Game  - Cade Cunningham (DET) - APG,Under 7.9,0.012199999999999989,0.5122,0.5
 2024-10-16 18:34:35.485878,Average Rebounds Per Game - Average Rebounds Per Game - Donovan Clingan (POR) - RPG,Over 6.9,0.012199999999999989,0.5122,0.5
-2024-10-16 18:34:36.075013,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 51.5,0.012199999999999989,0.5122,0.5
 2024-10-16 18:34:35.681101,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,0.011900000000000022,0.8333,0.8214
 2024-10-16 19:21:27.774125,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Denver Nuggets,0.011700000000000016,0.2222,0.2105
 2024-10-16 18:34:36.185608,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 52.5,0.011600000000000055,0.5238,0.5122
-2024-10-16 17:30:44.402259,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Gregg Popovich,0.011199999999999995,0.0588,0.0476
 2024-10-16 18:34:35.741831,To Make the Playoffs - Washington Wizards 2024-25 - To Make the Playoffs,Yes,0.011199999999999995,0.0588,0.0476
-2024-10-16 20:28:00.923503,Average Points Per Game - Average Points Per Game - Paolo Banchero (ORL) - PPG,Over 24.2,0.01100000000000001,0.5348,0.5238
-2024-10-16 20:28:01.021880,Average Rebounds Per Game - Average Rebounds Per Game - Victor Wembanyama (SAS) - RPG,Over 11.7,0.01100000000000001,0.5348,0.5238
-2024-10-16 20:28:01.070130,Average Threes Made Per Game - Average Threes Per Game  - James Harden (LAC) - Threes Per Game,Over 2.8,0.01100000000000001,0.5348,0.5238
+2024-10-16 17:30:44.402259,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Gregg Popovich,0.011199999999999995,0.0588,0.0476
 2024-10-16 18:34:36.137584,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 43.5,0.01100000000000001,0.5348,0.5238
+2024-10-16 20:28:01.070130,Average Threes Made Per Game - Average Threes Per Game  - James Harden (LAC) - Threes Per Game,Over 2.8,0.01100000000000001,0.5348,0.5238
+2024-10-16 20:28:01.021880,Average Rebounds Per Game - Average Rebounds Per Game - Victor Wembanyama (SAS) - RPG,Over 11.7,0.01100000000000001,0.5348,0.5238
+2024-10-16 20:28:00.923503,Average Points Per Game - Average Points Per Game - Paolo Banchero (ORL) - PPG,Over 24.2,0.01100000000000001,0.5348,0.5238
 2024-10-16 19:21:28.008311,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,De'Aaron Fox (SAC),0.010899999999999993,0.1538,0.1429
 2024-10-16 18:34:36.028654,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 19.5,0.010699999999999932,0.5455,0.5348
-2024-10-16 18:34:36.185608,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 52.5,0.010699999999999932,0.5455,0.5348
 2024-10-16 20:28:00.913468,Average Points Per Game - Average Points Per Game - Lauri Markkanen (UTA) - PPG,Under 24.6,0.010699999999999932,0.5455,0.5348
+2024-10-16 18:34:36.185608,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 52.5,0.010699999999999932,0.5455,0.5348
 2024-10-16 18:34:37.304830,Boxing Lines - Tsendbaatar Erdenebat vs Frency Fortunato Saya - To Win the Bout,Frency Fortunato Saya,0.010499999999999982,0.2105,0.2
-2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Milwaukee Bucks,0.010499999999999982,0.2105,0.2
 2024-10-16 18:34:35.642969,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,No,0.010499999999999982,0.2105,0.2
+2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Milwaukee Bucks,0.010499999999999982,0.2105,0.2
 2024-10-16 19:21:28.008311,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,Dejounte Murray (NO),0.0102,0.0769,0.0667
 2024-10-16 19:21:28.008311,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,OG Anunoby (NYK),0.0102,0.0769,0.0667
-2024-10-16 20:28:00.975492,Average Rebounds Per Game - Average Rebounds Per Game - Anthony Davis (LAL) - RPG,Under 12.4,0.010099999999999998,0.5556,0.5455
 2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Miami Heat,0.010099999999999998,0.5556,0.5455
-2024-10-16 16:34:38.521764,Round Match-Ups - 1st Round Match-Up - A. Eckroat vs B. Kohles - 1st Round Match-Up,Austin Eckroat,-0.010099999999999998,0.5455,0.5556
-2024-10-16 16:34:38.550946,Round Match-Ups - 1st Round Match-Up - H. Hall vs M. Schmid - 1st Round Match-Up,Harry Hall,-0.010099999999999998,0.5455,0.5556
+2024-10-16 20:28:00.975492,Average Rebounds Per Game - Average Rebounds Per Game - Anthony Davis (LAL) - RPG,Under 12.4,0.010099999999999998,0.5556,0.5455
 2024-10-16 19:21:30.110310,Tournament Match-Ups - Tournament Match-Up - T. Kim vs D. Thompson - Tournament Match-Up,Davis Thompson,-0.010099999999999998,0.4444,0.4545
+2024-10-16 16:34:38.550946,Round Match-Ups - 1st Round Match-Up - H. Hall vs M. Schmid - 1st Round Match-Up,Harry Hall,-0.010099999999999998,0.5455,0.5556
+2024-10-16 16:34:38.521764,Round Match-Ups - 1st Round Match-Up - A. Eckroat vs B. Kohles - 1st Round Match-Up,Austin Eckroat,-0.010099999999999998,0.5455,0.5556
 2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Grayson Allen (PHX),-0.010100000000000001,0.0244,0.0345
-2024-10-16 18:34:35.154784,Western Conference - Conference Seeding  - To Be #2 Seed,Phoenix Suns,-0.0102,0.0667,0.0769
 2024-10-16 18:34:35.158041,Western Conference - Conference Seeding  - To Be #3 Seed,New Orleans Pelicans,-0.0102,0.0667,0.0769
-2024-10-16 18:34:35.132003,Eastern Conference - Conference Seeding  - To Be #8 Seed,Miami Heat,-0.010499999999999982,0.2,0.2105
+2024-10-16 18:34:35.154784,Western Conference - Conference Seeding  - To Be #2 Seed,Phoenix Suns,-0.0102,0.0667,0.0769
 2024-10-16 19:21:27.774125,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Minnesota Timberwolves,-0.010499999999999982,0.2,0.2105
-2024-10-16 16:34:38.517037,Round Match-Ups - 1st Round Match-Up - A. Smalley vs P. Fishburn - 1st Round Match-Up,Patrick Fishburn,-0.010699999999999932,0.5348,0.5455
-2024-10-16 20:28:01.070130,Average Threes Made Per Game - Average Threes Per Game  - James Harden (LAC) - Threes Per Game,Under 2.8,-0.010699999999999932,0.5348,0.5455
-2024-10-16 20:28:01.021880,Average Rebounds Per Game - Average Rebounds Per Game - Victor Wembanyama (SAS) - RPG,Under 11.7,-0.010699999999999932,0.5348,0.5455
+2024-10-16 18:34:35.132003,Eastern Conference - Conference Seeding  - To Be #8 Seed,Miami Heat,-0.010499999999999982,0.2,0.2105
 2024-10-16 20:28:00.923503,Average Points Per Game - Average Points Per Game - Paolo Banchero (ORL) - PPG,Under 24.2,-0.010699999999999932,0.5348,0.5455
-2024-10-16 16:34:38.607847,Round Match-Ups - 1st Round Match-Up - K. Kitayama vs S. Jaeger - 1st Round Match-Up,Kurt Kitayama,-0.010699999999999932,0.5348,0.5455
-2024-10-16 16:34:38.602669,Round Match-Ups - 1st Round Match-Up - B. Hossler vs T. Hoge - 1st Round Match-Up,Beau Hossler,-0.010699999999999932,0.5348,0.5455
-2024-10-16 18:34:36.137584,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 43.5,-0.010699999999999932,0.5348,0.5455
+2024-10-16 16:34:38.517037,Round Match-Ups - 1st Round Match-Up - A. Smalley vs P. Fishburn - 1st Round Match-Up,Patrick Fishburn,-0.010699999999999932,0.5348,0.5455
 2024-10-16 16:34:38.541276,Round Match-Ups - 1st Round Match-Up - D. Berger vs J. Vegas - 1st Round Match-Up,Jhonattan Vegas,-0.010699999999999932,0.5348,0.5455
+2024-10-16 20:28:01.021880,Average Rebounds Per Game - Average Rebounds Per Game - Victor Wembanyama (SAS) - RPG,Under 11.7,-0.010699999999999932,0.5348,0.5455
+2024-10-16 18:34:36.137584,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 43.5,-0.010699999999999932,0.5348,0.5455
+2024-10-16 16:34:38.602669,Round Match-Ups - 1st Round Match-Up - B. Hossler vs T. Hoge - 1st Round Match-Up,Beau Hossler,-0.010699999999999932,0.5348,0.5455
+2024-10-16 20:28:01.070130,Average Threes Made Per Game - Average Threes Per Game  - James Harden (LAC) - Threes Per Game,Under 2.8,-0.010699999999999932,0.5348,0.5455
+2024-10-16 16:34:38.607847,Round Match-Ups - 1st Round Match-Up - K. Kitayama vs S. Jaeger - 1st Round Match-Up,Kurt Kitayama,-0.010699999999999932,0.5348,0.5455
 2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Michael Malone,-0.010700000000000001,0.0278,0.0385
-2024-10-16 18:34:35.158041,Western Conference - Conference Seeding  - To Be #3 Seed,Oklahoma City Thunder,-0.010899999999999993,0.1429,0.1538
 2024-10-16 20:28:01.452403,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jayson Tatum (BOS),-0.010899999999999993,0.1429,0.1538
-2024-10-16 18:34:36.028654,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 19.5,-0.01100000000000001,0.5238,0.5348
-2024-10-16 16:34:38.546214,Round Match-Ups - 1st Round Match-Up - E. Cole vs JT Poston - 1st Round Match-Up,Eric Cole,-0.01100000000000001,0.5238,0.5348
+2024-10-16 18:34:35.158041,Western Conference - Conference Seeding  - To Be #3 Seed,Oklahoma City Thunder,-0.010899999999999993,0.1429,0.1538
 2024-10-16 16:34:38.569015,Round Match-Ups - 1st Round Match-Up - K. Mitchell vs M. McCarty - 1st Round Match-Up,Matt McCarty,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.546214,Round Match-Ups - 1st Round Match-Up - E. Cole vs JT Poston - 1st Round Match-Up,J.T. Poston,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.546214,Round Match-Ups - 1st Round Match-Up - E. Cole vs JT Poston - 1st Round Match-Up,Eric Cole,-0.01100000000000001,0.5238,0.5348
+2024-10-16 20:28:00.913468,Average Points Per Game - Average Points Per Game - Lauri Markkanen (UTA) - PPG,Over 24.6,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.612850,Round Match-Ups - 1st Round Match-Up - E. Van Rooyen vs R. Fox - 1st Round Match-Up,Erik Van Rooyen,-0.01100000000000001,0.5238,0.5348
 2024-10-16 16:34:38.569015,Round Match-Ups - 1st Round Match-Up - K. Mitchell vs M. McCarty - 1st Round Match-Up,Keith Mitchell,-0.01100000000000001,0.5238,0.5348
 2024-10-16 16:34:38.612850,Round Match-Ups - 1st Round Match-Up - E. Van Rooyen vs R. Fox - 1st Round Match-Up,Ryan Fox,-0.01100000000000001,0.5238,0.5348
-2024-10-16 16:34:38.612850,Round Match-Ups - 1st Round Match-Up - E. Van Rooyen vs R. Fox - 1st Round Match-Up,Erik Van Rooyen,-0.01100000000000001,0.5238,0.5348
-2024-10-16 16:34:38.597743,Round Match-Ups - 1st Round Match-Up - A. Hadwin vs C. Davis - 1st Round Match-Up,Adam Hadwin,-0.01100000000000001,0.5238,0.5348
-2024-10-16 16:34:38.597743,Round Match-Ups - 1st Round Match-Up - A. Hadwin vs C. Davis - 1st Round Match-Up,Cam Davis,-0.01100000000000001,0.5238,0.5348
-2024-10-16 16:34:38.546214,Round Match-Ups - 1st Round Match-Up - E. Cole vs JT Poston - 1st Round Match-Up,J.T. Poston,-0.01100000000000001,0.5238,0.5348
 2024-10-16 16:34:38.507935,Round Match-Ups - 1st Round Match-Up - A. Svensson vs C. Kim - 1st Round Match-Up,Adam Svensson,-0.01100000000000001,0.5238,0.5348
-2024-10-16 16:34:38.507935,Round Match-Ups - 1st Round Match-Up - A. Svensson vs C. Kim - 1st Round Match-Up,Chan Kim,-0.01100000000000001,0.5238,0.5348
-2024-10-16 20:28:00.913468,Average Points Per Game - Average Points Per Game - Lauri Markkanen (UTA) - PPG,Over 24.6,-0.01100000000000001,0.5238,0.5348
 2024-10-16 16:34:38.526730,Round Match-Ups - 1st Round Match-Up - B. Griffin vs H. English - 1st Round Match-Up,Ben Griffin,-0.01100000000000001,0.5238,0.5348
 2024-10-16 16:34:38.526730,Round Match-Ups - 1st Round Match-Up - B. Griffin vs H. English - 1st Round Match-Up,Harris English,-0.01100000000000001,0.5238,0.5348
+2024-10-16 18:34:36.028654,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 19.5,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.597743,Round Match-Ups - 1st Round Match-Up - A. Hadwin vs C. Davis - 1st Round Match-Up,Cam Davis,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.597743,Round Match-Ups - 1st Round Match-Up - A. Hadwin vs C. Davis - 1st Round Match-Up,Adam Hadwin,-0.01100000000000001,0.5238,0.5348
+2024-10-16 16:34:38.507935,Round Match-Ups - 1st Round Match-Up - A. Svensson vs C. Kim - 1st Round Match-Up,Chan Kim,-0.01100000000000001,0.5238,0.5348
 2024-10-16 16:34:38.592817,Round Match-Ups - 1st Round Match-Up - D. Thompson vs T. Kim - 1st Round Match-Up,Davis Thompson,-0.011099999999999999,0.4651,0.4762
 2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Gregg Popovich,-0.011199999999999995,0.0476,0.0588
 2024-10-16 19:21:27.970390,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Ja Morant (MEM),-0.011199999999999995,0.0476,0.0588
 2024-10-16 18:34:35.681101,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,No,-0.011300000000000004,0.2326,0.2439
 2024-10-16 19:21:28.004583,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Domantas Sabonis (SAC),-0.01150000000000001,0.3333,0.3448
 2024-10-16 16:34:38.531528,Round Match-Ups - 1st Round Match-Up - C. Gotterup vs R. Fowler - 1st Round Match-Up,Chris Gotterup,-0.0116,0.4762,0.4878
+2024-10-16 16:34:38.517037,Round Match-Ups - 1st Round Match-Up - A. Smalley vs P. Fishburn - 1st Round Match-Up,Alex Smalley,-0.011600000000000055,0.5122,0.5238
 2024-10-16 16:34:38.607847,Round Match-Ups - 1st Round Match-Up - K. Kitayama vs S. Jaeger - 1st Round Match-Up,Stephan Jaeger,-0.011600000000000055,0.5122,0.5238
 2024-10-16 16:34:38.602669,Round Match-Ups - 1st Round Match-Up - B. Hossler vs T. Hoge - 1st Round Match-Up,Tom Hoge,-0.011600000000000055,0.5122,0.5238
 2024-10-16 20:28:00.975492,Average Rebounds Per Game - Average Rebounds Per Game - Anthony Davis (LAL) - RPG,Over 12.4,-0.011600000000000055,0.5122,0.5238
 2024-10-16 16:34:38.541276,Round Match-Ups - 1st Round Match-Up - D. Berger vs J. Vegas - 1st Round Match-Up,Daniel Berger,-0.011600000000000055,0.5122,0.5238
-2024-10-16 16:34:38.517037,Round Match-Ups - 1st Round Match-Up - A. Smalley vs P. Fishburn - 1st Round Match-Up,Alex Smalley,-0.011600000000000055,0.5122,0.5238
 2024-10-16 19:21:27.970390,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Anthony Edwards (MIN),-0.011899999999999994,0.0714,0.0833
 2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Ausar Thompson (DET),-0.012100000000000001,0.0123,0.0244
-2024-10-16 20:28:01.080087,Average Threes Made Per Game - Average Threes Per Game  - Kyrie Irving (DAL) - Threes Per Game,Under 2.6,-0.012199999999999989,0.5,0.5122
-2024-10-16 18:34:36.050908,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 48.5,-0.012199999999999989,0.5,0.5122
 2024-10-16 22:29:34.991477,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 48.5,-0.012199999999999989,0.4878,0.5
-2024-10-16 18:34:35.659902,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,Yes,-0.012199999999999989,0.5,0.5122
 2024-10-16 22:29:35.003426,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,-0.012199999999999989,0.4878,0.5
+2024-10-16 16:34:38.521764,Round Match-Ups - 1st Round Match-Up - A. Eckroat vs B. Kohles - 1st Round Match-Up,Ben Kohles,-0.012199999999999989,0.5,0.5122
+2024-10-16 20:28:01.080087,Average Threes Made Per Game - Average Threes Per Game  - Kyrie Irving (DAL) - Threes Per Game,Under 2.6,-0.012199999999999989,0.5,0.5122
 2024-10-16 19:21:27.345069,Average Assists Per Game - Average Assists Per Game  - Shai Gilgeous-Alexander (OKC) - APG,Under 6.1,-0.012199999999999989,0.5,0.5122
-2024-10-16 18:34:36.113405,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 47.5,-0.012199999999999989,0.5,0.5122
 2024-10-16 16:34:38.550946,Round Match-Ups - 1st Round Match-Up - H. Hall vs M. Schmid - 1st Round Match-Up,Matti Schmid,-0.012199999999999989,0.5,0.5122
 2024-10-16 20:28:00.953552,Average Points Per Game - Average Points Per Game - Victor Wembanyama (SAS) - PPG,Under 24.5,-0.012199999999999989,0.4878,0.5
-2024-10-16 16:34:38.521764,Round Match-Ups - 1st Round Match-Up - A. Eckroat vs B. Kohles - 1st Round Match-Up,Ben Kohles,-0.012199999999999989,0.5,0.5122
+2024-10-16 18:34:36.050908,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 48.5,-0.012199999999999989,0.5,0.5122
+2024-10-16 18:34:35.659902,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,Yes,-0.012199999999999989,0.5,0.5122
+2024-10-16 18:34:36.113405,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 47.5,-0.012199999999999989,0.5,0.5122
 2024-10-16 20:28:00.950225,Average Points Per Game - Average Points Per Game - Tyrese Maxey (PHI) - PPG,Over 25.5,-0.012199999999999989,0.4878,0.5
 2024-10-16 21:26:01.472378,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Omar Salcido Gamez,-0.012299999999999978,0.3448,0.3571
 2024-10-16 23:26:45.663159,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 53.5,-0.012299999999999978,0.3448,0.3571
 2024-10-16 18:34:35.167813,Western Conference - Conference Seeding  - To Be #6 Seed,Memphis Grizzlies,-0.012299999999999991,0.1053,0.1176
 2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,De'Andre Hunter (ATL),-0.012599999999999998,0.0152,0.0278
-2024-10-16 19:21:28.004583,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Anthony Davis (LAL),-0.012899999999999995,0.1538,0.1667
 2024-10-16 18:34:35.119116,Eastern Conference - Conference Seeding  - To Be #4 Seed,Cleveland Cavaliers,-0.012899999999999995,0.1538,0.1667
+2024-10-16 19:21:28.004583,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Anthony Davis (LAL),-0.012899999999999995,0.1538,0.1667
 2024-10-16 19:21:27.970390,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jimmy Butler (MIA),-0.012899999999999998,0.0149,0.0278
 2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Michael Porter Jr. (DEN),-0.013,0.0066,0.0196
 2024-10-17 01:52:56.088699,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 49.5,-0.013300000000000034,0.3571,0.3704
 2024-10-16 21:26:02.106534,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.013800000000000034,0.3636,0.3774
-2024-10-16 23:26:45.639413,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 43.5,-0.013800000000000034,0.3636,0.3774
 2024-10-16 23:26:45.575922,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 46.5,-0.013800000000000034,0.3636,0.3774
+2024-10-16 23:26:45.639413,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 43.5,-0.013800000000000034,0.3636,0.3774
 2024-10-16 18:34:35.151518,Western Conference - Conference Seeding  - To Be #1 Seed,Dallas Mavericks,-0.013899999999999996,0.1111,0.125
 2024-10-16 22:29:36.115472,Boxing Lines - Juan Carlos Carrillo vs Castillo Lenin - To Win the Bout,Juan Carlos Carrillo,-0.013900000000000023,0.875,0.8889
-2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Nick Nurse,-0.013999999999999999,0.0769,0.0909
 2024-10-16 19:21:27.997347,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Jaren Jackson Jr. (MEM),-0.013999999999999999,0.0769,0.0909
-2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jonathan Kuminga (GSW),-0.013999999999999999,0.0769,0.0909
 2024-10-16 19:21:27.970390,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Stephen Curry (GSW),-0.013999999999999999,0.0769,0.0909
+2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Nick Nurse,-0.013999999999999999,0.0769,0.0909
 2024-10-16 19:21:27.977789,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Rudy Gobert (MIN),-0.013999999999999999,0.0769,0.0909
+2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jonathan Kuminga (GSW),-0.013999999999999999,0.0769,0.0909
 2024-10-16 20:28:01.815992,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Trump to Win and either Biden or Harris to accept the results and concede,-0.014000000000000012,0.9091,0.9231
 2024-10-16 19:21:28.008311,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,Herbert Jones (NO),-0.014099999999999994,0.0526,0.0667
 2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Scottie Barnes (TOR),-0.014099999999999998,0.0244,0.0385
 2024-10-16 19:21:27.977789,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Giannis Antetokounmpo (MIL),-0.014100000000000001,0.0385,0.0526
 2024-10-16 19:21:28.012092,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Threes Made Per Game Leader,Anfernee Simons (POR),-0.014100000000000001,0.0385,0.0526
 2024-10-16 18:34:35.651429,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,-0.01429999999999998,0.9709,0.9852
-2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Brooklyn Nets,-0.014399999999999996,0.0625,0.0769
 2024-10-16 20:28:01.459752,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),-0.014399999999999996,0.0625,0.0769
+2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Brooklyn Nets,-0.014399999999999996,0.0625,0.0769
 2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Chicago Bulls,-0.014500000000000013,0.303,0.3175
 2024-10-16 18:34:35.154784,Western Conference - Conference Seeding  - To Be #2 Seed,New Orleans Pelicans,-0.014899999999999997,0.0476,0.0625
 2024-10-16 20:28:01.459752,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Donovan Clingan (POR),-0.014899999999999997,0.0476,0.0625
@@ -314,14 +296,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 20:28:01.459752,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Kel'el Ware (MIA),-0.015300000000000001,0.0323,0.0476
 2024-10-16 23:26:45.675017,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 50.5,-0.015800000000000036,0.6667,0.6825
 2024-10-16 18:34:35.112728,Eastern Conference - Conference Seeding  - To Be #2 Seed ,Boston Celtics,-0.015899999999999997,0.2222,0.2381
+2024-10-16 18:34:35.135213,Eastern Conference - Conference Seeding  - To Be #9 Seed,Atlanta Hawks,-0.01629999999999998,0.2778,0.2941
+2024-10-16 23:26:45.579319,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 40.5,-0.01629999999999998,0.7059,0.7222
 2024-10-16 23:26:45.624009,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 55.5,-0.01629999999999998,0.7059,0.7222
 2024-10-16 20:28:02.582312,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Chris Colbert,-0.01629999999999998,0.7059,0.7222
 2024-10-16 23:26:46.716807,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Chris Colbert,-0.01629999999999998,0.7059,0.7222
-2024-10-16 18:34:35.135213,Eastern Conference - Conference Seeding  - To Be #9 Seed,Atlanta Hawks,-0.01629999999999998,0.2778,0.2941
-2024-10-16 23:26:45.579319,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 40.5,-0.01629999999999998,0.7059,0.7222
 2024-10-17 01:52:55.932844,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 43.5,-0.016699999999999993,0.25,0.2667
 2024-10-16 20:28:01.459752,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Terrence Shannon Jr. (MIN),-0.0168,0.0217,0.0385
-2024-10-16 15:28:49.452448,Scores - 1st Round Score - Adam Svensson - 1st Round Score,Under 68.5,-0.017299999999999982,0.5744,0.5917
 2024-10-16 23:26:45.462947,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 32.5,-0.01759999999999995,0.6491,0.6667
 2024-10-17 01:52:56.061944,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 50.5,-0.01759999999999995,0.6491,0.6667
 2024-10-16 19:21:28.008311,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,Marcus Smart (MEM),-0.0179,0.125,0.1429
@@ -331,13 +312,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 20:28:01.459752,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),-0.01830000000000001,0.0769,0.0952
 2024-10-16 19:21:27.970390,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jalen Brunson (NYK),-0.018800000000000004,0.0526,0.0714
 2024-10-16 20:28:02.603323,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Sam Gilley,-0.018900000000000028,0.8214,0.8403
-2024-10-16 21:26:02.053591,Cut Lines - Cam Davis - Make Cut / Miss Cut - Cam Davis,Make,-0.018999999999999906,0.7143,0.7333
 2024-10-16 21:26:02.049201,Cut Lines - Adam Hadwin - Make Cut / Miss Cut - Adam Hadwin,Make,-0.018999999999999906,0.7143,0.7333
+2024-10-16 21:26:02.053591,Cut Lines - Cam Davis - Make Cut / Miss Cut - Cam Davis,Make,-0.018999999999999906,0.7143,0.7333
 2024-10-16 18:34:37.057994,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Western Kentucky,-0.019000000000000017,0.2667,0.2857
 2024-10-16 19:21:28.008311,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,Fred VanVleet (HOU),-0.019099999999999992,0.0476,0.0667
-2024-10-16 23:26:45.627430,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 49.5,-0.01959999999999995,0.6774,0.697
 2024-10-16 17:30:45.697838,Boxing Lines - Chris Colbert vs Omar Salcido Gamez - To Win the Bout,Chris Colbert,-0.01959999999999995,0.6774,0.697
 2024-10-17 01:52:56.108798,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 27.5,-0.01959999999999995,0.6774,0.697
+2024-10-16 23:26:45.627430,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 49.5,-0.01959999999999995,0.6774,0.697
 2024-10-16 19:21:28.004583,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Nicolas Claxton (BKN),-0.019600000000000003,0.0149,0.0345
 2024-10-16 20:28:00.870161,Average Points Per Game - Average Points Per Game - Devin Booker (PHX) - PPG,Over 26.5,-0.01970000000000005,0.5455,0.5652
 2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Paolo Banchero (ORL),-0.019800000000000005,0.0278,0.0476
@@ -354,10 +335,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Orlando Magic,-0.02100000000000002,0.3636,0.3846
 2024-10-16 20:28:01.456163,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),-0.021400000000000002,0.1786,0.2
 2024-10-16 22:29:34.986443,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 25.5,-0.021400000000000086,0.7222,0.7436
-2024-10-16 15:28:49.487473,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
-2024-10-16 15:28:49.478745,Scores - 1st Round Score - Matt Kuchar - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
-2024-10-16 15:28:49.465621,Scores - 1st Round Score - Daniel Berger - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
-2024-10-16 15:28:49.483127,Scores - 1st Round Score - Nick Taylor - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
 2024-10-16 20:28:01.036846,Average Threes Made Per Game - Average Threes Per Game  - Anthony Edwards (MIN) - Threes Per Game,Under 2.4,-0.021699999999999997,0.4545,0.4762
 2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tom Thibodeau,-0.022000000000000006,0.0833,0.1053
 2024-10-16 23:26:45.531574,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 40.5,-0.022199999999999998,0.3226,0.3448
@@ -365,36 +342,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 01:52:56.085339,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 43.5,-0.022599999999999953,0.6875,0.7101
 2024-10-16 21:26:02.123977,Cut Lines - Chan Kim - Make Cut / Miss Cut - Chan Kim,Miss,-0.02260000000000001,0.3774,0.4
 2024-10-16 21:26:00.344556,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 32.5,-0.02260000000000001,0.2899,0.3125
-2024-10-16 20:28:00.998686,Average Rebounds Per Game - Average Rebounds Per Game - Jalen Duren (DET) - RPG,Under 11.3,-0.022600000000000064,0.5122,0.5348
-2024-10-16 20:28:00.906842,Average Points Per Game - Average Points Per Game - Kyrie Irving (DAL) - PPG,Over 24.6,-0.022600000000000064,0.5122,0.5348
 2024-10-16 18:34:36.295906,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 36.5,-0.022600000000000064,0.5122,0.5348
 2024-10-16 18:34:35.285556,Average Assists Per Game - Average Assists Per Game  - Donovan Mitchell (CLE) - APG,Over 6.1,-0.022600000000000064,0.5122,0.5348
+2024-10-16 20:28:00.906842,Average Points Per Game - Average Points Per Game - Kyrie Irving (DAL) - PPG,Over 24.6,-0.022600000000000064,0.5122,0.5348
 2024-10-16 20:28:00.920139,Average Points Per Game - Average Points Per Game - Nikola Jokic (DEN) - PPG,Under 26.5,-0.022600000000000064,0.5122,0.5348
-2024-10-16 15:28:49.491841,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Under 68.5,-0.022600000000000064,0.6,0.6226
+2024-10-16 20:28:00.998686,Average Rebounds Per Game - Average Rebounds Per Game - Jalen Duren (DET) - RPG,Under 11.3,-0.022600000000000064,0.5122,0.5348
 2024-10-16 18:34:35.672605,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,-0.022699999999999998,0.4651,0.4878
 2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Taylor Jenkins,-0.02310000000000001,0.0769,0.1
 2024-10-16 23:26:45.647858,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 56.5,-0.02360000000000001,0.3846,0.4082
 2024-10-16 19:21:27.997347,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Victor Wembanyama (SAS),-0.023799999999999932,0.8333,0.8571
 2024-10-16 21:26:01.468291,Boxing Lines - Tsendbaatar Erdenebat vs Frency Fortunato Saya - To Win the Bout,Tsendbaatar Erdenebat,-0.023799999999999932,0.8333,0.8571
-2024-10-16 20:28:00.896797,Average Points Per Game - Average Points Per Game - Joel Embiid (PHI) - PPG,Over 32.4,-0.023799999999999988,0.4762,0.5
-2024-10-16 15:28:49.664292,Tournament Match-Ups - Tournament Match-Up - C. Kim vs K. Yu - Tournament Match-Up,Kevin Yu,-0.023799999999999988,0.4762,0.5
-2024-10-16 22:29:34.441617,Average Rebounds Per Game - Average Rebounds Per Game - Nicolas Claxton (BKN) - RPG,Over 10.8,-0.023799999999999988,0.4762,0.5
-2024-10-16 18:34:36.307941,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 30.5,-0.023799999999999988,0.4762,0.5
-2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Malik Monk (SAC),-0.023799999999999988,0.1429,0.1667
 2024-10-16 20:28:01.040129,Average Threes Made Per Game - Average Threes Per Game  - Brandon Miller (CHA) - Threes Per Game,Under 2.7,-0.023799999999999988,0.4762,0.5
+2024-10-16 22:29:34.441617,Average Rebounds Per Game - Average Rebounds Per Game - Nicolas Claxton (BKN) - RPG,Over 10.8,-0.023799999999999988,0.4762,0.5
+2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Malik Monk (SAC),-0.023799999999999988,0.1429,0.1667
+2024-10-16 18:34:36.307941,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 30.5,-0.023799999999999988,0.4762,0.5
+2024-10-16 20:28:00.896797,Average Points Per Game - Average Points Per Game - Joel Embiid (PHI) - PPG,Over 32.4,-0.023799999999999988,0.4762,0.5
 2024-10-16 18:34:38.024214,Tournament Match-Ups - Tournament Match-Up - B. Hossler vs K. Mitchell - Tournament Match-Up,Keith Mitchell,-0.023800000000000043,0.5,0.5238
 2024-10-16 16:34:38.536353,Round Match-Ups - 1st Round Match-Up - S. Power vs T. Pendrith - 1st Round Match-Up,Seamus Power,-0.023800000000000043,0.5,0.5238
 2024-10-16 18:34:36.062932,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,-0.023800000000000043,0.5,0.5238
-2024-10-16 15:28:49.643422,Tournament Match-Ups - Tournament Match-Up - A. Hadwin vs E. Cole - Tournament Match-Up,Adam Hadwin,-0.023800000000000043,0.5,0.5238
-2024-10-16 15:28:49.660118,Tournament Match-Ups - Tournament Match-Up - C. Davis vs J.T. Poston - Tournament Match-Up,Cam Davis,-0.023800000000000043,0.5,0.5238
 2024-10-16 19:21:28.000943,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Jalen Brunson (NYK),-0.024,0.0385,0.0625
 2024-10-16 20:28:01.456163,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Victor Wembanyama (SAS),-0.0242,0.0667,0.0909
 2024-10-16 19:21:27.966633,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jordan Clarkson (UTA),-0.024299999999999995,0.0345,0.0588
 2024-10-16 20:28:00.890188,Average Points Per Game - Average Points Per Game - Jaylen Brown (BOS) - PPG,Under 23.5,-0.024399999999999977,0.4878,0.5122
-2024-10-16 18:34:35.329953,Average Assists Per Game - Average Assists Per Game  - Trae Young (ATL) - APG,Under 10.4,-0.024399999999999977,0.4878,0.5122
 2024-10-16 18:34:36.319969,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 29.5,-0.024399999999999977,0.4878,0.5122
-2024-10-16 16:34:38.587858,Round Match-Ups - 1st Round Match-Up - A. Putnam vs JJ Spaun - 1st Round Match-Up,Andrew Putnam,-0.024399999999999977,0.4878,0.5122
+2024-10-16 18:34:35.329953,Average Assists Per Game - Average Assists Per Game  - Trae Young (ATL) - APG,Under 10.4,-0.024399999999999977,0.4878,0.5122
 2024-10-16 18:34:35.292350,Average Assists Per Game - Average Assists Per Game  - Fred VanVleet (HOU) - APG,Over 7.9,-0.024399999999999977,0.4878,0.5122
+2024-10-16 16:34:38.587858,Round Match-Ups - 1st Round Match-Up - A. Putnam vs JJ Spaun - 1st Round Match-Up,Andrew Putnam,-0.024399999999999977,0.4878,0.5122
 2024-10-16 22:29:34.982946,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 31.5,-0.024900000000000033,0.303,0.3279
 2024-10-16 23:26:45.651238,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 50.5,-0.0252,0.697,0.7222
 2024-10-16 18:34:35.715421,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,Yes,-0.0252,0.697,0.7222
@@ -408,47 +381,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 19:21:28.004583,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Rudy Gobert (MIN),-0.028700000000000003,0.1818,0.2105
 2024-10-16 19:21:28.016200,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Assists Per Game Leader,Trae Young (ATL),-0.029000000000000026,0.4255,0.4545
 2024-10-16 23:26:45.603008,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 41.5,-0.029199999999999948,0.3279,0.3571
-2024-10-16 19:21:28.004583,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Giannis Antetokounmpo (MIL),-0.029299999999999993,0.0476,0.0769
 2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,JJ Redick,-0.029299999999999993,0.0476,0.0769
-2024-10-16 21:26:02.062483,Cut Lines - Harry Hall - Make Cut / Miss Cut - Harry Hall,Miss,-0.030299999999999994,0.3333,0.3636
-2024-10-16 23:26:45.510726,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 48.5,-0.030299999999999994,0.6667,0.697
+2024-10-16 19:21:28.004583,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Giannis Antetokounmpo (MIL),-0.029299999999999993,0.0476,0.0769
 2024-10-16 21:26:02.075703,Cut Lines - Ben Griffin - Make Cut / Miss Cut - Ben Griffin,Miss,-0.030299999999999994,0.3333,0.3636
+2024-10-16 23:26:45.510726,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 48.5,-0.030299999999999994,0.6667,0.697
+2024-10-16 21:26:02.062483,Cut Lines - Harry Hall - Make Cut / Miss Cut - Harry Hall,Miss,-0.030299999999999994,0.3333,0.3636
 2024-10-16 18:34:36.283595,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 46.5,-0.03179999999999994,0.5238,0.5556
 2024-10-16 23:26:45.528191,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 46.5,-0.032299999999999995,0.6552,0.6875
 2024-10-17 01:52:56.135615,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 23.5,-0.03270000000000001,0.2899,0.3226
-2024-10-16 21:26:01.546111,Positions - Finishing Position - Adam Hadwin - Finishing Position,37th or better,-0.033299999999999996,0.5122,0.5455
 2024-10-16 19:21:28.008311,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,Alex Caruso (OKC),-0.033299999999999996,0.1,0.1333
-2024-10-16 18:34:35.728477,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,No,-0.033399999999999985,0.8333,0.8667
-2024-10-16 22:29:34.998363,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 51.5,-0.033399999999999985,0.6491,0.6825
-2024-10-16 19:21:28.012092,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Threes Made Per Game Leader,Luka Doncic (DAL),-0.033399999999999985,0.1333,0.1667
+2024-10-16 21:26:01.546111,Positions - Finishing Position - Adam Hadwin - Finishing Position,37th or better,-0.033299999999999996,0.5122,0.5455
 2024-10-16 18:34:35.109472,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Philadelphia 76ers,-0.033399999999999985,0.1333,0.1667
-2024-10-16 15:28:49.470013,Scores - 1st Round Score - Eric Cole - 1st Round Score,Under 68.5,-0.033399999999999985,0.5744,0.6078
-2024-10-16 23:26:45.587818,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 44.5,-0.033399999999999985,0.3175,0.3509
+2024-10-16 18:34:35.728477,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,No,-0.033399999999999985,0.8333,0.8667
 2024-10-16 22:29:35.006871,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 52.5,-0.033399999999999985,0.6491,0.6825
-2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Chris Finch,-0.0334,0.0435,0.0769
+2024-10-16 19:21:28.012092,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Threes Made Per Game Leader,Luka Doncic (DAL),-0.033399999999999985,0.1333,0.1667
+2024-10-16 23:26:45.587818,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 44.5,-0.033399999999999985,0.3175,0.3509
+2024-10-16 22:29:34.998363,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 51.5,-0.033399999999999985,0.6491,0.6825
 2024-10-16 20:28:01.448528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Evan Mobley (CLE),-0.0334,0.0435,0.0769
+2024-10-16 19:21:27.974077,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Chris Finch,-0.0334,0.0435,0.0769
 2024-10-16 23:26:45.514133,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 54.5,-0.03370000000000001,0.3509,0.3846
 2024-10-17 01:52:56.050252,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 55.5,-0.03390000000000004,0.7222,0.7561
 2024-10-16 23:26:45.591234,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 50.5,-0.034499999999999975,0.6429,0.6774
-2024-10-16 18:34:36.161573,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 44.5,-0.03480000000000005,0.5,0.5348
-2024-10-16 18:34:35.275206,Average Assists Per Game - Average Assists Per Game  - De'Aaron Fox (SAC) - APG,Over 5.9,-0.03480000000000005,0.5,0.5348
-2024-10-16 21:26:01.598951,Positions - Finishing Position - Taylor Pendrith - Finishing Position,31st or worse,-0.03480000000000005,0.5,0.5348
 2024-10-16 21:26:01.559431,Positions - Finishing Position - Davis Thompson - Finishing Position,31st or better,-0.03480000000000005,0.5,0.5348
-2024-10-16 18:34:36.173607,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 50.5,-0.03480000000000005,0.5,0.5348
-2024-10-16 20:28:01.011866,Average Rebounds Per Game - Average Rebounds Per Game - Nicolas Claxton (BKN) - RPG,Over 10.8,-0.03480000000000005,0.5,0.5348
-2024-10-16 20:28:01.025143,Average Rebounds Per Game - Average Rebounds Per Game - Zach Edey (MEM) - RPG,Under 7.6,-0.03480000000000005,0.5,0.5348
 2024-10-16 20:28:00.926808,Average Points Per Game - Average Points Per Game - Reed Sheppard (HOU) - PPG,Under 9.5,-0.03480000000000005,0.5,0.5348
-2024-10-16 15:28:49.647589,Tournament Match-Ups - Tournament Match-Up - A. Putnam vs M. Schmid - Tournament Match-Up,Andrew Putnam,-0.03480000000000005,0.5,0.5348
+2024-10-16 20:28:01.011866,Average Rebounds Per Game - Average Rebounds Per Game - Nicolas Claxton (BKN) - RPG,Over 10.8,-0.03480000000000005,0.5,0.5348
+2024-10-16 18:34:36.161573,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 44.5,-0.03480000000000005,0.5,0.5348
 2024-10-16 20:28:00.943566,Average Points Per Game - Average Points Per Game - Stephon Castle (SAS) - PPG,Over 10.1,-0.03480000000000005,0.5,0.5348
+2024-10-16 20:28:01.025143,Average Rebounds Per Game - Average Rebounds Per Game - Zach Edey (MEM) - RPG,Under 7.6,-0.03480000000000005,0.5,0.5348
+2024-10-16 21:26:01.598951,Positions - Finishing Position - Taylor Pendrith - Finishing Position,31st or worse,-0.03480000000000005,0.5,0.5348
+2024-10-16 18:34:36.173607,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 50.5,-0.03480000000000005,0.5,0.5348
 2024-10-16 23:26:45.555438,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 44.5,-0.03480000000000005,0.6667,0.7015
-2024-10-16 18:34:35.302568,Average Assists Per Game - Average Assists Per Game  - Ja Morant (MEM) - APG,Under 7.5,-0.03489999999999999,0.4651,0.5
+2024-10-16 18:34:35.275206,Average Assists Per Game - Average Assists Per Game  - De'Aaron Fox (SAC) - APG,Over 5.9,-0.03480000000000005,0.5,0.5348
 2024-10-17 01:52:55.929469,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 39.5,-0.03489999999999999,0.4651,0.5
+2024-10-16 18:34:35.302568,Average Assists Per Game - Average Assists Per Game  - Ja Morant (MEM) - APG,Under 7.5,-0.03489999999999999,0.4651,0.5
 2024-10-16 20:28:00.781245,Average Assists Per Game - Average Assists Per Game  - De'Aaron Fox (SAC) - APG,Over 5.9,-0.03489999999999999,0.4651,0.5
 2024-10-16 21:26:00.341143,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 35.5,-0.03489999999999999,0.4651,0.5
-2024-10-16 20:28:01.076759,Average Threes Made Per Game - Average Threes Per Game  - Klay Thompson (DAL) - Threes Per Game,Over 3.5,-0.035999999999999976,0.4762,0.5122
 2024-10-16 18:34:36.149590,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 47.5,-0.035999999999999976,0.4762,0.5122
-2024-10-16 18:34:35.655661,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,No,-0.03600000000000003,0.4878,0.5238
+2024-10-16 20:28:01.076759,Average Threes Made Per Game - Average Threes Per Game  - Klay Thompson (DAL) - Threes Per Game,Over 3.5,-0.035999999999999976,0.4762,0.5122
 2024-10-16 18:34:36.221851,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 56.5,-0.03600000000000003,0.4878,0.5238
+2024-10-16 18:34:35.655661,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,No,-0.03600000000000003,0.4878,0.5238
 2024-10-17 01:52:56.100425,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 33.5,-0.0363,0.697,0.7333
 2024-10-16 23:26:45.552005,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 50.5,-0.03710000000000002,0.3333,0.3704
 2024-10-16 21:26:00.356555,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 55.5,-0.03710000000000002,0.6552,0.6923
@@ -471,15 +442,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-16 21:26:00.371823,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 22.5,-0.043200000000000016,0.3077,0.3509
 2024-10-16 18:34:35.372754,Average Points Per Game - Average Points Per Game - Donovan Clingan (POR) - PPG,Over 9.6,-0.045499999999999985,0.5,0.5455
 2024-10-16 23:26:45.636013,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 49.5,-0.04579999999999995,0.6875,0.7333
-2024-10-16 19:21:28.004583,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Nikola Jokic (DEN),-0.04620000000000002,0.1538,0.2
 2024-10-16 20:28:00.916779,Average Points Per Game - Average Points Per Game - LeBron James (LAL) - PPG,Over 24.6,-0.04620000000000002,0.5455,0.5917
+2024-10-16 19:21:28.004583,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Nikola Jokic (DEN),-0.04620000000000002,0.1538,0.2
 2024-10-17 01:52:56.053594,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 49.5,-0.04630000000000001,0.4082,0.4545
 2024-10-17 01:52:56.123905,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 26.5,-0.046600000000000086,0.697,0.7436
-2024-10-16 18:34:36.339218,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 21.5,-0.04700000000000004,0.4878,0.5348
 2024-10-16 21:26:01.550659,Positions - Finishing Position - Beau Hossler - Finishing Position,33rd or better,-0.04700000000000004,0.4878,0.5348
-2024-10-16 15:28:49.680939,Tournament Match-Ups - Tournament Match-Up - S. Power vs S. Jaeger - Tournament Match-Up,Stephan Jaeger,-0.04760000000000003,0.4762,0.5238
+2024-10-16 18:34:36.339218,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 21.5,-0.04700000000000004,0.4878,0.5348
 2024-10-16 21:26:01.568166,Positions - Finishing Position - Harry Hall - Finishing Position,41st or worse,-0.04760000000000003,0.4762,0.5238
-2024-10-16 15:28:49.685084,Tournament Match-Ups - Tournament Match-Up - T. Hoge vs T. Pendrith - Tournament Match-Up,Tom Hoge,-0.04760000000000003,0.4762,0.5238
 2024-10-16 23:26:45.615486,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 47.5,-0.05069999999999997,0.6552,0.7059
 2024-10-16 18:34:37.057994,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Louisiana Tech,-0.0509,0.0079,0.0588
 2024-10-16 23:26:45.612045,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 53.5,-0.05130000000000001,0.3333,0.3846
@@ -499,12 +468,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 01:52:56.112172,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 33.5,-0.07689999999999997,0.274,0.3509
 2024-10-16 23:26:45.563961,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 43.5,-0.0781,0.2667,0.3448
 2024-10-16 21:26:01.594609,Positions - Finishing Position - Stephan Jaeger - Finishing Position,33rd or better,-0.07940000000000003,0.4444,0.5238
-2024-10-16 21:26:01.555059,Positions - Finishing Position - Cam Davis - Finishing Position,36th or better,-0.08039999999999997,0.4651,0.5455
 2024-10-16 21:26:01.585936,Positions - Finishing Position - Matt McCarty - Finishing Position,37th or better,-0.08039999999999997,0.4651,0.5455
+2024-10-16 21:26:01.555059,Positions - Finishing Position - Cam Davis - Finishing Position,36th or better,-0.08039999999999997,0.4651,0.5455
 2024-10-16 18:34:35.676860,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,No,-0.0806,0.2703,0.3509
 2024-10-16 19:21:27.769701,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Toronto Raptors,-0.08080000000000004,0.3636,0.4444
 2024-10-16 23:26:45.567362,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 37.5,-0.09050000000000002,0.6154,0.7059
 2024-10-16 18:34:35.115911,Eastern Conference - Conference Seeding  - To Be #3 Seed ,Chicago Bulls,-0.1417,0.0012,0.1429
-2024-10-16 15:28:49.071483,MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Hits in the Series - Shohei Ohtani v Aaron Judge,Shohei Ohtani (LAD),-0.3319,0.5348,0.8667
-2024-10-16 15:28:49.078556,MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Home Runs in the Series - Shohei Ohtani v Aaron Judge,Shohei Ohtani (LAD),-0.35,0.25,0.6
-2024-10-16 15:28:49.075001,"MLB Championship Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - MVP Matchup - Most Hits, Runs & RBIs in the Series - Shohei Ohtani v Aaron Judge",Shohei Ohtani (LAD),-0.5966,0.3125,0.9091
+2024-10-17 03:33:06.246979,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.21660000000000001,0.1538,0.3704
