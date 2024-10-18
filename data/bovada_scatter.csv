@@ -19,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 08:32:46.173539,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Anthony Volpe (NYY),0.057300000000000004,0.0714,0.0141
 2024-10-18 08:32:43.535430,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.05710000000000001,0.2,0.1429
 2024-10-18 08:32:43.538314,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.05579999999999996,0.7701,0.7143
-2024-10-18 10:32:59.520404,Boxing Specials - Jake Paul vs Mike Tyson Specials - Specials,Jake Paul to call out KSI by the end of fight night,0.05559999999999998,0.1667,0.1111
 2024-10-18 10:32:59.520404,Boxing Specials - Jake Paul vs Mike Tyson Specials - Specials,Jake Paul to call out Floyd Mayweather by the end of fight night,0.05559999999999998,0.1667,0.1111
+2024-10-18 10:32:59.520404,Boxing Specials - Jake Paul vs Mike Tyson Specials - Specials,Jake Paul to call out KSI by the end of fight night,0.05559999999999998,0.1667,0.1111
 2024-10-18 08:32:46.178040,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Giancarlo Stanton (NYY),0.05409999999999998,0.3571,0.303
 2024-10-18 09:28:41.886276,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Tool,0.04999999999999999,0.25,0.2
 2024-10-18 10:32:59.520404,Boxing Specials - Jake Paul vs Mike Tyson Specials - Specials,Jake Paul to call out Conor McGregor by the end of fight night,0.048100000000000004,0.125,0.0769
@@ -44,9 +44,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 08:32:43.668033,League One - England League One 2024/25 - To Finish Bottom,Shrewsbury Town,0.029899999999999982,0.2299,0.2
 2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Hye Jin Choi,0.029299999999999993,0.0769,0.0476
 2024-10-18 09:28:41.886276,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Epstein,0.029299999999999993,0.0769,0.0476
-2024-10-18 08:32:43.535430,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,0.02779999999999999,0.25,0.2222
 2024-10-18 08:32:43.538314,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,0.02779999999999999,0.25,0.2222
+2024-10-18 08:32:43.535430,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,0.02779999999999999,0.25,0.2222
+2024-10-18 17:28:19.825033,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Cleveland Guardians,0.02639999999999998,0.2703,0.2439
+2024-10-18 17:28:19.813035,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.025599999999999956,0.6,0.5744
 2024-10-18 05:30:21.939725,"NFL Weekly Specials - NFL Week 7 - Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",HOU Texans @ GB Packers,0.025300000000000003,0.1429,0.1176
+2024-10-18 17:28:19.869944,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,0.024500000000000022,0.4167,0.3922
 2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Ruoning Yin,0.024399999999999998,0.0385,0.0141
 2024-10-18 06:35:37.397180,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,0.024,0.0625,0.0385
 2024-10-18 06:35:37.823556,Shriners Children's Open - 2/3 Balls - 2nd Round 3-Balls - H. Hall / C. Villegas / W. Simpson - 2nd Round 3-Balls,Harry Hall,0.023800000000000043,0.5238,0.5
@@ -85,9 +88,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 14:29:34.457466,Round Match-Ups - 2nd Round Match-Ups - L. Hodges vs T. Moore - 2nd Round Match-Ups,Taylor Moore,0.010699999999999932,0.5455,0.5348
 2024-10-18 11:22:59.177048,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Clarence Maclin - Sing Sing,0.010499999999999982,0.2105,0.2
 2024-10-18 07:25:44.043663,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,-0.010099999999999998,0.4444,0.4545
-2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Cleveland Guardians,-0.010100000000000001,0.0116,0.0217
-2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Jazz Chisholm (NYY),-0.010100000000000001,0.0116,0.0217
 2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Sei Young Kim,-0.010100000000000001,0.0244,0.0345
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Jazz Chisholm (NYY),-0.010100000000000001,0.0116,0.0217
+2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Cleveland Guardians,-0.010100000000000001,0.0116,0.0217
 2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Emmanuel Clase (CLE),-0.0102,0.005,0.0152
 2024-10-18 08:32:46.193969,World Series MVP - World Series MVP  - World Series MVP,Giancarlo Stanton (NYY),-0.0102,0.0667,0.0769
 2024-10-18 08:32:43.674232,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.010399999999999993,0.2222,0.2326
@@ -107,8 +110,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 06:35:37.346616,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Houston Texans,-0.012899999999999995,0.1538,0.1667
 2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Teoscar Hernandez (LAD),-0.0131,0.0345,0.0476
 2024-10-18 10:32:59.399514,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Jesse Eisenberg - A Real Pain,-0.013999999999999999,0.0769,0.0909
-2024-10-18 08:32:43.538314,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.013999999999999999,0.0769,0.0909
 2024-10-18 10:32:59.408136,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Pablo Larrain - Maria,-0.013999999999999999,0.0769,0.0909
+2024-10-18 08:32:43.538314,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.013999999999999999,0.0769,0.0909
+2024-10-18 17:28:19.813035,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,-0.013999999999999999,0.0769,0.0909
 2024-10-18 13:31:55.212511,NBA Specials - Who will be the next Former NBA All Star to be Traded during the 2024/2025 NBA Season - Proposition,Dejounte Murray (NO),-0.014100000000000001,0.0385,0.0526
 2024-10-18 08:32:43.541241,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vasco da Gama,-0.0145,0.0099,0.0244
 2024-10-18 06:35:37.351506,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,New Orleans Saints,-0.014599999999999998,0.0132,0.0278
@@ -141,6 +145,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 09:28:39.979405,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Daniel Craig - Queer,-0.022199999999999998,0.2,0.2222
 2024-10-18 09:28:41.894856,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: Length Of Interview - Length Of Interview,Over 3 hours,-0.022600000000000064,0.5122,0.5348
 2024-10-18 13:31:56.719763,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,-0.022600000000000064,0.6,0.6226
+2024-10-18 17:28:19.869944,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,-0.02300000000000002,0.6491,0.6721
+2024-10-18 17:28:19.813035,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.02360000000000001,0.3846,0.4082
 2024-10-18 12:49:53.715225,Round Match-Ups - 2nd Round Match-Ups - G. Higgo v L. Griffin - 2nd Round Match-Ups,Garrick Higgo,-0.023799999999999988,0.4762,0.5
 2024-10-18 10:32:59.399514,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Adrien Brody - The Brutalist,-0.023799999999999988,0.4762,0.5
 2024-10-18 12:49:53.687529,Round Match-Ups - 2nd Round Match-Ups - D. Wu vs H. Buckley - 2nd Round Match-Ups,Hayden Buckley,-0.023800000000000043,0.5,0.5238
@@ -152,6 +158,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Jose Ramirez (CLE),-0.0267,0.0909,0.1176
 2024-10-18 08:32:43.529364,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,-0.028199999999999996,0.0385,0.0667
 2024-10-18 06:35:37.401964,NFC South - NFC South 2024/25 - NFC South Winner,New Orleans Saints,-0.029299999999999993,0.0476,0.0769
+2024-10-18 17:28:19.825033,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,-0.03059999999999996,0.7752,0.8058
 2024-10-18 08:32:46.193969,World Series MVP - World Series MVP  - World Series MVP,Teoscar Hernandez (LAD),-0.0309,0.0217,0.0526
 2024-10-18 09:28:41.886276,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Vaccine mandate,-0.03179999999999994,0.5238,0.5556
 2024-10-18 08:32:43.541241,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,-0.033299999999999996,0.4545,0.4878
@@ -193,8 +200,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,-0.0857,0.0476,0.1333
 2024-10-18 06:35:37.594149,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,-0.08900000000000008,0.8058,0.8948
 2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Haeran Ryu,-0.0909,0.0909,0.1818
-2024-10-18 10:32:59.408136,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Steve McQueen - Blitz,-0.10910000000000002,0.0909,0.2
 2024-10-18 09:28:39.979405,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Jesse Eisenberg - A Real Pain,-0.10910000000000002,0.0909,0.2
+2024-10-18 10:32:59.408136,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Steve McQueen - Blitz,-0.10910000000000002,0.0909,0.2
 2024-10-18 09:28:41.886276,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Polarization,-0.11109999999999998,0.5556,0.6667
 2024-10-18 08:32:43.535430,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Corinthians,-0.11260000000000003,0.3636,0.4762
 2024-10-18 08:32:46.178040,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Jose Ramirez (CLE),-0.11669999999999998,0.05,0.1667
