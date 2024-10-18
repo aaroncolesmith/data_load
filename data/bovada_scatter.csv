@@ -1,12 +1,16 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-10-17 19:22:15.633003,NBA Awards & League Leaders - NBA Awards 2024-25 - To be a Western Conference All-Star,James Harden (LAC),0.19999999999999998,0.3333,0.1333
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Giancarlo Stanton (NYY),0.1857,0.2857,0.1
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Julien Guerrier,0.1543,0.1739,0.0196
 2024-10-18 06:35:37.598823,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,Los Angeles Dodgers,0.15380000000000005,0.9412,0.7874
 2024-10-18 06:35:37.583005,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.09820000000000001,0.5744,0.4762
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Aaron Judge (NYY),0.09799999999999998,0.3333,0.2353
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Max Muncy (LAD),0.0947,0.2,0.1053
 2024-10-18 06:35:37.594149,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,Cleveland Guardians,0.09010000000000001,0.2439,0.1538
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Jorge Campillo,0.0857,0.1053,0.0196
 2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Cleveland Guardians,0.0769,0.1538,0.0769
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Tommy Edman (LAD),0.07579999999999999,0.1667,0.0909
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Daniel Brown,0.06899999999999999,0.0769,0.0079
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Mookie Betts (LAD),0.0642,0.1818,0.1176
 2024-10-17 23:26:16.752233,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter (COL),0.05559999999999998,0.1667,0.1111
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Niklas Norgaard,0.052399999999999995,0.0909,0.0385
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Johannes Veerman,0.0436,0.0588,0.0152
@@ -14,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat Los Angeles Dodgers,0.0378,0.0833,0.0455
 2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Los Angeles Dodgers,0.03710000000000002,0.3704,0.3333
 2024-10-18 06:35:37.586250,MLB Futures - MLB 2024 World Series Winner - Winning League,National League,0.03610000000000002,0.5917,0.5556
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Jhonkensy Noel (CLE),0.0356,0.0455,0.0099
 2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat New York Yankees,0.0348,0.4348,0.4
 2024-10-18 06:35:37.520521,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,0.03420000000000001,0.1111,0.0769
 2024-10-17 22:30:03.128143,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,0.03330000000000001,0.1,0.0667
@@ -23,8 +28,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 05:30:21.939725,"NFL Weekly Specials - NFL Week 7 - Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",HOU Texans @ GB Packers,0.025300000000000003,0.1429,0.1176
 2024-10-18 06:35:37.397180,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,0.024,0.0625,0.0385
 2024-10-18 06:35:37.823556,Shriners Children's Open - 2/3 Balls - 2nd Round 3-Balls - H. Hall / C. Villegas / W. Simpson - 2nd Round 3-Balls,Harry Hall,0.023800000000000043,0.5238,0.5
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Shohei Ohtani (LAD),0.023799999999999988,0.3571,0.3333
 2024-10-18 05:30:22.034374,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,0.02300000000000002,0.6721,0.6491
-2024-10-17 19:22:15.656432,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Threes Made Per Game Leader,James Harden (LAC),0.019899999999999998,0.0278,0.0079
+2024-10-18 07:25:44.368571,Andalucia Masters - 2/3 Balls - 2nd Round 3-Balls - T. Olesen / V. Perez / N. Elvira - 2nd Round 3-Balls,Thorbjorn Olesen,0.022699999999999998,0.4878,0.4651
 2024-10-18 06:35:37.625158,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Jack McGann,0.019600000000000006,0.2469,0.2273
 2024-10-18 06:35:37.540796,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),0.019000000000000003,0.0625,0.0435
 2024-10-17 22:30:04.678287,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,0.01880000000000004,0.6552,0.6364
@@ -34,21 +40,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 22:30:03.124888,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.015899999999999997,0.2381,0.2222
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Romain Langasque,0.015499999999999998,0.0278,0.0123
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Richard Mansell,0.014900000000000004,0.0345,0.0196
-2024-10-17 19:22:15.660711,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Assists Per Game Leader,James Harden (LAC),0.01440000000000001,0.1053,0.0909
+2024-10-18 07:25:44.043663,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,0.014800000000000035,0.6226,0.6078
 2024-10-17 22:30:03.124888,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,0.013899999999999996,0.125,0.1111
 2024-10-17 22:30:03.124888,NBL - Australia NBL 2024/25 - Outright,Brisbane Bullets,0.012700000000000003,0.0323,0.0196
 2024-10-17 23:26:16.877787,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Jack McGann,0.0116,0.2469,0.2353
 2024-10-17 23:26:16.886048,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,0.011499999999999955,0.6667,0.6552
 2024-10-17 21:25:43.812262,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,0.011099999999999999,0.4762,0.4651
+2024-10-18 07:25:44.043663,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,-0.010099999999999998,0.4444,0.4545
 2024-10-17 23:26:16.752233,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jaxson Dart (MISS),-0.010100000000000001,0.0244,0.0345
 2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Cleveland Guardians,-0.010100000000000001,0.0116,0.0217
-2024-10-17 19:22:14.870519,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.010499999999999982,0.2,0.2105
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Jazz Chisholm (NYY),-0.010100000000000001,0.0116,0.0217
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Emmanuel Clase (CLE),-0.0102,0.005,0.0152
 2024-10-18 01:53:24.655314,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,-0.010599999999999998,0.4545,0.4651
-2024-10-17 19:22:15.656432,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Threes Made Per Game Leader,Anfernee Simons (POR),-0.010700000000000001,0.0278,0.0385
 2024-10-17 23:26:16.752233,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cam Ward (MIA),-0.010899999999999993,0.1429,0.1538
 2024-10-17 22:30:04.690794,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,-0.011099999999999999,0.4651,0.4762
 2024-10-18 06:35:37.397180,AFC West - AFC West 2024/25 - AFC West Winner,Los Angeles Chargers,-0.011099999999999999,0.1,0.1111
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Dan Bradbury,-0.0113,0.0066,0.0179
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Brayan Rocchio (CLE),-0.011300000000000001,0.0104,0.0217
+2024-10-18 07:25:44.030699,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,-0.011499999999999955,0.6552,0.6667
 2024-10-18 06:35:37.823556,Shriners Children's Open - 2/3 Balls - 2nd Round 3-Balls - H. Hall / C. Villegas / W. Simpson - 2nd Round 3-Balls,Camilo Villegas,-0.011700000000000016,0.2105,0.2222
 2024-10-17 22:30:03.128143,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,-0.011899999999999994,0.2381,0.25
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Rikuya Hoshino,-0.0119,0.0033,0.0152
@@ -56,10 +65,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 23:26:16.752233,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),-0.012699999999999989,0.3509,0.3636
 2024-10-18 04:31:48.519196,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,-0.012700000000000045,0.6364,0.6491
 2024-10-18 06:35:37.346616,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Houston Texans,-0.012899999999999995,0.1538,0.1667
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Teoscar Hernandez (LAD),-0.0131,0.0345,0.0476
 2024-10-17 23:26:16.752233,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jalen Milroe (ALA),-0.013999999999999999,0.0769,0.0909
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Thriston Lawrence,-0.014099999999999998,0.0244,0.0385
 2024-10-18 06:35:37.351506,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,New Orleans Saints,-0.014599999999999998,0.0132,0.0278
 2024-10-17 22:30:03.124888,NBL - Australia NBL 2024/25 - Outright,New Zealand Breakers,-0.014899999999999997,0.0476,0.0625
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Josh Naylor (CLE),-0.015300000000000001,0.0323,0.0476
 2024-10-18 05:30:21.939725,"NFL Weekly Specials - NFL Week 7 - Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",CAR Panthers @ WAS Commanders,-0.016699999999999993,0.25,0.2667
 2024-10-17 22:30:04.678287,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,-0.017299999999999982,0.4082,0.4255
 2024-10-17 21:25:43.850448,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,-0.01759999999999995,0.6491,0.6667
@@ -69,21 +80,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 06:35:37.625158,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Sam Gilley,-0.018900000000000028,0.8214,0.8403
 2024-10-17 22:30:03.128143,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,-0.019099999999999992,0.0476,0.0667
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Matthew Jordan,-0.019200000000000002,0.0025,0.0217
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Pete Alonso (NYM),-0.021300000000000003,0.011,0.0323
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Yannik Paul,-0.023399999999999997,0.0044,0.0278
 2024-10-18 05:30:22.034374,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Endry Saavedra,-0.024500000000000022,0.3922,0.4167
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Matteo Manassero,-0.024999999999999998,0.0028,0.0278
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Laurie Canter,-0.0253,0.0025,0.0278
 2024-10-18 05:30:21.984091,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,-0.025499999999999967,0.4,0.4255
+2024-10-18 07:25:44.368571,Andalucia Masters - 2/3 Balls - 2nd Round 3-Balls - T. Olesen / V. Perez / N. Elvira - 2nd Round 3-Balls,Victor Perez,-0.026600000000000013,0.4082,0.4348
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Jose Ramirez (CLE),-0.0267,0.0909,0.1176
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Matt Wallace,-0.0283,0.0152,0.0435
 2024-10-18 06:35:37.401964,NFC South - NFC South 2024/25 - NFC South Winner,New Orleans Saints,-0.029299999999999993,0.0476,0.0769
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Rasmus Neergaard-Petersen,-0.029800000000000004,0.0025,0.0323
 2024-10-17 21:25:43.799636,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,-0.030299999999999994,0.6364,0.6667
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Freddie Freeman (LAD),-0.0347,0.0278,0.0625
 2024-10-17 22:30:03.128143,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,-0.0348,0.4,0.4348
 2024-10-18 06:35:37.586250,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,-0.035999999999999976,0.4762,0.5122
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Mark Vientos (NYM),-0.0384,0.0385,0.0769
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Gerrit Cole (NYY),-0.0405,0.0071,0.0476
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Carlos Rodon (NYY),-0.0448,0.0385,0.0833
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Kike Hernandez (LAD),-0.052000000000000005,0.0909,0.1429
 2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat New York Yankees,-0.05759999999999999,0.0333,0.0909
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Gleyber Torres (NYY),-0.061500000000000006,0.0385,0.1
 2024-10-18 06:35:37.583005,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Mets,-0.06180000000000001,0.0435,0.1053
 2024-10-18 06:35:37.583005,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.068,0.4082,0.4762
+2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Francisco Lindor (NYM),-0.0721,0.0455,0.1176
 2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,-0.0857,0.0476,0.1333
 2024-10-18 06:35:37.594149,MLB Futures - MLB 2024 American League Winner -  MLB 2024 American League Winner,New York Yankees,-0.08900000000000008,0.8058,0.8948
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Jon Rahm,-0.1447,0.1053,0.25
 2024-10-18 06:35:37.598823,MLB Futures - MLB 2024 National League Winner -  MLB 2024 National League Winner,New York Mets,-0.15969999999999998,0.1,0.2597
+2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Juan Soto (NYY),-0.2571,0.1429,0.4
