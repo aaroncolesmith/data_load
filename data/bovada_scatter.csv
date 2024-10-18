@@ -15,8 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 19:22:15.656432,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Threes Made Per Game Leader,James Harden (LAC),0.019899999999999998,0.0278,0.0079
 2024-10-17 22:30:04.678287,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,0.01880000000000004,0.6552,0.6364
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Rasmus Hojgaard,0.018099999999999998,0.0769,0.0588
-2024-10-18 01:53:24.643009,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,0.016699999999999993,0.4167,0.4
 2024-10-17 21:25:43.850448,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Endry Saavedra,0.016699999999999993,0.4167,0.4
+2024-10-18 01:53:24.643009,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,0.016699999999999993,0.4167,0.4
 2024-10-17 22:30:03.124888,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.015899999999999997,0.2381,0.2222
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Romain Langasque,0.015499999999999998,0.0278,0.0123
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Richard Mansell,0.014900000000000004,0.0345,0.0196
@@ -40,6 +40,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 23:26:16.877787,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Sam Gilley,-0.011900000000000022,0.8214,0.8333
 2024-10-17 18:33:41.086500,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Hapoel Holon,-0.012100000000000001,0.0123,0.0244
 2024-10-17 23:26:16.752233,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),-0.012699999999999989,0.3509,0.3636
+2024-10-18 04:31:48.519196,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,-0.012700000000000045,0.6364,0.6491
 2024-10-17 23:26:16.752233,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jalen Milroe (ALA),-0.013999999999999999,0.0769,0.0909
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Thriston Lawrence,-0.014099999999999998,0.0244,0.0385
 2024-10-17 22:30:03.124888,NBL - Australia NBL 2024/25 - Outright,New Zealand Breakers,-0.014899999999999997,0.0476,0.0625
