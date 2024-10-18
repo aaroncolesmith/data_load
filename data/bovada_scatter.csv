@@ -1,8 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-10-17 16:34:39.134224,"Daily Soccer Specials - Women's Champions League Specials - Thursday, 17th October - Women's Champions League Specials - Thursday, 17th October","Roma W, Real Madrid W and Chelsea W each to score 1 or more 1st half goals",0.21539999999999992,0.6154,0.4
 2024-10-17 19:22:15.633003,NBA Awards & League Leaders - NBA Awards 2024-25 - To be a Western Conference All-Star,James Harden (LAC),0.19999999999999998,0.3333,0.1333
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Julien Guerrier,0.1543,0.1739,0.0196
-2024-10-17 16:34:39.134224,"Daily Soccer Specials - Women's Champions League Specials - Thursday, 17th October - Women's Champions League Specials - Thursday, 17th October","Roma W, Real Madrid W and Chelsea W each to score 2 or more goals and take 4 or more corners",0.09999999999999998,0.5,0.4
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Jorge Campillo,0.0857,0.1053,0.0196
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Daniel Brown,0.06899999999999999,0.0769,0.0079
 2024-10-17 23:26:16.752233,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter (COL),0.05559999999999998,0.1667,0.1111
@@ -10,7 +8,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Johannes Veerman,0.0436,0.0588,0.0152
 2024-10-17 22:30:03.128143,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,0.03330000000000001,0.1,0.0667
 2024-10-17 18:33:41.086500,FIBA Champions League - FIBA Champions League 2024/25 - Outright,ERA Nymburk,0.030400000000000003,0.05,0.0196
+2024-10-18 05:30:21.984091,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,0.030299999999999994,0.6667,0.6364
 2024-10-17 21:25:43.799636,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,0.025499999999999967,0.4255,0.4
+2024-10-18 05:30:21.939725,"NFL Weekly Specials - NFL Week 7 - Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",HOU Texans @ GB Packers,0.025300000000000003,0.1429,0.1176
+2024-10-18 05:30:22.034374,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,0.02300000000000002,0.6721,0.6491
 2024-10-17 18:33:41.086500,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Derthona Basket Tortona,0.0203,0.0588,0.0385
 2024-10-17 19:22:15.656432,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Threes Made Per Game Leader,James Harden (LAC),0.019899999999999998,0.0278,0.0079
 2024-10-17 22:30:04.678287,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,0.01880000000000004,0.6552,0.6364
@@ -26,8 +27,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 23:26:16.877787,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Jack McGann,0.0116,0.2469,0.2353
 2024-10-17 23:26:16.886048,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,0.011499999999999955,0.6667,0.6552
 2024-10-17 21:25:43.812262,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,0.011099999999999999,0.4762,0.4651
-2024-10-17 17:28:00.402736,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,0.010599999999999998,0.4651,0.4545
-2024-10-17 16:34:41.628449,Boxing Lines - Marine Beauchamp vs Kirstie Bavington - To Win the Bout,Marine Beauchamp,0.010099999999999998,0.6875,0.6774
 2024-10-17 23:26:16.752233,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jaxson Dart (MISS),-0.010100000000000001,0.0244,0.0345
 2024-10-17 19:22:14.870519,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.010499999999999982,0.2,0.2105
 2024-10-18 01:53:24.655314,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,-0.010599999999999998,0.4545,0.4651
@@ -45,6 +44,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Thriston Lawrence,-0.014099999999999998,0.0244,0.0385
 2024-10-17 22:30:03.124888,NBL - Australia NBL 2024/25 - Outright,New Zealand Breakers,-0.014899999999999997,0.0476,0.0625
 2024-10-17 18:33:41.086500,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Manresa,-0.016699999999999993,0.05,0.0667
+2024-10-18 05:30:21.939725,"NFL Weekly Specials - NFL Week 7 - Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",CAR Panthers @ WAS Commanders,-0.016699999999999993,0.25,0.2667
 2024-10-17 22:30:04.678287,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,-0.017299999999999982,0.4082,0.4255
 2024-10-18 01:53:24.643009,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,-0.01759999999999995,0.6491,0.6667
 2024-10-17 21:25:43.850448,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,-0.01759999999999995,0.6491,0.6667
@@ -54,8 +54,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-17 22:30:03.128143,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,-0.019099999999999992,0.0476,0.0667
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Matthew Jordan,-0.019200000000000002,0.0025,0.0217
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Yannik Paul,-0.023399999999999997,0.0044,0.0278
+2024-10-18 05:30:22.034374,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Endry Saavedra,-0.024500000000000022,0.3922,0.4167
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Matteo Manassero,-0.024999999999999998,0.0028,0.0278
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Laurie Canter,-0.0253,0.0025,0.0278
+2024-10-18 05:30:21.984091,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,-0.025499999999999967,0.4,0.4255
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Matt Wallace,-0.0283,0.0152,0.0435
 2024-10-18 01:53:24.871658,Andalucia Masters - Andalucia Masters - Winner,Rasmus Neergaard-Petersen,-0.029800000000000004,0.0025,0.0323
 2024-10-17 21:25:43.799636,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,-0.030299999999999994,0.6364,0.6667
