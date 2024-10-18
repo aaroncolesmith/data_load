@@ -19,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 08:32:46.173539,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Anthony Volpe (NYY),0.057300000000000004,0.0714,0.0141
 2024-10-18 08:32:43.535430,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.05710000000000001,0.2,0.1429
 2024-10-18 08:32:43.538314,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.05579999999999996,0.7701,0.7143
-2024-10-18 10:32:59.520404,Boxing Specials - Jake Paul vs Mike Tyson Specials - Specials,Jake Paul to call out Floyd Mayweather by the end of fight night,0.05559999999999998,0.1667,0.1111
 2024-10-18 10:32:59.520404,Boxing Specials - Jake Paul vs Mike Tyson Specials - Specials,Jake Paul to call out KSI by the end of fight night,0.05559999999999998,0.1667,0.1111
+2024-10-18 10:32:59.520404,Boxing Specials - Jake Paul vs Mike Tyson Specials - Specials,Jake Paul to call out Floyd Mayweather by the end of fight night,0.05559999999999998,0.1667,0.1111
 2024-10-18 08:32:46.178040,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Giancarlo Stanton (NYY),0.05409999999999998,0.3571,0.303
 2024-10-18 09:28:41.886276,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Tool,0.04999999999999999,0.25,0.2
 2024-10-18 10:32:59.520404,Boxing Specials - Jake Paul vs Mike Tyson Specials - Specials,Jake Paul to call out Conor McGregor by the end of fight night,0.048100000000000004,0.125,0.0769
@@ -76,6 +76,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 13:31:55.212511,NBA Specials - Who will be the next Former NBA All Star to be Traded during the 2024/2025 NBA Season - Proposition,Jarrett Allen (CLE),0.01469999999999999,0.25,0.2353
 2024-10-18 08:32:43.674232,League One - England League One 2024/25 - Top 6 Finish,Exeter City,0.013899999999999996,0.125,0.1111
 2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Chanettee Wannasaen,0.013400000000000002,0.0244,0.011
+2024-10-18 16:33:19.585939,Boxing Lines - Tommy Fletcher vs Milan Volkov - To Win the Bout,Tommy Fletcher,0.0131,0.9655,0.9524
 2024-10-18 08:32:46.193969,World Series MVP - World Series MVP  - World Series MVP,Jose Ramirez (CLE),0.012300000000000002,0.0417,0.0294
 2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Ruixin Liu,0.011699999999999999,0.0196,0.0079
 2024-10-18 08:32:46.244430,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,0.011499999999999955,0.6667,0.6552
@@ -85,8 +86,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 11:22:59.177048,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Clarence Maclin - Sing Sing,0.010499999999999982,0.2105,0.2
 2024-10-18 07:25:44.043663,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,-0.010099999999999998,0.4444,0.4545
 2024-10-18 06:35:37.589792,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat Cleveland Guardians,-0.010100000000000001,0.0116,0.0217
-2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Sei Young Kim,-0.010100000000000001,0.0244,0.0345
 2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Jazz Chisholm (NYY),-0.010100000000000001,0.0116,0.0217
+2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Sei Young Kim,-0.010100000000000001,0.0244,0.0345
 2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Emmanuel Clase (CLE),-0.0102,0.005,0.0152
 2024-10-18 08:32:46.193969,World Series MVP - World Series MVP  - World Series MVP,Giancarlo Stanton (NYY),-0.0102,0.0667,0.0769
 2024-10-18 08:32:43.674232,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.010399999999999993,0.2222,0.2326
@@ -103,7 +104,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 14:29:34.457466,Round Match-Ups - 2nd Round Match-Ups - L. Hodges vs T. Moore - 2nd Round Match-Ups,Lee Hodges,-0.012199999999999989,0.5,0.5122
 2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Hyo Joo Kim,-0.012599999999999998,0.0152,0.0278
 2024-10-18 08:32:46.173539,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Anthony Rizzo (NYY),-0.012600000000000007,0.0588,0.0714
-2024-10-18 04:31:48.519196,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,-0.012700000000000045,0.6364,0.6491
 2024-10-18 06:35:37.346616,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Houston Texans,-0.012899999999999995,0.1538,0.1667
 2024-10-18 07:25:43.974363,NLCS MVP - NLCS MVP - NLCS MVP,Teoscar Hernandez (LAD),-0.0131,0.0345,0.0476
 2024-10-18 10:32:59.399514,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Jesse Eisenberg - A Real Pain,-0.013999999999999999,0.0769,0.0909
@@ -119,9 +119,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 07:25:43.968876,ALCS MVP - ALCS MVP - ALCS MVP,Josh Naylor (CLE),-0.015300000000000001,0.0323,0.0476
 2024-10-18 08:32:46.178040,Stat Leaders - Most Home Runs in the Series - ALCS - NYY v CLE - Most Home Runs in the Series - ALCS - NYY v CLE,Austin Wells (NYY),-0.015400000000000002,0.009,0.0244
 2024-10-18 08:32:43.538314,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Atlético Mineiro,-0.0156,0.004,0.0196
-2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Celine Boutier,-0.016600000000000004,0.0667,0.0833
 2024-10-18 13:31:55.212511,NBA Specials - Who will be the next Former NBA All Star to be Traded during the 2024/2025 NBA Season - Proposition,Nikola Vucevic (CHI),-0.016600000000000004,0.0667,0.0833
+2024-10-18 09:28:42.732236,BMW Ladies Championship - BMW Ladies Championship - Winner,Celine Boutier,-0.016600000000000004,0.0667,0.0833
 2024-10-18 05:30:21.939725,"NFL Weekly Specials - NFL Week 7 - Leaders - Highest Scoring Game (Sunday Only, Exc London Game)",CAR Panthers @ WAS Commanders,-0.016699999999999993,0.25,0.2667
+2024-10-18 16:33:19.585939,Boxing Lines - Tommy Fletcher vs Milan Volkov - To Win the Bout,Milan Volkov,-0.016700000000000007,0.0833,0.1
 2024-10-18 08:32:43.541241,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Internacional,-0.016700000000000048,0.7333,0.75
 2024-10-18 08:32:46.173539,Stat Leaders - Most Hits in the Series - ALCS - NYY v CLE - Most Hits in the Series - ALCS - NYY v CLE,Giancarlo Stanton (NYY),-0.0168,0.0217,0.0385
 2024-10-18 13:31:55.212511,NBA Specials - Who will be the next Former NBA All Star to be Traded during the 2024/2025 NBA Season - Proposition,LaMelo Ball (CHA),-0.018099999999999998,0.0588,0.0769
@@ -138,8 +139,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 09:28:41.886276,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Psychedelics,-0.021999999999999964,0.2857,0.3077
 2024-10-18 08:32:43.541241,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.021999999999999964,0.2857,0.3077
 2024-10-18 09:28:39.979405,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Daniel Craig - Queer,-0.022199999999999998,0.2,0.2222
-2024-10-18 13:31:56.719763,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,-0.022600000000000064,0.6,0.6226
 2024-10-18 09:28:41.894856,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: Length Of Interview - Length Of Interview,Over 3 hours,-0.022600000000000064,0.5122,0.5348
+2024-10-18 13:31:56.719763,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,-0.022600000000000064,0.6,0.6226
 2024-10-18 12:49:53.715225,Round Match-Ups - 2nd Round Match-Ups - G. Higgo v L. Griffin - 2nd Round Match-Ups,Garrick Higgo,-0.023799999999999988,0.4762,0.5
 2024-10-18 10:32:59.399514,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Adrien Brody - The Brutalist,-0.023799999999999988,0.4762,0.5
 2024-10-18 12:49:53.687529,Round Match-Ups - 2nd Round Match-Ups - D. Wu vs H. Buckley - 2nd Round Match-Ups,Hayden Buckley,-0.023800000000000043,0.5,0.5238
