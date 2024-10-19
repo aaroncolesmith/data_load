@@ -14,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 02:54:17.935444,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,0.044499999999999984,0.2667,0.2222
 2024-10-19 02:54:17.935444,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.043200000000000016,0.3509,0.3077
 2024-10-19 01:51:31.646305,Championship - England Championship 2024/25 - Winner,Leeds United,0.04139999999999999,0.4762,0.4348
+2024-10-19 03:31:40.275152,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 59.5,0.04139999999999999,0.4762,0.4348
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Scott Jamieson,0.036899999999999995,0.0435,0.0066
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Steve Flesch,0.035300000000000005,0.0476,0.0123
 2024-10-19 02:54:17.944859,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.02739999999999998,0.2941,0.2667
@@ -66,13 +67,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Tom Vaillant,-0.0119,0.0013,0.0132
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Paul Broadhurst,-0.012100000000000001,0.0123,0.0244
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Thriston Lawrence,-0.013400000000000002,0.011,0.0244
-2024-10-18 17:28:19.813035,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,-0.013999999999999999,0.0769,0.0909
 2024-10-19 01:51:31.646305,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,-0.013999999999999999,0.0769,0.0909
+2024-10-18 17:28:19.813035,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,-0.013999999999999999,0.0769,0.0909
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Romain Langasque,-0.014599999999999998,0.0132,0.0278
 2024-10-18 18:34:31.437792,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Jack McGann,-0.01469999999999999,0.2353,0.25
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Alex Cejka,-0.014900000000000004,0.0196,0.0345
-2024-10-19 01:51:34.486713,Boxing Lines - Jordy Weiss vs Samuel Molina - To Win the Bout,Jordy Weiss,-0.014900000000000024,0.6774,0.6923
 2024-10-18 20:27:24.900970,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,-0.014900000000000024,0.6774,0.6923
+2024-10-19 01:51:34.486713,Boxing Lines - Jordy Weiss vs Samuel Molina - To Win the Bout,Jordy Weiss,-0.014900000000000024,0.6774,0.6923
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Victor Perez,-0.0159,0.0164,0.0323
 2024-10-18 18:34:31.452401,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,-0.016699999999999993,0.4,0.4167
 2024-10-18 16:33:19.585939,Boxing Lines - Tommy Fletcher vs Milan Volkov - To Win the Bout,Milan Volkov,-0.016700000000000007,0.0833,0.1
@@ -100,6 +101,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 02:54:17.940120,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.0363,0.2667,0.303
 2024-10-19 02:54:17.949568,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.03640000000000004,0.3636,0.4
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Thorbjorn Olesen,-0.036899999999999995,0.0066,0.0435
+2024-10-19 03:31:40.275152,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 59.5,-0.037900000000000045,0.5917,0.6296
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Johannes Veerman,-0.0392,0.0196,0.0588
 2024-10-19 01:51:31.718388,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,-0.04040000000000002,0.1818,0.2222
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Padraig Harrington,-0.04240000000000001,0.0909,0.1333
