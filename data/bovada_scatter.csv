@@ -3,12 +3,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 02:54:18.487249,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,0.17410000000000003,0.3279,0.1538
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Stewart Cink,0.125,0.25,0.125
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Jon Rahm,0.0947,0.2,0.1053
+2024-10-19 06:33:14.038670,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.09160000000000001,0.4762,0.3846
 2024-10-19 02:54:17.940120,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.08779999999999999,0.6226,0.5348
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Retief Goosen,0.0804,0.1,0.0196
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Jordan Smith,0.06999999999999999,0.1176,0.0476
+2024-10-19 06:33:14.046237,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat New York Mets,0.06999999999999999,0.1176,0.0476
 2024-10-18 21:25:42.152316,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 23.5,0.06719999999999998,0.3571,0.2899
 2024-10-19 02:54:17.944859,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,0.06670000000000004,0.4,0.3333
+2024-10-19 06:33:14.038670,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Mets,0.055200000000000006,0.0952,0.04
 2024-10-18 21:25:42.145491,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 17.5,0.054900000000000004,0.3448,0.2899
+2024-10-19 06:33:14.046237,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Mets to beat New York Yankees,0.049999999999999996,0.0833,0.0333
 2024-10-19 02:54:17.930783,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.04910000000000003,0.6491,0.6
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Greg Chalmers,0.047099999999999996,0.0667,0.0196
 2024-10-19 02:54:17.935444,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,0.044499999999999984,0.2667,0.2222
@@ -16,6 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 03:31:40.275152,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 59.5,0.04139999999999999,0.4762,0.4348
 2024-10-19 01:51:31.646305,Championship - England Championship 2024/25 - Winner,Leeds United,0.04139999999999999,0.4762,0.4348
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Scott Jamieson,0.036899999999999995,0.0435,0.0066
+2024-10-19 06:33:14.042489,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,0.035999999999999976,0.5122,0.4762
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Steve Flesch,0.035300000000000005,0.0476,0.0123
 2024-10-19 02:54:17.944859,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.02739999999999998,0.2941,0.2667
 2024-10-18 20:27:24.849504,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,0.025499999999999967,0.4255,0.4
@@ -41,8 +46,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 02:54:17.954329,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.015400000000000025,0.2857,0.2703
 2024-10-18 18:34:31.437792,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Sam Gilley,0.015100000000000002,0.8333,0.8182
 2024-10-19 01:51:31.653237,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.014700000000000046,0.7647,0.75
-2024-10-18 20:27:24.900970,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Endry Saavedra,0.01419999999999999,0.3846,0.3704
 2024-10-19 01:51:34.486713,Boxing Lines - Jordy Weiss vs Samuel Molina - To Win the Bout,Samuel Molina,0.01419999999999999,0.3846,0.3704
+2024-10-18 20:27:24.900970,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Endry Saavedra,0.01419999999999999,0.3846,0.3704
+2024-10-19 06:33:14.046237,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,New York Yankees to beat Los Angeles Dodgers,0.01419999999999999,0.3846,0.3704
 2024-10-19 01:51:31.550055,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,RB Leipzig,0.014099999999999994,0.0667,0.0526
 2024-10-19 04:30:34.221868,Boxing Lines - Michael McKinson vs Thulani Mbenge - To Win the Bout,Michael McKinson,0.013799999999999923,0.6364,0.6226
 2024-10-19 01:51:31.704565,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.012899999999999995,0.1667,0.1538
@@ -68,8 +74,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Romain Langasque,-0.014599999999999998,0.0132,0.0278
 2024-10-18 18:34:31.437792,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Jack McGann,-0.01469999999999999,0.2353,0.25
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Alex Cejka,-0.014900000000000004,0.0196,0.0345
-2024-10-18 20:27:24.900970,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,-0.014900000000000024,0.6774,0.6923
 2024-10-19 01:51:34.486713,Boxing Lines - Jordy Weiss vs Samuel Molina - To Win the Bout,Jordy Weiss,-0.014900000000000024,0.6774,0.6923
+2024-10-18 20:27:24.900970,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,-0.014900000000000024,0.6774,0.6923
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Victor Perez,-0.0159,0.0164,0.0323
 2024-10-18 18:34:31.452401,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,-0.016699999999999993,0.4,0.4167
 2024-10-18 20:27:24.837246,Boxing Lines - Sam Gilley vs Jack McGann - To Win the Bout,Jack McGann,-0.01680000000000001,0.2105,0.2273
@@ -91,10 +97,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Nicolai Hojgaard,-0.0303,0.002,0.0323
 2024-10-19 02:54:17.944859,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.033300000000000024,0.1667,0.2
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,David Puig,-0.0335,0.001,0.0345
+2024-10-19 06:33:14.042489,MLB Futures - MLB 2024 World Series Winner - Winning League,National League,-0.03610000000000002,0.5556,0.5917
 2024-10-19 02:54:17.940120,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.0363,0.2667,0.303
 2024-10-19 02:54:17.949568,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.03640000000000004,0.3636,0.4
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Thorbjorn Olesen,-0.036899999999999995,0.0066,0.0435
 2024-10-19 03:31:40.275152,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 59.5,-0.037900000000000045,0.5917,0.6296
+2024-10-19 06:33:14.038670,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,-0.0384,0.0385,0.0769
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Johannes Veerman,-0.0392,0.0196,0.0588
 2024-10-19 01:51:31.718388,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,-0.04040000000000002,0.1818,0.2222
 2024-10-19 01:51:34.649184,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Padraig Harrington,-0.04240000000000001,0.0909,0.1333
@@ -103,11 +111,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Tom McKibbin,-0.0469,0.0057,0.0526
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Rasmus Hojgaard,-0.0491,0.0278,0.0769
 2024-10-19 02:54:17.940120,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,-0.049199999999999994,0.2105,0.2597
+2024-10-19 06:33:14.046237,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Cleveland Guardians to beat Los Angeles Dodgers,-0.0555,0.0278,0.0833
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Niklas Norgaard,-0.05859999999999999,0.0323,0.0909
 2024-10-18 21:25:42.145491,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 17.5,-0.0635,0.7143,0.7778
 2024-10-19 02:54:17.930783,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Philadelphia 76ers,-0.0676,0.1429,0.2105
 2024-10-18 21:25:42.152316,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 23.5,-0.0677000000000001,0.7101,0.7778
 2024-10-19 02:54:17.944859,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.0865,0.0385,0.125
 2024-10-19 02:54:17.935444,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.08900000000000002,0.4762,0.5652
+2024-10-19 06:33:14.038670,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.09999999999999998,0.5,0.6
+2024-10-19 06:33:14.046237,MLB Futures - MLB 2024 World Series Winner - World Series Exact Result - MLB 2024,Los Angeles Dodgers to beat Cleveland Guardians,-0.10619999999999999,0.0476,0.1538
 2024-10-18 20:27:25.073262,Andalucia Masters - Andalucia Masters - Winner,Julien Guerrier,-0.1072,0.0667,0.1739
 2024-10-19 02:54:18.487249,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,-0.19900000000000007,0.7101,0.9091
