@@ -23,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 20:28:09.538205,US Senate Elections 2024 - Senate Election Winner - Michigan - Winner,Republican,0.05129999999999996,0.3077,0.2564
 2024-10-19 19:21:16.056323,Boxing Lines - Adam Azim vs Ohara Davies - To Win the Bout,Ohara Davies,0.04909999999999999,0.1667,0.1176
 2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,David Boriboonsub,0.0474,0.0909,0.0435
-2024-10-19 13:28:13.198605,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Kike Hernandez (LAD),0.047099999999999996,0.0667,0.0196
 2024-10-19 13:28:13.203097,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Jose Ramirez (CLE),0.047099999999999996,0.0667,0.0196
+2024-10-19 13:28:13.198605,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Kike Hernandez (LAD),0.047099999999999996,0.0667,0.0196
 2024-10-19 16:31:58.155594,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Napheesa Collier (MIN),0.045899999999999996,0.25,0.2041
 2024-10-19 17:27:02.817231,Requested Specials - Requested Specials - Win Electoral College,Alaska (Rep) / Florida (Rep) / Iowa (Rep) / Ohio (Rep) / Maine (Rep) / South Carolina (Rep) / Texas (Rep),0.04410000000000003,0.75,0.7059
 2024-10-19 16:31:58.155594,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Jonquel Jones (NYL),0.0408,0.0625,0.0217
@@ -48,9 +48,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 16:31:59.722976,Boxing Lines - William Scull vs Vladimir Shishkin - To Win the Bout,William Scull,0.024399999999999977,0.5122,0.4878
 2024-10-19 14:28:01.220245,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,South Alabama,0.0242,0.0909,0.0667
 2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Stefano Mazzoli,0.023899999999999998,0.0435,0.0196
-2024-10-19 09:26:23.278513,First Division A - Belgium First Division A 2024/25 - Outright,Royal Antwerp,0.023799999999999988,0.1667,0.1429
-2024-10-19 09:26:23.347505,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,0.023799999999999988,0.5,0.4762
-2024-10-19 09:26:25.289339,Electoral College Winner - Rhode Island (RI) - Rhode Island,Democrat,0.023699999999999943,0.9852,0.9615
 2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Hung Chien-Yao,0.023500000000000004,0.0345,0.011
 2024-10-19 18:32:09.459267,Andalucia Masters - Andalucia Masters - Winner,Daniel Brown,0.02310000000000001,0.1,0.0769
 2024-10-19 13:28:13.198605,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Aaron Judge (NYY),0.02310000000000001,0.1,0.0769
@@ -62,23 +59,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 21:24:33.762374,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,0.02080000000000004,0.6875,0.6667
 2024-10-19 19:21:15.289172,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.020799999999999985,0.3333,0.3125
 2024-10-19 13:28:13.203097,Stat Leaders - Most Stolen Bases in the 2024 MLB Playoffs - Most Stolen Bases in the 2024 MLB Playoffs,Steven Kwan (CLE),0.0203,0.0526,0.0323
-2024-10-19 09:26:23.361561,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,0.020100000000000007,0.7701,0.75
 2024-10-19 16:31:59.747395,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,0.01959999999999995,0.697,0.6774
 2024-10-19 16:31:59.698728,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,0.019499999999999962,0.6491,0.6296
 2024-10-19 17:27:03.206796,Boxing Lines - William Scull vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,0.01880000000000004,0.5744,0.5556
 2024-10-19 15:25:29.952709,Boxing Lines - Michael McKinson vs Thulani Mbenge - To Win the Bout,Thulani Mbenge,0.018100000000000005,0.4348,0.4167
-2024-10-19 12:46:56.462605,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,0.017299999999999982,0.5917,0.5744
 2024-10-19 15:25:29.944342,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,0.017299999999999982,0.5917,0.5744
+2024-10-19 12:46:56.462605,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,0.017299999999999982,0.5917,0.5744
 2024-10-19 12:46:56.470804,Boxing Lines - Michael McKinson vs Thulani Mbenge - To Win the Bout,Thulani Mbenge,0.016699999999999993,0.4167,0.4
-2024-10-19 14:28:01.553704,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,0.01629999999999998,0.7222,0.7059
 2024-10-19 21:24:33.749732,Electoral College Winner - Arizona (AZ) - Arizona,Republican,0.01629999999999998,0.7222,0.7059
+2024-10-19 14:28:01.553704,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Cesar Mateo Tapia,0.01629999999999998,0.7222,0.7059
 2024-10-19 17:27:03.185935,Boxing Lines - Jordy Weiss vs Samuel Molina - To Win the Bout,Jordy Weiss,0.014900000000000024,0.6923,0.6774
 2024-10-19 21:24:33.804475,Electoral College Winner - Florida (FL) - Florida,Republican,0.014399999999999968,0.9375,0.9231
 2024-10-19 15:25:29.936107,Boxing Lines - Jordy Weiss vs Samuel Molina - To Win the Bout,Samuel Molina,0.01419999999999999,0.3846,0.3704
 2024-10-19 13:28:13.198605,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Juan Soto (NYY),0.014099999999999994,0.0667,0.0526
 2024-10-19 16:31:58.155594,WNBA Awards - WNBA Finals MVP 2024 - WNBA Finals MVP 2024,Betnijah Laney-Hamilton (NYL),0.013,0.0196,0.0066
 2024-10-19 13:28:13.198605,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Austin Wells (NYY),0.012899999999999998,0.0179,0.005
-2024-10-19 09:26:23.361561,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,0.012899999999999995,0.1667,0.1538
 2024-10-19 16:31:58.150969,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,0.0121,0.7222,0.7101
 2024-10-19 21:24:33.956113,Electoral College Winner - Virginia (VA) - Virginia,Republican,0.011900000000000022,0.1786,0.1667
 2024-10-19 13:28:13.198605,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,David Fry (CLE),0.0118,0.0217,0.0099
@@ -89,10 +84,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 13:28:13.198605,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Teoscar Hernandez (LAD),-0.0102,0.0667,0.0769
 2024-10-19 10:30:10.259256,BMW Ladies Championship - BMW Ladies Championship - Winner,Rose Zhang,-0.0103,0.002,0.0123
 2024-10-19 16:31:58.150969,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,-0.01040000000000002,0.3175,0.3279
-2024-10-19 13:28:13.198605,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Lane Thomas (CLE),-0.010700000000000001,0.0278,0.0385
 2024-10-19 14:28:01.220245,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Old Dominion,-0.010700000000000001,0.0278,0.0385
-2024-10-19 21:24:33.956113,Electoral College Winner - Virginia (VA) - Virginia,Democrat,-0.011099999999999999,0.8889,0.9
+2024-10-19 13:28:13.198605,Stat Leaders - Most Home Runs in the 2024 MLB Playoffs - Most Home Runs in the 2024 MLB Playoffs,Lane Thomas (CLE),-0.010700000000000001,0.0278,0.0385
 2024-10-19 17:27:03.194254,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,-0.011099999999999999,0.4651,0.4762
+2024-10-19 21:24:33.956113,Electoral College Winner - Virginia (VA) - Virginia,Democrat,-0.011099999999999999,0.8889,0.9
 2024-10-19 15:25:29.944342,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,-0.0116,0.4762,0.4878
 2024-10-19 12:46:56.462605,Boxing Lines - Dan Azeez vs Lewis Edmondson - To Win the Bout,Dan Azeez,-0.0116,0.4762,0.4878
 2024-10-19 21:24:33.770858,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.011600000000000055,0.5122,0.5238
@@ -102,8 +97,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 17:27:03.181699,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Jeamie Tshikeva,-0.012700000000000045,0.6364,0.6491
 2024-10-19 20:28:09.940629,Boxing Lines - Adam Azim vs Ohara Davies - To Win the Bout,Ohara Davies,-0.012899999999999995,0.1538,0.1667
 2024-10-19 10:30:10.259256,BMW Ladies Championship - BMW Ladies Championship - Winner,Hyo Joo Kim,-0.0132,0.002,0.0152
-2024-10-19 21:24:33.804475,Electoral College Winner - Florida (FL) - Florida,Democrat,-0.013899999999999996,0.129,0.1429
 2024-10-19 10:30:10.259256,BMW Ladies Championship - BMW Ladies Championship - Winner,Ashleigh Buhai,-0.013899999999999996,0.1111,0.125
+2024-10-19 21:24:33.804475,Electoral College Winner - Florida (FL) - Florida,Democrat,-0.013899999999999996,0.129,0.1429
 2024-10-19 10:30:10.259256,BMW Ladies Championship - BMW Ladies Championship - Winner,Ruoning Yin,-0.014099999999999998,0.0244,0.0385
 2024-10-19 17:27:03.185935,Boxing Lines - Jordy Weiss vs Samuel Molina - To Win the Bout,Samuel Molina,-0.01419999999999999,0.3704,0.3846
 2024-10-19 10:30:10.259256,BMW Ladies Championship - BMW Ladies Championship - Winner,Yuka Saso,-0.0142,0.001,0.0152
@@ -126,20 +121,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 10:30:10.259256,BMW Ladies Championship - BMW Ladies Championship - Winner,Ayaka Furue,-0.0186,0.001,0.0196
 2024-10-19 21:24:33.749732,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.018799999999999983,0.3448,0.3636
 2024-10-19 16:31:59.722976,Boxing Lines - William Scull vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,-0.01880000000000004,0.5556,0.5744
-2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Sadom Kaewkanjana,-0.0189,0.0196,0.0385
 2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Sarit Suwannarut,-0.0189,0.0196,0.0385
+2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Sadom Kaewkanjana,-0.0189,0.0196,0.0385
 2024-10-19 10:30:10.259256,BMW Ladies Championship - BMW Ladies Championship - Winner,Ruixin Liu,-0.0192,0.0004,0.0196
 2024-10-19 15:25:29.952709,Boxing Lines - Michael McKinson vs Thulani Mbenge - To Win the Bout,Michael McKinson,-0.019499999999999962,0.6296,0.6491
 2024-10-19 15:25:29.931851,Boxing Lines - Jeamie Tshikeva vs Franklin Ignatius - To Win the Bout,Franklin Ignatius,-0.019699999999999995,0.4348,0.4545
-2024-10-19 09:26:23.347505,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Atlético Tucumán,-0.0203,0.0385,0.0588
 2024-10-19 18:32:08.007846,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 58.5,-0.02079999999999993,0.5348,0.5556
 2024-10-19 16:31:59.747395,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Endry Saavedra,-0.02100000000000002,0.3636,0.3846
 2024-10-19 21:24:33.758116,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.02169999999999994,0.5238,0.5455
-2024-10-19 09:26:23.278513,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,-0.021999999999999964,0.2857,0.3077
 2024-10-19 21:24:33.762374,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,-0.02260000000000001,0.3774,0.4
 2024-10-19 14:28:01.207840,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Sam Houston State,-0.023799999999999988,0.1429,0.1667
-2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Santiago De La Fuente,-0.023799999999999998,0.004,0.0278
 2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Scott Vincent,-0.023799999999999998,0.004,0.0278
+2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Santiago De La Fuente,-0.023799999999999998,0.004,0.0278
 2024-10-19 10:30:10.259256,BMW Ladies Championship - BMW Ladies Championship - Winner,Sei Young Kim,-0.024,0.0004,0.0244
 2024-10-19 14:28:01.207840,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Liberty,-0.024399999999999977,0.4878,0.5122
 2024-10-19 17:27:03.206796,Boxing Lines - William Scull vs Vladimir Shishkin - To Win the Bout,William Scull,-0.024399999999999977,0.4878,0.5122
@@ -149,12 +142,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Kazuki Higa,-0.0265,0.0013,0.0278
 2024-10-19 18:32:09.459267,Andalucia Masters - Andalucia Masters - Winner,Jordan Smith,-0.0267,0.0909,0.1176
 2024-10-19 20:28:09.172031,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Trump to Win and either Biden or Harris to accept the results and concede,-0.026700000000000057,0.8824,0.9091
-2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Phachara Khongwatmai,-0.026799999999999997,0.001,0.0278
 2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Peter Uihlein,-0.026799999999999997,0.001,0.0278
+2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Phachara Khongwatmai,-0.026799999999999997,0.001,0.0278
 2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Charng-Tai Sudsom,-0.0273,0.005,0.0323
 2024-10-19 10:30:10.259256,BMW Ladies Championship - BMW Ladies Championship - Winner,Grace Kim,-0.027399999999999997,0.0004,0.0278
 2024-10-19 12:46:56.499549,Boxing Lines - Cesar Mateo Tapia vs Endry Saavedra - To Win the Bout,Endry Saavedra,-0.027500000000000024,0.3571,0.3846
-2024-10-19 09:26:25.289339,Electoral College Winner - Rhode Island (RI) - Rhode Island,Republican,-0.02840000000000001,0.0769,0.1053
 2024-10-19 10:30:10.101927,Boxing Lines - Jordy Weiss vs Samuel Molina - To Win the Bout,Samuel Molina,-0.029600000000000015,0.3704,0.4
 2024-10-19 17:27:03.202575,Boxing Lines - Michael McKinson vs Thulani Mbenge - To Win the Bout,Michael McKinson,-0.02960000000000007,0.6,0.6296
 2024-10-19 14:28:01.694523,Black Mountain Championship - Black Mountain Championship - Winner,Chonlatit Chuenboonngam,-0.029800000000000004,0.0025,0.0323
