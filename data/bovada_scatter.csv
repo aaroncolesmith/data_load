@@ -16,7 +16,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Ruoning Yin,0.0759,0.0769,0.001
 2024-10-21 10:34:47.671015,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,0.07450000000000001,0.5,0.4255
 2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,0.07239999999999996,0.3077,0.2353
-2024-10-21 06:36:58.425765,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,0.06959999999999997,0.3077,0.2381
 2024-10-21 08:33:22.210155,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.06670000000000004,0.4,0.3333
 2024-10-21 10:34:47.895593,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.06669999999999998,0.9,0.8333
 2024-10-21 08:33:22.213321,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,0.06659999999999999,0.7333,0.6667
@@ -29,34 +28,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 08:33:24.424772,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,LSU,0.06139999999999998,0.1667,0.1053
 2024-10-21 14:30:40.959449,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,0.0595,0.4762,0.4167
 2024-10-21 09:29:18.164002,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.0595,0.4762,0.4167
-2024-10-21 06:36:59.611777,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,0.057699999999999974,0.5455,0.4878
 2024-10-21 08:33:22.060719,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,0.057699999999999974,0.3077,0.25
 2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Kansas State,0.057699999999999974,0.3077,0.25
 2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,0.0572,0.1905,0.1333
-2024-10-21 08:33:22.190627,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Mohamed Salah (Liverpool),0.05710000000000001,0.2,0.1429
+2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.05710000000000001,0.2,0.1429
 2024-10-21 08:33:24.415984,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Western Michigan,0.05710000000000001,0.2,0.1429
 2024-10-21 09:29:18.167032,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Lecce,0.05710000000000001,0.2,0.1429
-2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.05710000000000001,0.2,0.1429
-2024-10-21 06:36:57.471062,Championship - England Championship 2024/25 - Winner,Sunderland,0.05559999999999998,0.1667,0.1111
-2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),0.05559999999999998,0.1667,0.1111
+2024-10-21 08:33:22.190627,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Mohamed Salah (Liverpool),0.05710000000000001,0.2,0.1429
 2024-10-21 08:33:24.449840,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.05559999999999998,0.5556,0.5
+2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),0.05559999999999998,0.1667,0.1111
 2024-10-21 08:33:24.394322,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Miami Florida,0.05449999999999999,0.4545,0.4
-2024-10-21 06:36:58.425765,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,0.05449999999999999,0.4545,0.4
 2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.05349999999999999,0.8182,0.7647
 2024-10-21 08:33:24.424772,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Tennessee,0.0524,0.1,0.0476
 2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Will Grigg,0.052000000000000005,0.1429,0.0909
-2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Xiyu Lin,0.0516,0.0526,0.001
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Ayaka Furue,0.0516,0.0526,0.001
+2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Xiyu Lin,0.0516,0.0526,0.001
 2024-10-21 10:34:47.668028,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Le Havre,0.05109999999999998,0.3636,0.3125
-2024-10-21 18:34:51.339590,"MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits, Runs, RBIs in the World Series - Shohei Ohtani v Aaron Judge",Shohei Ohtani (LAD),0.05059999999999998,0.5744,0.5238
 2024-10-21 08:33:22.200681,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Liverpool,0.05059999999999998,0.5744,0.5238
+2024-10-21 18:34:51.339590,"MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits, Runs, RBIs in the World Series - Shohei Ohtani v Aaron Judge",Shohei Ohtani (LAD),0.05059999999999998,0.5744,0.5238
 2024-10-21 10:34:47.668028,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Montpellier,0.04910000000000003,0.4,0.3509
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Celine Boutier,0.0491,0.0769,0.0278
 2024-10-21 14:30:40.950709,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.0479,0.3509,0.303
 2024-10-21 09:29:18.140494,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Bayer Leverkusen,0.04760000000000009,0.7143,0.6667
 2024-10-21 10:34:47.900213,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Bodø/Glimt,0.04710000000000003,0.9804,0.9333
 2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.04650000000000001,0.1053,0.0588
-2024-10-21 06:36:59.616541,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,0.04620000000000002,0.5917,0.5455
 2024-10-21 08:33:22.186961,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Mohamed Salah,0.04620000000000002,0.2,0.1538
 2024-10-21 09:29:20.697378,World Series MVP - World Series MVP  - World Series MVP,Mookie Betts (LAD),0.04619999999999999,0.1176,0.0714
 2024-10-21 08:33:22.057580,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,0.044499999999999984,0.2667,0.2222
@@ -66,39 +61,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,0.043200000000000016,0.3509,0.3077
 2024-10-21 10:34:47.769089,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,0.04240000000000001,0.1333,0.0909
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Hannah Green,0.042199999999999994,0.0435,0.0013
-2024-10-21 06:36:59.602029,AFC South - AFC South 2024/25 - AFC South Winner,Houston Texans,0.04169999999999996,0.875,0.8333
 2024-10-21 15:29:29.775879,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,0.04099999999999998,0.3077,0.2667
 2024-10-21 09:29:18.164002,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.04099999999999998,0.3077,0.2667
-2024-10-21 09:29:18.164002,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,0.040999999999999925,0.7333,0.6923
 2024-10-21 09:29:18.119016,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Robert Lewandowski (FC Barcelona),0.040999999999999925,0.7333,0.6923
+2024-10-21 09:29:18.164002,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,0.040999999999999925,0.7333,0.6923
 2024-10-21 09:29:18.157644,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,0.04089999999999999,0.4255,0.3846
 2024-10-21 09:29:18.357828,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sampdoria,0.04040000000000002,0.2222,0.1818
 2024-10-21 09:29:18.170061,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.04039999999999999,0.8182,0.7778
-2024-10-21 06:36:59.587408,NFC East - NFC East 2024/25 - NFC East Winner,Washington Commanders,0.039600000000000024,0.4651,0.4255
 2024-10-21 18:34:51.335805,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits in the World Series - Shohei Ohtani v Aaron Judge,Shohei Ohtani (LAD),0.03959999999999997,0.5744,0.5348
 2024-10-21 09:29:20.675747,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jordan Love (GB),0.0384,0.0769,0.0385
 2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Luton Town,0.0368,0.2667,0.2299
-2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Iowa State,0.03640000000000004,0.4,0.3636
 2024-10-21 09:29:18.167032,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,0.03640000000000004,0.4,0.3636
-2024-10-21 06:36:57.390359,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.03639999999999999,0.6364,0.6
+2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Iowa State,0.03640000000000004,0.4,0.3636
 2024-10-21 08:33:24.407426,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Oregon,0.03620000000000001,0.4444,0.4082
 2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Quinn,0.03570000000000001,0.2857,0.25
-2024-10-21 06:36:57.567269,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.03570000000000001,0.2857,0.25
-2024-10-21 09:29:18.170061,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,0.035699999999999954,0.75,0.7143
 2024-10-21 09:29:18.149954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,0.035699999999999954,0.75,0.7143
-2024-10-21 06:36:59.582495,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.035699999999999954,0.75,0.7143
+2024-10-21 09:29:18.170061,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,0.035699999999999954,0.75,0.7143
 2024-10-21 08:33:22.200681,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,0.035699999999999954,0.75,0.7143
-2024-10-21 06:36:59.606870,AFC West - AFC West 2024/25 - AFC West Winner,Kansas City Chiefs,0.03479999999999994,0.9681,0.9333
 2024-10-21 10:34:47.909603,Premiership - Scotland Premiership 2024/25 - Winner,Celtic,0.03420000000000001,0.9231,0.8889
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Jenny Shin,0.034100000000000005,0.0345,0.0004
-2024-10-21 08:33:24.398769,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Navy,0.033300000000000024,0.2,0.1667
-2024-10-21 10:34:47.661770,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,0.033300000000000024,0.2,0.1667
 2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),0.033300000000000024,0.2,0.1667
+2024-10-21 10:34:47.661770,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,0.033300000000000024,0.2,0.1667
+2024-10-21 08:33:24.398769,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Navy,0.033300000000000024,0.2,0.1667
 2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,0.033299999999999996,0.1333,0.1
 2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Cincinnati,0.033,0.0526,0.0196
+2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,0.031799999999999995,0.1429,0.1111
 2024-10-21 10:34:47.680451,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Palmeiras,0.031799999999999995,0.4762,0.4444
 2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Mainz,0.031799999999999995,0.1429,0.1111
-2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,0.031799999999999995,0.1429,0.1111
 2024-10-21 18:34:51.343331,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Home Runs in the World Series - Shohei Ohtani v Aaron Judge,Shohei Ohtani (LAD),0.03179999999999994,0.5556,0.5238
 2024-10-21 08:33:24.407426,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Indiana,0.0314,0.0769,0.0455
 2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,0.030699999999999998,0.0833,0.0526
@@ -107,49 +96,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 14:30:40.950709,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.030299999999999994,0.3636,0.3333
 2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.030299999999999994,0.3636,0.3333
 2024-10-21 08:33:24.415984,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Eastern Michigan,0.030199999999999998,0.0625,0.0323
-2024-10-21 09:29:18.164002,Serie A - Italy Serie A 2024/25 - To Be Relegated,Genoa,0.029899999999999982,0.2299,0.2
 2024-10-21 08:33:22.173138,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Brighton & Hove Albion,0.029899999999999982,0.2299,0.2
+2024-10-21 09:29:18.164002,Serie A - Italy Serie A 2024/25 - To Be Relegated,Genoa,0.029899999999999982,0.2299,0.2
 2024-10-21 09:29:18.160709,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Christian Pulisic (AC Milan),0.0294,0.0588,0.0294
 2024-10-21 10:34:49.860482,White House Specials - White House Halloween Event: Joe Biden's Costume - Joe Biden Halloween Costume,Count Dracula,0.028399999999999995,0.0909,0.0625
 2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Colorado,0.028399999999999995,0.0909,0.0625
 2024-10-21 08:33:24.429109,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,UL Monroe,0.0283,0.0435,0.0152
 2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Keito Nakamura (Reims),0.028000000000000004,0.0476,0.0196
-2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,0.027999999999999997,0.1818,0.1538
 2024-10-21 15:29:29.889831,Electoral College Winner - Maine District 2 (ME CD2) - Maine Congressional District 2,Democrat,0.027999999999999997,0.1818,0.1538
+2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,0.027999999999999997,0.1818,0.1538
 2024-10-21 08:33:22.060719,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,0.02779999999999999,0.25,0.2222
 2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.027500000000000024,0.3846,0.3571
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Linn Grant,0.026799999999999997,0.0278,0.001
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Ashleigh Buhai,0.026799999999999997,0.0278,0.001
 2024-10-21 09:29:18.170061,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,0.0267,0.1176,0.0909
-2024-10-21 06:36:59.597184,AFC East - AFC East 2024/25 - AFC East Winner,Miami Dolphins,0.0267,0.1176,0.0909
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Allisen Corpuz,0.0265,0.0278,0.0013
-2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,0.025600000000000067,0.6923,0.6667
 2024-10-21 09:29:18.170061,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,0.025600000000000067,0.6923,0.6667
-2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.02560000000000001,0.3333,0.3077
+2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,0.025600000000000067,0.6923,0.6667
 2024-10-21 08:33:22.203816,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,0.02560000000000001,0.3333,0.3077
+2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.02560000000000001,0.3333,0.3077
 2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,0.025599999999999956,0.6,0.5744
 2024-10-21 11:25:22.701481,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,0.025499999999999967,0.4255,0.4
 2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,0.024299999999999995,0.0769,0.0526
-2024-10-21 08:33:22.086426,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,0.0242,0.0909,0.0667
 2024-10-21 08:33:22.203816,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Liverpool,0.0242,0.9333,0.9091
+2024-10-21 08:33:22.086426,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,0.0242,0.0909,0.0667
 2024-10-21 08:33:22.194248,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,0.0242,0.0909,0.0667
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.023800000000000043,0.5238,0.5
 2024-10-21 10:34:49.878920,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,2025,0.023799999999999988,0.1667,0.1429
-2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Sydney FC,0.023799999999999988,0.1667,0.1429
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,0.023799999999999988,0.1667,0.1429
+2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Sydney FC,0.023799999999999988,0.1667,0.1429
 2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Heidenheim,0.023799999999999988,0.1667,0.1429
 2024-10-21 10:34:47.769089,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Tijuana,0.023200000000000002,0.0476,0.0244
+2024-10-21 10:34:47.765235,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Andre-Pierre Gignac,0.02310000000000001,0.1,0.0769
 2024-10-21 08:33:22.057580,Championship - England Championship 2024/25 - To Finish Bottom,Queens Park Rangers,0.02310000000000001,0.1,0.0769
 2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,0.02310000000000001,0.1,0.0769
-2024-10-21 10:34:47.765235,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Andre-Pierre Gignac,0.02310000000000001,0.1,0.0769
 2024-10-21 07:26:40.559027,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Josko Gvardiol (Man City),0.0228,0.0294,0.0066
 2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,0.022600000000000064,0.6226,0.6
-2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.022199999999999998,0.2222,0.2
-2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,BYU,0.022199999999999998,0.2222,0.2
-2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.022199999999999998,0.2222,0.2
-2024-10-21 06:36:57.386009,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,0.022199999999999998,0.2222,0.2
 2024-10-21 09:29:18.160709,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Dusan Vlahovic (Juventus),0.022199999999999998,0.2222,0.2
+2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.022199999999999998,0.2222,0.2
+2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,BYU,0.022199999999999998,0.2222,0.2
 2024-10-21 09:29:18.140494,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,0.022199999999999998,0.2222,0.2
+2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.022199999999999998,0.2222,0.2
 2024-10-21 09:29:18.116187,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.02200000000000002,0.7143,0.6923
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.021999999999999964,0.3077,0.2857
 2024-10-21 09:29:18.357828,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.02100000000000002,0.3846,0.3636
@@ -160,25 +147,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Sheffield Wednesday,0.02020000000000001,0.1111,0.0909
 2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,TCU,0.019899999999999998,0.0278,0.0079
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Esther Henseleit,0.0191,0.0196,0.0005
-2024-10-21 08:33:22.190627,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Dominic Solanke (Tottenham),0.019099999999999992,0.0667,0.0476
 2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,0.019099999999999992,0.0667,0.0476
+2024-10-21 08:33:22.190627,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Dominic Solanke (Tottenham),0.019099999999999992,0.0667,0.0476
 2024-10-21 10:34:47.883041,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,0.019000000000000017,0.2857,0.2667
-2024-10-21 06:36:57.567269,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,0.018900000000000028,0.4444,0.4255
-2024-10-21 06:36:57.374407,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.018900000000000028,0.4444,0.4255
 2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Jamille Matt,0.0189,0.0385,0.0196
-2024-10-21 06:36:59.592198,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,0.018799999999999983,0.3636,0.3448
 2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Leeds United,0.01849999999999996,0.9709,0.9524
 2024-10-21 08:33:22.541976,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.018400000000000027,0.3125,0.2941
 2024-10-21 10:34:47.668028,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Toulouse,0.01820000000000002,0.2,0.1818
 2024-10-21 08:33:22.216474,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Everton,0.018199999999999994,0.8182,0.8
 2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Wolfsburg,0.018099999999999998,0.0769,0.0588
 2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Watford,0.018099999999999998,0.0769,0.0588
-2024-10-21 06:36:57.394696,Ligue 1 - France Ligue 1 2024/25 - Winner,Marseille,0.018099999999999998,0.0769,0.0588
-2024-10-21 08:33:22.213321,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,0.017900000000000027,0.875,0.8571
 2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Atlético Madrid,0.017900000000000027,0.875,0.8571
+2024-10-21 08:33:22.213321,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,0.017900000000000027,0.875,0.8571
 2024-10-21 08:33:24.424772,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Texas A&M,0.0179,0.1429,0.125
-2024-10-21 08:33:23.871124,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.017600000000000005,0.3509,0.3333
 2024-10-21 08:33:23.867322,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.017600000000000005,0.3509,0.3333
+2024-10-21 08:33:23.871124,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.017600000000000005,0.3509,0.3333
 2024-10-21 10:34:47.864241,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.017600000000000005,0.3509,0.3333
 2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Burnley,0.01759999999999995,0.6667,0.6491
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Hye Jin Choi,0.0168,0.0385,0.0217
@@ -193,147 +176,125 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 08:33:22.060719,Championship - England Championship 2024/25 - Top 2 Finish,Luton Town,0.015300000000000001,0.0476,0.0323
 2024-10-21 09:29:18.349959,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,0.015100000000000002,0.1818,0.1667
 2024-10-21 09:29:20.675747,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.015100000000000002,0.1818,0.1667
+2024-10-21 10:34:49.860482,White House Specials - White House Halloween Event: Joe Biden's Costume - Joe Biden Halloween Costume,Ghostbuster,0.014899999999999997,0.0625,0.0476
 2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Matt LaFleur,0.014899999999999997,0.0625,0.0476
 2024-10-21 10:34:49.869293,White House Specials - White House Halloween Event Specials - Halloween Specials,Ryan Reynolds to appear as Deadpool,0.014899999999999997,0.0625,0.0476
-2024-10-21 10:34:49.860482,White House Specials - White House Halloween Event: Joe Biden's Costume - Joe Biden Halloween Costume,Ghostbuster,0.014899999999999997,0.0625,0.0476
 2024-10-21 07:26:42.729007,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,0.014800000000000035,0.6226,0.6078
 2024-10-21 08:33:24.424772,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Mississippi,0.014599999999999998,0.0278,0.0132
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Ariya Jutanugarn,0.014599999999999998,0.0179,0.0033
-2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Evann Guessand (Nice),0.014499999999999999,0.0294,0.0149
 2024-10-21 08:33:22.086426,League One - England League One 2024/25 - Top Goalscorer,Paul Mullin,0.014499999999999999,0.0294,0.0149
-2024-10-21 06:36:59.606870,AFC West - AFC West 2024/25 - AFC West Winner,Los Angeles Chargers,0.014399999999999996,0.0769,0.0625
+2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Evann Guessand (Nice),0.014499999999999999,0.0294,0.0149
 2024-10-21 08:33:22.216474,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Bournemouth,0.01429999999999998,0.9852,0.9709
 2024-10-21 08:33:22.216474,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Fulham,0.01429999999999998,0.9852,0.9709
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Patty Tavatanakit,0.0142,0.0152,0.001
 2024-10-21 09:29:18.354710,Serie B - Italy Serie B 2024/25 - Winner,Sampdoria,0.014100000000000001,0.0526,0.0385
-2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Lyle Taylor,0.014099999999999998,0.0385,0.0244
 2024-10-21 08:33:22.186961,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Phil Foden,0.014099999999999998,0.0385,0.0244
 2024-10-21 09:29:18.164002,Serie A - Italy Serie A 2024/25 - To Be Relegated,Torino,0.014099999999999998,0.0435,0.0294
+2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Lyle Taylor,0.014099999999999998,0.0385,0.0244
 2024-10-21 10:34:47.765235,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Roberto Alvadrado,0.014099999999999994,0.0667,0.0526
-2024-10-21 08:33:22.190627,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Heung-Min Son (Tottenham),0.014099999999999994,0.0667,0.0526
 2024-10-21 08:33:22.206970,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,0.014099999999999994,0.0667,0.0526
-2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Luton Town,0.013999999999999999,0.0909,0.0769
-2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,0.013999999999999999,0.0909,0.0769
-2024-10-21 06:36:59.567195,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,0.013999999999999999,0.0909,0.0769
+2024-10-21 08:33:22.190627,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Heung-Min Son (Tottenham),0.014099999999999994,0.0667,0.0526
 2024-10-21 08:33:22.206970,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,0.013999999999999999,0.0909,0.0769
+2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,0.013999999999999999,0.0909,0.0769
 2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Alexander Lacazette (Lyon),0.013999999999999999,0.0909,0.0769
-2024-10-21 09:29:18.116187,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.013899999999999996,0.125,0.1111
+2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Luton Town,0.013999999999999999,0.0909,0.0769
 2024-10-21 09:29:18.167032,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,0.013899999999999996,0.125,0.1111
 2024-10-21 10:34:47.671015,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lyon,0.013899999999999996,0.125,0.1111
+2024-10-21 09:29:18.116187,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.013899999999999996,0.125,0.1111
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,0.013899999999999996,0.125,0.1111
-2024-10-21 06:36:59.582495,AFC North - AFC North 2024/25 - AFC North Winner,Pittsburgh Steelers,0.0131,0.2353,0.2222
-2024-10-21 08:33:22.176257,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Tottenham Hotspur,0.0131,0.0476,0.0345
 2024-10-21 08:33:24.407426,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Penn State,0.0131,0.2353,0.2222
+2024-10-21 08:33:22.176257,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Tottenham Hotspur,0.0131,0.0476,0.0345
+2024-10-21 10:34:47.765235,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Henry Martin,0.012899999999999995,0.1667,0.1538
 2024-10-21 08:33:24.415984,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,0.012899999999999995,0.1667,0.1538
 2024-10-21 10:34:47.765235,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Georgios Giakoumakis,0.012899999999999995,0.1667,0.1538
-2024-10-21 10:34:47.765235,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Henry Martin,0.012899999999999995,0.1667,0.1538
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Gaby Lopez,0.0127,0.0152,0.0025
 2024-10-21 10:34:47.686647,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.012699999999999989,0.3636,0.3509
 2024-10-21 08:33:22.186961,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Jeremy Doku,0.012100000000000001,0.0244,0.0123
-2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Pajaree Anannarukarn,0.0119,0.0123,0.0004
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Nanna Koerstz Madsen,0.0119,0.0123,0.0004
+2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Pajaree Anannarukarn,0.0119,0.0123,0.0004
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Brooke Henderson,0.0114,0.0164,0.005
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Maja Stark,0.011300000000000001,0.0123,0.001
-2024-10-21 09:29:18.116187,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Sociedad,0.011199999999999995,0.0588,0.0476
-2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Nasa Hataoka,0.011199999999999995,0.0588,0.0476
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,0.011199999999999995,0.0588,0.0476
 2024-10-21 10:34:47.928291,J1 League - Japan J1 League 2024 - Winner,Machida Zelvia,0.011199999999999995,0.0588,0.0476
-2024-10-21 06:36:59.606870,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,0.011199999999999995,0.0435,0.0323
 2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Preston North End,0.011199999999999995,0.0588,0.0476
+2024-10-21 09:29:18.116187,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Sociedad,0.011199999999999995,0.0588,0.0476
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Angel Yin,0.011199999999999995,0.0435,0.0323
-2024-10-21 06:36:58.425765,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,0.011099999999999999,0.1111,0.1
+2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Nasa Hataoka,0.011199999999999995,0.0588,0.0476
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,0.011099999999999999,0.1111,0.1
-2024-10-21 08:33:22.406871,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.010899999999999993,0.1538,0.1429
 2024-10-21 08:33:22.194248,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Crystal Palace,0.010899999999999993,0.1538,0.1429
+2024-10-21 08:33:22.406871,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.010899999999999993,0.1538,0.1429
 2024-10-21 08:33:24.394322,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Virginia Tech,0.010700000000000001,0.0385,0.0278
 2024-10-21 18:34:49.465555,Average Points Per Game - Average Points Per Game - Joel Embiid (PHI) - PPG,Over 32.1,0.010699999999999932,0.5455,0.5348
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Albane Valenzuela,0.0106,0.011,0.0004
-2024-10-21 06:36:59.592198,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.010599999999999998,0.4651,0.4545
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Chanettee Wannasaen,0.010300000000000002,0.0244,0.0141
-2024-10-21 08:33:22.179662,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),0.0102,0.0769,0.0667
-2024-10-21 06:36:59.557488,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Minnesota Vikings,0.0102,0.0769,0.0667
-2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Coventry City,0.0102,0.0769,0.0667
-2024-10-21 06:36:59.567195,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Tampa Bay Buccaneers,0.0102,0.0769,0.0667
-2024-10-21 09:29:18.149954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.0102,0.0769,0.0667
 2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,0.0102,0.0769,0.0667
-2024-10-21 06:36:59.654181,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,0.010099999999999998,0.4545,0.4444
+2024-10-21 09:29:18.149954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.0102,0.0769,0.0667
+2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Coventry City,0.0102,0.0769,0.0667
+2024-10-21 08:33:22.179662,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),0.0102,0.0769,0.0667
 2024-10-21 08:33:22.194248,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.010099999999999998,0.4545,0.4444
-2024-10-21 09:29:20.721925,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,0.010099999999999998,0.4545,0.4444
 2024-10-21 10:34:47.769089,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Cruz Azul,0.010099999999999998,0.4545,0.4444
+2024-10-21 09:29:20.721925,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,0.010099999999999998,0.4545,0.4444
 2024-10-21 07:26:42.729007,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,-0.010099999999999998,0.4444,0.4545
 2024-10-21 08:33:22.183249,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Robert Sanchez,-0.010100000000000001,0.0244,0.0345
 2024-10-21 08:33:22.047784,Championship - England Championship 2024/25 - Top Goalscorer,Haji Wright,-0.0102,0.0667,0.0769
 2024-10-21 08:33:22.060719,Championship - England Championship 2024/25 - Top 2 Finish,Norwich City,-0.0102,0.0667,0.0769
-2024-10-21 08:33:22.179662,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Cole Palmer (Chelsea),-0.0102,0.0667,0.0769
-2024-10-21 06:36:59.557488,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Houston Texans,-0.0102,0.0667,0.0769
 2024-10-21 09:29:18.116187,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,-0.0102,0.0667,0.0769
+2024-10-21 08:33:22.179662,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Cole Palmer (Chelsea),-0.0102,0.0667,0.0769
 2024-10-21 08:33:24.394322,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Boston College,-0.0103,0.002,0.0123
 2024-10-21 09:29:20.675747,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes (KC),-0.010499999999999982,0.2,0.2105
-2024-10-21 06:36:59.592198,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,-0.010499999999999982,0.2,0.2105
 2024-10-21 10:34:47.765235,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,German Berterame,-0.010899999999999993,0.1429,0.1538
 2024-10-21 08:33:22.186961,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Cole Palmer,-0.010899999999999993,0.1429,0.1538
 2024-10-21 18:34:49.465555,Average Points Per Game - Average Points Per Game - Joel Embiid (PHI) - PPG,Under 32.1,-0.01100000000000001,0.5238,0.5348
-2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,-0.011099999999999999,0.1,0.1111
 2024-10-21 08:33:22.210155,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,-0.011099999999999999,0.1,0.1111
-2024-10-21 06:36:59.557488,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,San Francisco 49ers,-0.011099999999999999,0.1,0.1111
 2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Wellington Phoenix,-0.011099999999999999,0.1,0.1111
+2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,-0.011099999999999999,0.1,0.1111
 2024-10-21 08:33:22.216474,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Brentford,-0.011199999999999988,0.9412,0.9524
 2024-10-21 08:33:22.203816,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Arsenal,-0.011199999999999988,0.9412,0.9524
-2024-10-21 06:36:59.567195,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Dallas Cowboys,-0.011199999999999995,0.0476,0.0588
-2024-10-21 06:36:58.425765,NBL - Australia NBL 2024/25 - Regular Season League Winner,Perth Wildcats,-0.011199999999999995,0.0476,0.0588
-2024-10-21 10:34:47.668028,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Brest,-0.011199999999999995,0.0476,0.0588
-2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Hull City,-0.011199999999999995,0.0476,0.0588
-2024-10-21 08:33:22.047784,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.011199999999999995,0.0476,0.0588
-2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.011199999999999995,0.0476,0.0588
-2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.011199999999999995,0.0476,0.0588
+2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,-0.011199999999999995,0.0476,0.0588
 2024-10-21 09:29:18.160709,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Arthen Dovbyk (AS Roma),-0.011199999999999995,0.0476,0.0588
 2024-10-21 09:29:18.160709,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Valentin Castellanos (Lazio),-0.011199999999999995,0.0476,0.0588
-2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,-0.011199999999999995,0.0476,0.0588
+2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.011199999999999995,0.0476,0.0588
+2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.011199999999999995,0.0476,0.0588
+2024-10-21 08:33:22.047784,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.011199999999999995,0.0476,0.0588
+2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Hull City,-0.011199999999999995,0.0476,0.0588
+2024-10-21 10:34:47.668028,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Brest,-0.011199999999999995,0.0476,0.0588
 2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Arizona,-0.0119,0.0033,0.0152
 2024-10-21 09:29:18.160709,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Paulo Dybala (AS Roma),-0.012100000000000001,0.0123,0.0244
-2024-10-21 06:36:57.471062,Championship - England Championship 2024/25 - Winner,Leeds United,-0.012199999999999989,0.5,0.5122
 2024-10-21 10:34:47.689569,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,-0.012699999999999989,0.3509,0.3636
 2024-10-21 08:33:22.060719,Championship - England Championship 2024/25 - Top 2 Finish,Watford,-0.012700000000000003,0.0196,0.0323
 2024-10-21 08:33:22.526491,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,-0.012700000000000045,0.6364,0.6491
-2024-10-21 06:36:59.602029,AFC South - AFC South 2024/25 - AFC South Winner,Indianapolis Colts,-0.012899999999999995,0.1538,0.1667
 2024-10-21 10:34:47.864241,First Division A - Belgium First Division A 2024/25 - Outright,Royal Antwerp,-0.012899999999999995,0.1538,0.1667
 2024-10-21 14:30:40.959449,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; DEM House,-0.012899999999999995,0.1538,0.1667
-2024-10-21 06:36:59.616541,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,-0.012899999999999995,0.1538,0.1667
 2024-10-21 09:29:18.157644,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Lazio,-0.0131,0.0345,0.0476
 2024-10-21 09:29:18.149954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Wolfsburg,-0.0131,0.0345,0.0476
 2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Queens Park Rangers,-0.0131,0.0345,0.0476
-2024-10-21 09:29:18.140494,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,VfB Stuttgart,-0.0131,0.0345,0.0476
 2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Newcastle United Jets,-0.0131,0.0345,0.0476
+2024-10-21 09:29:18.140494,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,VfB Stuttgart,-0.0131,0.0345,0.0476
 2024-10-21 08:33:22.216474,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,-0.013799999999999923,0.6226,0.6364
 2024-10-21 08:33:22.183249,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Alisson,-0.013899999999999996,0.1111,0.125
 2024-10-21 08:33:22.179662,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),-0.013900000000000023,0.875,0.8889
-2024-10-21 09:29:18.143442,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Omar Marmoush (Eintracht Frankfurt),-0.013999999999999999,0.0769,0.0909
-2024-10-21 07:26:40.559027,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Bukayo Saka (Arsenal),-0.013999999999999999,0.0769,0.0909
-2024-10-21 08:33:22.213321,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,-0.013999999999999999,0.0769,0.0909
 2024-10-21 15:29:29.775879,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 35 - 64,-0.013999999999999999,0.0769,0.0909
-2024-10-21 09:29:18.143442,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Florian Wirtz (Bayer Leverkusen),-0.013999999999999999,0.0769,0.0909
-2024-10-21 10:34:47.671015,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,-0.013999999999999999,0.0769,0.0909
 2024-10-21 09:29:18.349959,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,-0.013999999999999999,0.0769,0.0909
-2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,-0.014099999999999994,0.0526,0.0667
-2024-10-21 06:36:59.567195,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,-0.014099999999999994,0.0526,0.0667
+2024-10-21 10:34:47.671015,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,-0.013999999999999999,0.0769,0.0909
+2024-10-21 07:26:40.559027,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Bukayo Saka (Arsenal),-0.013999999999999999,0.0769,0.0909
+2024-10-21 09:29:18.143442,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Florian Wirtz (Bayer Leverkusen),-0.013999999999999999,0.0769,0.0909
+2024-10-21 08:33:22.213321,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,-0.013999999999999999,0.0769,0.0909
+2024-10-21 09:29:18.143442,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Omar Marmoush (Eintracht Frankfurt),-0.013999999999999999,0.0769,0.0909
 2024-10-21 09:29:19.547636,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Chet Holmgren (OKC),-0.014099999999999994,0.0526,0.0667
-2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Freiburg,-0.014099999999999998,0.0244,0.0385
+2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,-0.014099999999999994,0.0526,0.0667
 2024-10-21 08:33:22.060719,Championship - England Championship 2024/25 - Top 2 Finish,Coventry City,-0.014099999999999998,0.0244,0.0385
+2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Freiburg,-0.014099999999999998,0.0244,0.0385
 2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Brisbane Roar,-0.014100000000000001,0.0385,0.0526
-2024-10-21 06:36:57.567269,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Chelsea,-0.014100000000000001,0.0385,0.0526
 2024-10-21 09:29:20.675747,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jayden Daniels (WAS),-0.014399999999999996,0.0625,0.0769
 2024-10-21 09:29:19.504204,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.01440000000000001,0.0909,0.1053
-2024-10-21 08:33:22.057580,Championship - England Championship 2024/25 - To Finish Bottom,Bristol City,-0.014499999999999999,0.0149,0.0294
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Sociedad,-0.014499999999999999,0.0149,0.0294
+2024-10-21 08:33:22.057580,Championship - England Championship 2024/25 - To Finish Bottom,Bristol City,-0.014499999999999999,0.0149,0.0294
 2024-10-21 09:29:18.160709,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Rafael Leao (AC Milan),-0.0145,0.0099,0.0244
 2024-10-21 10:34:47.668028,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Lyon,-0.0145,0.0099,0.0244
 2024-10-21 09:29:18.160709,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mehdi Taremi (Inter Milan),-0.0145,0.0099,0.0244
 2024-10-21 09:29:20.721925,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,-0.014800000000000035,0.6078,0.6226
-2024-10-21 06:36:59.654181,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,-0.014800000000000035,0.6078,0.6226
 2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Arnaud Kalimuendo (Rennes),-0.014900000000000004,0.0196,0.0345
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Peiyun Chien,-0.0151,0.0066,0.0217
-2024-10-21 06:36:59.587408,NFC East - NFC East 2024/25 - NFC East Winner,Dallas Cowboys,-0.015100000000000002,0.1667,0.1818
-2024-10-21 06:36:57.386009,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,-0.015100000000000002,0.8182,0.8333
 2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Demeco Ryans,-0.015300000000000001,0.0435,0.0588
 2024-10-21 09:29:18.157644,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AS Roma,-0.015300000000000001,0.0435,0.0588
 2024-10-21 08:33:22.206970,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester United,-0.015400000000000025,0.3846,0.4
@@ -341,114 +302,105 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 08:33:24.398769,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,North Texas,-0.0157,0.0278,0.0435
 2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jeff Ulbrich,-0.0159,0.0164,0.0323
 2024-10-21 08:33:22.186961,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Kevin de Bruyne,-0.016600000000000004,0.0667,0.0833
+2024-10-21 08:33:22.194248,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,-0.016699999999999993,0.25,0.2667
 2024-10-21 08:33:22.057580,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,-0.016699999999999993,0.25,0.2667
 2024-10-21 08:33:22.060719,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,-0.016699999999999993,0.25,0.2667
-2024-10-21 08:33:22.194248,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,-0.016699999999999993,0.25,0.2667
 2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Millwall,-0.016700000000000007,0.0833,0.1
 2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.01759999999999995,0.6491,0.6667
 2024-10-21 09:29:20.675747,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),C.J. Stroud (HOU),-0.01759999999999999,0.1,0.1176
-2024-10-21 09:29:20.697378,World Series MVP - World Series MVP  - World Series MVP,Freddie Freeman (LAD),-0.0177,0.0323,0.05
 2024-10-21 08:33:24.424772,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Arkansas,-0.0177,0.004,0.0217
+2024-10-21 09:29:20.697378,World Series MVP - World Series MVP  - World Series MVP,Freddie Freeman (LAD),-0.0177,0.0323,0.05
 2024-10-21 08:33:24.415984,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Central Michigan,-0.017800000000000003,0.0066,0.0244
 2024-10-21 10:34:47.668028,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Nantes,-0.0179,0.125,0.1429
-2024-10-21 09:29:18.140494,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Borussia Dortmund,-0.0179,0.125,0.1429
 2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Western Sydney Wanderers,-0.0179,0.125,0.1429
+2024-10-21 09:29:18.140494,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Borussia Dortmund,-0.0179,0.125,0.1429
 2024-10-21 10:34:47.919086,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Talleres,-0.0179,0.125,0.1429
-2024-10-21 06:36:57.394696,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,-0.017900000000000027,0.8571,0.875
+2024-10-21 10:34:47.900213,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,-0.018099999999999998,0.0588,0.0769
 2024-10-21 09:29:18.170061,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Torino,-0.018099999999999998,0.0588,0.0769
 2024-10-21 14:30:40.959449,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; REP House,-0.018099999999999998,0.0588,0.0769
 2024-10-21 09:29:18.160709,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Alvaro Morata (AC Milan),-0.018099999999999998,0.0345,0.0526
-2024-10-21 10:34:47.900213,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,-0.018099999999999998,0.0588,0.0769
-2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Jayden Stockley,-0.018200000000000004,0.0294,0.0476
 2024-10-21 10:34:47.769089,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,-0.018200000000000004,0.0294,0.0476
+2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Jayden Stockley,-0.018200000000000004,0.0294,0.0476
 2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Sheffield Wednesday,-0.018200000000000004,0.0294,0.0476
 2024-10-21 09:29:18.170061,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,-0.01820000000000002,0.1818,0.2
 2024-10-21 08:33:22.210155,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.01820000000000002,0.1818,0.2
 2024-10-21 16:33:59.295599,ZOZO Championship - ZOZO Championship - Winner,Xander Schauffele,-0.01820000000000002,0.1818,0.2
 2024-10-21 08:33:22.216474,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,West Ham United,-0.01849999999999996,0.9524,0.9709
 2024-10-21 08:33:24.429109,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Marshall,-0.018800000000000004,0.0526,0.0714
-2024-10-21 08:33:22.206970,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,-0.01880000000000004,0.5556,0.5744
 2024-10-21 10:34:47.680451,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,-0.01880000000000004,0.5556,0.5744
+2024-10-21 08:33:22.206970,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,-0.01880000000000004,0.5556,0.5744
 2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Edon Zhegrova (Lille),-0.0189,0.0196,0.0385
-2024-10-21 08:33:23.867322,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.018999999999999906,0.7143,0.7333
 2024-10-21 08:33:23.871124,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.018999999999999906,0.7143,0.7333
-2024-10-21 06:36:59.616541,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,-0.019000000000000017,0.2667,0.2857
+2024-10-21 08:33:23.867322,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.018999999999999906,0.7143,0.7333
 2024-10-21 09:29:18.149954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.019000000000000017,0.2667,0.2857
-2024-10-21 09:29:18.116187,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Girona,-0.019099999999999992,0.0476,0.0667
 2024-10-21 08:33:22.194248,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Bournemouth,-0.019099999999999992,0.0476,0.0667
-2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Union Berlin,-0.019099999999999992,0.0476,0.0667
 2024-10-21 09:29:18.357828,Serie B - Italy Serie B 2024/25 - To Be Promoted,Frosinone,-0.019099999999999992,0.0476,0.0667
 2024-10-21 08:33:22.194248,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Fulham,-0.019099999999999992,0.0476,0.0667
+2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Union Berlin,-0.019099999999999992,0.0476,0.0667
+2024-10-21 09:29:18.116187,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Girona,-0.019099999999999992,0.0476,0.0667
 2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.020100000000000007,0.2299,0.25
-2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,-0.02020000000000001,0.0909,0.1111
-2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,-0.02020000000000001,0.0909,0.1111
 2024-10-21 08:33:22.200681,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,-0.02020000000000001,0.0909,0.1111
-2024-10-21 09:29:18.140494,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Eintracht Frankfurt,-0.0203,0.0385,0.0588
+2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,-0.02020000000000001,0.0909,0.1111
+2024-10-21 08:33:22.110632,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,-0.02020000000000001,0.0909,0.1111
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Betis,-0.0203,0.0385,0.0588
-2024-10-21 08:33:24.394322,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Pittsburgh,-0.0203,0.0385,0.0588
-2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Watford,-0.0203,0.0385,0.0588
-2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Randal Muani (PSG),-0.0203,0.0385,0.0588
 2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.0203,0.0385,0.0588
+2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Randal Muani (PSG),-0.0203,0.0385,0.0588
+2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Watford,-0.0203,0.0385,0.0588
+2024-10-21 08:33:24.394322,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Pittsburgh,-0.0203,0.0385,0.0588
+2024-10-21 09:29:18.140494,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Eintracht Frankfurt,-0.0203,0.0385,0.0588
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Megan Khang,-0.0203,0.0323,0.0526
 2024-10-21 09:29:18.170061,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,-0.02100000000000002,0.3636,0.3846
 2024-10-21 08:33:24.420340,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,UNLV,-0.02100000000000002,0.3636,0.3846
-2024-10-21 08:33:22.526491,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.021999999999999964,0.2857,0.3077
 2024-10-21 10:34:47.671015,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,-0.021999999999999964,0.2857,0.3077
+2024-10-21 08:33:22.526491,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.021999999999999964,0.2857,0.3077
 2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Jonathan David (Lille),-0.021999999999999964,0.2857,0.3077
-2024-10-21 06:36:57.471062,Championship - England Championship 2024/25 - Winner,Burnley,-0.022199999999999998,0.1111,0.1333
 2024-10-21 09:29:19.551441,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Giannis Antetokounmpo (MIL),-0.02239999999999999,0.0952,0.1176
 2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Celta de Vigo,-0.02310000000000001,0.0769,0.1
 2024-10-21 09:29:20.675747,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy (SF),-0.0232,0.0435,0.0667
-2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Georges Mikautadze (Lyon),-0.023200000000000002,0.0244,0.0476
 2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Perth Glory,-0.023200000000000002,0.0294,0.0526
+2024-10-21 10:34:47.664804,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Georges Mikautadze (Lyon),-0.023200000000000002,0.0244,0.0476
 2024-10-21 15:29:29.889831,Electoral College Winner - Maine District 2 (ME CD2) - Maine Congressional District 2,Republican,-0.023399999999999976,0.8857,0.9091
+2024-10-21 07:26:40.559027,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Erling Haaland (Man City),-0.023799999999999988,0.3333,0.3571
 2024-10-21 09:29:18.357828,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,-0.023799999999999988,0.1429,0.1667
 2024-10-21 08:33:22.086426,League One - England League One 2024/25 - Top Goalscorer,Jay Stansfield,-0.023799999999999988,0.1429,0.1667
-2024-10-21 07:26:40.559027,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Erling Haaland (Man City),-0.023799999999999988,0.3333,0.3571
 2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Swansea City,-0.023899999999999998,0.0196,0.0435
-2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Borussia Mönchengladbach,-0.0242,0.0667,0.0909
 2024-10-21 08:33:22.206970,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,West Ham United,-0.0242,0.0667,0.0909
+2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Borussia Mönchengladbach,-0.0242,0.0667,0.0909
 2024-10-21 09:29:18.167032,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Parma,-0.024999999999999994,0.1,0.125
 2024-10-21 09:29:18.146884,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Hoffenheim,-0.024999999999999994,0.1,0.125
 2024-10-21 10:34:47.900213,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Viking FK,-0.0254,0.004,0.0294
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.025499999999999967,0.4,0.4255
 2024-10-21 09:29:19.515624,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),-0.025599999999999956,0.6296,0.6552
-2024-10-21 09:29:18.119016,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.02560000000000001,0.3077,0.3333
 2024-10-21 09:29:18.149954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,-0.02560000000000001,0.3077,0.3333
+2024-10-21 09:29:18.119016,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.02560000000000001,0.3077,0.3333
 2024-10-21 10:34:47.661770,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,-0.025600000000000067,0.6667,0.6923
 2024-10-21 08:33:24.398769,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,East Carolina,-0.0257,0.0066,0.0323
 2024-10-21 10:34:47.769089,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Pumas UNAM,-0.026499999999999996,0.0323,0.0588
 2024-10-21 10:34:47.689569,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,-0.026800000000000046,0.6875,0.7143
-2024-10-21 09:29:19.551441,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Joel Embiid (PHI),-0.02779999999999999,0.2222,0.25
 2024-10-21 08:33:22.441199,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.02779999999999999,0.2222,0.25
+2024-10-21 09:29:19.551441,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Joel Embiid (PHI),-0.02779999999999999,0.2222,0.25
 2024-10-21 10:34:47.689569,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.027800000000000047,0.75,0.7778
 2024-10-21 09:29:20.679845,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,-0.027999999999999997,0.0345,0.0625
-2024-10-21 06:36:58.425765,NBL - Australia NBL 2024/25 - Regular Season League Winner,Tasmania JackJumpers,-0.028000000000000004,0.0196,0.0476
 2024-10-21 18:34:50.014262,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Norman Powell (LAC),-0.028199999999999996,0.0385,0.0667
-2024-10-21 06:36:59.562342,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Houston Texans,-0.028799999999999992,0.125,0.1538
-2024-10-21 06:36:58.422681,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,-0.029299999999999993,0.0476,0.0769
 2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.029299999999999993,0.0476,0.0769
 2024-10-21 10:34:47.895593,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,AZ Alkmaar,-0.0294,0.0294,0.0588
 2024-10-21 08:33:22.206970,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,-0.029900000000000038,0.7701,0.8
-2024-10-21 11:25:22.701481,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,-0.030299999999999994,0.6364,0.6667
 2024-10-21 08:33:22.213321,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.030299999999999994,0.6364,0.6667
+2024-10-21 11:25:22.701481,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,-0.030299999999999994,0.6364,0.6667
 2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Texas Tech,-0.030699999999999998,0.0526,0.0833
-2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,-0.031799999999999995,0.1111,0.1429
 2024-10-21 08:33:22.051295,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.031799999999999995,0.1111,0.1429
+2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,-0.031799999999999995,0.1111,0.1429
 2024-10-21 10:34:49.878920,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,Not before 2027,-0.03180000000000005,0.8571,0.8889
-2024-10-21 09:29:18.143442,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Lois Openda (RB Leipzig),-0.0321,0.0588,0.0909
-2024-10-21 06:36:58.422681,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,-0.0321,0.0588,0.0909
-2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Bristol City,-0.0321,0.0588,0.0909
 2024-10-21 09:29:18.143442,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),-0.0321,0.0588,0.0909
+2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Bristol City,-0.0321,0.0588,0.0909
+2024-10-21 09:29:18.143442,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Lois Openda (RB Leipzig),-0.0321,0.0588,0.0909
 2024-10-21 09:29:19.559031,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Steals Per Game Leader,LaMelo Ball (CHA),-0.03270000000000001,0.0625,0.0952
 2024-10-21 18:34:51.343331,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Home Runs in the World Series - Shohei Ohtani v Aaron Judge,Aaron Judge (NYY),-0.033299999999999996,0.5122,0.5455
 2024-10-21 09:29:18.143442,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Victor Boniface (Bayer Leverkusen),-0.03330000000000001,0.0667,0.1
-2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Central Coast Mariners,-0.033300000000000024,0.1667,0.2
 2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.033300000000000024,0.1667,0.2
+2024-10-21 10:34:47.755680,A-League - Australia A-League 2024/25 - Grand Final Winner,Central Coast Mariners,-0.033300000000000024,0.1667,0.2
 2024-10-21 08:33:24.394322,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,SMU,-0.033399999999999985,0.1333,0.1667
 2024-10-21 08:33:22.057580,Championship - England Championship 2024/25 - To Finish Bottom,Preston North End,-0.034100000000000005,0.0909,0.125
-2024-10-21 06:36:57.390359,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,-0.034100000000000005,0.0909,0.125
-2024-10-21 06:36:59.611777,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,-0.03480000000000005,0.5,0.5348
 2024-10-21 10:34:47.883041,Super League - Greece Super League 2024/25 - Winner,AEK Athens,-0.03570000000000001,0.25,0.2857
 2024-10-21 14:30:40.959449,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; DEM Senate; DEM House,-0.03889999999999999,0.1429,0.1818
 2024-10-21 08:33:22.063840,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,-0.03889999999999999,0.1429,0.1818
@@ -463,10 +415,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,West Virginia,-0.0465,0.0123,0.0588
 2024-10-21 18:34:51.335805,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits in the World Series - Shohei Ohtani v Aaron Judge,Aaron Judge (NYY),-0.04700000000000004,0.4878,0.5348
 2024-10-21 08:33:24.449840,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.04700000000000004,0.4878,0.5348
-2024-10-21 06:36:57.567269,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.047599999999999976,0.2857,0.3333
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,A Lim Kim,-0.048799999999999996,0.0179,0.0667
 2024-10-21 08:33:24.394322,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Louisville,-0.0489,0.0099,0.0588
-2024-10-21 06:36:58.422681,NBL - Australia NBL 2024/25 - Outright,Melbourne United,-0.04999999999999999,0.2,0.25
 2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Arizona State,-0.0502,0.0123,0.0625
 2024-10-21 09:29:18.122353,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,-0.05070000000000002,0.4255,0.4762
 2024-10-21 09:29:18.164002,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,-0.05130000000000001,0.3333,0.3846
@@ -476,8 +426,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 08:33:24.415984,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Buffalo,-0.056400000000000006,0.0769,0.1333
 2024-10-21 10:34:47.668028,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,AJ Auxerre,-0.05679999999999999,0.125,0.1818
 2024-10-21 08:33:24.403083,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Utah,-0.056799999999999996,0.0099,0.0667
-2024-10-21 08:33:22.057580,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,-0.05710000000000001,0.1429,0.2
 2024-10-21 09:29:18.125294,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Girona,-0.05710000000000001,0.1429,0.2
+2024-10-21 08:33:22.057580,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,-0.05710000000000001,0.1429,0.2
 2024-10-21 18:34:51.339590,"MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits, Runs, RBIs in the World Series - Shohei Ohtani v Aaron Judge",Aaron Judge (NYY),-0.057699999999999974,0.4878,0.5455
 2024-10-21 10:34:47.900213,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Molde FK,-0.06269999999999999,0.004,0.0667
 2024-10-21 08:33:22.213321,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,-0.06659999999999999,0.6667,0.7333
@@ -489,7 +439,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 08:33:22.054453,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.07619999999999999,0.4,0.4762
 2024-10-21 08:33:22.200681,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,-0.07790000000000008,0.6364,0.7143
 2024-10-21 14:30:40.950709,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.08340000000000003,0.3333,0.4167
-2024-10-21 06:36:58.425765,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,-0.08359999999999998,0.2105,0.2941
 2024-10-21 09:29:18.170061,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,-0.0857,0.2,0.2857
 2024-10-21 08:33:22.173138,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,-0.0917,0.2857,0.3774
 2024-10-21 08:33:24.415984,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Northern Illinois,-0.095,0.0588,0.1538
