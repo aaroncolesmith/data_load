@@ -4,12 +4,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 03:00:28.385315,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,0.0952,0.2857,0.1905
 2024-10-21 04:31:35.853901,AFC East - AFC East 2024/25 - AFC East Winner,Buffalo Bills,0.08550000000000002,0.875,0.7895
 2024-10-21 04:31:34.711741,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),California,0.07859999999999999,0.0909,0.0123
+2024-10-21 04:31:34.727871,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,0.0625,0.3125,0.25
 2024-10-20 18:32:00.033800,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.05059999999999998,0.5744,0.5238
 2024-10-21 03:00:28.364547,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,0.05049999999999999,0.2105,0.16
 2024-10-21 03:00:28.369350,AFC South - AFC South 2024/25 - AFC South Winner,Indianapolis Colts,0.04909999999999999,0.1667,0.1176
 2024-10-21 04:31:35.817439,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.047599999999999976,0.3333,0.2857
 2024-10-20 23:26:14.995242,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.04040000000000002,0.2222,0.1818
 2024-10-21 03:36:12.570016,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,A.J. Storr (Kansas),0.038099999999999995,0.0625,0.0244
+2024-10-21 04:31:34.719846,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,0.0363,0.303,0.2667
 2024-10-21 03:36:13.036392,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 20.5,0.03610000000000002,0.5917,0.5556
 2024-10-20 22:29:17.811813,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,No,0.03600000000000003,0.5238,0.4878
 2024-10-20 23:26:14.995242,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,0.030299999999999994,0.3636,0.3333
@@ -20,23 +22,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 03:36:13.032983,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 17.5,0.02560000000000001,0.3704,0.3448
 2024-10-21 04:31:35.838738,AFC North - AFC North 2024/25 - AFC North Winner,Cincinnati Bengals,0.024999999999999994,0.125,0.1
 2024-10-21 01:55:45.841945,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,0.0245,0.0833,0.0588
+2024-10-21 04:31:34.727871,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Texas A&M,0.0245,0.0833,0.0588
 2024-10-21 04:31:34.715821,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,0.0242,0.0909,0.0667
 2024-10-21 03:36:13.039782,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 23.5,0.0232,0.7333,0.7101
 2024-10-21 03:00:27.273486,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),0.022199999999999998,0.2222,0.2
 2024-10-21 03:36:13.222479,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Harris to Win and Trump to accept the results and concede,0.02210000000000001,0.2326,0.2105
+2024-10-21 04:31:34.719846,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Kansas,0.021999999999999964,0.3077,0.2857
 2024-10-21 03:36:12.892083,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 52.5,0.02169999999999994,0.5455,0.5238
 2024-10-21 03:00:28.359731,NFC East - NFC East 2024/25 - NFC East Winner,Philadelphia Eagles,0.020699999999999996,0.4651,0.4444
 2024-10-20 23:26:14.995242,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,0.02049999999999999,0.1538,0.1333
+2024-10-21 04:31:34.711741,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Duke,0.018900000000000028,0.4444,0.4255
 2024-10-20 20:25:51.496066,East Group B - East Group B Winner - East Group B Winner,Toronto Raptors,0.018800000000000004,0.0714,0.0526
 2024-10-21 04:31:35.822610,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.01820000000000002,0.2,0.1818
 2024-10-21 04:31:34.723862,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,0.01820000000000002,0.2,0.1818
-2024-10-21 03:36:12.965848,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,0.018100000000000005,0.4348,0.4167
+2024-10-21 04:31:34.715821,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.01820000000000002,0.2,0.1818
 2024-10-21 03:36:12.773730,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 51.5,0.018100000000000005,0.4348,0.4167
+2024-10-21 03:36:12.965848,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,0.018100000000000005,0.4348,0.4167
 2024-10-21 04:31:34.723862,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Villanova,0.018099999999999998,0.0526,0.0345
 2024-10-21 04:31:34.723862,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Xavier,0.0179,0.1429,0.125
 2024-10-21 03:36:12.887096,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 47.5,0.017299999999999982,0.4255,0.4082
-2024-10-21 03:36:12.962473,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 47.5,0.017299999999999982,0.5917,0.5744
 2024-10-21 03:36:12.767024,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 48.5,0.017299999999999982,0.5917,0.5744
+2024-10-21 03:36:12.962473,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 47.5,0.017299999999999982,0.5917,0.5744
 2024-10-21 04:31:34.711741,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Clemson,0.016600000000000004,0.0833,0.0667
 2024-10-21 03:00:28.364547,NFC North - NFC North 2024/25 - NFC North Winner,Chicago Bears,0.016600000000000004,0.0833,0.0667
 2024-10-21 04:31:34.715821,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Illinois,0.015899999999999997,0.1111,0.0952
@@ -51,10 +57,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 03:36:12.570016,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Ryan Nembhard (Gonzaga),0.0145,0.0244,0.0099
 2024-10-21 03:36:12.570016,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Coleman Hawkins (Kansas State),0.0141,0.0196,0.0055
 2024-10-21 04:31:35.822610,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Tampa Bay Buccaneers,0.014099999999999994,0.0667,0.0526
-2024-10-21 03:36:12.570016,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Liam McNeely (UConn),0.014000000000000002,0.0244,0.0104
 2024-10-21 04:31:34.733162,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Tyrese Proctor (Duke),0.014000000000000002,0.0244,0.0104
-2024-10-21 04:31:35.822610,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Green Bay Packers,0.013899999999999996,0.125,0.1111
+2024-10-21 03:36:12.570016,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Liam McNeely (UConn),0.014000000000000002,0.0244,0.0104
 2024-10-21 04:31:35.822610,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.013899999999999996,0.125,0.1111
+2024-10-21 04:31:35.822610,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Green Bay Packers,0.013899999999999996,0.125,0.1111
 2024-10-21 03:36:12.770399,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 45.5,0.013899999999999912,0.7917,0.7778
 2024-10-21 03:36:12.895454,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 55.5,0.013800000000000034,0.3774,0.3636
 2024-10-21 04:31:34.715821,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Northwestern,0.012599999999999998,0.0278,0.0152
@@ -66,6 +72,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 03:36:12.570016,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Pop Isaacs (Creighton),0.0112,0.0152,0.004
 2024-10-21 04:31:35.822610,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Dallas Cowboys,0.011199999999999995,0.0588,0.0476
 2024-10-20 23:26:14.971238,WNBA Championship - WNBA Championship 2024 - Championship Winner,New York Liberty,0.011099999999999999,0.7333,0.7222
+2024-10-21 04:31:34.723862,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,0.010499999999999982,0.2105,0.2
 2024-10-21 03:36:12.883713,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 53.5,0.010300000000000087,0.7436,0.7333
 2024-10-21 04:31:34.711741,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Miami Florida,0.0102,0.0769,0.0667
 2024-10-21 03:00:27.273486,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,UCLA (W),0.0102,0.0769,0.0667
@@ -78,13 +85,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 03:36:12.969230,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 44.5,-0.01040000000000002,0.3175,0.3279
 2024-10-21 03:36:12.708297,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 35.5,-0.010599999999999998,0.4545,0.4651
 2024-10-21 03:36:12.883713,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 53.5,-0.010699999999999987,0.3226,0.3333
-2024-10-21 03:36:12.962473,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 47.5,-0.0116,0.4762,0.4878
 2024-10-21 03:36:12.767024,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 48.5,-0.0116,0.4762,0.4878
+2024-10-21 03:36:12.962473,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 47.5,-0.0116,0.4762,0.4878
 2024-10-21 03:36:12.880346,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 50.5,-0.012199999999999989,0.4878,0.5
 2024-10-21 03:36:12.887096,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 47.5,-0.012299999999999978,0.6429,0.6552
 2024-10-21 03:36:12.570016,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Hunter Sallis (Wake Forest),-0.012700000000000003,0.0196,0.0323
 2024-10-21 04:31:35.817439,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Denver Broncos,-0.012899999999999998,0.0149,0.0278
 2024-10-21 04:31:35.812329,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,San Francisco 49ers,-0.013899999999999996,0.1111,0.125
+2024-10-21 04:31:34.715821,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Indiana,-0.013899999999999996,0.1111,0.125
 2024-10-21 03:00:27.273486,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,NC State (W),-0.014099999999999998,0.0244,0.0385
 2024-10-21 04:31:34.711741,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Louisville,-0.014399999999999996,0.0625,0.0769
 2024-10-21 03:36:12.898821,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 49.5,-0.01479999999999998,0.3774,0.3922
@@ -96,8 +104,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 03:36:12.895454,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 55.5,-0.018399999999999972,0.6875,0.7059
 2024-10-20 20:25:51.496066,East Group B - East Group B Winner - East Group B Winner,Milwaukee Bucks,-0.018900000000000028,0.4255,0.4444
 2024-10-21 03:00:28.369350,AFC South - AFC South 2024/25 - AFC South Winner,Tennessee Titans,-0.019099999999999995,0.0244,0.0435
-2024-10-21 03:36:12.773730,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 51.5,-0.019499999999999962,0.6296,0.6491
 2024-10-21 03:36:12.965848,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 50.5,-0.019499999999999962,0.6296,0.6491
+2024-10-21 03:36:12.773730,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 51.5,-0.019499999999999962,0.6296,0.6491
 2024-10-21 03:00:27.273486,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Texas (W),-0.019699999999999995,0.1053,0.125
 2024-10-21 03:36:12.892083,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 52.5,-0.02169999999999994,0.5238,0.5455
 2024-10-21 03:36:13.222479,2024 Election Core - US Presidential Election 2024 - Election Specials - Presidential Election Winner / Concession,Harris to Win and Trump to not concede,-0.023799999999999932,0.8333,0.8571
