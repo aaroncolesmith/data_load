@@ -3,8 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",23 or more goals scored,0.21970000000000006,0.5833,0.3636
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",25 or more goals scored,0.2126,0.4348,0.2222
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",A total of 75 or more shots on target,0.2042,0.2667,0.0625
-2024-10-21 13:34:18.808243,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,UFC/MMA,0.19999999999999996,0.6,0.4
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Each team to score a goal in 4+ matches; Each team to take 4+ corners in 4+ matches,0.1969,0.3636,0.1667
+2024-10-22 01:54:15.047550,Copa do Brasil - Copa do Brasil 2024 - Winner,Flamengo,0.1946,0.6491,0.4545
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",27 or more goals scored,0.18269999999999997,0.3077,0.125
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",11 or more goals scored in 1st Half,0.16670000000000001,0.5,0.3333
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Both teams to score in 5+ matches,0.1666,0.3333,0.1667
@@ -26,14 +26,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",3+ goals in 5+ matches; 10+ corners in 5+ matches,0.09999999999999999,0.1667,0.0667
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",4 or more goals scored before 15:00,0.09090000000000004,0.4545,0.3636
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",5+ cards in 5+ matches,0.0905,0.1905,0.1
+2024-10-22 01:54:16.006049,NBL - Australia NBL 2024/25 - To Make Grand Final,Illawarra Hawks,0.08080000000000004,0.4444,0.3636
 2024-10-21 21:25:15.418215,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 55.5,0.07780000000000009,0.8,0.7222
 2024-10-21 21:25:15.415111,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 51.5,0.07619999999999993,0.6,0.5238
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Ruoning Yin,0.0759,0.0769,0.001
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Each team to score a goal in 5+ matches; Each team to take 4+ corners in 5+ matches,0.0756,0.1,0.0244
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",2 or more total red cards,0.07120000000000004,0.4348,0.3636
-2024-10-21 13:34:18.808243,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Epstein,0.066,0.1429,0.0769
+2024-10-22 01:54:15.076971,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Crystal Palace,0.06840000000000002,0.2222,0.1538
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Jin Young Ko,0.0657,0.0667,0.001
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",5 or more total penalties taken,0.0655,0.1905,0.125
+2024-10-22 01:54:16.006049,NBL - Australia NBL 2024/25 - To Make Grand Final,Adelaide 36ers,0.0635,0.2857,0.2222
 2024-10-21 14:30:40.959449,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,0.0595,0.4762,0.4167
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",6 or more goals scored before 15:00,0.05379999999999999,0.1538,0.1
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Ayaka Furue,0.0516,0.0526,0.001
@@ -42,15 +44,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Celine Boutier,0.0491,0.0769,0.0278
 2024-10-21 14:30:40.950709,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.0479,0.3509,0.303
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",3 or more total red cards,0.04620000000000002,0.2,0.1538
+2024-10-22 01:54:15.047550,Copa do Brasil - Copa do Brasil 2024 - Winner,Atlético Mineiro,0.04460000000000003,0.4082,0.3636
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",10+ corners in 5+ matches; 5+ cards in 5+ matches,0.0446,0.0625,0.0179
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",6 or more goals in at least 1 match,0.04290000000000005,0.6429,0.6
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Hannah Green,0.042199999999999994,0.0435,0.0013
 2024-10-21 15:29:29.775879,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,0.04099999999999998,0.3077,0.2667
 2024-10-21 18:34:51.335805,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits in the World Series - Shohei Ohtani v Aaron Judge,Shohei Ohtani (LAD),0.03959999999999997,0.5744,0.5348
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",2 or more own goals,0.03950000000000001,0.25,0.2105
+2024-10-22 01:54:16.002314,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,0.03710000000000002,0.3448,0.3077
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",2 or more total penalties missed,0.03670000000000001,0.1905,0.1538
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Any match to have 2 or more penalties taken,0.03640000000000004,0.4,0.3636
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",1 or more own goals,0.03610000000000002,0.5917,0.5556
+2024-10-22 01:54:14.992629,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Lyngby BK,0.03600000000000003,0.5238,0.4878
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",1 or more total penalties missed,0.03480000000000005,0.5348,0.5
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Jenny Shin,0.034100000000000005,0.0345,0.0004
 2024-10-21 18:34:51.343331,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Home Runs in the World Series - Shohei Ohtani v Aaron Judge,Shohei Ohtani (LAD),0.03179999999999994,0.5556,0.5238
@@ -62,23 +67,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Linn Grant,0.026799999999999997,0.0278,0.001
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Allisen Corpuz,0.0265,0.0278,0.0013
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Any team to score 6 or more goals,0.02560000000000001,0.3333,0.3077
-2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Any player to score a Hat Trick,0.023799999999999988,0.5,0.4762
 2024-10-21 20:27:51.352293,Men's Basketball Tournament - Early Season Tournaments - 2024 Maui Invitational ,Auburn,0.023799999999999988,0.1667,0.1429
+2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Any player to score a Hat Trick,0.023799999999999988,0.5,0.4762
 2024-10-21 22:29:30.772798,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.022199999999999998,0.2222,0.2
+2024-10-22 01:54:15.999198,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.022199999999999998,0.2222,0.2
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",7 or more total penalties taken,0.021799999999999996,0.0435,0.0217
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",4 or more total red cards,0.0213,0.0769,0.0556
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",3 or more own goals,0.0208,0.0833,0.0625
+2024-10-22 01:54:14.989582,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,0.02020000000000001,0.1111,0.0909
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Esther Henseleit,0.0191,0.0196,0.0005
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",8 or more goals scored before 15:00,0.0189,0.0385,0.0196
+2024-10-22 01:54:14.992629,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,0.01820000000000002,0.2,0.1818
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Any team to score 5 or more goals,0.017299999999999982,0.5917,0.5744
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",3 or more total penalties missed,0.017099999999999997,0.0556,0.0385
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Hye Jin Choi,0.0168,0.0385,0.0217
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",36 or more goals scored,0.0156,0.0196,0.004
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Jennifer Kupcho,0.0156,0.0196,0.004
-2024-10-21 23:27:22.320349,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,0.014800000000000035,0.6226,0.6078
 2024-10-21 21:25:16.364579,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,0.014800000000000035,0.6226,0.6078
+2024-10-21 23:27:22.320349,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,0.014800000000000035,0.6226,0.6078
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Ariya Jutanugarn,0.014599999999999998,0.0179,0.0033
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Patty Tavatanakit,0.0142,0.0152,0.001
+2024-10-22 01:54:14.774952,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.0131,0.2353,0.2222
+2024-10-22 01:54:15.076971,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Southampton,0.012899999999999912,0.8462,0.8333
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Gaby Lopez,0.0127,0.0152,0.0025
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Nanna Koerstz Madsen,0.0119,0.0123,0.0004
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Pajaree Anannarukarn,0.0119,0.0123,0.0004
@@ -89,26 +99,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 18:34:49.465555,Average Points Per Game - Average Points Per Game - Joel Embiid (PHI) - PPG,Over 32.1,0.010699999999999932,0.5455,0.5348
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Albane Valenzuela,0.0106,0.011,0.0004
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Chanettee Wannasaen,0.010300000000000002,0.0244,0.0141
+2024-10-22 01:54:16.002314,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,-0.010099999999999998,0.4444,0.4545
 2024-10-21 23:27:22.320349,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.010099999999999998,0.4444,0.4545
 2024-10-21 21:25:16.364579,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,-0.010099999999999998,0.4444,0.4545
-2024-10-21 20:27:51.349068,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Providence,-0.0102,0.0667,0.0769
+2024-10-22 01:54:15.080111,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Liverpool,-0.010199999999999987,0.9231,0.9333
 2024-10-21 20:27:51.349068,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Oklahoma,-0.0102,0.0667,0.0769
+2024-10-21 20:27:51.349068,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Providence,-0.0102,0.0667,0.0769
+2024-10-22 01:54:16.010877,Liga ACB - Spain Liga ACB 2024/25 - Outright,Barcelona,-0.010699999999999987,0.3226,0.3333
+2024-10-22 01:54:15.999198,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,-0.010899999999999993,0.1429,0.1538
 2024-10-21 18:34:49.465555,Average Points Per Game - Average Points Per Game - Joel Embiid (PHI) - PPG,Under 32.1,-0.01100000000000001,0.5238,0.5348
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Paris SG to score more goals than any other team,-0.012299999999999991,0.1053,0.1176
+2024-10-22 01:54:15.999198,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.012699999999999989,0.3509,0.3636
 2024-10-21 14:30:40.959449,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; DEM House,-0.012899999999999995,0.1538,0.1667
-2024-10-21 20:27:51.352293,Men's Basketball Tournament - Early Season Tournaments - 2024 Maui Invitational ,Colorado,-0.0131,0.0345,0.0476
 2024-10-21 20:27:51.352293,Men's Basketball Tournament - Early Season Tournaments - 2024 Maui Invitational ,Dayton,-0.0131,0.0345,0.0476
+2024-10-21 20:27:51.352293,Men's Basketball Tournament - Early Season Tournaments - 2024 Maui Invitational ,Colorado,-0.0131,0.0345,0.0476
+2024-10-22 01:54:14.746734,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.013799999999999923,0.6226,0.6364
+2024-10-22 01:54:15.076971,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Nottingham Forest,-0.013999999999999999,0.0769,0.0909
+2024-10-22 01:54:15.076971,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,-0.013999999999999999,0.0769,0.0909
 2024-10-21 15:29:29.775879,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 35 - 64,-0.013999999999999999,0.0769,0.0909
+2024-10-22 01:54:15.080111,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,-0.01469999999999999,0.2353,0.25
+2024-10-22 01:54:16.006049,NBL - Australia NBL 2024/25 - To Make Grand Final,Cairns Taipans,-0.014899999999999997,0.0476,0.0625
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Peiyun Chien,-0.0151,0.0066,0.0217
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Arsenal to score more goals than any other team,-0.016699999999999993,0.25,0.2667
 2024-10-21 14:30:40.959449,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; REP House,-0.018099999999999998,0.0588,0.0769
 2024-10-21 16:33:59.295599,ZOZO Championship - ZOZO Championship - Winner,Xander Schauffele,-0.01820000000000002,0.1818,0.2
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Each match to have 4 or more corners taken in each half,-0.019099999999999995,0.0244,0.0435
+2024-10-22 01:54:14.989582,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.02020000000000001,0.0909,0.1111
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,Megan Khang,-0.0203,0.0323,0.0526
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Each team to take 3 or more corners,-0.02049999999999999,0.1333,0.1538
 2024-10-21 20:27:51.349068,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Arizona,-0.020799999999999985,0.3125,0.3333
+2024-10-22 01:54:16.002314,NBL - Australia NBL 2024/25 - Regular Season League Winner,Perth Wildcats,-0.023200000000000002,0.0244,0.0476
 2024-10-21 15:29:29.889831,Electoral College Winner - Maine District 2 (ME CD2) - Maine Congressional District 2,Republican,-0.023399999999999976,0.8857,0.9091
+2024-10-22 01:54:14.774952,Serie A - Italy Serie A 2024/25 - Winner,Juventus,-0.023799999999999988,0.1429,0.1667
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Each team to take 2 or more corners,-0.023799999999999988,0.4762,0.5
+2024-10-22 01:54:15.076971,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,-0.023800000000000043,0.5,0.5238
 2024-10-21 22:29:30.772798,Euro Cup - Euro Cup 2024/25 - Outright,Joventut Badalona,-0.0242,0.0667,0.0909
 2024-10-21 18:34:50.014262,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Norman Powell (LAC),-0.028199999999999996,0.0385,0.0667
 2024-10-21 21:25:16.368442,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,-0.02859999999999996,0.6078,0.6364
@@ -116,15 +140,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-21 14:30:40.959449,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; DEM Senate; DEM House,-0.03889999999999999,0.1429,0.1818
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Each Match to have 1 or more Cards in each half and 2 or more corners in each half,-0.04169999999999999,0.125,0.1667
 2024-10-21 15:29:29.775879,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,-0.04269999999999999,0.1111,0.1538
+2024-10-22 01:54:16.006049,NBL - Australia NBL 2024/25 - To Make Grand Final,Tasmania JackJumpers,-0.04269999999999999,0.1111,0.1538
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",3+ goals scored in each match,-0.04440000000000001,0.0667,0.1111
 2024-10-21 20:27:51.352293,Men's Basketball Tournament - Early Season Tournaments - 2024 Maui Invitational ,Connecticut,-0.045499999999999985,0.4545,0.5
 2024-10-21 18:34:51.335805,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits in the World Series - Shohei Ohtani v Aaron Judge,Aaron Judge (NYY),-0.04700000000000004,0.4878,0.5348
 2024-10-21 14:30:41.715951,Maybank Championship - Maybank Championship - Winner,A Lim Kim,-0.048799999999999996,0.0179,0.0667
+2024-10-22 01:54:14.992629,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,SønderjyskE,-0.053100000000000036,0.3636,0.4167
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Each match to have 1 or more cards in each half,-0.05350000000000002,0.1818,0.2353
 2024-10-21 18:34:51.339590,"MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits, Runs, RBIs in the World Series - Shohei Ohtani v Aaron Judge",Aaron Judge (NYY),-0.057699999999999974,0.4878,0.5455
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Each match to have 3 or more corners taken in each half,-0.0595,0.1905,0.25
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Each match to have 2 or more corners taken in each half,-0.059599999999999986,0.5833,0.6429
+2024-10-22 01:54:14.989582,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.05980000000000002,0.3846,0.4444
 2024-10-21 20:27:50.443342,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 22nd October - UEFA Champions League Specials - Tuesday, 22nd October",Under 13.5 goals scored,-0.06770000000000001,0.0323,0.1
+2024-10-22 01:54:16.006049,NBL - Australia NBL 2024/25 - To Make Grand Final,Perth Wildcats,-0.07500000000000001,0.125,0.2
 2024-10-21 21:25:15.418215,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 55.5,-0.0781,0.2667,0.3448
 2024-10-21 14:30:40.950709,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.08340000000000003,0.3333,0.4167
 2024-10-21 21:25:15.415111,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 51.5,-0.09099999999999997,0.4545,0.5455
