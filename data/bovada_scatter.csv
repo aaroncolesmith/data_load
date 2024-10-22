@@ -8,8 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-22 09:28:02.591680,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Derrick Henry (BAL),0.09999999999999998,0.5,0.4
 2024-10-22 15:28:31.685959,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 27.5,0.08340000000000003,0.4167,0.3333
 2024-10-22 09:28:02.587303,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),0.07069999999999999,0.1818,0.1111
-2024-10-22 16:33:48.773280,MLS - USA MLS 2024 - Futures - To Reach the Final,Los Angeles FC,0.06659999999999999,0.3333,0.2667
 2024-10-22 08:32:38.550951,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,0.06659999999999999,0.3333,0.2667
+2024-10-22 16:33:48.773280,MLS - USA MLS 2024 - Futures - To Reach the Final,Los Angeles FC,0.06659999999999999,0.3333,0.2667
 2024-10-22 08:32:38.509913,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,0.055800000000000016,0.2857,0.2299
 2024-10-22 14:30:21.815218,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 53.5,0.05520000000000003,0.4,0.3448
 2024-10-22 15:28:31.628730,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 26.5,0.052800000000000014,0.3125,0.2597
@@ -17,10 +17,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-22 08:32:38.784924,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,0.044499999999999984,0.2667,0.2222
 2024-10-22 08:32:38.550951,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,0.043200000000000016,0.3509,0.3077
 2024-10-22 16:33:51.923354,Senior Italian Open - Senior Italian Open - Winner,Andrew Marshall,0.04229999999999999,0.0667,0.0244
+2024-10-22 17:27:55.687139,MLB World Series Specials - World Series Specials - 2024 World Series Specials,Any Player to Hit a 470ft+ Home Run in the World Series,0.04229999999999999,0.0667,0.0244
 2024-10-22 16:33:51.923354,Senior Italian Open - Senior Italian Open - Winner,Adilson Da Silva,0.04169999999999999,0.1667,0.125
 2024-10-22 09:28:02.587303,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Maxx Crosby (LV),0.038299999999999994,0.0909,0.0526
 2024-10-22 14:30:21.811345,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 59.5,0.037900000000000045,0.6296,0.5917
 2024-10-22 15:28:31.589215,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 32.5,0.03689999999999999,0.3226,0.2857
+2024-10-22 17:27:55.656018,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Home Runs in the World Series - Shohei Ohtani v Aaron Judge,Shohei Ohtani (LAD),0.03610000000000002,0.5917,0.5556
 2024-10-22 15:28:31.221919,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,0.03489999999999999,0.5,0.4651
 2024-10-22 15:28:31.209121,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,Yes,0.03480000000000005,0.5348,0.5
 2024-10-22 15:28:30.079560,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.03420000000000001,0.1111,0.0769
@@ -31,15 +33,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-22 09:28:02.587303,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Xavier McKinney (GB),0.028199999999999996,0.0667,0.0385
 2024-10-22 05:29:57.002998,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.027800000000000047,0.7778,0.75
 2024-10-22 10:30:43.289732,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Mookie Betts (LAD),0.027500000000000024,0.3846,0.3571
+2024-10-22 17:27:55.652408,"MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits, Runs, RBIs in the World Series - Shohei Ohtani v Aaron Judge",Shohei Ohtani (LAD),0.025599999999999956,0.6,0.5744
+2024-10-22 17:27:55.648776,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits in the World Series - Shohei Ohtani v Aaron Judge,Shohei Ohtani (LAD),0.025599999999999956,0.6,0.5744
 2024-10-22 08:32:38.905234,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,0.025000000000000022,0.9,0.875
 2024-10-22 14:30:21.807384,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 56.5,0.024399999999999977,0.5122,0.4878
 2024-10-22 05:29:56.970106,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,0.024299999999999995,0.0769,0.0526
 2024-10-22 08:32:38.553948,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,0.0242,0.0909,0.0667
 2024-10-22 14:30:23.102900,Tournament Match-Ups - Tournament Match-Up - J. Vegas vs M. Homa - Tournament Match-Up,Jhonattan Vegas,0.023800000000000043,0.5238,0.5
-2024-10-22 05:29:56.116983,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 47.5,0.023799999999999988,0.5,0.4762
-2024-10-22 11:22:47.468977,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,0.023799999999999988,0.5,0.4762
 2024-10-22 08:32:38.550951,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.023799999999999988,0.5,0.4762
+2024-10-22 11:22:47.468977,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,0.023799999999999988,0.5,0.4762
 2024-10-22 08:32:38.550951,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,0.023799999999999988,0.1667,0.1429
+2024-10-22 05:29:56.116983,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 47.5,0.023799999999999988,0.5,0.4762
 2024-10-22 15:28:31.750099,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 40.5,0.02100000000000002,0.3846,0.3636
 2024-10-22 15:28:31.166381,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,0.02030000000000004,0.3774,0.3571
 2024-10-22 08:32:38.553948,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,0.02020000000000001,0.1111,0.0909
@@ -47,8 +51,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-22 05:29:56.970106,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.01999999999999999,0.2105,0.1905
 2024-10-22 15:28:30.618257,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Philadelphia 76ers vs Oklahoma City Thunder,0.019099999999999992,0.0667,0.0476
 2024-10-22 05:29:57.037024,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,0.019000000000000017,0.2857,0.2667
-2024-10-22 08:32:38.908311,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,0.01880000000000004,0.5744,0.5556
 2024-10-22 14:30:23.125498,Tournament Match-Ups - Tournament Match-Up - S.W. Kim vs W. Zalatoris - Tournament Match-Up,Si Woo Kim,0.01880000000000004,0.5744,0.5556
+2024-10-22 08:32:38.908311,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,0.01880000000000004,0.5744,0.5556
 2024-10-22 08:32:38.908311,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Nottingham Forest,0.01849999999999996,0.9709,0.9524
 2024-10-22 16:33:51.923354,Senior Italian Open - Senior Italian Open - Winner,Van Phillips,0.0184,0.0217,0.0033
 2024-10-22 15:28:31.183540,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,Yes,0.0179,0.1429,0.125
@@ -75,15 +79,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-22 15:28:32.933670,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,0.010599999999999998,0.4651,0.4545
 2024-10-22 15:28:31.585755,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 35.5,0.010599999999999998,0.4651,0.4545
 2024-10-22 16:33:51.923354,Senior Italian Open - Senior Italian Open - Winner,Carl Suneson,0.0101,0.0141,0.004
-2024-10-22 15:28:31.200588,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,0.010099999999999998,0.1053,0.0952
 2024-10-22 15:28:31.707135,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 43.5,0.010099999999999998,0.5556,0.5455
+2024-10-22 15:28:31.200588,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,0.010099999999999998,0.1053,0.0952
 2024-10-22 15:28:31.230464,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,-0.010300000000000087,0.823,0.8333
 2024-10-22 15:28:31.213379,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,No,-0.010499999999999982,0.2,0.2105
+2024-10-22 17:27:55.747025,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.010599999999999998,0.4545,0.4651
 2024-10-22 08:32:41.367881,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.010599999999999998,0.4545,0.4651
 2024-10-22 16:33:51.923354,Senior Italian Open - Senior Italian Open - Winner,Emanuele Canonica,-0.010700000000000001,0.0278,0.0385
 2024-10-22 15:28:31.192032,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,Yes,-0.01090000000000002,0.8462,0.8571
-2024-10-22 15:28:31.743197,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 43.5,-0.01100000000000001,0.5238,0.5348
 2024-10-22 14:30:20.578323,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,-0.01100000000000001,0.5238,0.5348
+2024-10-22 15:28:31.743197,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 43.5,-0.01100000000000001,0.5238,0.5348
 2024-10-22 08:32:41.407706,ZOZO Championship - ZOZO Championship - Winner,Justin Thomas,-0.011199999999999995,0.0476,0.0588
 2024-10-22 05:29:57.027290,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,-0.011199999999999995,0.0323,0.0435
 2024-10-22 05:29:55.402551,Average Points Per Game - Average Points Per Game - Tyrese Maxey (PHI) - PPG,Over 25.5,-0.0116,0.4762,0.4878
@@ -105,17 +110,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-22 08:32:38.784924,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.021999999999999964,0.2857,0.3077
 2024-10-22 16:33:48.770228,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,-0.022199999999999998,0.2,0.2222
 2024-10-22 15:28:31.166381,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,-0.022599999999999953,0.6875,0.7101
+2024-10-22 17:27:55.648776,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits in the World Series - Shohei Ohtani v Aaron Judge,Aaron Judge (NYY),-0.022699999999999998,0.4651,0.4878
+2024-10-22 17:27:55.652408,"MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Hits, Runs, RBIs in the World Series - Shohei Ohtani v Aaron Judge",Aaron Judge (NYY),-0.022699999999999998,0.4651,0.4878
 2024-10-22 15:28:31.234716,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,Yes,-0.0232,0.9524,0.9756
 2024-10-22 15:28:31.750099,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 40.5,-0.023399999999999976,0.6825,0.7059
-2024-10-22 15:28:30.638801,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Minnesota Timberwolves,-0.023799999999999988,0.3175,0.3413
 2024-10-22 15:28:30.638801,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Denver Nuggets,-0.023799999999999988,0.3333,0.3571
+2024-10-22 15:28:30.638801,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Minnesota Timberwolves,-0.023799999999999988,0.3175,0.3413
 2024-10-22 14:30:23.125498,Tournament Match-Ups - Tournament Match-Up - S.W. Kim vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,-0.023800000000000043,0.5,0.5238
 2024-10-22 09:28:02.596115,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),-0.024,0.0385,0.0625
 2024-10-22 09:28:02.596115,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Malik Nabers (NYG),-0.0242,0.0667,0.0909
 2024-10-22 16:33:51.923354,Senior Italian Open - Senior Italian Open - Winner,James Kingston,-0.024299999999999995,0.0526,0.0769
 2024-10-22 08:32:38.550951,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,-0.02560000000000001,0.3077,0.3333
-2024-10-22 05:29:57.037024,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,-0.026499999999999968,0.5652,0.5917
 2024-10-22 05:29:56.116983,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 47.5,-0.026499999999999968,0.5652,0.5917
+2024-10-22 05:29:57.037024,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,-0.026499999999999968,0.5652,0.5917
 2024-10-22 09:28:02.596115,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Marvin Harrison Jr. (ARI),-0.026499999999999996,0.0323,0.0588
 2024-10-22 05:29:57.002998,AFC North - AFC North 2024/25 - AFC North Winner,Cincinnati Bengals,-0.0267,0.0909,0.1176
 2024-10-22 08:32:38.902145,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.027999999999999997,0.1538,0.1818
@@ -127,6 +134,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-22 05:29:56.970106,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Tampa Bay Buccaneers,-0.0334,0.0435,0.0769
 2024-10-22 15:28:31.640861,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 25.5,-0.03469999999999995,0.6875,0.7222
 2024-10-22 15:28:31.221919,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,-0.03479999999999994,0.5652,0.6
+2024-10-22 17:27:55.656018,MLB World Series Specials - MVP Matchup - Shohei Ohtani v Aaron Judge - Most Home Runs in the World Series - Shohei Ohtani v Aaron Judge,Aaron Judge (NYY),-0.035999999999999976,0.4762,0.5122
 2024-10-22 09:28:02.583419,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,-0.03670000000000001,0.1538,0.1905
 2024-10-22 15:28:31.589215,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 32.5,-0.038999999999999924,0.7436,0.7826
 2024-10-22 14:30:21.811345,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 59.5,-0.04139999999999999,0.4348,0.4762
