@@ -16,8 +16,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-23 03:32:54.297962,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Atalanta,0.04620000000000002,0.2,0.1538
 2024-10-23 01:52:28.952929,Championship - England Championship 2024/25 - Winner,Leeds United,0.045499999999999985,0.5455,0.5
 2024-10-23 03:32:54.289653,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,VfB Stuttgart,0.0427,0.0526,0.0099
-2024-10-23 03:32:54.297962,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,AC Milan,0.04120000000000001,0.1,0.0588
 2024-10-23 06:35:37.169455,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jayson Tatum (BOS),0.04120000000000001,0.1,0.0588
+2024-10-23 03:32:54.297962,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,AC Milan,0.04120000000000001,0.1,0.0588
 2024-10-23 03:32:54.286789,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Crvena Zvezda,0.04099999999999998,0.3077,0.2667
 2024-10-23 03:32:54.315226,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Monaco,0.03889999999999999,0.1818,0.1429
 2024-10-23 03:32:54.301792,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,AC Milan,0.0373,0.0667,0.0294
@@ -28,8 +28,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-23 02:56:11.389028,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bayern Munich,0.0348,0.4348,0.4
 2024-10-23 01:52:28.971919,League Two - England League Two 2024/25 - Winner,Walsall,0.033300000000000024,0.2,0.1667
 2024-10-23 03:32:54.289653,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Bayern Munich,0.030299999999999994,0.3636,0.3333
-2024-10-23 01:52:28.967233,League One - England League One 2024/25 - Winner,Birmingham City,0.027800000000000047,0.7778,0.75
 2024-10-23 03:32:54.315226,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Real Madrid,0.027800000000000047,0.7778,0.75
+2024-10-23 01:52:28.967233,League One - England League One 2024/25 - Winner,Birmingham City,0.027800000000000047,0.7778,0.75
 2024-10-23 03:32:54.301792,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Arsenal,0.02779999999999999,0.25,0.2222
 2024-10-23 02:56:11.385613,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,0.023800000000000043,0.5238,0.5
 2024-10-23 08:32:51.839376,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,0.023799999999999988,0.5,0.4762
@@ -57,28 +57,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-23 06:35:37.165819,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jayson Tatum (BOS),0.010899999999999993,0.1538,0.1429
 2024-10-23 01:52:30.787022,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,0.010599999999999998,0.4651,0.4545
 2024-10-23 10:31:50.533836,ZOZO Championship - ZOZO Championship - Winner,Sungjae Im,0.0102,0.0769,0.0667
-2024-10-23 04:31:03.388691,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Jeremie Frimpong (Bayer Leverkusen),0.010100000000000001,0.0345,0.0244
 2024-10-23 03:32:54.283249,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Viktor Gyokeres (Sporting),0.010100000000000001,0.0345,0.0244
+2024-10-23 04:31:03.388691,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Jeremie Frimpong (Bayer Leverkusen),0.010100000000000001,0.0345,0.0244
 2024-10-23 08:32:51.831277,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,0.010099999999999998,0.4545,0.4444
 2024-10-23 03:32:54.301792,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Paris Saint-Germain,-0.0102,0.0667,0.0769
 2024-10-23 06:35:36.876174,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Jalen Brunson (NYK),-0.0102,0.0667,0.0769
 2024-10-23 08:32:51.802357,Boxing Lines - Miyo Yoshida vs Shurretta Metcalf - To Win the Bout,Miyo Yoshida,-0.010699999999999987,0.3226,0.3333
 2024-10-23 03:32:54.292434,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - La Liga,Atlético Madrid,-0.010899999999999993,0.1429,0.1538
 2024-10-23 08:32:51.835330,Boxing Lines - Pat McCormack vs Williams Andres Herrera - To Win the Bout,Williams Andres Herrera,-0.011099999999999999,0.1,0.1111
+2024-10-23 13:32:23.589278,Boxing Lines - Edward Vazquez vs Kenneth Taylor - To Win the Bout,Kenneth Taylor,-0.011099999999999999,0.1,0.1111
 2024-10-23 10:31:50.954127,Genesis Championship - Genesis Championship - Winner,Byeong Hun An,-0.011099999999999999,0.1,0.1111
 2024-10-23 03:32:54.315226,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Celtic,-0.011199999999999995,0.0476,0.0588
 2024-10-23 06:35:36.831516,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.011199999999999995,0.0476,0.0588
 2024-10-23 02:56:11.385613,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,-0.011700000000000016,0.2105,0.2222
-2024-10-23 01:52:30.735754,Boxing Lines - Konrad Kaczmarkiewicz vs Khainell Wheeler - To Win the Bout,Konrad Kaczmarkiewicz,-0.012199999999999989,0.5,0.5122
 2024-10-23 09:27:56.124619,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.012199999999999989,0.4878,0.5
+2024-10-23 01:52:30.735754,Boxing Lines - Konrad Kaczmarkiewicz vs Khainell Wheeler - To Win the Bout,Konrad Kaczmarkiewicz,-0.012199999999999989,0.5,0.5122
 2024-10-23 03:32:54.315226,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayern Munich,-0.012700000000000045,0.6364,0.6491
 2024-10-23 03:32:54.315226,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bologna,-0.013,0.0066,0.0196
 2024-10-23 01:52:28.971919,League Two - England League Two 2024/25 - Winner,Gillingham,-0.0131,0.0345,0.0476
 2024-10-23 03:32:54.283249,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),-0.0131,0.2222,0.2353
 2024-10-23 10:31:50.954127,Genesis Championship - Genesis Championship - Winner,Tom Kim,-0.013899999999999996,0.1111,0.125
 2024-10-23 03:32:54.283249,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.013899999999999996,0.1111,0.125
-2024-10-23 06:35:36.872870,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Milwaukee Bucks,-0.013999999999999999,0.0769,0.0909
 2024-10-23 02:56:11.382867,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Bayern Munich,-0.013999999999999999,0.0769,0.0909
+2024-10-23 06:35:36.872870,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Milwaukee Bucks,-0.013999999999999999,0.0769,0.0909
 2024-10-23 03:32:54.315226,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Lille,-0.014099999999999994,0.0526,0.0667
 2024-10-23 01:52:28.967233,League One - England League One 2024/25 - Winner,Bolton Wanderers,-0.014099999999999994,0.0526,0.0667
 2024-10-23 02:56:11.382867,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Paris Saint-Germain,-0.0145,0.0099,0.0244
@@ -95,15 +96,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-23 02:56:11.389028,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Arsenal,-0.019000000000000017,0.2667,0.2857
 2024-10-23 01:52:28.971919,League Two - England League Two 2024/25 - Winner,Fleetwood Town,-0.019099999999999992,0.0476,0.0667
 2024-10-23 09:27:56.116544,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,-0.019699999999999995,0.4348,0.4545
-2024-10-23 08:32:51.814715,Boxing Lines - Dina Thorslund vs Terumi Nuki - To Win the Bout,Terumi Nuki,-0.02020000000000001,0.0909,0.1111
 2024-10-23 03:32:54.286789,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Dinamo Zagreb,-0.02020000000000001,0.0909,0.1111
+2024-10-23 08:32:51.814715,Boxing Lines - Dina Thorslund vs Terumi Nuki - To Win the Bout,Terumi Nuki,-0.02020000000000001,0.0909,0.1111
 2024-10-23 02:56:11.389028,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Lille,-0.02200000000000002,0.6923,0.7143
-2024-10-23 02:56:11.874071,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.022199999999999998,0.2,0.2222
 2024-10-23 02:56:11.382867,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Manchester City,-0.022199999999999998,0.2,0.2222
+2024-10-23 02:56:11.874071,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.022199999999999998,0.2,0.2222
 2024-10-23 03:32:54.286789,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Girona,-0.0228,0.0066,0.0294
 2024-10-23 02:56:11.382867,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Borussia Dortmund,-0.02310000000000001,0.0769,0.1
-2024-10-23 01:52:28.971919,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.023799999999999988,0.1429,0.1667
 2024-10-23 01:52:28.952929,Championship - England Championship 2024/25 - Winner,Sunderland,-0.023799999999999988,0.1429,0.1667
+2024-10-23 01:52:28.971919,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.023799999999999988,0.1429,0.1667
 2024-10-23 03:32:54.301792,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Borussia Dortmund,-0.0242,0.0667,0.0909
 2024-10-23 12:49:59.681088,Boxing Lines - Shervantaigh Koopman vs Brandon Cook - To Win the Bout,Brandon Cook,-0.024800000000000016,0.2105,0.2353
 2024-10-23 03:32:54.286789,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Young Boys,-0.024999999999999994,0.1,0.125
