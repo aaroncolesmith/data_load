@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Byeong Hun An,0.2762,0.4762,0.2
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Anderlecht,0.2699,0.5556,0.2857
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Ajax,0.26669999999999994,0.6667,0.4
 2024-10-25 08:32:33.208438,Copa Argentina - Copa Argentina 2024 - Winner,Central Córdoba,0.2571,0.4,0.1429
@@ -8,19 +9,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,FC Midtjylland,0.15910000000000002,0.25,0.0909
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Eintracht Frankfurt,0.13640000000000002,0.5,0.3636
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Bodø/Glimt,0.1129,0.2667,0.1538
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Fact-checking,0.11119999999999997,0.5556,0.4444
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Maja Stark,0.1089,0.1333,0.0244
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Tottenham Hotspur,0.09889999999999999,0.3846,0.2857
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Ruoning Yin,0.09849999999999999,0.1818,0.0833
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Tottenham Hotspur,0.09230000000000005,0.4,0.3077
+2024-10-25 11:23:01.050275,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Joey Graziadei,0.09090000000000004,0.4545,0.3636
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Lazio,0.0849,0.2667,0.1818
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Hye Jin Choi,0.08330000000000001,0.1111,0.0278
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Francesco Laporta,0.0821,0.1,0.0179
 2024-10-25 09:28:20.861703,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,Yes,0.0808000000000001,0.7778,0.697
 2024-10-25 09:28:20.823382,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,No,0.07929999999999998,0.3571,0.2778
 2024-10-25 10:32:17.648648,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Pied Piper,0.07789999999999997,0.3636,0.2857
 2024-10-25 10:32:17.648648,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Lord Farquaad,0.07789999999999997,0.3636,0.2857
 2024-10-25 07:26:47.393505,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Kevin Durant (PHX),0.07769999999999999,0.0909,0.0132
+2024-10-25 11:23:00.993065,Venom: The Last Dance - Venom: The Last Dance - Popcornmeter One Month After Release - Venom 3 Popcornmeter,89% or under,0.07710000000000006,0.6226,0.5455
 2024-10-25 08:32:33.630536,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,0.0771,0.4545,0.3774
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,JFK,0.07619999999999999,0.4762,0.4
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,UFO,0.07190000000000002,0.4167,0.3448
 2024-10-25 09:28:20.802149,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,Yes,0.06989999999999996,0.6154,0.5455
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Lyon,0.06789999999999996,0.5917,0.5238
 2024-10-25 09:28:20.793727,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,No,0.0676,0.2105,0.1429
 2024-10-25 05:31:14.484644,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.06670000000000001,0.2,0.1333
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Marina Alex,0.0634,0.0667,0.0033
 2024-10-25 04:33:04.620435,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.0629,0.1538,0.0909
 2024-10-25 09:28:20.853207,To Make the Playoffs - Orlando Magic 2024-25 - To Make the Playoffs,Yes,0.061000000000000054,0.9231,0.8621
 2024-10-25 07:26:47.075456,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Boston Celtics,0.059799999999999964,0.6154,0.5556
@@ -28,36 +39,55 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-25 06:35:38.361397,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),0.058599999999999985,0.1538,0.0952
 2024-10-25 07:26:46.620737,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Racing Club,0.057699999999999974,0.3077,0.25
 2024-10-25 08:32:33.208438,Copa Argentina - Copa Argentina 2024 - Winner,Vélez Sarsfield,0.05680000000000002,0.3509,0.2941
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Epstein,0.056400000000000006,0.9231,0.8667
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Declassify,0.05559999999999998,0.5,0.4444
 2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Chet Holmgren (OKC),0.053599999999999995,0.125,0.0714
 2024-10-25 04:33:04.596980,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,0.0527,0.2632,0.2105
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Na Rin An,0.0503,0.0667,0.0164
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Haeran Ryu,0.04999999999999999,0.25,0.2
 2024-10-25 06:35:38.416128,East Group B - East Group B Winner - East Group B Winner,Indiana Pacers,0.0494,0.3571,0.3077
 2024-10-25 07:26:47.503025,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 21.5,0.04849999999999999,0.5833,0.5348
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Tucker Carlson,0.047599999999999976,0.3333,0.2857
 2024-10-25 06:35:38.358101,NBA Championship - NBA Championship 2024-25 - First Time Winner,Yes,0.044800000000000006,0.2353,0.1905
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Rikuya Hoshino,0.044599999999999994,0.0769,0.0323
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Liar,0.044399999999999995,0.6,0.5556
 2024-10-25 08:32:33.074307,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Chelsea,0.04139999999999999,0.4762,0.4348
 2024-10-25 06:35:38.397368,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,0.04089999999999999,0.4255,0.3846
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Hulk Hogan,0.03889999999999999,0.1818,0.1429
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Johannes Veerman,0.0384,0.0769,0.0385
 2024-10-25 06:35:38.434685,West Group C - West Group C Winner - West Group C Winner,Memphis Grizzlies,0.038099999999999995,0.2381,0.2
 2024-10-25 06:35:38.430027,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,0.038099999999999995,0.2381,0.2
 2024-10-25 07:26:48.210222,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,0.03640000000000004,0.4,0.3636
 2024-10-25 08:32:32.962910,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.03640000000000004,0.4,0.3636
+2024-10-25 11:23:02.286015,Requested Specials - Requested Specials - Electoral College Parlay,"Trump wins Florida, Texas, Ohio and Harris wins New Jersey, Minnesota and New York",0.03620000000000001,0.8824,0.8462
 2024-10-25 07:26:47.393505,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jayson Tatum (BOS),0.036199999999999996,0.1538,0.1176
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Hollywood,0.03570000000000001,0.2857,0.25
+2024-10-25 11:23:02.520852,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Fred Warner (SF),0.035699999999999996,0.0833,0.0476
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Athletic Bilbao,0.035699999999999954,0.75,0.7143
 2024-10-24 23:25:35.252167,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Chelsea,0.0348,0.4348,0.4
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Wei Ling Hsu,0.0347,0.0526,0.0179
 2024-10-25 09:28:20.857435,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,0.0343,0.1176,0.0833
 2024-10-25 09:28:20.789470,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,No,0.03420000000000001,0.2564,0.2222
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Tottenham Hotspur,0.03410000000000002,0.9091,0.875
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Casey Jarvis,0.0334,0.0769,0.0435
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Athletic Bilbao,0.033300000000000024,0.2,0.1667
 2024-10-25 08:32:32.962910,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cuiabá,0.033299999999999996,0.9333,0.9
 2024-10-25 09:28:20.538922,Blackpink - Blackpink: Will Jisoo release a new solo song by the end of 2024? - Jisoo Special,Yes,0.033299999999999996,0.5455,0.5122
 2024-10-25 06:35:38.434685,West Group C - West Group C Winner - West Group C Winner,New Orleans Pelicans,0.03259999999999999,0.2326,0.2
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Marxist,0.031799999999999995,0.4762,0.4444
 2024-10-25 05:31:14.481215,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.03179999999999994,0.5556,0.5238
 2024-10-25 04:33:04.950131,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,0.03090000000000004,0.6226,0.5917
+2024-10-25 11:23:02.520852,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Nick Bosa (SF),0.030699999999999998,0.0833,0.0526
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Tool,0.030299999999999994,0.3636,0.3333
 2024-10-25 08:32:33.860693,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.029700000000000004,0.0476,0.0179
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Elon/Musk,0.029299999999999993,0.9524,0.9231
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,UFC/MMA,0.029299999999999993,0.9524,0.9231
 2024-10-25 07:26:48.122656,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,0.0286,0.1,0.0714
 2024-10-25 06:35:38.388083,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,0.028599999999999987,0.2667,0.2381
 2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Stephen Curry (GSW),0.02840000000000001,0.1053,0.0769
 2024-10-25 05:31:15.634471,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes (KC),0.027999999999999997,0.1818,0.1538
-2024-10-25 06:35:38.425398,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,0.02779999999999999,0.2778,0.25
 2024-10-25 06:35:38.430027,West Group B - West Group B Winner - West Group B Winner,Phoenix Suns,0.02779999999999999,0.2778,0.25
+2024-10-25 06:35:38.425398,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,0.02779999999999999,0.2778,0.25
 2024-10-25 09:28:20.503138,Wicked - Wicked - Part 1: Opening Weekend Box Office - Opening Weekend,Over $115 million,0.027700000000000058,0.5833,0.5556
 2024-10-25 04:33:04.615766,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,0.02750000000000008,0.6429,0.6154
 2024-10-25 09:28:20.827614,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,No,0.0257,0.2667,0.241
@@ -70,43 +100,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Olympiakos,0.0242,0.0909,0.0667
 2024-10-25 07:26:48.215084,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,0.023800000000000043,0.5238,0.5
 2024-10-25 09:28:20.199195,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Chelsea,0.023799999999999988,0.5,0.4762
-2024-10-25 08:32:33.222307,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,0.023799999999999988,0.1667,0.1429
 2024-10-25 06:35:38.425398,West Group A - West Group A Winner - West Group A Winner,L.A. Clippers,0.023799999999999988,0.1667,0.1429
-2024-10-25 08:32:33.860693,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Buddy Hield (GSW),0.023200000000000002,0.0526,0.0294
+2024-10-25 08:32:33.222307,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,0.023799999999999988,0.1667,0.1429
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Anderlecht,0.023200000000000002,0.0476,0.0244
+2024-10-25 08:32:33.860693,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Buddy Hield (GSW),0.023200000000000002,0.0526,0.0294
 2024-10-25 07:26:47.088260,Western Conference - Conference Seeding  - To Be #1 Seed,Phoenix Suns,0.0232,0.0667,0.0435
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Ajax,0.02310000000000001,0.1,0.0769
 2024-10-25 08:32:33.868012,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,0.02310000000000001,0.1,0.0769
-2024-10-25 07:26:47.088260,Western Conference - Conference Seeding  - To Be #1 Seed,Oklahoma City Thunder,0.022699999999999998,0.4878,0.4651
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Gabriela Ruffels,0.022799999999999997,0.0278,0.005
 2024-10-25 04:33:04.596980,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.022699999999999998,0.4878,0.4651
+2024-10-25 07:26:47.088260,Western Conference - Conference Seeding  - To Be #1 Seed,Oklahoma City Thunder,0.022699999999999998,0.4878,0.4651
 2024-10-25 06:35:38.369947,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Central,0.022199999999999998,0.2222,0.2
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Comrade Kamala,0.021999999999999964,0.3077,0.2857
 2024-10-25 07:26:46.620737,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Atlético Lanús,0.021999999999999964,0.3077,0.2857
-2024-10-25 07:26:47.075456,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Orlando Magic,0.0203,0.0588,0.0385
+2024-10-25 11:23:02.829783,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,0.02180000000000004,0.6296,0.6078
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Olympiakos,0.0203,0.0588,0.0385
-2024-10-25 07:26:48.180518,AFC North - AFC North 2024/25 - AFC North Winner,Cincinnati Bengals,0.02020000000000001,0.1111,0.0909
+2024-10-25 07:26:47.075456,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Orlando Magic,0.0203,0.0588,0.0385
 2024-10-25 06:35:39.496948,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,South Alabama,0.02020000000000001,0.1111,0.0909
+2024-10-25 07:26:48.180518,AFC North - AFC North 2024/25 - AFC North Winner,Cincinnati Bengals,0.02020000000000001,0.1111,0.0909
 2024-10-25 08:32:33.875468,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Paolo Banchero (ORL),0.019800000000000005,0.0476,0.0278
-2024-10-25 08:32:33.879342,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Kevin Durant (PHX),0.019100000000000002,0.0323,0.0132
 2024-10-25 08:32:33.868012,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,J.B. Bickerstaff,0.019100000000000002,0.0323,0.0132
+2024-10-25 08:32:33.879342,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Kevin Durant (PHX),0.019100000000000002,0.0323,0.0132
 2024-10-25 09:28:20.836201,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,No,0.018599999999999978,0.1667,0.1481
 2024-10-25 08:32:33.860693,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Tre Mann (CHA),0.018200000000000004,0.0476,0.0294
+2024-10-25 11:23:02.520852,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),0.018100000000000005,0.4348,0.4167
 2024-10-25 08:32:33.860693,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Malik Monk (SAC),0.0179,0.1429,0.125
 2024-10-25 09:28:20.878848,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,No,0.01760000000000006,0.9,0.8824
 2024-10-25 06:35:38.402051,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.01759999999999999,0.1176,0.1
 2024-10-25 06:35:39.496948,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,James Madison,0.016700000000000007,0.1,0.0833
-2024-10-25 06:35:38.383447,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.016699999999999993,0.2667,0.25
 2024-10-25 06:35:38.388083,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.016699999999999993,0.4167,0.4
+2024-10-25 06:35:38.383447,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.016699999999999993,0.2667,0.25
 2024-10-25 05:31:14.477572,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.016600000000000004,0.0833,0.0667
 2024-10-25 08:32:33.879342,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Devin Booker (PHX),0.0162,0.0278,0.0116
 2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Alex Caruso (OKC),0.0159,0.0323,0.0164
-2024-10-25 06:35:38.406737,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,0.015100000000000002,0.1818,0.1667
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Lazio,0.015100000000000002,0.1818,0.1667
+2024-10-25 06:35:38.406737,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,0.015100000000000002,0.1818,0.1667
 2024-10-25 01:53:58.862565,Boxing Lines - Manuel Flores vs Victor Emmanuel Olivo - To Win the Bout,Victor Emmanuel Olivo,0.015100000000000002,0.1818,0.1667
 2024-10-25 04:33:03.534481,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
-2024-10-25 07:26:47.088260,Western Conference - Conference Seeding  - To Be #1 Seed,Memphis Grizzlies,0.014899999999999997,0.0625,0.0476
-2024-10-25 06:35:38.439517,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Dallas Mavericks,0.014899999999999997,0.0625,0.0476
-2024-10-25 08:32:33.879342,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Giannis Antetokounmpo (MIL),0.014899999999999997,0.0625,0.0476
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Ricardo Gouveia,0.0151,0.0217,0.0066
 2024-10-25 08:32:33.875468,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jonathan Kuminga (GSW),0.014899999999999997,0.0625,0.0476
+2024-10-25 07:26:47.088260,Western Conference - Conference Seeding  - To Be #1 Seed,Memphis Grizzlies,0.014899999999999997,0.0625,0.0476
+2024-10-25 08:32:33.879342,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Giannis Antetokounmpo (MIL),0.014899999999999997,0.0625,0.0476
+2024-10-25 06:35:38.439517,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Dallas Mavericks,0.014899999999999997,0.0625,0.0476
 2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Ja Morant (MEM),0.014899999999999997,0.0625,0.0476
 2024-10-25 09:28:20.848994,To Make the Playoffs - Oklahoma City Thunder 2024-25 - To Make the Playoffs,Yes,0.014499999999999957,0.9901,0.9756
 2024-10-25 06:35:38.374994,Western Conference - Western Conference 2024-25 - Western Conference Winner,Phoenix Suns,0.01440000000000001,0.1053,0.0909
@@ -116,103 +151,119 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-25 08:32:33.860693,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bogdan Bogdanovic (ATL),0.014099999999999994,0.0667,0.0526
 2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),0.014099999999999994,0.0667,0.0526
 2024-10-25 07:26:47.075456,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Cleveland Cavaliers,0.014099999999999994,0.0667,0.0526
-2024-10-25 06:35:38.416128,East Group B - East Group B Winner - East Group B Winner,Toronto Raptors,0.013999999999999999,0.0909,0.0769
-2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Luka Doncic (DAL),0.013999999999999999,0.0909,0.0769
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Ajax,0.013999999999999999,0.0909,0.0769
-2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Bam Adebayo (MIA),0.013999999999999999,0.0909,0.0769
+2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Luka Doncic (DAL),0.013999999999999999,0.0909,0.0769
+2024-10-25 06:35:38.416128,East Group B - East Group B Winner - East Group B Winner,Toronto Raptors,0.013999999999999999,0.0909,0.0769
 2024-10-25 05:31:15.638232,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,0.013999999999999999,0.0909,0.0769
+2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Bam Adebayo (MIA),0.013999999999999999,0.0909,0.0769
 2024-10-25 06:35:38.442922,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Jayson Tatum (BOS),0.013899999999999996,0.125,0.1111
 2024-10-25 07:26:47.088260,Western Conference - Conference Seeding  - To Be #1 Seed,Dallas Mavericks,0.013899999999999996,0.125,0.1111
 2024-10-25 06:35:38.411495,East Group A - East Group A Winner - East Group A Winner,Orlando Magic,0.01319999999999999,0.2632,0.25
+2024-10-25 07:26:48.122656,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.0131,0.2353,0.2222
 2024-10-25 08:32:35.124974,BKFC 67: Camozzi vs Depee - Dylan Schulte vs Derek Perez - To Win the Bout,Dylan Schulte,0.0131,0.8131,0.8
 2024-10-25 07:26:48.277855,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brian Thomas (JAX),0.0131,0.0476,0.0345
-2024-10-25 07:26:48.122656,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.0131,0.2353,0.2222
-2024-10-25 06:35:38.374994,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.012899999999999995,0.1667,0.1538
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,AS Roma,0.012899999999999995,0.1667,0.1538
 2024-10-24 23:25:35.252167,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Fiorentina,0.012899999999999995,0.1667,0.1538
-2024-10-25 06:35:39.797242,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,0.012700000000000045,0.6491,0.6364
+2024-10-25 06:35:38.374994,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.012899999999999995,0.1667,0.1538
 2024-10-25 06:35:38.392698,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.012700000000000045,0.6491,0.6364
+2024-10-25 06:35:39.797242,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,0.012700000000000045,0.6491,0.6364
 2024-10-25 06:35:38.411495,East Group A - East Group A Winner - East Group A Winner,Brooklyn Nets,0.012700000000000003,0.0323,0.0196
 2024-10-25 07:26:48.190567,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.012199999999999989,0.5,0.4878
 2024-10-25 01:53:57.466735,NBA Championship - NBA Championship 2024-25 - NBA Champion,Dallas Mavericks,0.011900000000000008,0.0952,0.0833
-2024-10-25 07:26:47.393505,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Luka Doncic (DAL),0.011899999999999994,0.25,0.2381
 2024-10-25 04:33:04.596980,NFC North - NFC North 2024/25 - NFC North Winner,Chicago Bears,0.011899999999999994,0.0833,0.0714
+2024-10-25 07:26:47.393505,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Luka Doncic (DAL),0.011899999999999994,0.25,0.2381
 2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Jalen Suggs (ORL),0.0118,0.0217,0.0099
 2024-10-25 04:33:04.533979,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.011700000000000016,0.2222,0.2105
 2024-10-25 07:26:48.180518,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.011699999999999933,0.7895,0.7778
-2024-10-25 06:35:39.496948,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Arkansas State,0.011199999999999995,0.0435,0.0323
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Matthew Southgate,0.0113,0.0179,0.0066
 2024-10-25 07:26:47.393505,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jalen Brunson (NYK),0.011199999999999995,0.0588,0.0476
+2024-10-25 06:35:39.496948,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Arkansas State,0.011199999999999995,0.0435,0.0323
 2024-10-25 07:26:48.205403,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,0.011199999999999995,0.0435,0.0323
-2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Eintracht Frankfurt,0.011099999999999999,0.1111,0.1
+2024-10-25 07:26:48.277855,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Caleb Williams (CHI),0.011099999999999999,0.4762,0.4651
 2024-10-25 06:35:38.420764,East Group C - East Group C Winner - East Group C Winner,Atlanta Hawks,0.011099999999999999,0.1111,0.1
 2024-10-24 23:25:35.247380,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Athletic Bilbao,0.011099999999999999,0.1111,0.1
-2024-10-25 07:26:48.277855,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Caleb Williams (CHI),0.011099999999999999,0.4762,0.4651
+2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Eintracht Frankfurt,0.011099999999999999,0.1111,0.1
 2024-10-25 08:32:33.222307,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.010899999999999993,0.1538,0.1429
 2024-10-25 08:32:35.120790,BKFC 67: Camozzi vs Depee - Chris Camozzi vs Sawyer Depee - To Win the Bout,Chris Camozzi,0.01089999999999991,0.8291,0.8182
 2024-10-25 09:28:22.386227,BKFC 67: Camozzi vs Depee - Marcus Edwards vs Pat Casey - To Win the Bout,Marcus Edwards,0.010700000000000043,0.6774,0.6667
 2024-10-25 06:35:38.442922,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Ja Morant (MEM),0.010700000000000001,0.0385,0.0278
 2024-10-25 07:26:47.457881,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 43.5,0.010699999999999932,0.5455,0.5348
-2024-10-24 23:25:35.247380,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,0.010499999999999982,0.2105,0.2
 2024-10-25 09:28:20.810613,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,No,0.010499999999999982,0.2105,0.2
+2024-10-24 23:25:35.247380,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,0.010499999999999982,0.2105,0.2
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Area 51,0.010499999999999982,0.2105,0.2
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Bianca Pagdanganan,0.0103,0.0123,0.002
 2024-10-25 06:35:39.809219,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,0.010099999999999998,0.4545,0.4444
-2024-10-24 23:25:35.247380,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Nice,-0.010100000000000001,0.0244,0.0345
 2024-10-24 23:25:35.247380,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Hoffenheim,-0.010100000000000001,0.0244,0.0345
+2024-10-24 23:25:35.247380,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Nice,-0.010100000000000001,0.0244,0.0345
 2024-10-25 06:35:38.442922,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Anthony Edwards (MIN),-0.0102,0.0667,0.0769
 2024-10-25 08:32:35.124974,BKFC 67: Camozzi vs Depee - Dylan Schulte vs Derek Perez - To Win the Bout,Derek Perez,-0.010299999999999976,0.2564,0.2667
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Guido Migliozzi,-0.0103,0.002,0.0123
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Braga,-0.0103,0.002,0.0123
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Nice,-0.0103,0.002,0.0123
 2024-10-25 07:26:47.393505,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.010499999999999982,0.2,0.2105
 2024-10-25 08:32:33.868012,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Rick Carlisle,-0.010600000000000002,0.0217,0.0323
 2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jamal Murray (DEN),-0.010700000000000001,0.0278,0.0385
+2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kyrie Irving (DAL),-0.010700000000000001,0.0278,0.0385
 2024-10-25 08:32:33.868012,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jason Kidd,-0.010700000000000001,0.0278,0.0385
 2024-10-25 08:32:33.074307,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Panathinaikos,-0.010700000000000001,0.0278,0.0385
-2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kyrie Irving (DAL),-0.010700000000000001,0.0278,0.0385
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Megan Khang,-0.0108,0.0033,0.0141
 2024-10-25 07:26:48.215084,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,-0.010899999999999993,0.1429,0.1538
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Real Sociedad,-0.010899999999999993,0.1429,0.1538
 2024-10-25 06:35:38.420764,East Group C - East Group C Winner - East Group C Winner,Chicago Bulls,-0.0109,0.0417,0.0526
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Nasa Hataoka,-0.011,0.0013,0.0123
 2024-10-25 07:26:47.457881,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 43.5,-0.01100000000000001,0.5238,0.5348
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Jeeno Thitikul,-0.011099999999999999,0.1,0.1111
 2024-10-25 08:32:33.860693,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Alex Caruso (OKC),-0.011199999999999995,0.0323,0.0435
-2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,OG Anunoby (NYK),-0.011199999999999995,0.0323,0.0435
 2024-10-25 06:35:39.496948,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,UL Monroe,-0.011199999999999995,0.0323,0.0435
+2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,OG Anunoby (NYK),-0.011199999999999995,0.0323,0.0435
 2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Paul George (PHI),-0.011399999999999997,0.0164,0.0278
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Jonas Blixt,-0.011600000000000001,0.0007,0.0123
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Gavin Green,-0.011699999999999999,0.0079,0.0196
 2024-10-25 07:26:48.277855,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bucky Irving (TB),-0.0118,0.0099,0.0217
 2024-10-25 08:32:35.120790,BKFC 67: Camozzi vs Depee - Chris Camozzi vs Sawyer Depee - To Win the Bout,Sawyer Depee,-0.011899999999999994,0.2381,0.25
 2024-10-25 07:26:47.422234,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 27.5,-0.012199999999999989,0.5,0.5122
 2024-10-25 07:26:48.122656,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,-0.012600000000000007,0.0588,0.0714
 2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Victor Wembanyama (SAS),-0.012700000000000003,0.0196,0.0323
 2024-10-25 07:26:48.277855,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Marvin Harrison Jr. (ARI),-0.012700000000000003,0.0196,0.0323
-2024-10-25 08:32:33.074307,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Fiorentina,-0.012899999999999995,0.1538,0.1667
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Chanettee Wannasaen,-0.012700000000000003,0.0196,0.0323
 2024-10-25 07:26:48.116950,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,-0.012899999999999995,0.1538,0.1667
+2024-10-25 08:32:33.074307,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Fiorentina,-0.012899999999999995,0.1538,0.1667
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Slavia Prague,-0.013,0.0066,0.0196
 2024-10-25 07:26:48.190567,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,-0.01319999999999999,0.25,0.2632
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Amy Yang,-0.013400000000000002,0.011,0.0244
 2024-10-25 06:35:38.420764,East Group C - East Group C Winner - East Group C Winner,Boston Celtics,-0.013799999999999923,0.6226,0.6364
+2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Lyon,-0.013899999999999996,0.1111,0.125
+2024-10-25 06:35:38.366423,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.013899999999999996,0.2083,0.2222
 2024-10-25 05:31:15.638232,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,-0.013899999999999996,0.1111,0.125
 2024-10-25 07:26:48.122656,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Minnesota Vikings,-0.013899999999999996,0.1111,0.125
-2024-10-25 06:35:38.366423,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.013899999999999996,0.2083,0.2222
-2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Lyon,-0.013899999999999996,0.1111,0.125
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Qarabag FK,-0.0139,0.001,0.0149
-2024-10-25 09:28:20.844721,To Make the Playoffs - New York Knicks 2024-25 - To Make the Playoffs,No,-0.013999999999999999,0.0769,0.0909
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Gaby Lopez,-0.013900000000000001,0.0025,0.0164
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Rangers,-0.013999999999999999,0.0769,0.0909
-2024-10-25 09:28:20.865944,To Make the Playoffs - Portland Trail Blazers 2024-25 - To Make the Playoffs,Yes,-0.014099999999999994,0.0526,0.0667
+2024-10-25 09:28:20.844721,To Make the Playoffs - New York Knicks 2024-25 - To Make the Playoffs,No,-0.013999999999999999,0.0769,0.0909
 2024-10-25 06:35:38.442922,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Nikola Jokic (DEN),-0.014099999999999994,0.0526,0.0667
 2024-10-25 06:35:38.442922,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Giannis Antetokounmpo (MIL),-0.014099999999999994,0.0526,0.0667
+2024-10-25 09:28:20.865944,To Make the Playoffs - Portland Trail Blazers 2024-25 - To Make the Playoffs,Yes,-0.014099999999999994,0.0526,0.0667
 2024-10-24 23:25:35.252167,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Gent,-0.014100000000000001,0.0385,0.0526
 2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),-0.014200000000000101,0.6154,0.6296
-2024-10-25 06:35:38.374994,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,-0.014399999999999996,0.0625,0.0769
-2024-10-25 06:35:38.439517,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Milwaukee Bucks,-0.014399999999999996,0.0625,0.0769
-2024-10-25 06:35:38.442922,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Jaylen Brown (BOS),-0.014399999999999996,0.0625,0.0769
 2024-10-25 06:35:38.442922,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Joel Embiid (PHI),-0.014399999999999996,0.0625,0.0769
+2024-10-25 06:35:38.439517,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Milwaukee Bucks,-0.014399999999999996,0.0625,0.0769
+2024-10-25 06:35:38.374994,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,-0.014399999999999996,0.0625,0.0769
+2024-10-25 06:35:38.442922,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Jaylen Brown (BOS),-0.014399999999999996,0.0625,0.0769
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Grace Kim,-0.014400000000000001,0.002,0.0164
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Haotong Li,-0.014400000000000001,0.002,0.0164
 2024-10-25 06:35:39.366235,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,San Francisco 49ers,-0.01440000000000001,0.0909,0.1053
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,FC Twente,-0.014499999999999999,0.0149,0.0294
 2024-10-25 08:32:33.860693,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Dereck Lively II (DAL),-0.0145,0.0099,0.0244
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Kiradech Aphibarnrat,-0.0145,0.0099,0.0244
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Marcus Kinhult,-0.014599999999999998,0.005,0.0196
 2024-10-25 06:35:39.809219,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,-0.014800000000000035,0.6078,0.6226
 2024-10-25 05:31:15.634471,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Sam Darnold (MIN),-0.014899999999999997,0.0476,0.0625
-2024-10-25 04:33:04.533979,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,-0.015100000000000002,0.1667,0.1818
-2024-10-25 06:35:38.374994,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,-0.015100000000000002,0.1667,0.1818
 2024-10-24 23:25:35.252167,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Real Betis,-0.015100000000000002,0.1667,0.1818
 2024-10-25 08:32:32.959657,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Pablo Vegetti (Vasco Da Gama),-0.015100000000000002,0.1667,0.1818
-2024-10-25 01:53:57.495147,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.015300000000000001,0.0323,0.0476
+2024-10-25 06:35:38.374994,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,-0.015100000000000002,0.1667,0.1818
+2024-10-25 04:33:04.533979,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,-0.015100000000000002,0.1667,0.1818
 2024-10-24 23:25:35.252167,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,FC Copenhagen,-0.015300000000000001,0.0435,0.0588
+2024-10-25 01:53:57.495147,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.015300000000000001,0.0323,0.0476
 2024-10-25 09:28:22.386227,BKFC 67: Camozzi vs Depee - Marcus Edwards vs Pat Casey - To Win the Bout,Pat Casey,-0.015400000000000025,0.3846,0.4
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,AZ Alkmaar,-0.0156,0.004,0.0196
 2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Paolo Banchero (ORL),-0.0157,0.0278,0.0435
@@ -220,9 +271,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-25 09:28:20.883074,To Make the Playoffs - Utah Jazz 2024-25 - To Make the Playoffs,Yes,-0.016600000000000004,0.0667,0.0833
 2024-10-25 09:28:20.836201,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,Yes,-0.016699999999999937,0.9,0.9167
 2024-10-25 08:32:32.962910,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,-0.016699999999999993,0.25,0.2667
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Ayaka Furue,-0.0167,0.005,0.0217
 2024-10-25 08:32:33.879342,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Nikola Jokic (DEN),-0.016700000000000007,0.0833,0.1
 2024-10-25 06:35:38.369947,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Atlantic,-0.016799999999999926,0.8403,0.8571
 2024-10-25 07:26:48.277855,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),-0.0168,0.0217,0.0385
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Yubin Jang,-0.0169,0.001,0.0179
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,PAOK Thessaloniki,-0.017099999999999997,0.0123,0.0294
 2024-10-25 07:26:47.088260,Western Conference - Conference Seeding  - To Be #1 Seed,Denver Nuggets,-0.017100000000000004,0.1429,0.16
 2024-10-25 06:35:38.361397,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),-0.01759999999999999,0.1,0.1176
@@ -233,45 +286,59 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-25 06:35:38.406737,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.018100000000000005,0.4167,0.4348
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,AZ Alkmaar,-0.018200000000000004,0.0294,0.0476
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Slavia Prague,-0.018200000000000004,0.0294,0.0476
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Kanye,-0.01820000000000002,0.1818,0.2
 2024-10-25 09:28:20.878848,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,Yes,-0.018500000000000016,0.1667,0.1852
 2024-10-25 06:35:38.374994,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.018599999999999978,0.1481,0.1667
 2024-10-25 08:32:33.875468,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Immanuel Quickley (TOR),-0.0189,0.0196,0.0385
 2024-10-25 07:26:48.215084,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,-0.019000000000000017,0.2667,0.2857
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Hoffenheim,-0.019099999999999992,0.0476,0.0667
 2024-10-25 08:32:33.875468,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Coby White (CHI),-0.019100000000000002,0.0132,0.0323
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Jin Young Ko,-0.0192,0.0004,0.0196
 2024-10-25 08:32:33.875468,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Bam Adebayo (MIA),-0.0194,0.005,0.0244
 2024-10-25 04:33:04.533979,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,-0.01949999999999999,0.0714,0.0909
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,AS Roma,-0.019499999999999997,0.0099,0.0294
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Viktoria Plzen,-0.019499999999999997,0.0099,0.0294
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Ferencvárosi TC,-0.019499999999999997,0.0099,0.0294
+2024-10-25 11:23:02.829783,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.019699999999999995,0.4348,0.4545
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Ruixin Liu,-0.019899999999999998,0.0079,0.0278
 2024-10-25 07:26:47.075456,Eastern Conference - Conference Seeding  - To Be #1 Seed ,New York Knicks,-0.01999999999999999,0.1905,0.2105
 2024-10-25 06:35:38.442922,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Shai Gilgeous-Alexander (OKC),-0.02020000000000001,0.0909,0.1111
 2024-10-25 08:32:33.860693,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jaime Jaquez Jr. (MIA),-0.0203,0.0323,0.0526
 2024-10-24 23:25:35.252167,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Panathinaikos,-0.0203,0.0385,0.0588
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Keita Nakajima,-0.0206,0.0179,0.0385
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Xiyu Lin,-0.0207,0.001,0.0217
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Jennifer Kupcho,-0.0211,0.0033,0.0244
 2024-10-25 08:32:33.868012,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Kenny Atkinson,-0.0213,0.0556,0.0769
 2024-10-25 09:28:20.827614,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,-0.02299999999999991,0.8,0.823
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Yuka Saso,-0.023100000000000002,0.0013,0.0244
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Legalize marijuana,-0.023799999999999988,0.4762,0.5
 2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Donovan Mitchell (CLE),-0.024,0.0385,0.0625
 2024-10-25 09:28:20.848994,To Make the Playoffs - Oklahoma City Thunder 2024-25 - To Make the Playoffs,No,-0.0242,0.0667,0.0909
 2024-10-25 08:32:33.638912,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,Yes,-0.024299999999999995,0.0345,0.0588
 2024-10-25 08:32:33.868012,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Nick Nurse,-0.024299999999999995,0.0526,0.0769
-2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Fenerbahce,-0.024600000000000004,0.0099,0.0345
 2024-10-25 07:26:48.277855,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Xavier Worthy (KC),-0.024600000000000004,0.0099,0.0345
+2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Fenerbahce,-0.024600000000000004,0.0099,0.0345
 2024-10-25 05:31:15.638232,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,-0.025300000000000003,0.1176,0.1429
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Ludogorets Razgrad,-0.0254,0.004,0.0294
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Hoffenheim,-0.0254,0.004,0.0294
 2024-10-25 06:35:38.416128,East Group B - East Group B Winner - East Group B Winner,Milwaukee Bucks,-0.025499999999999967,0.4,0.4255
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Daniel Hillier,-0.0262,0.0123,0.0385
 2024-10-25 05:31:14.484644,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Northwest Division,-0.02679999999999999,0.2857,0.3125
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Manchester United,-0.02779999999999999,0.2222,0.25
 2024-10-25 08:32:33.864398,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.027800000000000005,0.0833,0.1111
 2024-10-25 08:32:33.875468,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Victor Wembanyama (SAS),-0.027999999999999997,0.1538,0.1818
+2024-10-25 11:23:02.520852,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Xavier McKinney (GB),-0.028199999999999996,0.0385,0.0667
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Antoine Rozner,-0.0286,0.0099,0.0385
 2024-10-25 08:32:33.879342,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jaylen Brown (BOS),-0.0286,0.0714,0.1
 2024-10-25 06:35:38.392698,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,-0.028700000000000003,0.1818,0.2105
 2024-10-25 07:26:47.397115,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),-0.028799999999999992,0.125,0.1538
 2024-10-25 08:32:33.875468,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),-0.028799999999999992,0.125,0.1538
 2024-10-25 09:28:20.538922,Blackpink - Blackpink: Will Jisoo release a new solo song by the end of 2024? - Jisoo Special,No,-0.028900000000000037,0.5455,0.5744
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Braga,-0.0294,0.0294,0.0588
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Universal healthcare,-0.030299999999999994,0.6364,0.6667
 2024-10-25 09:28:20.857435,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,Yes,-0.030400000000000094,0.95,0.9804
 2024-10-25 08:32:32.962910,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vasco da Gama,-0.0312,0.0123,0.0435
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Todd Clements,-0.0313,0.001,0.0323
 2024-10-25 04:33:04.950131,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.031799999999999995,0.4444,0.4762
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,FCSB,-0.0321,0.0588,0.0909
 2024-10-25 05:31:14.481215,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,-0.033299999999999996,0.5122,0.5455
@@ -281,22 +348,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-25 09:28:20.503138,Wicked - Wicked - Part 1: Opening Weekend Box Office - Opening Weekend,$115 million or under,-0.03480000000000005,0.5,0.5348
 2024-10-25 09:28:20.789470,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,Yes,-0.03489999999999993,0.8113,0.8462
 2024-10-25 06:35:38.430027,West Group B - West Group B Winner - West Group B Winner,Oklahoma City Thunder,-0.03489999999999999,0.4651,0.5
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Ego,-0.03570000000000001,0.25,0.2857
 2024-10-25 07:26:46.620737,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Cruzeiro MG,-0.03570000000000001,0.25,0.2857
 2024-10-25 05:31:15.638232,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,-0.036199999999999996,0.1176,0.1538
 2024-10-25 07:26:47.389774,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Rudy Gobert (MIN),-0.036899999999999995,0.04,0.0769
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Scott Jamieson,-0.037700000000000004,0.0099,0.0476
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,IF Elfsborg,-0.037700000000000004,0.0099,0.0476
 2024-10-25 08:32:33.033696,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Nice,-0.0384,0.0385,0.0769
+2024-10-25 11:23:02.520852,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),-0.03889999999999999,0.1429,0.1818
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Malmö FF,-0.0392,0.0196,0.0588
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,PAOK Thessaloniki,-0.041,0.0066,0.0476
 2024-10-25 06:35:38.358101,NBA Championship - NBA Championship 2024-25 - First Time Winner,No,-0.04169999999999996,0.8333,0.875
 2024-10-25 07:26:47.397115,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Yves Missi (NO),-0.04329999999999999,0.0476,0.0909
 2024-10-25 06:35:38.361397,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.04349999999999998,0.7826,0.8261
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Vaccine mandate,-0.044399999999999995,0.5556,0.6
 2024-10-25 07:26:48.277855,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),-0.044399999999999995,0.5556,0.6
+2024-10-25 11:23:02.520852,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Maxx Crosby (LV),-0.0474,0.0435,0.0909
 2024-10-25 06:35:38.434685,West Group C - West Group C Winner - West Group C Winner,Golden State Warriors,-0.0476,0.1429,0.1905
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Misinformation,-0.04760000000000009,0.6667,0.7143
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Tom Kim,-0.04849999999999999,0.1333,0.1818
 2024-10-25 08:32:32.962910,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,-0.04910000000000003,0.6,0.6491
 2024-10-25 07:26:47.075456,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Philadelphia 76ers,-0.05,0.0833,0.1333
 2024-10-25 06:35:38.434685,West Group C - West Group C Winner - West Group C Winner,Denver Nuggets,-0.05129999999999996,0.2564,0.3077
 2024-10-25 04:33:04.615766,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,-0.053100000000000036,0.3636,0.4167
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Polarization,-0.05559999999999998,0.5,0.5556
 2024-10-25 07:26:46.620737,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Corinthians,-0.055800000000000016,0.2299,0.2857
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Fenerbahce,-0.057699999999999974,0.25,0.3077
 2024-10-25 07:26:47.503025,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 21.5,-0.05860000000000004,0.4762,0.5348
@@ -313,7 +388,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Viktoria Plzen,-0.0713,0.0196,0.0909
 2024-10-25 08:32:33.630536,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,-0.07210000000000005,0.6154,0.6875
 2024-10-25 06:35:39.496948,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Georgia Southern,-0.07239999999999996,0.2353,0.3077
+2024-10-25 11:23:03.027558,Genesis Championship - Genesis Championship - Winner,Richard Mansell,-0.07339999999999999,0.0099,0.0833
 2024-10-25 09:28:20.823382,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,Yes,-0.07730000000000004,0.7101,0.7874
+2024-10-25 11:23:02.062543,Joe Rogan - Donald Trump Interview - Rogan Trump Interview: To Be Said By Rogan Or Trump - To Be Said By Rogan Or Trump,Mental health,-0.07790000000000008,0.6364,0.7143
 2024-10-25 09:28:20.861703,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,No,-0.08050000000000002,0.2899,0.3704
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Manchester United,-0.08079999999999998,0.5556,0.6364
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Hoffenheim,-0.08179999999999998,0.1,0.1818
@@ -321,9 +398,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-25 04:33:04.596980,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,-0.09389999999999998,0.2632,0.3571
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,FC Twente,-0.09620000000000001,0.0149,0.1111
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Slavia Prague,-0.1,0.1,0.2
+2024-10-25 11:23:00.993065,Venom: The Last Dance - Venom: The Last Dance - Popcornmeter One Month After Release - Venom 3 Popcornmeter,Over 89%,-0.10109999999999997,0.4444,0.5455
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Braga,-0.1185,0.0244,0.1429
 2024-10-25 08:32:33.037473,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Lyon,-0.13419999999999999,0.0476,0.1818
+2024-10-25 11:23:02.520852,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Dexter Lawrence (NYG),-0.15,0.1,0.25
 2024-10-25 10:32:18.881929,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Robert Jenrick,-0.15000000000000002,0.25,0.4
+2024-10-25 11:23:03.033028,Maybank Championship - Maybank Championship - Winner,Mao Saigo,-0.1615,0.0385,0.2
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Real Sociedad,-0.1819,0.3636,0.5455
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,AS Roma,-0.20450000000000002,0.25,0.4545
 2024-10-25 08:32:33.040693,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Nice,-0.2115,0.0385,0.25
