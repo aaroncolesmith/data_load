@@ -10,22 +10,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-27 01:59:32.889355,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Barcelona,0.028799999999999992,0.1538,0.125
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Hiroyuki Fujita,0.0286,0.0385,0.0099
 2024-10-26 23:25:16.316118,Serie A - Italy Serie A 2024/25 - Winner,Juventus,0.023799999999999988,0.1667,0.1429
+2024-10-27 03:36:13.104229,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.023799999999999988,0.1667,0.1429
 2024-10-26 18:32:07.175261,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,0.02360000000000001,0.4082,0.3846
-2024-10-26 15:25:43.242872,Round Match-Ups - Final Round Match-Up - M. Homa v M. Kuchar - Final Round Match-Up,Matt Kuchar,0.022699999999999998,0.4878,0.4651
 2024-10-27 01:59:32.889355,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,0.022199999999999998,0.2222,0.2
+2024-10-27 03:36:13.104229,League Two - England League Two 2024/25 - Winner,Walsall,0.022199999999999998,0.2222,0.2
 2024-10-26 17:27:43.399470,Round Match-Ups - Final Round Match-Up - H. Hall vs G. Woodland - Final Round Match-Up,Harry Hall,0.02169999999999994,0.5455,0.5238
 2024-10-26 16:31:11.711276,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,0.02100000000000002,0.3846,0.3636
 2024-10-26 23:25:16.387862,Championship - England Championship 2024/25 - Winner,Sheffield United,0.02020000000000001,0.1111,0.0909
 2024-10-26 23:25:16.387862,Championship - England Championship 2024/25 - Winner,Sunderland,0.01820000000000002,0.2,0.1818
 2024-10-26 16:31:11.715276,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,0.017299999999999982,0.5917,0.5744
+2024-10-27 03:36:13.104229,League Two - England League Two 2024/25 - Winner,Port Vale,0.016699999999999993,0.2667,0.25
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Jason Caron,0.014100000000000001,0.0526,0.0385
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Rod Pampling,0.0131,0.0476,0.0345
 2024-10-26 23:25:16.822592,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,0.012899999999999995,0.1667,0.1538
 2024-10-26 20:25:58.166596,Boxing Lines - Jack Catterall vs Regis Prograis - To Win the Bout,Regis Prograis,0.012799999999999978,0.2597,0.2469
-2024-10-26 15:25:43.074650,Boxing Lines - Vincenzo La Femina vs Jordan Camacho - To Win the Bout,Vincenzo La Femina,0.011699999999999933,0.7895,0.7778
 2024-10-26 23:25:16.822592,Euroleague - Euroleague 2024/25 - Outright,Barcelona,0.011099999999999999,0.1111,0.1
-2024-10-26 18:32:07.167199,Boxing Lines - Pat McCormack vs Williams Andres Herrera - To Win the Bout,Williams Andres Herrera,0.0102,0.0769,0.0667
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Vijay Singh,0.0102,0.0769,0.0667
+2024-10-26 18:32:07.167199,Boxing Lines - Pat McCormack vs Williams Andres Herrera - To Win the Bout,Williams Andres Herrera,0.0102,0.0769,0.0667
+2024-10-27 03:36:13.104229,League Two - England League Two 2024/25 - Winner,Gillingham,-0.010100000000000001,0.0244,0.0345
 2024-10-26 23:25:16.412059,League One - England League One 2024/25 - Winner,Wrexham,-0.0102,0.0667,0.0769
 2024-10-26 23:25:16.320450,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,-0.010500000000000065,0.7895,0.8
 2024-10-26 18:32:07.179277,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.011099999999999999,0.4651,0.4762
@@ -35,20 +37,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Matt Gogel,-0.0136,0.0005,0.0141
 2024-10-26 23:25:16.316118,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.013799999999999923,0.6226,0.6364
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Doug Barron,-0.0139,0.0057,0.0196
-2024-10-26 23:25:16.316118,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,-0.013999999999999999,0.0769,0.0909
 2024-10-26 23:25:16.387862,Championship - England Championship 2024/25 - Winner,Burnley,-0.013999999999999999,0.0769,0.0909
+2024-10-26 23:25:16.316118,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,-0.013999999999999999,0.0769,0.0909
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Ken Tanigawa,-0.014400000000000001,0.002,0.0164
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Billy Andrade,-0.0145,0.0007,0.0152
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Ken Duke,-0.0147,0.0005,0.0152
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Thomas Bjorn,-0.015300000000000001,0.0435,0.0588
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Steve Flesch,-0.0154,0.001,0.0164
+2024-10-27 03:36:13.104229,League Two - England League Two 2024/25 - Winner,Bradford City,-0.016600000000000004,0.0667,0.0833
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Stephen Ames,-0.0172,0.0007,0.0179
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Mike Weir,-0.0186,0.001,0.0196
-2024-10-26 15:25:43.242872,Round Match-Ups - Final Round Match-Up - M. Homa v M. Kuchar - Final Round Match-Up,Max Homa,-0.01880000000000004,0.5556,0.5744
 2024-10-26 20:25:56.709982,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,-0.018900000000000028,0.4255,0.4444
 2024-10-26 16:31:11.711276,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,-0.01959999999999995,0.6774,0.697
-2024-10-26 18:32:07.175261,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,-0.022199999999999998,0.6552,0.6774
 2024-10-26 23:25:16.311737,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,-0.022199999999999998,0.7778,0.8
+2024-10-26 18:32:07.175261,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,-0.022199999999999998,0.6552,0.6774
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Ernie Els,-0.023100000000000002,0.0013,0.0244
 2024-10-26 17:27:43.399470,Round Match-Ups - Final Round Match-Up - H. Hall vs G. Woodland - Final Round Match-Up,Gary Woodland,-0.023800000000000043,0.5,0.5238
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Y E Yang,-0.0283,0.0152,0.0435
