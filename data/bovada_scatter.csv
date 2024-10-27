@@ -1,15 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Padraig Harrington,0.2795,0.3704,0.0909
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Jeeno Thitikul,0.26359999999999995,0.3636,0.1
 2024-10-26 18:32:07.210805,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.16519999999999996,0.6,0.4348
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Ruoning Yin,0.1515,0.3333,0.1818
-2024-10-26 14:26:57.885154,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 66.5,0.13,0.5744,0.4444
 2024-10-26 23:25:16.300145,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.11119999999999997,0.5556,0.4444
-2024-10-26 14:26:57.868152,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 68.5,0.0988,0.6226,0.5238
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Haeran Ryu,0.08329999999999999,0.3333,0.25
 2024-10-26 17:27:43.221241,Boxing Lines - Vincenzo La Femina vs Jordan Camacho - To Win the Bout,Jordan Camacho,0.05159999999999998,0.3333,0.2817
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Miguel Angel Jimenez,0.04120000000000001,0.1,0.0588
-2024-10-26 14:26:57.000270,Requested Specials - Requested Specials - Win Electoral College,Colorado (Dem) / New Hampshire (Dem) / Virginia (Dem) / Florida (Rep) / Iowa (Rep) / Ohio (Rep),0.040999999999999925,0.7333,0.6923
 2024-10-26 23:25:16.311737,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,RB Leipzig,0.03330000000000001,0.1,0.0667
 2024-10-26 23:25:16.316118,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.031399999999999983,0.2667,0.2353
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Retief Goosen,0.030699999999999998,0.0833,0.0526
@@ -35,45 +29,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-26 23:25:16.412059,League One - England League One 2024/25 - Winner,Wrexham,-0.0102,0.0667,0.0769
 2024-10-26 23:25:16.320450,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,-0.010500000000000065,0.7895,0.8
 2024-10-26 18:32:07.179277,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.011099999999999999,0.4651,0.4762
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Bianca Pagdanganan,-0.011300000000000001,0.001,0.0123
 2024-10-26 16:31:11.715276,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.0116,0.4762,0.4878
 2024-10-26 20:25:58.166596,Boxing Lines - Jack Catterall vs Regis Prograis - To Win the Bout,Jack Catterall,-0.011900000000000022,0.8095,0.8214
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Kenny Perry,-0.0127,0.0005,0.0132
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Matt Gogel,-0.0136,0.0005,0.0141
 2024-10-26 23:25:16.316118,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.013799999999999923,0.6226,0.6364
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Doug Barron,-0.0139,0.0057,0.0196
-2024-10-26 23:25:16.387862,Championship - England Championship 2024/25 - Winner,Burnley,-0.013999999999999999,0.0769,0.0909
 2024-10-26 23:25:16.316118,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,-0.013999999999999999,0.0769,0.0909
+2024-10-26 23:25:16.387862,Championship - England Championship 2024/25 - Winner,Burnley,-0.013999999999999999,0.0769,0.0909
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Ken Tanigawa,-0.014400000000000001,0.002,0.0164
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Billy Andrade,-0.0145,0.0007,0.0152
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Ken Duke,-0.0147,0.0005,0.0152
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Thomas Bjorn,-0.015300000000000001,0.0435,0.0588
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Kristen Gillman,-0.0154,0.001,0.0164
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Steve Flesch,-0.0154,0.001,0.0164
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Ariya Jutanugarn,-0.0154,0.001,0.0164
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Stephen Ames,-0.0172,0.0007,0.0179
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Mike Weir,-0.0186,0.001,0.0196
 2024-10-26 15:25:43.242872,Round Match-Ups - Final Round Match-Up - M. Homa v M. Kuchar - Final Round Match-Up,Max Homa,-0.01880000000000004,0.5556,0.5744
 2024-10-26 20:25:56.709982,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,-0.018900000000000028,0.4255,0.4444
 2024-10-26 16:31:11.711276,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,-0.01959999999999995,0.6774,0.697
-2024-10-26 23:25:16.311737,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,-0.022199999999999998,0.7778,0.8
 2024-10-26 18:32:07.175261,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,-0.022199999999999998,0.6552,0.6774
+2024-10-26 23:25:16.311737,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,-0.022199999999999998,0.7778,0.8
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Ernie Els,-0.023100000000000002,0.0013,0.0244
 2024-10-26 17:27:43.399470,Round Match-Ups - Final Round Match-Up - H. Hall vs G. Woodland - Final Round Match-Up,Gary Woodland,-0.023800000000000043,0.5,0.5238
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Gabriela Ruffels,-0.025799999999999997,0.002,0.0278
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Y E Yang,-0.0283,0.0152,0.0435
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Ricardo Gonzalez,-0.0345,0.004,0.0385
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Mao Saigo,-0.0365,0.002,0.0385
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Celine Boutier,-0.04239999999999999,0.0345,0.0769
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Jerry Kelly,-0.0466,0.001,0.0476
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Wei Ling Hsu,-0.049300000000000004,0.0033,0.0526
 2024-10-26 17:27:43.221241,Boxing Lines - Vincenzo La Femina vs Jordan Camacho - To Win the Bout,Vincenzo La Femina,-0.04930000000000001,0.7333,0.7826
 2024-10-26 23:25:18.181492,Simmons Bank Championship - Simmons Bank Championship - Winner,Steven Alker,-0.054800000000000015,0.3226,0.3774
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Marina Alex,-0.056799999999999996,0.0099,0.0667
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Na Rin An,-0.0657,0.001,0.0667
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Maja Stark,-0.0807,0.0526,0.1333
-2024-10-26 14:26:57.895229,Maybank Championship - Maybank Championship - Winner,Hye Jin Choi,-0.10940000000000001,0.0017,0.1111
-2024-10-26 14:26:57.868152,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 68.5,-0.11119999999999997,0.4444,0.5556
 2024-10-26 23:25:16.300145,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.12260000000000004,0.5,0.6226
-2024-10-26 14:26:57.885154,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 66.5,-0.14859999999999995,0.4878,0.6364
 2024-10-26 18:32:07.210805,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.16450000000000004,0.4651,0.6296
