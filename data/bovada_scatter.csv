@@ -1,22 +1,30 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,0.05020000000000002,0.4348,0.3846
 2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hannover 96,0.034100000000000005,0.125,0.0909
 2024-10-29 03:34:37.358032,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Club América,0.031799999999999995,0.1429,0.1111
 2024-10-29 03:34:37.358032,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Deportivo Toluca,0.028799999999999992,0.1538,0.125
+2024-10-29 04:31:51.077474,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Shabaz Masoud,0.017299999999999982,0.303,0.2857
 2024-10-29 01:55:17.907597,B League - Japan B-League 2024/25 - Outright,Shimane Susanoo Magic,0.016600000000000004,0.0833,0.0667
 2024-10-28 21:25:30.658967,TOTO Japan Classic - TOTO Japan Classic - Winner,Haeran Ryu,0.015700000000000006,0.1333,0.1176
-2024-10-28 16:35:41.818576,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.01419999999999999,0.3846,0.3704
 2024-10-28 16:35:41.814188,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.01419999999999999,0.3846,0.3704
+2024-10-28 16:35:41.818576,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.01419999999999999,0.3846,0.3704
 2024-10-28 22:29:56.142383,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Liam Davies,0.0131,0.7778,0.7647
 2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Fortuna Düsseldorf,0.011700000000000016,0.2222,0.2105
 2024-10-28 22:29:56.190100,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,0.01150000000000001,0.3448,0.3333
+2024-10-29 04:31:50.437380,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.011499999999999955,0.6667,0.6552
+2024-10-29 04:31:50.433452,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011499999999999955,0.6667,0.6552
+2024-10-28 21:25:30.689359,Indonesian Masters - Indonesian Masters - Winner,John Catlin,0.011099999999999999,0.1111,0.1
 2024-10-29 01:55:17.907597,B League - Japan B-League 2024/25 - Outright,San En Neo Phoenix,0.011099999999999999,0.1111,0.1
 2024-10-28 21:25:30.664089,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Rasmus Neergaard-Petersen,0.011099999999999999,0.1111,0.1
-2024-10-28 21:25:30.689359,Indonesian Masters - Indonesian Masters - Winner,John Catlin,0.011099999999999999,0.1111,0.1
 2024-10-29 03:34:37.358032,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Atlético San Luis,0.010100000000000001,0.0345,0.0244
 2024-10-28 23:25:37.263516,LNB Pro A - France LNB Pro A 2024/25 - Winner,AS Monaco,-0.010300000000000087,0.7333,0.7436
 2024-10-28 22:29:56.190100,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Gilberto Ramirez,-0.011099999999999999,0.7222,0.7333
 2024-10-28 16:35:41.818576,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.011499999999999955,0.6552,0.6667
 2024-10-28 16:35:41.814188,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.011499999999999955,0.6552,0.6667
+2024-10-29 04:31:51.077474,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Liam Davies,-0.0131,0.7647,0.7778
+2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.013999999999999999,0.0769,0.0909
+2024-10-29 04:31:50.437380,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.01419999999999999,0.3704,0.3846
+2024-10-29 04:31:50.433452,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.01419999999999999,0.3704,0.3846
 2024-10-29 03:34:37.354249,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Diber Cambindo,-0.014900000000000004,0.0196,0.0345
 2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,-0.015100000000000002,0.1667,0.1818
 2024-10-29 03:34:37.358032,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,-0.015700000000000006,0.1176,0.1333
@@ -24,4 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.01759999999999999,0.1,0.1176
 2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,-0.018099999999999998,0.0588,0.0769
 2024-10-28 21:25:30.658967,TOTO Japan Classic - TOTO Japan Classic - Winner,Jin Young Ko,-0.018099999999999998,0.0588,0.0769
+2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.018900000000000028,0.4255,0.4444
+2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,-0.02020000000000001,0.0909,0.1111
+2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,-0.0392,0.0196,0.0588
 2024-10-29 03:34:37.358032,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Cruz Azul,-0.045499999999999985,0.4545,0.5
