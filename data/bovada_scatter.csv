@@ -16,8 +16,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 09:28:23.121659,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,0.09999999999999999,0.1667,0.0667
 2024-10-29 07:26:55.349465,MLB World Series Specials - Hits Specials -  Player To Record 6+ Hits in 2024 World Series,Giancarlo Stanton (NYY),0.09999999999999998,0.6,0.5
 2024-10-29 08:32:54.143488,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 50.5,0.09830000000000005,0.5238,0.4255
-2024-10-29 09:28:23.882970,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 38.5,0.09040000000000004,0.5348,0.4444
 2024-10-29 08:32:53.839486,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,Yes,0.09040000000000004,0.5348,0.4444
+2024-10-29 09:28:23.882970,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 38.5,0.09040000000000004,0.5348,0.4444
 2024-10-29 10:33:22.777199,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kirk Cousins (ATL),0.08329999999999999,0.3333,0.25
 2024-10-29 07:26:54.374483,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.08039999999999997,0.5455,0.4651
 2024-10-29 09:28:23.035531,League One - England League One 2024/25 - Top 2 Finish,Barnsley,0.0799,0.0909,0.011
@@ -38,6 +38,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 09:28:22.973463,Championship - England Championship 2024/25 - Top Goalscorer,Borja Sainz,0.05710000000000001,0.2,0.1429
 2024-10-29 09:28:22.887097,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.05559999999999998,0.5556,0.5
 2024-10-29 07:26:55.397300,Stat Leaders - Most Hits in the 2024 World Series - Most Hits in the 2024 World Series,Teoscar Hernández (LAD),0.05550000000000002,0.2222,0.1667
+2024-10-29 15:29:07.216242,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),0.05550000000000002,0.2222,0.1667
 2024-10-29 05:30:08.309749,AFC North - AFC North 2024/25 - AFC North Winner,Pittsburgh Steelers,0.055499999999999994,0.3333,0.2778
 2024-10-29 06:35:59.875231,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.05300000000000005,0.5652,0.5122
 2024-10-29 09:28:22.892930,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Internacional,0.0524,0.9615,0.9091
@@ -45,8 +46,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 08:32:53.800116,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,0.05130000000000001,0.6667,0.6154
 2024-10-29 10:33:22.785168,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),0.0504,0.2857,0.2353
 2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,0.05020000000000002,0.4348,0.3846
-2024-10-29 09:28:22.887097,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,0.04849999999999999,0.2985,0.25
 2024-10-29 07:26:54.381140,NBA Championship - NBA Championship 2024-25 - First Time Winner,No,0.04849999999999999,0.8667,0.8182
+2024-10-29 09:28:22.887097,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,0.04849999999999999,0.2985,0.25
 2024-10-29 09:28:22.887097,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cuiabá,0.04710000000000003,0.9804,0.9333
 2024-10-29 08:32:53.835244,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,No,0.045499999999999985,0.5,0.4545
 2024-10-29 10:33:22.964444,Aramco Team Series Riyadh - Aramco Team Series Riyadh - Winner,Manon De Roey,0.0451,0.0476,0.0025
@@ -64,9 +65,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 07:26:55.349465,MLB World Series Specials - Hits Specials -  Player To Record 6+ Hits in 2024 World Series,Enrique Hernandez (LAD),0.03570000000000001,0.2857,0.25
 2024-10-29 06:35:59.868060,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.035699999999999954,0.75,0.7143
 2024-10-29 08:32:53.847927,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,Yes,0.03420000000000001,0.2564,0.2222
-2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hannover 96,0.034100000000000005,0.125,0.0909
-2024-10-29 08:32:54.127061,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 19.5,0.033299999999999996,0.5455,0.5122
 2024-10-29 06:35:59.894612,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,0.033299999999999996,0.4878,0.4545
+2024-10-29 08:32:54.127061,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 19.5,0.033299999999999996,0.5455,0.5122
 2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Alex Verdugo (NYY),0.032400000000000005,0.0476,0.0152
 2024-10-29 08:32:53.813643,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,No,0.03210000000000002,0.9412,0.9091
 2024-10-29 03:34:37.358032,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Club América,0.031799999999999995,0.1429,0.1111
@@ -90,9 +90,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 09:28:22.887097,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.021999999999999964,0.3077,0.2857
 2024-10-29 08:32:53.826539,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,No,0.021699999999999997,0.2439,0.2222
 2024-10-29 10:33:22.964444,Aramco Team Series Riyadh - Aramco Team Series Riyadh - Winner,Bronte Law,0.021199999999999997,0.0278,0.0066
-2024-10-29 09:28:23.862830,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 26.5,0.02079999999999993,0.5556,0.5348
-2024-10-29 05:30:08.314431,NFC East - NFC East 2024/25 - NFC East Winner,Philadelphia Eagles,0.02079999999999993,0.5556,0.5348
 2024-10-29 09:28:23.917788,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,0.02079999999999993,0.5556,0.5348
+2024-10-29 05:30:08.314431,NFC East - NFC East 2024/25 - NFC East Winner,Philadelphia Eagles,0.02079999999999993,0.5556,0.5348
+2024-10-29 09:28:23.862830,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 26.5,0.02079999999999993,0.5556,0.5348
 2024-10-29 08:32:53.852077,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,0.020299999999999985,0.6429,0.6226
 2024-10-29 08:32:54.132503,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 30.5,0.01970000000000005,0.5652,0.5455
 2024-10-29 08:32:54.097241,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),0.01949999999999999,0.0909,0.0714
@@ -115,9 +115,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 09:28:23.026023,League One - England League One 2024/25 - To Be Promoted,Rotherham Utd,0.016700000000000007,0.1,0.0833
 2024-10-29 09:28:23.038665,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,0.016699999999999993,0.2667,0.25
 2024-10-29 09:28:22.973463,Championship - England Championship 2024/25 - Top Goalscorer,Haji Wright,0.016600000000000004,0.0833,0.0667
-2024-10-29 06:35:59.894612,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,0.015100000000000002,0.1818,0.1667
-2024-10-29 09:28:23.029188,League One - England League One 2024/25 - To Be Relegated,Leyton Orient,0.015100000000000002,0.1818,0.1667
 2024-10-29 10:33:22.964444,Aramco Team Series Riyadh - Aramco Team Series Riyadh - Winner,Alice Hewson,0.015100000000000002,0.0164,0.0013
+2024-10-29 09:28:23.029188,League One - England League One 2024/25 - To Be Relegated,Leyton Orient,0.015100000000000002,0.1818,0.1667
+2024-10-29 06:35:59.894612,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,0.015100000000000002,0.1818,0.1667
 2024-10-29 10:33:22.964444,Aramco Team Series Riyadh - Aramco Team Series Riyadh - Winner,Caroline Hedwall,0.014700000000000001,0.0164,0.0017
 2024-10-29 10:33:22.964444,Aramco Team Series Riyadh - Aramco Team Series Riyadh - Winner,Nastasia Nadaud,0.014599999999999998,0.0196,0.005
 2024-10-29 08:32:54.101154,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Paolo Banchero (ORL),0.0145,0.0244,0.0099
@@ -133,7 +133,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 09:28:23.126404,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,FC Porto,0.012799999999999978,0.2985,0.2857
 2024-10-29 09:28:22.809116,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.012700000000000045,0.6491,0.6364
 2024-10-29 09:28:22.892930,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Flamengo,0.012599999999999945,0.993,0.9804
-2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Fortuna Düsseldorf,0.011700000000000016,0.2222,0.2105
 2024-10-29 12:51:04.749927,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Georgia,0.011700000000000016,0.2222,0.2105
 2024-10-29 10:33:22.964444,Aramco Team Series Riyadh - Aramco Team Series Riyadh - Winner,Anne Van Dam,0.011699999999999999,0.0196,0.0079
 2024-10-29 04:31:50.437380,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.011499999999999955,0.6667,0.6552
@@ -144,9 +143,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 09:28:23.029188,League One - England League One 2024/25 - To Be Relegated,Burton Albion,0.01090000000000002,0.8571,0.8462
 2024-10-29 10:33:22.780970,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),0.010899999999999993,0.1538,0.1429
 2024-10-29 10:33:22.995492,Indonesian Masters - Indonesian Masters - Winner,Richard T Lee,0.010700000000000001,0.0385,0.0278
+2024-10-29 08:32:54.153948,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 51.5,0.010699999999999932,0.5455,0.5348
 2024-10-29 09:28:23.958060,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 28.5,0.010699999999999932,0.5455,0.5348
 2024-10-29 09:28:23.963233,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 26.5,0.010699999999999932,0.5455,0.5348
-2024-10-29 08:32:54.153948,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 51.5,0.010699999999999932,0.5455,0.5348
 2024-10-29 10:33:22.969698,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Tapio Pulkkanen,0.010600000000000002,0.0323,0.0217
 2024-10-29 07:26:54.366114,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs LA Lakers,0.010600000000000002,0.0323,0.0217
 2024-10-29 07:26:55.397300,Stat Leaders - Most Hits in the 2024 World Series - Most Hits in the 2024 World Series,Freddie Freeman (LAD),0.010399999999999993,0.2326,0.2222
@@ -155,24 +154,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 03:34:37.358032,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Atlético San Luis,0.010100000000000001,0.0345,0.0244
 2024-10-29 06:35:59.889940,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.010099999999999998,0.6875,0.6774
 2024-10-29 09:28:23.927754,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 48.5,-0.010099999999999998,0.5455,0.5556
-2024-10-29 10:33:22.995492,Indonesian Masters - Indonesian Masters - Winner,Poom Saksansin,-0.010300000000000002,0.0141,0.0244
-2024-10-29 07:26:55.360280,MLB World Series Specials - Hits Specials - Player To Record 12+ Hits in 2024 World Series,Jazz Chisholm (NYY),-0.010300000000000002,0.0141,0.0244
 2024-10-29 07:26:55.360280,MLB World Series Specials - Hits Specials - Player To Record 12+ Hits in 2024 World Series,Gleyber Torres (NYY),-0.010300000000000002,0.0141,0.0244
+2024-10-29 07:26:55.360280,MLB World Series Specials - Hits Specials - Player To Record 12+ Hits in 2024 World Series,Jazz Chisholm (NYY),-0.010300000000000002,0.0141,0.0244
+2024-10-29 10:33:22.995492,Indonesian Masters - Indonesian Masters - Winner,Poom Saksansin,-0.010300000000000002,0.0141,0.0244
 2024-10-29 09:28:23.948100,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 44.5,-0.010699999999999932,0.5348,0.5455
 2024-10-29 09:28:22.809116,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,-0.010899999999999993,0.1429,0.1538
 2024-10-29 09:28:23.963233,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 26.5,-0.01100000000000001,0.5238,0.5348
-2024-10-29 09:28:23.958060,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 28.5,-0.01100000000000001,0.5238,0.5348
 2024-10-29 08:32:54.153948,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 51.5,-0.01100000000000001,0.5238,0.5348
-2024-10-29 07:26:54.366114,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Denver Nuggets,-0.011099999999999999,0.0556,0.0667
-2024-10-29 09:28:23.038665,League One - England League One 2024/25 - Top 6 Finish,Exeter City,-0.011099999999999999,0.1,0.1111
-2024-10-29 06:35:59.889940,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.011099999999999999,0.1,0.1111
-2024-10-29 07:26:55.356658,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Giancarlo Stanton (NYY),-0.011099999999999999,0.0556,0.0667
+2024-10-29 09:28:23.958060,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 28.5,-0.01100000000000001,0.5238,0.5348
 2024-10-29 08:32:54.101154,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),-0.011099999999999999,0.1,0.1111
+2024-10-29 07:26:55.356658,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Giancarlo Stanton (NYY),-0.011099999999999999,0.0556,0.0667
+2024-10-29 06:35:59.889940,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.011099999999999999,0.1,0.1111
+2024-10-29 09:28:23.038665,League One - England League One 2024/25 - Top 6 Finish,Exeter City,-0.011099999999999999,0.1,0.1111
 2024-10-29 09:28:24.777249,Boxing Lines - Khalil Coe vs Manuel Gallegos - To Win the Bout,Manuel Gallegos,-0.011099999999999999,0.1,0.1111
+2024-10-29 07:26:54.366114,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Denver Nuggets,-0.011099999999999999,0.0556,0.0667
 2024-10-29 08:32:53.916361,To Make the Playoffs - Utah Jazz 2024-25 - To Make the Playoffs,Yes,-0.011199999999999995,0.0323,0.0435
 2024-10-29 09:28:22.973463,Championship - England Championship 2024/25 - Top Goalscorer,Thomas Cannon,-0.011199999999999995,0.0476,0.0588
-2024-10-29 08:32:54.921803,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Will Smith (LAD),-0.011200000000000002,0.0132,0.0244
 2024-10-29 08:32:54.921803,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Max Muncy (LAD),-0.011200000000000002,0.0132,0.0244
+2024-10-29 08:32:54.921803,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Will Smith (LAD),-0.011200000000000002,0.0132,0.0244
 2024-10-29 06:36:00.820286,MLB World Series MVP - World Series MVP  - World Series MVP,Enrique Hernandez (LAD),-0.0113,0.0066,0.0179
 2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Anthony Volpe (NYY),-0.012100000000000001,0.0123,0.0244
 2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Enrique Hernandez (LAD),-0.012100000000000001,0.0123,0.0244
@@ -183,13 +182,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 07:26:55.383358,MLB World Series Specials - Stolen Bases Specials - Player To Record 3+ Stolen Bases in 2024 World Series,Teoscar Hernandez (LAD),-0.012700000000000003,0.0196,0.0323
 2024-10-29 09:28:23.038665,League One - England League One 2024/25 - Top 6 Finish,Wrexham,-0.012700000000000045,0.6364,0.6491
 2024-10-29 09:28:22.883902,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Pablo Vegetti (Vasco Da Gama),-0.012899999999999995,0.1538,0.1667
-2024-10-29 09:28:23.026023,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.012899999999999995,0.1538,0.1667
 2024-10-29 09:28:23.035531,League One - England League One 2024/25 - Top 2 Finish,Wycombe,-0.012899999999999995,0.1538,0.1667
+2024-10-29 09:28:23.026023,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.012899999999999995,0.1538,0.1667
 2024-10-29 09:28:22.890013,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,-0.012899999999999995,0.1538,0.1667
 2024-10-29 04:31:51.077474,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Liam Davies,-0.0131,0.7647,0.7778
 2024-10-29 07:26:55.360280,MLB World Series Specials - Hits Specials - Player To Record 12+ Hits in 2024 World Series,Aaron Judge (NYY),-0.013699999999999999,0.0141,0.0278
-2024-10-29 08:32:53.864841,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,No,-0.013899999999999996,0.129,0.1429
 2024-10-29 07:26:54.389583,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Milwaukee Bucks,-0.013899999999999996,0.1111,0.125
+2024-10-29 08:32:53.864841,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,No,-0.013899999999999996,0.129,0.1429
 2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.013999999999999999,0.0769,0.0909
 2024-10-29 08:32:54.089475,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Luka Doncic (DAL),-0.013999999999999999,0.0769,0.0909
 2024-10-29 09:28:22.973463,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,-0.013999999999999999,0.0769,0.0909
@@ -200,9 +199,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 08:32:53.830835,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,-0.01440000000000001,0.0909,0.1053
 2024-10-29 05:30:07.178898,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Randers,-0.014499999999999999,0.0149,0.0294
 2024-10-29 03:34:37.354249,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Diber Cambindo,-0.014900000000000004,0.0196,0.0345
-2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,-0.015100000000000002,0.1667,0.1818
-2024-10-29 09:28:23.035531,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,-0.015100000000000002,0.1667,0.1818
 2024-10-29 05:30:07.178898,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,-0.015100000000000002,0.1667,0.1818
+2024-10-29 09:28:23.035531,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,-0.015100000000000002,0.1667,0.1818
 2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Gavin Lux (LAD),-0.015499999999999998,0.0123,0.0278
 2024-10-29 07:26:55.375416,MLB World Series Specials - Home Runs Specials -  Player To Record 5+ Home Runs in 2024 World Series,Aaron Judge (NYY),-0.015499999999999998,0.0123,0.0278
 2024-10-29 03:34:37.358032,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,-0.015700000000000006,0.1176,0.1333
@@ -210,41 +208,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 09:28:23.038665,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.016699999999999993,0.25,0.2667
 2024-10-29 06:35:59.868060,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.016699999999999993,0.25,0.2667
 2024-10-29 09:28:23.126404,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Sporting CP,-0.01759999999999995,0.6491,0.6667
-2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.01759999999999999,0.1,0.1176
 2024-10-29 05:30:08.290365,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,New York Giants,-0.017599999999999998,0.002,0.0196
 2024-10-29 12:51:03.793564,BNXT League - BNXT League 2024/25 - Outright,Limburg United,-0.0179,0.125,0.1429
-2024-10-29 02:58:43.977543,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,-0.018099999999999998,0.0588,0.0769
-2024-10-29 08:32:53.809153,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,Yes,-0.01820000000000002,0.1818,0.2
 2024-10-29 07:26:55.353053,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Giancarlo Stanton (NYY),-0.01820000000000002,0.1818,0.2
 2024-10-29 08:32:54.101154,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jayson Tatum (BOS),-0.01820000000000002,0.1818,0.2
+2024-10-29 08:32:53.809153,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,Yes,-0.01820000000000002,0.1818,0.2
 2024-10-29 08:32:54.926329,Stat Leaders - Most Stolen Bases in the 2024 World Series - Most Stolen Bases in the 2024 World Series,Shohei Ohtani (LAD),-0.0189,0.0196,0.0385
 2024-10-29 08:32:54.926329,Stat Leaders - Most Stolen Bases in the 2024 World Series - Most Stolen Bases in the 2024 World Series,Anthony Volpe (NYY),-0.0189,0.0196,0.0385
-2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.018900000000000028,0.4255,0.4444
 2024-10-29 08:32:53.852077,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,-0.018900000000000028,0.4255,0.4444
+2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.018900000000000028,0.4255,0.4444
 2024-10-29 08:32:54.921803,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Tommy Edman (LAD),-0.019100000000000002,0.0132,0.0323
 2024-10-29 09:28:23.953065,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 35.5,-0.01970000000000005,0.5455,0.5652
-2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Anthony Rizzo (NYY),-0.020000000000000004,0.0123,0.0323
 2024-10-29 07:26:55.371809,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Max Muncy (LAD),-0.020000000000000004,0.0123,0.0323
 2024-10-29 07:26:55.371809,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Mookie Betts (LAD),-0.020000000000000004,0.0123,0.0323
+2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Anthony Rizzo (NYY),-0.020000000000000004,0.0123,0.0323
 2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Gleyber Torres (NYY),-0.020000000000000004,0.0123,0.0323
-2024-10-29 10:33:22.995492,Indonesian Masters - Indonesian Masters - Winner,John Catlin,-0.02020000000000001,0.0909,0.1111
 2024-10-29 04:31:49.863185,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,-0.02020000000000001,0.0909,0.1111
+2024-10-29 10:33:22.995492,Indonesian Masters - Indonesian Masters - Winner,John Catlin,-0.02020000000000001,0.0909,0.1111
 2024-10-29 08:32:53.920658,To Make the Playoffs - Washington Wizards 2024-25 - To Make the Playoffs,Yes,-0.0203,0.0323,0.0526
 2024-10-29 08:32:53.899226,To Make the Playoffs - Portland Trail Blazers 2024-25 - To Make the Playoffs,Yes,-0.0203,0.0323,0.0526
 2024-10-29 09:28:23.852823,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,-0.02079999999999993,0.5348,0.5556
 2024-10-29 09:28:23.026023,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,-0.021999999999999964,0.2857,0.3077
-2024-10-29 08:32:54.097241,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),-0.022199999999999998,0.1111,0.1333
-2024-10-29 09:28:22.887097,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,-0.022199999999999998,0.2,0.2222
-2024-10-29 10:33:22.958848,TOTO Japan Classic - TOTO Japan Classic - Winner,Haeran Ryu,-0.022199999999999998,0.1111,0.1333
 2024-10-29 06:35:59.885180,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.022199999999999998,0.2,0.2222
-2024-10-29 07:26:55.401876,Stat Leaders - Most Home Runs in the 2024 World Series - Most Home Runs in the 2024 World Series,Max Muncy (LAD),-0.022400000000000003,0.0099,0.0323
+2024-10-29 09:28:22.887097,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,-0.022199999999999998,0.2,0.2222
+2024-10-29 08:32:54.097241,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),-0.022199999999999998,0.1111,0.1333
+2024-10-29 10:33:22.958848,TOTO Japan Classic - TOTO Japan Classic - Winner,Haeran Ryu,-0.022199999999999998,0.1111,0.1333
 2024-10-29 07:26:55.401876,Stat Leaders - Most Home Runs in the 2024 World Series - Most Home Runs in the 2024 World Series,Mookie Betts (LAD),-0.022400000000000003,0.0099,0.0323
+2024-10-29 07:26:55.401876,Stat Leaders - Most Home Runs in the 2024 World Series - Most Home Runs in the 2024 World Series,Max Muncy (LAD),-0.022400000000000003,0.0099,0.0323
 2024-10-29 09:28:23.917788,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,-0.022600000000000064,0.5122,0.5348
 2024-10-29 06:36:00.820286,MLB World Series MVP - World Series MVP  - World Series MVP,Max Muncy (LAD),-0.022799999999999997,0.005,0.0278
 2024-10-29 09:28:23.862830,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 26.5,-0.023800000000000043,0.5,0.5238
 2024-10-29 06:36:00.820286,MLB World Series MVP - World Series MVP  - World Series MVP,Aaron Judge (NYY),-0.023899999999999998,0.0196,0.0435
-2024-10-29 08:32:54.101154,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.0242,0.0667,0.0909
 2024-10-29 08:32:54.097241,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Victor Wembanyama (SAS),-0.0242,0.0667,0.0909
+2024-10-29 08:32:54.101154,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.0242,0.0667,0.0909
 2024-10-29 07:26:55.364752,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Anthony Volpe (NYY),-0.024299999999999995,0.0526,0.0769
 2024-10-29 07:26:55.360280,MLB World Series Specials - Hits Specials - Player To Record 12+ Hits in 2024 World Series,Mookie Betts (LAD),-0.024399999999999998,0.0141,0.0385
 2024-10-29 07:26:55.371809,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Tommy Edman (LAD),-0.024399999999999998,0.0141,0.0385
@@ -257,18 +253,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 08:32:54.089475,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Stephen Curry (GSW),-0.02840000000000001,0.0769,0.1053
 2024-10-29 08:32:53.813643,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,Yes,-0.028799999999999992,0.125,0.1538
 2024-10-29 09:28:23.038665,League One - England League One 2024/25 - Top 6 Finish,Wycombe,-0.028900000000000037,0.5455,0.5744
-2024-10-29 07:26:55.364752,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Gavin Lux (LAD),-0.029299999999999993,0.0476,0.0769
 2024-10-29 05:30:07.178898,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Viborg FF,-0.029299999999999993,0.0476,0.0769
+2024-10-29 07:26:55.364752,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Gavin Lux (LAD),-0.029299999999999993,0.0476,0.0769
 2024-10-29 07:26:54.384495,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.032400000000000095,0.7403,0.7727
 2024-10-29 07:26:55.353053,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Anthony Rizzo (NYY),-0.03270000000000001,0.0625,0.0952
 2024-10-29 08:32:54.127061,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 19.5,-0.033299999999999996,0.5122,0.5455
 2024-10-29 10:33:22.780970,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Dexter Lawrence (NYG),-0.03330000000000001,0.0667,0.1
-2024-10-29 07:26:54.389583,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.033300000000000024,0.1667,0.2
 2024-10-29 10:33:21.209811,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,-0.033300000000000024,0.1667,0.2
+2024-10-29 07:26:54.389583,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.033300000000000024,0.1667,0.2
 2024-10-29 07:26:55.379775,MLB World Series Specials - Stolen Bases Specials - Player To Record 2+ Stolen Bases in 2024 World Series,Aaron Judge (NYY),-0.0334,0.0435,0.0769
 2024-10-29 06:35:59.875231,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,-0.03420000000000001,0.2222,0.2564
-2024-10-29 08:32:54.921803,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Aaron Judge (NYY),-0.0344,0.0132,0.0476
 2024-10-29 09:28:22.890013,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.0344,0.0244,0.0588
+2024-10-29 08:32:54.921803,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Aaron Judge (NYY),-0.0344,0.0132,0.0476
 2024-10-29 08:32:54.921803,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Mookie Betts (LAD),-0.0344,0.0132,0.0476
 2024-10-29 09:28:23.038665,League One - England League One 2024/25 - Top 6 Finish,Barnsley,-0.0348,0.4,0.4348
 2024-10-29 09:28:23.932718,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 47.5,-0.03480000000000005,0.5,0.5348
@@ -304,9 +300,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 08:32:53.835244,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,Yes,-0.05019999999999991,0.5652,0.6154
 2024-10-29 10:33:22.789414,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell (PHI),-0.0509,0.0667,0.1176
 2024-10-29 07:26:55.379775,MLB World Series Specials - Stolen Bases Specials - Player To Record 2+ Stolen Bases in 2024 World Series,Juan Soto (NYY),-0.052399999999999995,0.0385,0.0909
-2024-10-29 07:26:55.371809,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Aaron Judge (NYY),-0.05249999999999999,0.0244,0.0769
-2024-10-29 06:36:00.820286,MLB World Series MVP - World Series MVP  - World Series MVP,Giancarlo Stanton (NYY),-0.05249999999999999,0.0244,0.0769
 2024-10-29 06:36:00.820286,MLB World Series MVP - World Series MVP  - World Series MVP,Juan Soto (NYY),-0.05249999999999999,0.0244,0.0769
+2024-10-29 06:36:00.820286,MLB World Series MVP - World Series MVP  - World Series MVP,Giancarlo Stanton (NYY),-0.05249999999999999,0.0244,0.0769
+2024-10-29 07:26:55.371809,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Aaron Judge (NYY),-0.05249999999999999,0.0244,0.0769
 2024-10-29 08:32:54.921803,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Juan Soto (NYY),-0.05349999999999999,0.0132,0.0667
 2024-10-29 08:32:53.800116,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,-0.05449999999999999,0.4,0.4545
 2024-10-29 07:26:55.379775,MLB World Series Specials - Stolen Bases Specials - Player To Record 2+ Stolen Bases in 2024 World Series,Teoscar Hernandez (LAD),-0.055099999999999996,0.0625,0.1176
@@ -316,8 +312,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 07:26:55.360280,MLB World Series Specials - Hits Specials - Player To Record 12+ Hits in 2024 World Series,Freddie Freeman (LAD),-0.0555,0.0278,0.0833
 2024-10-29 07:26:55.371809,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Teoscar Hernandez (LAD),-0.05670000000000001,0.0385,0.0952
 2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Max Muncy (LAD),-0.05670000000000001,0.0385,0.0952
-2024-10-29 07:26:55.383358,MLB World Series Specials - Stolen Bases Specials - Player To Record 3+ Stolen Bases in 2024 World Series,Mookie Betts (LAD),-0.0573,0.0196,0.0769
 2024-10-29 07:26:55.356658,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Aaron Judge (NYY),-0.0573,0.0196,0.0769
+2024-10-29 07:26:55.383358,MLB World Series Specials - Stolen Bases Specials - Player To Record 3+ Stolen Bases in 2024 World Series,Mookie Betts (LAD),-0.0573,0.0196,0.0769
 2024-10-29 09:28:23.887984,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 44.5,-0.057699999999999974,0.4878,0.5455
 2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Mookie Betts (LAD),-0.05859999999999999,0.0323,0.0909
 2024-10-29 06:36:00.820286,MLB World Series MVP - World Series MVP  - World Series MVP,Mookie Betts (LAD),-0.0605,0.0164,0.0769
@@ -328,14 +324,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 09:28:23.968264,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 19.5,-0.06520000000000004,0.5,0.5652
 2024-10-29 08:32:53.860737,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,No,-0.06589999999999999,0.2326,0.2985
 2024-10-29 10:33:22.777199,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Aaron Rodgers (NYJ),-0.06620000000000001,0.0588,0.125
-2024-10-29 06:36:00.820286,MLB World Series MVP - World Series MVP  - World Series MVP,Shohei Ohtani (LAD),-0.06699999999999999,0.0099,0.0769
 2024-10-29 07:26:55.401876,Stat Leaders - Most Home Runs in the 2024 World Series - Most Home Runs in the 2024 World Series,Aaron Judge (NYY),-0.06699999999999999,0.0099,0.0769
+2024-10-29 06:36:00.820286,MLB World Series MVP - World Series MVP  - World Series MVP,Shohei Ohtani (LAD),-0.06699999999999999,0.0099,0.0769
 2024-10-29 07:26:55.375416,MLB World Series Specials - Home Runs Specials -  Player To Record 5+ Home Runs in 2024 World Series,Giancarlo Stanton (NYY),-0.06740000000000002,0.0278,0.0952
 2024-10-29 09:28:23.872869,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 42.5,-0.06789999999999996,0.5238,0.5917
 2024-10-29 08:32:53.873206,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,Yes,-0.06989999999999996,0.5455,0.6154
 2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Aaron Judge (NYY),-0.0705,0.0833,0.1538
-2024-10-29 07:26:55.371809,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Giancarlo Stanton (NYY),-0.0708,0.0625,0.1333
 2024-10-29 07:26:55.375416,MLB World Series Specials - Home Runs Specials -  Player To Record 5+ Home Runs in 2024 World Series,Juan Soto (NYY),-0.0708,0.0244,0.0952
+2024-10-29 07:26:55.371809,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Giancarlo Stanton (NYY),-0.0708,0.0625,0.1333
 2024-10-29 07:26:55.356658,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Gleyber Torres (NYY),-0.0713,0.0196,0.0909
 2024-10-29 05:30:07.178898,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,-0.07130000000000003,0.9091,0.9804
 2024-10-29 07:26:55.360280,MLB World Series Specials - Hits Specials - Player To Record 12+ Hits in 2024 World Series,Juan Soto (NYY),-0.0756,0.0196,0.0952
@@ -409,8 +405,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-29 07:26:55.353053,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Freddie Freeman (LAD),-0.23810000000000003,0.2857,0.5238
 2024-10-29 07:26:55.383358,MLB World Series Specials - Stolen Bases Specials - Player To Record 3+ Stolen Bases in 2024 World Series,Tommy Edman (LAD),-0.2424,0.0909,0.3333
 2024-10-29 07:26:55.364752,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Shohei Ohtani (LAD),-0.2436,0.2326,0.4762
-2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Giancarlo Stanton (NYY),-0.24620000000000003,0.1538,0.4
 2024-10-29 07:26:55.353053,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Mookie Betts (LAD),-0.24620000000000003,0.1538,0.4
+2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Giancarlo Stanton (NYY),-0.24620000000000003,0.1538,0.4
 2024-10-29 07:26:55.368266,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Shohei Ohtani (LAD),-0.25,0.0833,0.3333
 2024-10-29 07:26:55.356658,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Tommy Edman (LAD),-0.2571,0.1,0.3571
 2024-10-29 07:26:55.383358,MLB World Series Specials - Stolen Bases Specials - Player To Record 3+ Stolen Bases in 2024 World Series,Shohei Ohtani (LAD),-0.2579,0.0278,0.2857
