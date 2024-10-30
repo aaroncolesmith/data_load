@@ -23,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 07:25:45.408875,MLB World Series Specials - Hits Specials -  Player To Record 6+ Hits in 2024 World Series,Shohei Ohtani (LAD),0.10390000000000002,0.2857,0.1818
 2024-10-30 12:50:41.116144,Stat Leaders - Most Hits in the 2024 World Series - Most Hits in the 2024 World Series,Freddie Freeman (LAD),0.10069999999999998,0.3333,0.2326
 2024-10-30 12:50:39.548987,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Mikey Madison - Anora,0.09999999999999998,0.5,0.4
-2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Mookie Betts (LAD),0.09620000000000001,0.25,0.1538
 2024-10-30 07:25:45.408875,MLB World Series Specials - Hits Specials -  Player To Record 6+ Hits in 2024 World Series,Aaron Judge (NYY),0.09620000000000001,0.25,0.1538
+2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Mookie Betts (LAD),0.09620000000000001,0.25,0.1538
 2024-10-30 09:28:11.443640,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Chandler Kinney,0.09230000000000005,0.4,0.3077
 2024-10-30 09:28:11.443640,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Joey Graziadei,0.09099999999999997,0.5455,0.4545
 2024-10-30 12:50:41.116144,Stat Leaders - Most Hits in the 2024 World Series - Most Hits in the 2024 World Series,Teoscar Hernández (LAD),0.09029999999999999,0.3125,0.2222
@@ -40,8 +40,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Jazz Chisholm (NYY),0.06669999999999998,0.1667,0.1
 2024-10-30 12:50:39.540451,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,0.06519999999999998,0.3509,0.2857
 2024-10-30 12:50:41.120557,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Anthony Volpe (NYY),0.06369999999999999,0.0769,0.0132
-2024-10-30 07:25:45.441753,MLB World Series Specials - Stolen Bases Specials - Player To Record 3+ Stolen Bases in 2024 World Series,Shohei Ohtani (LAD),0.06309999999999999,0.0909,0.0278
 2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Anthony Volpe (NYY),0.06309999999999999,0.0909,0.0278
+2024-10-30 07:25:45.441753,MLB World Series Specials - Stolen Bases Specials - Player To Record 3+ Stolen Bases in 2024 World Series,Shohei Ohtani (LAD),0.06309999999999999,0.0909,0.0278
 2024-10-30 09:28:12.873253,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,"Jayden Daniels OROY, Saquon Barkley OPOY & TJ Watt DPOY",0.05859999999999999,0.0909,0.0323
 2024-10-30 07:25:45.415903,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Freddie Freeman (LAD),0.058599999999999985,0.1538,0.0952
 2024-10-30 06:38:57.710758,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Will Smith (LAD),0.0573,0.0769,0.0196
@@ -53,22 +53,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 12:50:39.648236,Oasis - Oasis Reunion: First Song 2025 - First Song (Stadium Concert 2025),Acquiesce,0.052000000000000005,0.1429,0.0909
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Jerry Kelly,0.049300000000000004,0.0526,0.0033
 2024-10-30 06:38:57.719495,MLB World Series MVP - World Series MVP  - World Series MVP,Anthony Volpe (NYY),0.048999999999999995,0.0556,0.0066
-2024-10-30 09:28:11.005914,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,0.047599999999999976,0.3333,0.2857
 2024-10-30 12:50:39.540451,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Brutalist,0.047599999999999976,0.3333,0.2857
+2024-10-30 09:28:11.005914,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,0.047599999999999976,0.3333,0.2857
 2024-10-30 09:28:11.172266,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,0.047599999999999976,0.3333,0.2857
 2024-10-30 10:33:10.483687,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Wolfsburg,0.0475,0.0769,0.0294
 2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,0.045499999999999985,0.5455,0.5
 2024-10-30 10:33:11.749396,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Thune,0.045499999999999985,0.5,0.4545
 2024-10-30 12:50:41.116144,Stat Leaders - Most Hits in the 2024 World Series - Most Hits in the 2024 World Series,Jazz Chisholm (NYY),0.044599999999999994,0.0769,0.0323
-2024-10-30 06:38:57.710758,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Gleyber Torres (NYY),0.0433,0.0556,0.0123
 2024-10-30 06:38:57.710758,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Anthony Volpe (NYY),0.0433,0.0556,0.0123
+2024-10-30 06:38:57.710758,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Gleyber Torres (NYY),0.0433,0.0556,0.0123
 2024-10-30 12:50:39.557402,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Denzel Washington - Gladiator II,0.04329999999999999,0.0909,0.0476
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Bernhard Langer,0.04239999999999999,0.0588,0.0164
 2024-10-30 07:25:45.415903,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Teoscar Hernandez (LAD),0.0417,0.125,0.0833
 2024-10-30 09:28:11.011859,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.04169999999999996,0.875,0.8333
 2024-10-30 16:33:58.979187,NBA Specials - NBA 2024/2025 NBA Regular Season - Total Games Played LeBron James - Proposition,Under 81.5,0.04169999999999996,0.875,0.8333
-2024-10-30 10:33:11.749396,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Cornyn,0.04040000000000002,0.2222,0.1818
 2024-10-30 09:28:11.249425,Serie B - Italy Serie B 2024/25 - Winner,Pisa,0.04040000000000002,0.2222,0.1818
+2024-10-30 10:33:11.749396,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Cornyn,0.04040000000000002,0.2222,0.1818
 2024-10-30 07:25:45.415903,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Juan Soto (NYY),0.0397,0.1111,0.0714
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Ernie Els,0.0384,0.0769,0.0385
 2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,0.03570000000000001,0.2857,0.25
@@ -76,8 +76,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 08:36:03.496912,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,0.033300000000000024,0.2,0.1667
 2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Shohei Ohtani (LAD),0.03330000000000001,0.1,0.0667
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Richard Green,0.0319,0.0385,0.0066
-2024-10-30 12:50:41.116144,Stat Leaders - Most Hits in the 2024 World Series - Most Hits in the 2024 World Series,Juan Soto (NYY),0.031799999999999995,0.1429,0.1111
 2024-10-30 10:33:10.557935,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.031799999999999995,0.2985,0.2667
+2024-10-30 12:50:41.116144,Stat Leaders - Most Hits in the 2024 World Series - Most Hits in the 2024 World Series,Juan Soto (NYY),0.031799999999999995,0.1429,0.1111
 2024-10-30 08:36:03.500029,League One - England League One 2024/25 - Top 6 Finish,Stockport County,0.031799999999999995,0.4762,0.4444
 2024-10-30 10:33:11.900042,Joe Biden Specials - Will Hunter Biden be pardoned by Joe Biden in his first term as president? - Will Joe Biden pardon Hunter Biden?,Yes,0.031399999999999983,0.2667,0.2353
 2024-10-30 15:28:53.706234,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 44.5,0.030399999999999983,0.5652,0.5348
@@ -86,8 +86,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Gleyber Torres (NYY),0.028399999999999995,0.0909,0.0625
 2024-10-30 12:50:39.544683,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Paul Mescal - Gladiator II,0.028399999999999995,0.0909,0.0625
 2024-10-30 07:25:45.441753,MLB World Series Specials - Stolen Bases Specials - Player To Record 3+ Stolen Bases in 2024 World Series,Aaron Judge (NYY),0.028000000000000004,0.0476,0.0196
-2024-10-30 09:28:11.205644,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,0.027999999999999997,0.1818,0.1538
 2024-10-30 09:28:11.008858,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Genoa,0.027999999999999997,0.1818,0.1538
+2024-10-30 09:28:11.205644,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,0.027999999999999997,0.1818,0.1538
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Retief Goosen,0.026600000000000002,0.0323,0.0057
 2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,0.026499999999999968,0.6491,0.6226
 2024-10-30 15:28:52.790142,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Arsenal,0.026100000000000012,0.2,0.1739
@@ -100,21 +100,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 10:33:11.438014,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,0.023800000000000043,0.5238,0.5
 2024-10-30 12:50:39.544683,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Adrien Brody - The Brutalist,0.023799999999999988,0.5,0.4762
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Darren Clarke,0.0234,0.0244,0.001
-2024-10-30 08:36:04.289263,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Anthony Davis (LAL),0.023200000000000002,0.0526,0.0294
 2024-10-30 12:50:39.712672,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Elon Musk,0.023200000000000002,0.0476,0.0244
+2024-10-30 08:36:04.289263,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Anthony Davis (LAL),0.023200000000000002,0.0526,0.0294
 2024-10-30 15:28:52.790142,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Tottenham Hotspur,0.02310000000000001,0.1,0.0769
 2024-10-30 12:50:41.116144,Stat Leaders - Most Hits in the 2024 World Series - Most Hits in the 2024 World Series,Mookie Betts (LAD),0.02310000000000001,0.1,0.0769
 2024-10-30 15:28:53.602683,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 19.5,0.022600000000000064,0.5348,0.5122
 2024-10-30 12:50:39.600603,Hoda Kotb Specials - Who will replace Hoda Kotb on Today? - Hoda Kotb Replacement,Craig Melvin,0.022199999999999998,0.2222,0.2
 2024-10-30 09:28:11.199360,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.021999999999999964,0.3077,0.2857
-2024-10-30 09:28:11.175375,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.021999999999999964,0.3077,0.2857
 2024-10-30 08:36:03.500029,League One - England League One 2024/25 - Top 6 Finish,Lincoln City,0.021999999999999964,0.3077,0.2857
+2024-10-30 09:28:11.175375,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.021999999999999964,0.3077,0.2857
 2024-10-30 07:25:44.573994,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Anthony Davis (LAL),0.021300000000000003,0.0323,0.011
 2024-10-30 07:25:45.415903,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Mookie Betts (LAD),0.0213,0.0769,0.0556
 2024-10-30 15:28:53.622339,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 49.5,0.02079999999999993,0.5556,0.5348
+2024-10-30 17:28:32.791108,Boxing Lines - Yan Santana vs Eduardo Baez - To Win the Bout,Yan Santana,0.020500000000000074,0.8667,0.8462
 2024-10-30 10:33:11.446045,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,North Carolina,0.02049999999999999,0.1538,0.1333
-2024-10-30 09:28:11.008858,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,0.02020000000000001,0.1111,0.0909
+2024-10-30 17:28:32.811439,Boxing Lines - Jesse Rodriguez vs Pedro Guevara - To Win the Bout,Jesse Rodriguez,0.020299999999999985,0.9615,0.9412
 2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.02020000000000001,0.1111,0.0909
+2024-10-30 09:28:11.008858,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,0.02020000000000001,0.1111,0.0909
 2024-10-30 10:33:10.300910,MLS - USA MLS 2024 - Futures - Winner,Minnesota United,0.019499999999999997,0.0294,0.0099
 2024-10-30 12:50:40.318841,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,0.019499999999999962,0.6491,0.6296
 2024-10-30 12:50:40.322493,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.019499999999999962,0.6491,0.6296
@@ -125,8 +127,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 07:25:44.284169,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,Yes,0.018900000000000028,0.8403,0.8214
 2024-10-30 15:28:53.567207,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),0.01820000000000002,0.2,0.1818
 2024-10-30 14:30:15.350656,TOTO Japan Classic - 2/3 Balls - 1st Round 3 Balls - B. Henderson / H. Ryu / M. Yamashita - 1st Round 3 Balls,Haeran Ryu,0.018100000000000005,0.4348,0.4167
-2024-10-30 08:36:03.496912,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,0.018099999999999998,0.0769,0.0588
 2024-10-30 09:28:11.249425,Serie B - Italy Serie B 2024/25 - Winner,Salernitana,0.018099999999999998,0.0526,0.0345
+2024-10-30 08:36:03.496912,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,0.018099999999999998,0.0769,0.0588
 2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Max Muncy (LAD),0.0179,0.1429,0.125
 2024-10-30 09:28:13.025608,Boxing Lines - Gabriela Fundora vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Fundora,0.01760000000000006,0.9,0.8824
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Ken Duke,0.017599999999999998,0.0196,0.002
@@ -139,15 +141,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 09:28:11.997723,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Kyle Filipowski (UTA),0.014599999999999998,0.0196,0.005
 2024-10-30 10:33:10.300910,MLS - USA MLS 2024 - Futures - Winner,New York Red Bulls,0.014499999999999999,0.0294,0.0149
 2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Aaron Judge (NYY),0.014399999999999996,0.0769,0.0625
-2024-10-30 09:28:12.147342,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.01419999999999999,0.3846,0.3704
 2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Notts County,0.01419999999999999,0.3846,0.3704
+2024-10-30 09:28:12.147342,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.01419999999999999,0.3846,0.3704
 2024-10-30 09:28:12.143378,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.01419999999999999,0.3846,0.3704
 2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Will Smith (LAD),0.014099999999999998,0.0385,0.0244
 2024-10-30 09:28:12.873253,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,CJ Stroud Regular Season MVP & TJ Watt Defensive Player Of The Year,0.014099999999999998,0.0385,0.0244
-2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,0.013999999999999999,0.0909,0.0769
-2024-10-30 09:28:11.008858,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,0.013999999999999999,0.0909,0.0769
-2024-10-30 12:50:39.553183,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Pablo Larrain - Maria,0.013999999999999999,0.0909,0.0769
 2024-10-30 12:50:39.540451,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Conclave,0.013999999999999999,0.0909,0.0769
+2024-10-30 09:28:11.008858,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,0.013999999999999999,0.0909,0.0769
+2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,0.013999999999999999,0.0909,0.0769
+2024-10-30 12:50:39.553183,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Pablo Larrain - Maria,0.013999999999999999,0.0909,0.0769
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Paul Broadhurst,0.0139,0.0196,0.0057
 2024-10-30 09:28:11.202520,League Two - England League Two 2024/25 - To Finish Bottom,Carlisle United,0.013899999999999996,0.125,0.1111
 2024-10-30 09:28:11.172266,League One - England League One 2024/25 - To Be Promoted,Lincoln City,0.013899999999999996,0.125,0.1111
@@ -161,71 +163,71 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 15:28:53.637315,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 45.5,0.012199999999999989,0.5122,0.5
 2024-10-30 08:36:04.285685,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Walker Kessler (UTA),0.011899999999999994,0.0833,0.0714
 2024-10-30 15:28:53.612470,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 29.5,0.011600000000000055,0.5238,0.5122
-2024-10-30 13:32:48.360519,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.011499999999999955,0.6667,0.6552
 2024-10-30 13:32:48.356517,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011499999999999955,0.6667,0.6552
+2024-10-30 13:32:48.360519,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.011499999999999955,0.6667,0.6552
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Stephen Ames,0.011199999999999995,0.0435,0.0323
-2024-10-30 10:33:10.300910,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.011199999999999995,0.0588,0.0476
 2024-10-30 09:28:11.175375,League One - England League One 2024/25 - To Be Relegated,Reading,0.011199999999999995,0.0588,0.0476
+2024-10-30 10:33:10.300910,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.011199999999999995,0.0588,0.0476
 2024-10-30 08:36:03.496912,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.011099999999999999,0.1111,0.1
 2024-10-30 09:28:11.192685,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.011099999999999999,0.1111,0.1
 2024-10-30 10:33:10.483687,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,RB Leipzig,0.011099999999999999,0.1111,0.1
 2024-10-30 15:28:53.720933,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 26.5,0.01100000000000001,0.5348,0.5238
 2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,0.010899999999999993,0.1538,0.1429
 2024-10-30 09:28:11.202520,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,0.010899999999999993,0.1538,0.1429
-2024-10-30 07:25:45.415903,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Jazz Chisholm (NYY),0.010700000000000001,0.0385,0.0278
 2024-10-30 12:50:41.124959,Stat Leaders - Most Stolen Bases in the 2024 World Series - Most Stolen Bases in the 2024 World Series,Tommy Edman (LAD),0.010700000000000001,0.0385,0.0278
+2024-10-30 07:25:45.415903,MLB World Series Specials - Hits Specials - Player To Record 10+ Hits in 2024 World Series,Jazz Chisholm (NYY),0.010700000000000001,0.0385,0.0278
 2024-10-30 15:28:53.617389,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 50.5,0.010699999999999932,0.5455,0.5348
 2024-10-30 10:33:11.446045,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Michigan,0.010499999999999982,0.2105,0.2
-2024-10-30 10:33:11.430840,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 5 to 5.99%,0.0102,0.0769,0.0667
 2024-10-30 10:33:11.446045,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Arizona,0.0102,0.0769,0.0667
+2024-10-30 10:33:11.430840,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 5 to 5.99%,0.0102,0.0769,0.0667
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,K J Choi,0.010100000000000001,0.0345,0.0244
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Y E Yang,0.010100000000000001,0.0345,0.0244
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Vijay Singh,0.010100000000000001,0.0345,0.0244
 2024-10-30 15:28:53.711134,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 35.5,0.010099999999999998,0.5556,0.5455
 2024-10-30 09:28:11.160834,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Botafogo,0.010099999999999998,0.5556,0.5455
-2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.010099999999999998,0.5556,0.5455
 2024-10-30 09:28:11.005914,Serie A - Italy Serie A 2024/25 - To Be Relegated,Genoa,0.010099999999999998,0.4545,0.4444
+2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.010099999999999998,0.5556,0.5455
 2024-10-30 15:28:53.166662,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.010099999999999998,0.3125,0.3226
 2024-10-30 10:33:10.557935,Ligue 2 - France Ligue 2 2024/25 - Outright,Pau FC,-0.010100000000000001,0.0244,0.0345
 2024-10-30 12:50:39.553183,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Yorgos Lanthimos - Kinds Of Kindness,-0.0102,0.0667,0.0769
 2024-10-30 12:50:39.557402,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Clarence Maclin - Sing Sing,-0.010499999999999982,0.2,0.2105
-2024-10-30 15:28:53.602683,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 19.5,-0.010699999999999932,0.5348,0.5455
 2024-10-30 15:28:53.720933,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 26.5,-0.010699999999999932,0.5348,0.5455
+2024-10-30 15:28:53.602683,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 19.5,-0.010699999999999932,0.5348,0.5455
 2024-10-30 12:50:39.540451,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Kinds Of Kindness,-0.010700000000000001,0.0278,0.0385
 2024-10-30 06:38:57.714297,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Teoscar Hernandez (LAD),-0.010700000000000001,0.0278,0.0385
+2024-10-30 07:25:45.503717,Boxing Lines - Chantelle Cameron vs Patricia Berghult - To Win the Bout,Patricia Berghult,-0.011099999999999999,0.1,0.1111
 2024-10-30 12:50:39.548987,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Amy Adams - Nightbitch,-0.011099999999999999,0.1,0.1111
+2024-10-30 07:25:44.357763,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,No,-0.011099999999999999,0.4651,0.4762
 2024-10-30 10:33:11.446045,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Georgia,-0.011099999999999999,0.1,0.1111
 2024-10-30 08:36:05.436055,Indonesian Masters - Indonesian Masters - Winner,Richard Bland,-0.011099999999999999,0.1,0.1111
-2024-10-30 07:25:44.357763,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,No,-0.011099999999999999,0.4651,0.4762
-2024-10-30 07:25:45.503717,Boxing Lines - Chantelle Cameron vs Patricia Berghult - To Win the Bout,Patricia Berghult,-0.011099999999999999,0.1,0.1111
-2024-10-30 08:36:05.436055,Indonesian Masters - Indonesian Masters - Winner,Miguel Tabuena,-0.011199999999999995,0.0476,0.0588
 2024-10-30 08:36:03.496912,League One - England League One 2024/25 - Top 2 Finish,Reading,-0.011199999999999995,0.0476,0.0588
-2024-10-30 09:28:12.147342,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.011499999999999955,0.6552,0.6667
+2024-10-30 08:36:05.436055,Indonesian Masters - Indonesian Masters - Winner,Miguel Tabuena,-0.011199999999999995,0.0476,0.0588
 2024-10-30 09:28:12.143378,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.011499999999999955,0.6552,0.6667
+2024-10-30 09:28:12.147342,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.011499999999999955,0.6552,0.6667
 2024-10-30 15:28:53.711134,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 35.5,-0.011600000000000055,0.5122,0.5238
 2024-10-30 14:30:15.183234,Boxing Lines - Juan Carlos Camacho vs Jayson Mama - To Win the Bout,Juan Carlos Camacho,-0.011699999999999933,0.7778,0.7895
 2024-10-30 09:28:12.873253,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,"Josh Allen MVP, Aaron Rodgers Comeback Player of the year, TJ Watt DPOY & Jayden Daniels OROY",-0.011699999999999999,0.0079,0.0196
 2024-10-30 06:38:57.714297,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Shohei Ohtani (LAD),-0.012700000000000003,0.0196,0.0323
-2024-10-30 15:28:54.564610,National League - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,-0.012899999999999995,0.1538,0.1667
 2024-10-30 10:33:12.224782,Boxing Lines - Gabriela Fundora vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,-0.012899999999999995,0.1538,0.1667
+2024-10-30 15:28:54.564610,National League - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,-0.012899999999999995,0.1538,0.1667
 2024-10-30 09:28:11.205644,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.0131,0.2222,0.2353
 2024-10-30 09:28:11.202520,League Two - England League Two 2024/25 - To Finish Bottom,Colchester United,-0.0131,0.0345,0.0476
 2024-10-30 14:30:15.350656,TOTO Japan Classic - 2/3 Balls - 1st Round 3 Balls - B. Henderson / H. Ryu / M. Yamashita - 1st Round 3 Balls,Miyu Yamashita,-0.013800000000000034,0.3636,0.3774
 2024-10-30 06:38:57.710758,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Teoscar Hernandez (LAD),-0.013899999999999996,0.1111,0.125
-2024-10-30 12:50:39.553183,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Luca Guadagnino - Challengers,-0.013999999999999999,0.0769,0.0909
 2024-10-30 09:28:11.172266,League One - England League One 2024/25 - To Be Promoted,Reading,-0.013999999999999999,0.0769,0.0909
-2024-10-30 12:50:39.553183,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Steve McQueen - Blitz,-0.013999999999999999,0.0769,0.0909
 2024-10-30 12:50:39.648236,Oasis - Oasis Reunion: First Song 2025 - First Song (Stadium Concert 2025),Columbia,-0.013999999999999999,0.0769,0.0909
+2024-10-30 12:50:39.553183,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Luca Guadagnino - Challengers,-0.013999999999999999,0.0769,0.0909
+2024-10-30 12:50:39.553183,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Steve McQueen - Blitz,-0.013999999999999999,0.0769,0.0909
 2024-10-30 07:25:45.419361,MLB World Series Specials - Hits Specials - Player To Record 12+ Hits in 2024 World Series,Tommy Edman (LAD),-0.014099999999999998,0.0244,0.0385
 2024-10-30 09:28:11.199360,League Two - England League Two 2024/25 - To Be Relegated,Salford City,-0.014100000000000001,0.0385,0.0526
 2024-10-30 13:32:48.360519,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.01419999999999999,0.3704,0.3846
 2024-10-30 13:32:48.356517,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.01419999999999999,0.3704,0.3846
-2024-10-30 12:50:39.548987,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Demi Moore - The Substance,-0.014399999999999996,0.0625,0.0769
 2024-10-30 12:50:39.548987,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,June Squibb - Thelma,-0.014399999999999996,0.0625,0.0769
-2024-10-30 12:50:39.600603,Hoda Kotb Specials - Who will replace Hoda Kotb on Today? - Hoda Kotb Replacement,Katy Tur,-0.014899999999999997,0.0476,0.0625
-2024-10-30 09:28:11.443640,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Dwight Howard,-0.014899999999999997,0.0476,0.0625
+2024-10-30 12:50:39.548987,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Demi Moore - The Substance,-0.014399999999999996,0.0625,0.0769
 2024-10-30 12:50:39.600603,Hoda Kotb Specials - Who will replace Hoda Kotb on Today? - Hoda Kotb Replacement,Tom Llamas,-0.014899999999999997,0.0476,0.0625
+2024-10-30 09:28:11.443640,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Dwight Howard,-0.014899999999999997,0.0476,0.0625
 2024-10-30 12:50:39.544683,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Jesse Plemons - Kinds Of Kindness,-0.014899999999999997,0.0476,0.0625
+2024-10-30 12:50:39.600603,Hoda Kotb Specials - Who will replace Hoda Kotb on Today? - Hoda Kotb Replacement,Katy Tur,-0.014899999999999997,0.0476,0.0625
 2024-10-30 07:25:44.577664,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jayson Tatum (BOS),-0.015100000000000002,0.1667,0.1818
 2024-10-30 09:28:13.025608,Boxing Lines - Gabriela Fundora vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,-0.015100000000000002,0.1667,0.1818
 2024-10-30 08:36:04.289263,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Jalen Brunson (NYK),-0.015300000000000001,0.0323,0.0476
@@ -234,12 +236,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,-0.01759999999999995,0.6491,0.6667
 2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,-0.01759999999999995,0.6491,0.6667
 2024-10-30 09:28:11.202520,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,-0.01759999999999999,0.1,0.1176
-2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,-0.0179,0.125,0.1429
 2024-10-30 12:50:39.553183,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Edward Berger - Conclave,-0.0179,0.125,0.1429
+2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,-0.0179,0.125,0.1429
 2024-10-30 10:33:10.557935,Ligue 2 - France Ligue 2 2024/25 - Outright,USL Dunkerque,-0.018099999999999998,0.0588,0.0769
-2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Teoscar Hernandez (LAD),-0.018100000000000005,0.4167,0.4348
-2024-10-30 12:50:40.322493,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.018100000000000005,0.4167,0.4348
 2024-10-30 12:50:40.318841,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,-0.018100000000000005,0.4167,0.4348
+2024-10-30 12:50:40.322493,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.018100000000000005,0.4167,0.4348
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Teoscar Hernandez (LAD),-0.018100000000000005,0.4167,0.4348
 2024-10-30 12:50:39.553183,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Denis Villeneuve - Dune: Part Two,-0.01820000000000002,0.1818,0.2
 2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,-0.01880000000000004,0.5556,0.5744
 2024-10-30 09:28:11.011859,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,-0.018999999999999906,0.7143,0.7333
@@ -251,28 +253,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 12:50:39.544683,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Colman Domingo - Sing Sing,-0.021999999999999964,0.2857,0.3077
 2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Alex Verdugo (NYY),-0.022199999999999998,0.2,0.2222
 2024-10-30 12:50:39.600603,Hoda Kotb Specials - Who will replace Hoda Kotb on Today? - Hoda Kotb Replacement,Sheinelle Jones,-0.022199999999999998,0.2,0.2222
+2024-10-30 17:28:32.791108,Boxing Lines - Yan Santana vs Eduardo Baez - To Win the Bout,Eduardo Baez,-0.022199999999999998,0.2,0.2222
 2024-10-30 15:28:53.622339,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,-0.022600000000000064,0.5122,0.5348
 2024-10-30 10:33:10.300910,MLS - USA MLS 2024 - Futures - Winner,Real Salt Lake,-0.023200000000000002,0.0244,0.0476
+2024-10-30 12:50:41.085435,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Juan Soto (NYY),-0.023799999999999988,0.4762,0.5
+2024-10-30 10:33:10.557935,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.023799999999999988,0.1429,0.1667
 2024-10-30 09:28:11.205644,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.023799999999999988,0.4762,0.5
 2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.023799999999999988,0.1429,0.1667
-2024-10-30 10:33:10.557935,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.023799999999999988,0.1429,0.1667
-2024-10-30 12:50:41.085435,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Juan Soto (NYY),-0.023799999999999988,0.4762,0.5
 2024-10-30 09:28:11.252551,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.023800000000000043,0.5,0.5238
 2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Anthony Rizzo (NYY),-0.024,0.0385,0.0625
 2024-10-30 07:25:45.412349,MLB World Series Specials - Hits Specials -  Player To Record 8+ Hits in 2024 World Series,Enrique Hernandez (LAD),-0.0242,0.0667,0.0909
 2024-10-30 08:36:04.289263,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Joel Embiid (PHI),-0.0242,0.0667,0.0909
 2024-10-30 15:28:54.431925,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Aaron Rodgers (NYJ),-0.024299999999999995,0.0345,0.0588
 2024-10-30 15:28:54.431925,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),-0.02479999999999999,0.129,0.1538
-2024-10-30 12:50:41.120557,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Giancarlo Stanton (NYY),-0.024800000000000003,0.0278,0.0526
 2024-10-30 09:28:12.873253,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,Patrick Mahomes Regular Season MVP & Laiatu Latu Defensive Rookie Of The Year,-0.024800000000000003,0.0278,0.0526
+2024-10-30 12:50:41.120557,Stat Leaders - Most RBIs in the 2024 World Series - Most RBIs in the 2024 World Series,Giancarlo Stanton (NYY),-0.024800000000000003,0.0278,0.0526
 2024-10-30 12:50:41.116144,Stat Leaders - Most Hits in the 2024 World Series - Most Hits in the 2024 World Series,Giancarlo Stanton (NYY),-0.024999999999999994,0.1,0.125
 2024-10-30 07:25:44.280087,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,No,-0.02529999999999999,0.1852,0.2105
 2024-10-30 08:36:03.500029,League One - England League One 2024/25 - Top 6 Finish,Stevenage,-0.025300000000000003,0.1176,0.1429
 2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.025599999999999956,0.5744,0.6
 2024-10-30 09:28:11.205644,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,-0.02560000000000001,0.3077,0.3333
 2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,-0.02560000000000001,0.3077,0.3333
-2024-10-30 09:28:11.168854,League One - England League One 2024/25 - Top Goalscorer,Alfie May,-0.02779999999999999,0.2222,0.25
 2024-10-30 15:28:52.790142,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Manchester City,-0.02779999999999999,0.2222,0.25
+2024-10-30 09:28:11.168854,League One - England League One 2024/25 - Top Goalscorer,Alfie May,-0.02779999999999999,0.2222,0.25
 2024-10-30 09:28:12.873253,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,Caleb Williams Offensive Rookie Of The Year & Laiatu Latu Defensive Rookie Of The Year,-0.0278,0.0278,0.0556
 2024-10-30 12:50:39.540451,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Sing Sing,-0.027999999999999997,0.1538,0.1818
 2024-10-30 10:33:11.434007,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - Over 5% margin,-0.027999999999999997,0.1538,0.1818
@@ -284,12 +287,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 09:28:11.208763,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,-0.033399999999999985,0.8333,0.8667
 2024-10-30 10:33:10.300910,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,-0.033399999999999985,0.1333,0.1667
 2024-10-30 15:28:53.706234,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 44.5,-0.03480000000000005,0.5,0.5348
-2024-10-30 09:28:11.443640,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Danny Amendola,-0.0353,0.2,0.2353
 2024-10-30 09:28:11.199360,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.0353,0.2,0.2353
+2024-10-30 09:28:11.443640,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Danny Amendola,-0.0353,0.2,0.2353
 2024-10-30 08:36:04.285685,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Victor Wembanyama (SAS),-0.035699999999999954,0.7143,0.75
-2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Tommy Edman (LAD),-0.03570000000000001,0.25,0.2857
-2024-10-30 07:25:45.408875,MLB World Series Specials - Hits Specials -  Player To Record 6+ Hits in 2024 World Series,Enrique Hernandez (LAD),-0.03570000000000001,0.25,0.2857
 2024-10-30 09:28:11.249425,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,-0.03570000000000001,0.25,0.2857
+2024-10-30 07:25:45.408875,MLB World Series Specials - Hits Specials -  Player To Record 6+ Hits in 2024 World Series,Enrique Hernandez (LAD),-0.03570000000000001,0.25,0.2857
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Tommy Edman (LAD),-0.03570000000000001,0.25,0.2857
 2024-10-30 09:28:11.011859,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.03639999999999999,0.6,0.6364
 2024-10-30 10:33:11.434007,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Republican Win - 0.01 to 5% margin,-0.0378,0.4167,0.4545
 2024-10-30 09:28:11.205644,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,-0.037800000000000056,0.5455,0.5833
@@ -297,14 +300,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-30 10:33:12.333484,Charles Schwab Cup - Charles Schwab Cup - Winner,Thongchai Jaidee,-0.04239999999999999,0.0164,0.0588
 2024-10-30 12:50:39.548987,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Nicole Kidman - Babygirl,-0.042899999999999994,0.1,0.1429
 2024-10-30 12:50:39.548987,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Saoirse Ronan - The Outrun,-0.042899999999999994,0.1,0.1429
-2024-10-30 12:50:39.557402,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Samuel L Jackson - The Piano Lesson,-0.043800000000000006,0.1667,0.2105
 2024-10-30 09:28:11.196220,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,-0.043800000000000006,0.1667,0.2105
+2024-10-30 12:50:39.557402,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Samuel L Jackson - The Piano Lesson,-0.043800000000000006,0.1667,0.2105
 2024-10-30 10:33:11.749396,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,Rick Scott,-0.044399999999999995,0.4,0.4444
 2024-10-30 16:33:58.979187,NBA Specials - NBA 2024/2025 NBA Regular Season - Total Games Played LeBron James - Proposition,Over 81.5,-0.04999999999999999,0.2,0.25
 2024-10-30 09:28:11.443640,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Stephen Nedoroscik,-0.052000000000000005,0.0909,0.1429
 2024-10-30 09:28:11.443640,Dancing With The Stars Season 33 - Dancing With The Stars - Winner - Winner,Ilona Maher,-0.052399999999999995,0.0385,0.0909
-2024-10-30 06:38:57.724701,World Series Winner - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.0524,0.9091,0.9615
 2024-10-30 06:38:57.719495,MLB World Series MVP - World Series MVP  - World Series MVP,Freddie Freeman (LAD),-0.0524,0.9,0.9524
+2024-10-30 06:38:57.724701,World Series Winner - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.0524,0.9091,0.9615
 2024-10-30 09:28:11.205644,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,-0.05379999999999999,0.1,0.1538
 2024-10-30 10:33:10.300910,MLS - USA MLS 2024 - Futures - Winner,Columbus Crew,-0.056400000000000006,0.0769,0.1333
 2024-10-30 10:33:11.434007,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - 0.01 to 5% margin,-0.05689999999999995,0.5348,0.5917
