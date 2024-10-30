@@ -1,131 +1,96 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-10-29 21:25:43.000022,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Republican Win - 0.01 to 5% margin,0.2323,0.4545,0.2222
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Total of 93 or more corners taken,0.2323,0.4545,0.2222
+2024-10-29 21:25:43.000022,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Republican Win - 0.01 to 5% margin,0.2323,0.4545,0.2222
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Total of 87 or more corners taken,0.23189999999999994,0.6667,0.4348
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Total of 90 or more corners taken,0.21610000000000007,0.5238,0.3077
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each match to have 2 or more corners taken in each half,0.2143,0.5,0.2857
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each team to take 2 or more corners,0.2143,0.5,0.2857
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Will Smith (LAD),0.2108,0.2941,0.0833
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Total of 96 or more corners taken,0.19039999999999999,0.3333,0.1429
-2024-10-29 18:35:17.344997,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Assists Per Game Leader,James Harden (LAC),0.1667,0.2667,0.1
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Austin Wells (NYY),0.1765,0.2941,0.1176
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Gleyber Torres (NYY),0.1597,0.2222,0.0625
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Anthony Volpe (NYY),0.1515,0.2041,0.0526
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",10+ corners taken in 6+ matches,0.12829999999999997,0.3636,0.2353
 2024-10-29 21:25:43.341256,US Senate Elections 2024 - Senate Election Winner - Arizona - Winner,Republican,0.11900000000000002,0.2857,0.1667
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",3+ goals in 6+ matches; 10+ corners in 6+ matches,0.1071,0.25,0.1429
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each team to take 4+ corners in 6+ matches,0.09689999999999999,0.3636,0.2667
-2024-10-29 18:35:17.333698,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Chet Holmgren (OKC),0.07579999999999999,0.1667,0.0909
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each team to score a goal in 6+ matches; Each team to take 4+ corners in 6+ matches,0.0642,0.1818,0.1176
 2024-10-30 03:34:07.177565,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.057699999999999974,0.3077,0.25
-2024-10-29 18:35:17.344997,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Assists Per Game Leader,Trae Young (ATL),0.057699999999999974,0.5122,0.4545
+2024-10-30 06:38:57.710758,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Will Smith (LAD),0.0573,0.0769,0.0196
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Away teams to score 21 or more goals,0.053599999999999995,0.125,0.0714
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",A total of 37 or more goals and 81 or more corners taken,0.052000000000000005,0.1429,0.0909
-2024-10-29 18:35:17.325632,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Davis (LAL),0.049999999999999996,0.1026,0.0526
+2024-10-30 06:38:57.724701,World Series Winner - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,0.052000000000000005,0.1429,0.0909
+2024-10-30 06:38:57.719495,MLB World Series MVP - World Series MVP  - World Series MVP,Anthony Volpe (NYY),0.048999999999999995,0.0556,0.0066
 2024-10-29 20:28:18.345672,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.04459999999999997,0.6875,0.6429
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",3+ goals in 5+ matches; 10+ corners in 5+ matches,0.044399999999999995,0.4444,0.4
+2024-10-30 06:38:57.710758,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Gleyber Torres (NYY),0.0433,0.0556,0.0123
+2024-10-30 06:38:57.710758,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Anthony Volpe (NYY),0.0433,0.0556,0.0123
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",A total of 39 or more goals and 84 or more corners taken,0.04329999999999999,0.0909,0.0476
-2024-10-29 18:35:18.145041,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,0.0421,0.2326,0.1905
-2024-10-29 18:35:17.321849,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Paolo Banchero (ORL),0.0407,0.1176,0.0769
-2024-10-29 18:35:17.337329,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Shai Gilgeous-Alexander (OKC),0.04040000000000002,0.2222,0.1818
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Ivica Zubac (LAC),0.03949999999999999,0.0435,0.004
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each team to score a goal in 5+ matches; Each team to take 4+ corners in 5+ matches,0.03640000000000004,0.4,0.3636
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each team to take 4+ corners in 7+ matches,0.034100000000000005,0.125,0.0909
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Alperen Sengun (HOU),0.0335,0.0476,0.0141
-2024-10-29 18:35:18.187086,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),0.031700000000000006,0.2222,0.1905
 2024-10-29 21:25:43.246335,Electoral College Winner - Virginia (VA) - Virginia,Republican,0.031700000000000006,0.2222,0.1905
-2024-10-29 18:35:17.337329,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Jayson Tatum (BOS),0.029700000000000004,0.0476,0.0179
-2024-10-29 18:35:17.329278,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Yves Missi (NO),0.028399999999999995,0.0909,0.0625
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each match to have 3 or more corners taken in each half,0.028199999999999996,0.0667,0.0385
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each team to take 4+ corners in 8+ matches,0.028000000000000004,0.0476,0.0196
 2024-10-29 22:29:47.157112,"Donald Trump Specials - What will Trump say during Allentown, PA rally? - What will Trump say during Allentown, PA rally?",Puerto Rico/Rican,0.027999999999999914,0.8462,0.8182
-2024-10-29 18:35:17.333698,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Brook Lopez (MIL),0.025900000000000003,0.0476,0.0217
-2024-10-29 18:35:17.321849,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Victor Wembanyama (SAS),0.0242,0.0909,0.0667
 2024-10-29 22:29:47.157112,"Donald Trump Specials - What will Trump say during Allentown, PA rally? - What will Trump say during Allentown, PA rally?",Hitler,0.023800000000000043,0.5238,0.5
 2024-10-29 20:28:18.070050,Daily Specials - NBA Daily Specials - NBA Daily Requested Specials,D. Schroder & K. Thompson 4+ Rebs Each,0.023800000000000016,0.1905,0.1667
 2024-10-29 21:25:42.992333,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.02360000000000001,0.4082,0.3846
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each team to score a goal in 7+ matches; Each team to take 4+ corners in 7+ matches,0.023200000000000002,0.0476,0.0244
-2024-10-29 18:35:17.337329,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Trae Young (ATL),0.023200000000000002,0.0476,0.0244
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",Each team to take 3 or more corners,0.0232,0.0667,0.0435
 2024-10-29 22:29:47.157112,"Donald Trump Specials - What will Trump say during Allentown, PA rally? - What will Trump say during Allentown, PA rally?",MAGA 4+ times,0.0232,0.7333,0.7101
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Chet Holmgren (OKC),0.022400000000000003,0.0244,0.002
-2024-10-29 18:35:18.187086,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter (COL),0.021999999999999964,0.3077,0.2857
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Giannis Antetokounmpo (MIL),0.0203,0.0588,0.0385
-2024-10-29 18:35:17.333698,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Anthony Davis (LAL),0.019800000000000005,0.0476,0.0278
-2024-10-29 18:35:17.337329,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Anthony Davis (LAL),0.019499999999999997,0.0294,0.0099
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Deandre Ayton (POR),0.0189,0.0385,0.0196
+2024-10-30 06:38:57.719495,MLB World Series MVP - World Series MVP  - World Series MVP,Juan Soto (NYY),0.019099999999999995,0.0435,0.0244
 2024-10-30 02:57:57.380259,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,0.018099999999999998,0.0769,0.0588
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Max Muncy (LAD),0.0179,0.1429,0.125
 2024-10-29 20:28:18.353257,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,0.016700000000000048,0.75,0.7333
 2024-10-29 20:28:18.090136,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.016600000000000004,0.0833,0.0667
 2024-10-29 20:28:18.749821,US Senate Elections 2024 - Senate Election Winner - Texas - Winner,Democrat,0.01579999999999998,0.2597,0.2439
 2024-10-29 21:25:43.154947,Electoral College Winner - Minnesota (MN) - Minnesota,Democrat,0.015699999999999936,0.8824,0.8667
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Rudy Gobert (MIN),0.015100000000000002,0.1818,0.1667
-2024-10-29 18:35:18.187086,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Shedeur Sanders (COL),0.014900000000000004,0.0345,0.0196
-2024-10-29 18:35:17.321849,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),0.014899999999999997,0.0625,0.0476
-2024-10-29 18:35:17.333698,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Myles Turner (IND),0.014599999999999998,0.0196,0.005
 2024-10-29 20:28:18.108792,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Nikola Jokic (DEN),0.0145,0.0244,0.0099
 2024-10-29 19:22:30.678175,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Republican,0.014200000000000101,0.6296,0.6154
-2024-10-29 18:35:18.187086,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cade Klubnik (CLEM),0.014100000000000001,0.0526,0.0385
-2024-10-29 18:35:17.310621,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Nikola Jokic (DEN),0.014099999999999994,0.0667,0.0526
-2024-10-29 18:35:16.906150,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,0.013999999999999999,0.0909,0.0769
-2024-10-29 18:35:17.321849,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),0.013899999999999996,0.125,0.1111
 2024-10-29 19:22:31.444865,Boxing Lines - Floyd Schofield vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.013899999999999996,0.125,0.1111
-2024-10-29 18:35:17.306730,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),0.013899999999999996,0.125,0.1111
-2024-10-30 01:54:08.209603,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.0131,0.0476,0.0345
-2024-10-30 01:54:08.136833,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,0.0131,0.2353,0.2222
 2024-10-29 21:25:43.793298,Boxing Lines - Juan Carlos Camacho vs Jayson Mama - To Win the Bout,Juan Carlos Camacho,0.0131,0.7778,0.7647
+2024-10-30 01:54:08.136833,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,0.0131,0.2353,0.2222
+2024-10-30 01:54:08.209603,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.0131,0.0476,0.0345
 2024-10-30 01:54:08.136833,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Barcelona,0.012899999999999995,0.1667,0.1538
-2024-10-29 18:35:17.333698,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Walker Kessler (UTA),0.012600000000000007,0.0714,0.0588
 2024-10-29 20:28:18.330571,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.011900000000000022,0.7619,0.75
 2024-10-29 21:25:42.992333,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.011699999999999988,0.2857,0.274
 2024-10-29 20:28:17.464845,"Daily Soccer Specials - European Soccer Specials - Wednesday, 30th October - European Soccer Specials - Wednesday, 30th October",A total of 42 or more goals and 87 or more corners taken,0.011200000000000002,0.0244,0.0132
-2024-10-29 18:35:17.337329,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Cam Thomas (BKN),0.011199999999999995,0.0435,0.0323
-2024-10-30 01:54:09.242452,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Gilberto Ramirez,0.011099999999999999,0.7333,0.7222
 2024-10-30 01:54:09.230428,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.011099999999999999,0.4762,0.4651
-2024-10-29 18:35:16.893365,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.010099999999999998,0.4545,0.4444
+2024-10-30 01:54:09.242452,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Gilberto Ramirez,0.011099999999999999,0.7333,0.7222
 2024-10-29 20:28:18.304823,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 5 to 5.99%,-0.0102,0.0667,0.0769
-2024-10-29 18:35:17.325632,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Luka Doncic (DAL),-0.010299999999999976,0.2564,0.2667
+2024-10-30 06:38:57.714297,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Teoscar Hernandez (LAD),-0.010700000000000001,0.0278,0.0385
 2024-10-29 19:22:30.685966,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.011099999999999999,0.4651,0.4762
 2024-10-29 21:25:43.008611,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 5 - 14,-0.011199999999999995,0.0323,0.0435
 2024-10-30 01:54:09.242452,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,-0.01150000000000001,0.3333,0.3448
-2024-10-29 18:35:18.145041,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,-0.012899999999999995,0.1538,0.1667
+2024-10-30 06:38:57.714297,MLB World Series Specials - Home Runs Specials -  Player To Record 4+ Home Runs in 2024 World Series,Shohei Ohtani (LAD),-0.012700000000000003,0.0196,0.0323
 2024-10-30 01:54:08.136833,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Real Madrid,-0.012899999999999995,0.1538,0.1667
-2024-10-29 18:35:16.906150,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.012899999999999995,0.1538,0.1667
 2024-10-30 01:54:08.136833,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Partizan,-0.0131,0.0345,0.0476
 2024-10-29 21:25:42.992333,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.013300000000000034,0.3571,0.3704
 2024-10-29 20:28:18.749821,US Senate Elections 2024 - Senate Election Winner - Texas - Winner,Republican,-0.013700000000000045,0.8077,0.8214
+2024-10-30 06:38:57.710758,MLB World Series Specials - Home Runs Specials -  Player To Record 3+ Home Runs in 2024 World Series,Teoscar Hernandez (LAD),-0.013899999999999996,0.1111,0.125
 2024-10-30 01:54:08.136833,Euroleague - Euroleague 2024/25 - Regular Season League Winner,AS Monaco,-0.013899999999999996,0.1111,0.125
-2024-10-29 18:35:17.329278,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Reed Sheppard (HOU),-0.013999999999999999,0.0769,0.0909
-2024-10-29 18:35:17.321849,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),-0.013999999999999999,0.0769,0.0909
-2024-10-29 18:35:17.314319,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Chris Finch,-0.014099999999999998,0.0294,0.0435
 2024-10-29 19:22:31.444865,Boxing Lines - Floyd Schofield vs Rene Tellez Giron - To Win the Bout,Floyd Schofield,-0.014100000000000001,0.9333,0.9474
-2024-10-29 18:35:17.333698,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Jaren Jackson Jr. (MEM),-0.014399999999999996,0.0625,0.0769
-2024-10-29 18:35:16.918872,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.01469999999999999,0.2353,0.25
 2024-10-29 21:25:43.154947,Electoral College Winner - Minnesota (MN) - Minnesota,Republican,-0.014800000000000008,0.1852,0.2
 2024-10-29 20:28:18.304823,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Trump by 3 to 3.99%,-0.016600000000000004,0.0667,0.0833
-2024-10-29 18:35:17.325632,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.016699999999999993,0.25,0.2667
-2024-10-29 18:35:17.310621,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Anthony Edwards (MIN),-0.016700000000000007,0.0833,0.1
 2024-10-29 21:25:43.793298,Boxing Lines - Juan Carlos Camacho vs Jayson Mama - To Win the Bout,Jayson Mama,-0.017299999999999982,0.2857,0.303
-2024-10-29 18:35:18.145041,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,-0.018100000000000005,0.5652,0.5833
-2024-10-30 01:54:08.136833,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Crvena Zvezda,-0.018200000000000004,0.0294,0.0476
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Teoscar Hernandez (LAD),-0.018100000000000005,0.4167,0.4348
 2024-10-30 01:54:08.172768,B League - Japan B-League 2024/25 - Outright,Kawasaki Brave Thunders,-0.018200000000000004,0.0294,0.0476
+2024-10-30 01:54:08.136833,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Crvena Zvezda,-0.018200000000000004,0.0294,0.0476
 2024-10-29 22:29:47.157112,"Donald Trump Specials - What will Trump say during Allentown, PA rally? - What will Trump say during Allentown, PA rally?",Rogan,-0.018900000000000028,0.4255,0.4444
 2024-10-29 19:22:30.678175,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.019699999999999995,0.4348,0.4545
 2024-10-29 21:25:43.008611,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,-0.02049999999999999,0.1333,0.1538
 2024-10-29 20:28:18.353257,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,-0.020799999999999985,0.3125,0.3333
-2024-10-29 18:35:17.314319,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,-0.022199999999999998,0.1111,0.1333
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Alex Verdugo (NYY),-0.022199999999999998,0.2,0.2222
 2024-10-30 03:34:07.177565,Serie A - Italy Serie A 2024/25 - Winner,Juventus,-0.023800000000000016,0.1667,0.1905
 2024-10-29 21:25:43.004261,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; DEM House,-0.024800000000000016,0.2105,0.2353
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Domantas Sabonis (SAC),-0.02560000000000001,0.3077,0.3333
-2024-10-29 18:35:18.187086,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cam Ward (MIA),-0.02779999999999999,0.2222,0.25
 2024-10-29 21:25:43.246335,Electoral College Winner - Virginia (VA) - Virginia,Democrat,-0.028800000000000048,0.8462,0.875
-2024-10-29 18:35:17.344997,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Assists Per Game Leader,Nikola Jokic (DEN),-0.030199999999999998,0.0323,0.0625
 2024-10-29 21:25:43.000022,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - 0.01 to 5% margin,-0.03090000000000004,0.5917,0.6226
 2024-10-30 01:54:08.136833,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,-0.031799999999999995,0.1111,0.1429
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Anthony Davis (LAL),-0.033399999999999985,0.1333,0.1667
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Tommy Edman (LAD),-0.03570000000000001,0.25,0.2857
 2024-10-29 20:28:18.345672,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.048099999999999976,0.3774,0.4255
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Nikola Jokic (DEN),-0.04849999999999999,0.1333,0.1818
-2024-10-29 18:35:17.333698,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Blocks Per Game Leader,Victor Wembanyama (SAS),-0.050000000000000044,0.75,0.8
-2024-10-29 18:35:17.340958,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Rebounds Per Game Leader,Victor Wembanyama (SAS),-0.05559999999999998,0.1111,0.1667
-2024-10-29 18:35:17.329278,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),-0.06820000000000001,0.1818,0.25
+2024-10-30 06:38:57.724701,World Series Winner - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.0524,0.9091,0.9615
+2024-10-30 06:38:57.719495,MLB World Series MVP - World Series MVP  - World Series MVP,Freddie Freeman (LAD),-0.0524,0.9,0.9524
+2024-10-30 06:38:57.707221,MLB World Series Specials - Home Runs Specials -  Player To Record 2+ Home Runs in 2024 World Series,Giancarlo Stanton (NYY),-0.06929999999999997,0.4762,0.5455
 2024-10-30 03:34:07.177565,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.08779999999999999,0.5122,0.6
-2024-10-29 18:35:17.337329,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Points Per Game Leader,Joel Embiid (PHI),-0.0909,0.0909,0.1818
 2024-10-29 21:25:43.341256,US Senate Elections 2024 - Senate Election Winner - Arizona - Winner,Democrat,-0.11740000000000006,0.7826,0.9
 2024-10-29 21:25:43.000022,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - Over 5% margin,-0.1515,0.1818,0.3333
-2024-10-29 18:35:17.344997,NBA Awards & League Leaders - NBA Stat Leaders 2024-25 - Assists Per Game Leader,Tyrese Haliburton (IND),-0.19039999999999999,0.1429,0.3333
