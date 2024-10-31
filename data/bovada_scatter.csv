@@ -6,8 +6,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-31 08:30:40.891518,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 35.5,0.10010000000000002,0.5652,0.4651
 2024-10-31 09:27:45.315272,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,0.09999999999999998,0.6,0.5
 2024-10-31 01:55:08.798037,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Newcastle United,0.09849999999999999,0.1818,0.0833
-2024-10-31 08:30:40.917392,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 50.5,0.0915999999999999,0.6154,0.5238
 2024-10-31 08:30:40.656411,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,No,0.0915999999999999,0.6154,0.5238
+2024-10-31 08:30:40.917392,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 50.5,0.0915999999999999,0.6154,0.5238
 2024-10-31 01:55:08.798037,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Arsenal,0.0857,0.2857,0.2
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Hana Wakimoto,0.0783,0.0833,0.005
 2024-10-31 08:30:40.498243,Eastern Conference - Conference Seeding  - To Be #1 Seed ,New York Knicks,0.0673,0.2273,0.16
@@ -45,9 +45,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-31 08:30:40.517846,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.03479999999999994,0.6,0.5652
 2024-10-31 10:32:24.610719,Boxing Lines - Yan Santana vs Eduardo Baez - To Win the Bout,Yan Santana,0.03420000000000001,0.9231,0.8889
 2024-10-31 08:30:39.963922,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.03410000000000002,0.9091,0.875
-2024-10-31 08:30:40.932709,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 26.5,0.033299999999999996,0.5455,0.5122
-2024-10-31 08:30:40.948068,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 45.5,0.033299999999999996,0.5455,0.5122
 2024-10-31 08:30:40.994917,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 58.5,0.033299999999999996,0.5455,0.5122
+2024-10-31 08:30:40.948068,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 45.5,0.033299999999999996,0.5455,0.5122
+2024-10-31 08:30:40.932709,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 26.5,0.033299999999999996,0.5455,0.5122
 2024-10-31 08:30:40.627106,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,Yes,0.03260000000000007,0.8788,0.8462
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Haeran Ryu,0.031799999999999995,0.1429,0.1111
 2024-10-31 08:30:40.968751,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 43.5,0.03179999999999994,0.5556,0.5238
@@ -61,8 +61,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-31 08:30:40.878491,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Chet Holmgren (OKC),0.02779999999999999,0.25,0.2222
 2024-10-31 08:30:40.963543,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 45.5,0.027700000000000058,0.5833,0.5556
 2024-10-31 08:30:40.708109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Memphis Grizzlies,0.026600000000000013,0.4348,0.4082
-2024-10-31 09:27:46.446822,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 19.5,0.026499999999999968,0.5917,0.5652
 2024-10-31 08:30:41.846810,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Robbie Davies Jr,0.026499999999999968,0.5917,0.5652
+2024-10-31 09:27:46.446822,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 19.5,0.026499999999999968,0.5917,0.5652
 2024-10-31 08:30:40.527317,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,0.025499999999999967,0.4255,0.4
 2024-10-31 09:27:45.482575,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Bayern Munich,0.025499999999999967,0.4255,0.4
 2024-10-31 07:25:55.260720,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.024299999999999995,0.0769,0.0526
@@ -82,13 +82,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-31 09:27:45.576629,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.014000000000000012,0.9231,0.9091
 2024-10-31 08:30:40.874793,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Kenny Atkinson,0.013999999999999999,0.0909,0.0769
 2024-10-31 08:30:39.960942,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Parma,0.013999999999999999,0.0909,0.0769
+2024-10-31 11:23:49.819131,Euroleague - Euroleague 2024/25 - Outright,Barcelona,0.013899999999999996,0.125,0.1111
 2024-10-31 09:27:45.315272,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.013899999999999996,0.125,0.1111
 2024-10-31 08:30:40.703787,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Philadelphia 76ers,0.013800000000000034,0.3774,0.3636
-2024-10-31 07:25:55.260720,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.012899999999999995,0.1667,0.1538
+2024-10-31 11:23:49.819131,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,0.01319999999999999,0.2632,0.25
 2024-10-31 07:25:55.260720,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,0.012899999999999995,0.1667,0.1538
+2024-10-31 07:25:55.260720,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.012899999999999995,0.1667,0.1538
 2024-10-31 09:27:45.364099,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,0.012899999999999995,0.1667,0.1538
 2024-10-31 08:30:40.508196,Western Conference - Conference Seeding  - To Be #1 Seed,Sacramento Kings,0.012700000000000003,0.0323,0.0196
 2024-10-31 08:30:40.664954,To Make the Playoffs - Orlando Magic 2024-25 - To Make the Playoffs,Yes,0.012499999999999956,0.95,0.9375
+2024-10-31 11:23:51.032691,Boxing Lines - Robson Conceicao vs O'Shaquie Foster - To Win the Bout,Robson Conceicao,0.011700000000000016,0.2222,0.2105
 2024-10-31 08:30:41.025633,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 35.5,0.011600000000000055,0.5238,0.5122
 2024-10-31 08:30:40.907090,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 29.5,0.011600000000000055,0.5238,0.5122
 2024-10-31 01:55:08.798037,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Brentford,0.011199999999999995,0.0588,0.0476
@@ -96,36 +99,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-31 08:30:40.867292,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.011099999999999999,0.1111,0.1
 2024-10-31 08:30:40.984598,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 44.5,0.01100000000000001,0.5348,0.5238
 2024-10-31 09:27:46.285694,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jamal Murray (DEN),0.0108,0.0141,0.0033
-2024-10-31 08:30:40.703787,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Miami Heat,0.010699999999999932,0.5455,0.5348
 2024-10-31 08:30:40.953251,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 38.5,0.010699999999999932,0.5455,0.5348
+2024-10-31 08:30:40.703787,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Miami Heat,0.010699999999999932,0.5455,0.5348
 2024-10-31 07:25:55.260720,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,0.010600000000000002,0.0323,0.0217
 2024-10-31 09:27:45.318363,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.0102,0.0769,0.0667
 2024-10-31 08:30:40.708109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Denver Nuggets,0.010099999999999998,0.3226,0.3125
+2024-10-31 08:30:41.025633,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 35.5,-0.010099999999999998,0.5455,0.5556
 2024-10-31 08:30:40.907090,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 29.5,-0.010099999999999998,0.5455,0.5556
 2024-10-31 08:30:40.703787,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Orlando Magic,-0.010099999999999998,0.3125,0.3226
-2024-10-31 08:30:41.025633,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 35.5,-0.010099999999999998,0.5455,0.5556
 2024-10-31 09:27:45.355001,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,-0.010100000000000001,0.0244,0.0345
 2024-10-31 01:55:08.583708,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,-0.0102,0.0667,0.0769
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Sayaka Takahashi,-0.0103,0.002,0.0123
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Sarah Schmelzel,-0.0103,0.002,0.0123
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Shiho Kuwaki,-0.010300000000000002,0.0141,0.0244
 2024-10-31 04:32:23.549791,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Toronto Blue Jays,-0.010300000000000002,0.0141,0.0244
+2024-10-31 11:23:49.819131,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,-0.010499999999999982,0.2,0.2105
 2024-10-31 08:30:40.882366,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jonathan Kuminga (GSW),-0.010600000000000002,0.0217,0.0323
 2024-10-31 08:30:40.878491,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Giannis Antetokounmpo (MIL),-0.010600000000000002,0.0217,0.0323
 2024-10-31 08:30:40.984598,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 44.5,-0.010699999999999932,0.5348,0.5455
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Yuna Nishimura,-0.0108,0.0033,0.0141
 2024-10-31 08:30:39.963922,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,-0.010899999999999993,0.1429,0.1538
+2024-10-31 11:23:51.032691,Boxing Lines - Robson Conceicao vs O'Shaquie Foster - To Win the Bout,O'Shaquie Foster,-0.01090000000000002,0.8462,0.8571
 2024-10-31 08:30:40.953251,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 38.5,-0.01100000000000001,0.5238,0.5348
 2024-10-31 08:30:40.708109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Utah Jazz,-0.011099999999999999,0.0556,0.0667
 2024-10-31 10:32:22.874743,Serie B - Italy Serie B 2024/25 - To Be Promoted,Brescia,-0.011099999999999999,0.1,0.1111
-2024-10-31 04:32:23.549791,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Minnesota Twins,-0.011199999999999995,0.0323,0.0435
 2024-10-31 10:32:22.874743,Serie B - Italy Serie B 2024/25 - To Be Promoted,Bari,-0.011199999999999995,0.0476,0.0588
+2024-10-31 04:32:23.549791,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Minnesota Twins,-0.011199999999999995,0.0323,0.0435
 2024-10-31 08:30:40.664954,To Make the Playoffs - Orlando Magic 2024-25 - To Make the Playoffs,No,-0.011400000000000007,0.1176,0.129
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Haruka Kawasaki,-0.011699999999999999,0.0079,0.0196
 2024-10-31 04:32:23.549791,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Los Angeles Dodgers,-0.011700000000000016,0.2105,0.2222
 2024-10-31 08:30:40.698706,To Make the Playoffs - Washington Wizards 2024-25 - To Make the Playoffs,No,-0.011700000000000044,0.9833,0.995
 2024-10-31 01:55:08.583708,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.012199999999999989,0.5,0.5122
 2024-10-31 08:30:40.703787,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,-0.012700000000000045,0.6364,0.6491
+2024-10-31 11:23:49.819131,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,-0.012899999999999995,0.1538,0.1667
 2024-10-31 07:25:55.255953,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.012899999999999995,0.1538,0.1667
 2024-10-31 08:30:39.957890,Serie A - Italy Serie A 2024/25 - To Be Relegated,Bologna,-0.0131,0.0345,0.0476
 2024-10-31 08:30:40.513086,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,-0.01319999999999999,0.7368,0.75
@@ -137,12 +143,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-31 09:27:45.315272,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AS Roma,-0.014499999999999999,0.0149,0.0294
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Jiyai Shin,-0.0145,0.0099,0.0244
 2024-10-31 08:30:40.867292,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Donte DiVincenzo (MIN),-0.014899999999999997,0.0476,0.0625
-2024-10-31 09:27:45.318363,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.015100000000000002,0.1667,0.1818
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Gabriela Ruffels,-0.015100000000000002,0.0013,0.0164
+2024-10-31 09:27:45.318363,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.015100000000000002,0.1667,0.1818
 2024-10-31 08:30:40.508196,Western Conference - Conference Seeding  - To Be #1 Seed,Los Angeles Lakers,-0.015300000000000001,0.0323,0.0476
 2024-10-31 09:27:45.318363,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),-0.015400000000000025,0.3846,0.4
-2024-10-31 07:25:55.260720,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.015700000000000006,0.1176,0.1333
 2024-10-31 04:32:23.549791,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Yankees,-0.015700000000000006,0.1176,0.1333
+2024-10-31 07:25:55.260720,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.015700000000000006,0.1176,0.1333
 2024-10-31 08:30:40.878491,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),-0.016699999999999993,0.4,0.4167
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,A Lim Kim,-0.0169,0.001,0.0179
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Arpichaya Yubol,-0.017599999999999998,0.002,0.0196
@@ -153,18 +159,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Brooke Henderson,-0.021300000000000003,0.011,0.0323
 2024-10-31 10:32:22.874743,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,-0.021999999999999964,0.2857,0.3077
 2024-10-31 08:30:39.963922,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,-0.02200000000000002,0.6923,0.7143
-2024-10-31 09:27:45.357968,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Hulk (Atletico MG),-0.022199999999999998,0.2,0.2222
 2024-10-31 10:32:22.871574,Serie B - Italy Serie B 2024/25 - Winner,Palermo,-0.022199999999999998,0.2,0.2222
+2024-10-31 09:27:45.357968,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Hulk (Atletico MG),-0.022199999999999998,0.2,0.2222
 2024-10-31 10:32:22.871574,Serie B - Italy Serie B 2024/25 - Winner,Pisa,-0.022199999999999998,0.2,0.2222
 2024-10-31 07:25:55.255953,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Milwaukee Bucks,-0.02239999999999999,0.0952,0.1176
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Jennifer Kupcho,-0.022400000000000003,0.002,0.0244
-2024-10-31 08:30:39.963922,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Udinese,-0.023200000000000002,0.0244,0.0476
 2024-10-31 10:32:22.871574,Serie B - Italy Serie B 2024/25 - Winner,Salernitana,-0.023200000000000002,0.0294,0.0526
-2024-10-31 01:55:08.583708,Serie A - Italy Serie A 2024/25 - Winner,Juventus,-0.023799999999999988,0.1429,0.1667
+2024-10-31 08:30:39.963922,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Udinese,-0.023200000000000002,0.0244,0.0476
 2024-10-31 08:30:41.846810,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.023799999999999988,0.4762,0.5
 2024-10-31 09:27:45.357968,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Jose Lopez (Palmeiras),-0.023799999999999988,0.1429,0.1667
-2024-10-31 09:27:46.446822,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 19.5,-0.023799999999999988,0.4762,0.5
 2024-10-31 08:30:40.508196,Western Conference - Conference Seeding  - To Be #1 Seed,Minnesota Timberwolves,-0.023799999999999988,0.1429,0.1667
+2024-10-31 09:27:46.446822,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 19.5,-0.023799999999999988,0.4762,0.5
+2024-10-31 01:55:08.583708,Serie A - Italy Serie A 2024/25 - Winner,Juventus,-0.023799999999999988,0.1429,0.1667
 2024-10-31 04:32:23.549791,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,San Diego Padres,-0.0242,0.0667,0.0909
 2024-10-31 08:30:39.957890,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,-0.024999999999999994,0.1,0.125
 2024-10-31 08:30:39.963922,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.025599999999999956,0.5744,0.6
@@ -177,9 +183,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Jin Hee Im,-0.028300000000000002,0.004,0.0323
 2024-10-31 08:30:40.498243,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Philadelphia 76ers,-0.029299999999999993,0.0476,0.0769
 2024-10-31 09:27:47.394300,TOTO Japan Classic - TOTO Japan Classic - Winner,Allisen Corpuz,-0.031000000000000003,0.0013,0.0323
-2024-10-31 08:30:40.932709,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 26.5,-0.03179999999999994,0.5238,0.5556
-2024-10-31 08:30:40.948068,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 45.5,-0.03179999999999994,0.5238,0.5556
 2024-10-31 08:30:40.994917,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 58.5,-0.03179999999999994,0.5238,0.5556
+2024-10-31 08:30:40.948068,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 45.5,-0.03179999999999994,0.5238,0.5556
+2024-10-31 08:30:40.932709,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 26.5,-0.03179999999999994,0.5238,0.5556
 2024-10-31 08:30:39.960942,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Empoli,-0.0321,0.0588,0.0909
 2024-10-31 08:30:40.968751,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,-0.033299999999999996,0.5122,0.5455
 2024-10-31 08:30:40.527317,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.033300000000000024,0.1667,0.2
