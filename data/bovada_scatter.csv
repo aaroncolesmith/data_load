@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Richard T Lee,0.24620000000000003,0.4,0.1538
 2024-11-01 11:22:44.411775,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Racing Club,0.21610000000000007,0.5238,0.3077
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Rio Takeda,0.12819999999999998,0.1667,0.0385
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Yealimi Noh,0.126,0.1538,0.0278
@@ -24,6 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 10:32:55.072699,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Xavier McKinney (GB),0.052399999999999995,0.0909,0.0385
 2024-11-01 05:30:00.474078,AFC South - AFC South 2024/25 - AFC South Winner,Indianapolis Colts,0.052000000000000005,0.1429,0.0909
 2024-11-01 11:22:46.002619,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Edgerrin Cooper (GB),0.051,0.0833,0.0323
+2024-11-01 12:48:30.875289,45th Razzie Awards - Worst Picture - Worst Picture,Megalopolis,0.0504,0.2857,0.2353
 2024-11-01 06:37:12.212692,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.048600000000000004,0.1111,0.0625
 2024-11-01 07:26:11.708757,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,Yes,0.04849999999999999,0.1818,0.1333
 2024-11-01 07:26:12.050886,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 21.5,0.04760000000000003,0.5238,0.4762
@@ -44,6 +46,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 11:22:46.002619,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tykee Smith (TB),0.0347,0.0526,0.0179
 2024-11-01 11:22:46.006150,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Caleb Williams (CHI),0.034100000000000005,0.125,0.0909
 2024-11-01 07:26:11.767144,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,Yes,0.0339,0.1053,0.0714
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,John Catlin,0.0334,0.0769,0.0435
 2024-11-01 11:22:45.213456,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),0.033300000000000024,0.2,0.1667
 2024-11-01 11:22:45.202354,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),0.03270000000000001,0.0952,0.0625
 2024-11-01 11:22:45.876900,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Kemi Badenoch,0.03180000000000005,0.8889,0.8571
@@ -52,18 +55,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 10:32:55.072699,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),0.027999999999999997,0.1818,0.1538
 2024-11-01 02:01:13.101488,Boxing Lines - Ekow Essuman vs Ben Vaughan - To Win the Bout,Ekow Essuman,0.025599999999999956,0.6552,0.6296
 2024-11-01 05:30:00.440072,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.025300000000000003,0.1429,0.1176
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Rashid Khan,0.0253,0.0385,0.0132
 2024-11-01 03:05:30.581818,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,0.024999999999999994,0.125,0.1
 2024-11-01 11:22:46.002619,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Byron Murphy (SEA),0.024,0.0625,0.0385
-2024-11-01 07:26:11.971845,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 58.5,0.023800000000000043,0.5238,0.5
 2024-11-01 02:01:11.278786,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.023800000000000043,0.5238,0.5
+2024-11-01 07:26:11.971845,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 58.5,0.023800000000000043,0.5238,0.5
 2024-11-01 10:32:55.072699,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Chris Jones (USM),0.023799999999999988,0.1667,0.1429
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Kieran Vincent,0.023200000000000002,0.0476,0.0244
 2024-11-01 02:01:13.057500,Boxing Lines - Ruadhan Farrell vs Connor Kerr - To Win the Bout,Connor Kerr,0.02250000000000002,0.2857,0.2632
 2024-11-01 07:26:11.721223,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,0.02239999999999999,0.1176,0.0952
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Marina Alex,0.022200000000000004,0.0345,0.0123
-2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Guy Pearce - The Brutalist,0.022199999999999998,0.2222,0.2
 2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Clarence Maclin - Sing Sing,0.022199999999999998,0.2222,0.2
+2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Guy Pearce - The Brutalist,0.022199999999999998,0.2222,0.2
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Chang Wei-Lun,0.022099999999999998,0.0278,0.0057
 2024-11-01 06:37:12.212692,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.021699999999999997,0.4762,0.4545
 2024-11-01 07:26:12.045978,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 46.5,0.02169999999999994,0.5455,0.5238
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Angelo Que,0.021199999999999997,0.0278,0.0066
+2024-11-01 12:48:32.397067,BKFC 68: Faulkner vs Oskar - Danny Moir vs Kyle Redfearn - To Win the Bout,Kyle Redfearn,0.021100000000000008,0.2564,0.2353
 2024-11-01 07:26:11.696184,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,0.02080000000000004,0.6875,0.6667
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Sakura Koiwai,0.0206,0.0385,0.0179
 2024-11-01 06:37:12.212692,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,0.0203,0.0588,0.0385
@@ -73,9 +81,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 05:30:00.435215,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,0.01999999999999999,0.2105,0.1905
 2024-11-01 06:37:12.245955,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.01999999999999999,0.2105,0.1905
 2024-11-01 11:22:45.998284,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Kyren Williams (LAR),0.019499999999999997,0.0294,0.0099
+2024-11-01 11:22:45.213456,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),0.01949999999999999,0.0909,0.0714
 2024-11-01 11:22:46.006150,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Marvin Harrison Jr. (ARI),0.019099999999999995,0.0435,0.0244
 2024-11-01 02:01:13.065572,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Robbie Davies Jr,0.01880000000000004,0.6552,0.6364
 2024-11-01 10:32:55.163807,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Javier Fortuna,0.018100000000000005,0.4348,0.4167
+2024-11-01 12:48:31.320676,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Suggs (ORL),0.0179,0.0278,0.0099
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Natipong Srithong,0.0179,0.0278,0.0099
 2024-11-01 02:01:12.352025,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 1 to 1.99%,0.0179,0.1429,0.125
 2024-11-01 10:32:55.068985,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.01759999999999999,0.1176,0.1
 2024-11-01 03:05:31.258531,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Javier Fortuna,0.017299999999999982,0.4255,0.4082
@@ -88,25 +99,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 10:32:55.068985,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McVay,0.015300000000000001,0.0476,0.0323
 2024-11-01 11:22:44.722784,James Bond Specials - Next James Bond Song Artist - Next Bond Song,Billie Eilish,0.015300000000000001,0.0476,0.0323
 2024-11-01 11:22:44.722784,James Bond Specials - Next James Bond Song Artist - Next Bond Song,Olivia Rodrigo,0.014899999999999997,0.0625,0.0476
-2024-10-31 23:27:28.097265,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.01479999999999998,0.3922,0.3774
 2024-11-01 06:37:12.236369,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.01469999999999999,0.25,0.2353
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Yuna Nishimura,0.014599999999999998,0.0179,0.0033
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Nanna Koerstz Madsen,0.014599999999999998,0.0196,0.005
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Maverick Antcliff,0.014400000000000003,0.0323,0.0179
 2024-11-01 07:26:11.650407,East Group A - East Group A Winner - East Group A Winner,Philadelphia 76ers,0.01419999999999999,0.3846,0.3704
-2024-11-01 03:05:30.653410,Electoral College Winner - Alaska (AK) - Alaska,Republican,0.014100000000000001,0.9756,0.9615
 2024-11-01 11:22:45.202354,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jaden Ivey (DET),0.014100000000000001,0.0526,0.0385
+2024-11-01 03:05:30.653410,Electoral College Winner - Alaska (AK) - Alaska,Republican,0.014100000000000001,0.9756,0.9615
 2024-11-01 11:22:44.663958,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Saoirse Ronan - Blitz,0.013999999999999999,0.0909,0.0769
 2024-11-01 07:26:12.807675,Boxing Lines - Padraig McCrory vs Leonard Carillo - To Win the Bout,Leonard Carillo,0.013999999999999999,0.0909,0.0769
-2024-11-01 07:26:11.601285,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,0.013999999999999999,0.0909,0.0769
 2024-11-01 03:05:30.581818,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 15 - 34,0.013999999999999999,0.0909,0.0769
+2024-11-01 07:26:11.601285,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,0.013999999999999999,0.0909,0.0769
 2024-11-01 07:26:11.758786,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,0.013899999999999996,0.1429,0.129
 2024-11-01 06:37:12.222230,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.01319999999999999,0.75,0.7368
-2024-11-01 06:37:13.418394,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Robbie Davies Jr,0.012700000000000045,0.6491,0.6364
 2024-11-01 09:27:53.153259,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Robbie Davies Jr,0.012700000000000045,0.6491,0.6364
+2024-11-01 06:37:13.418394,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Robbie Davies Jr,0.012700000000000045,0.6491,0.6364
 2024-11-01 11:22:45.213456,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Cody Williams (UTA),0.012700000000000003,0.0323,0.0196
-2024-10-31 23:27:28.899592,Boxing Lines - Eric Tudor vs Harold Calderon - To Win the Bout,Harold Calderon,0.012699999999999989,0.3636,0.3509
-2024-11-01 10:32:54.288173,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kyrie Irving (DAL),0.012599999999999997,0.037,0.0244
 2024-11-01 10:32:54.288173,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jayson Tatum (BOS),0.012599999999999997,0.037,0.0244
+2024-11-01 10:32:54.288173,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kyrie Irving (DAL),0.012599999999999997,0.037,0.0244
 2024-11-01 07:26:11.771365,To Make the Playoffs - Washington Wizards 2024-25 - To Make the Playoffs,No,0.011700000000000044,0.995,0.9833
 2024-11-01 05:30:00.435215,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Indianapolis Colts,0.011399999999999997,0.0278,0.0164
 2024-11-01 07:26:11.729525,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,No,0.011300000000000004,0.2,0.1887
@@ -115,18 +125,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 06:37:12.217521,Western Conference - Western Conference 2024-25 - Western Conference Winner,Phoenix Suns,0.011099999999999999,0.1111,0.1
 2024-11-01 08:31:34.387149,Boxing Lines - Ruadhan Farrell vs Connor Kerr - To Win the Bout,Ruadhan Farrell,0.011099999999999999,0.7937,0.7826
 2024-11-01 07:26:12.041044,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 58.5,0.01100000000000001,0.5348,0.5238
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Kyongjun Moon,0.010700000000000001,0.0385,0.0278
 2024-11-01 02:01:12.808160,US Senate Elections 2024 - Senate Election Winner - Texas - Winner,Republican,0.010500000000000065,0.8182,0.8077
-2024-11-01 11:22:46.006150,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),0.0102,0.0769,0.0667
 2024-11-01 03:05:30.661796,Electoral College Winner - California (CA) - California,Republican,0.0102,0.0769,0.0667
+2024-11-01 11:22:46.006150,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),0.0102,0.0769,0.0667
 2024-11-01 09:27:53.144721,Boxing Lines - Ruadhan Farrell vs Connor Kerr - To Win the Bout,Ruadhan Farrell,0.010199999999999987,0.8039,0.7937
 2024-11-01 02:01:12.021649,NBL - Australia NBL 2024/25 - To Make Grand Final,Illawarra Hawks,0.010099999999999998,0.4545,0.4444
 2024-11-01 10:32:54.284472,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Alex Caruso (OKC),-0.010600000000000002,0.0217,0.0323
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Miguel Tabuena,-0.010700000000000001,0.0057,0.0164
 2024-11-01 07:26:11.704594,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,No,-0.010700000000000043,0.875,0.8857
 2024-11-01 09:27:53.144721,Boxing Lines - Ruadhan Farrell vs Connor Kerr - To Win the Bout,Connor Kerr,-0.010800000000000032,0.2632,0.274
 2024-11-01 06:37:12.212692,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.010899999999999993,0.1429,0.1538
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Shahriffuddin Ariffin,-0.011,0.0013,0.0123
 2024-11-01 10:32:55.231715,Boxing Lines - Darius Fulghum vs Christopher Pearson - To Win the Bout,Christopher Pearson,-0.011099999999999999,0.1,0.1111
 2024-11-01 02:01:12.352025,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 7% or more,-0.011199999999999995,0.0476,0.0588
 2024-11-01 05:30:00.430359,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Minnesota Vikings,-0.011199999999999995,0.0476,0.0588
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Pavit Tangkamolprasert,-0.0112,0.002,0.0132
 2024-11-01 10:32:54.288173,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Anthony Edwards (MIN),-0.011899999999999994,0.0714,0.0833
 2024-11-01 07:26:11.729525,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,Yes,-0.0121,0.8667,0.8788
 2024-11-01 11:22:44.722784,James Bond Specials - Next James Bond Song Artist - Next Bond Song,Róisín Murphy,-0.012700000000000003,0.0196,0.0323
@@ -134,51 +148,57 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 07:26:12.803745,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Robbie Davies Jr,-0.012700000000000045,0.6364,0.6491
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Shiho Kuwaki,-0.012799999999999999,0.0013,0.0141
 2024-11-01 06:37:13.517893,Boxing Lines - Yan Santana vs Eduardo Baez - To Win the Bout,Eduardo Baez,-0.012899999999999995,0.1538,0.1667
-2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Kieran Culkin - Blitz,-0.012899999999999995,0.1538,0.1667
 2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Samuel L Jackson - The Piano Lesson,-0.012899999999999995,0.1538,0.1667
+2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Kieran Culkin - Blitz,-0.012899999999999995,0.1538,0.1667
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Erika Hara,-0.0131,0.0033,0.0164
 2024-11-01 07:26:11.650407,East Group A - East Group A Winner - East Group A Winner,Orlando Magic,-0.01319999999999999,0.25,0.2632
 2024-11-01 11:22:45.202354,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Keegan Murray (SAC),-0.013400000000000002,0.011,0.0244
-2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Joe Alwyn - The Brutalist,-0.013999999999999999,0.0769,0.0909
-2024-11-01 11:22:44.663958,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Natasha Lyonne - His Three Daughters,-0.013999999999999999,0.0769,0.0909
-2024-11-01 11:22:44.718148,James Bond Specials - Next James Bond Director - Bond 26 Director,Danny Boyle,-0.013999999999999999,0.0769,0.0909
 2024-11-01 11:22:44.718148,James Bond Specials - Next James Bond Director - Bond 26 Director,Denis Villeneuve,-0.013999999999999999,0.0769,0.0909
 2024-11-01 11:22:44.718148,James Bond Specials - Next James Bond Director - Bond 26 Director,Park Chan-wook,-0.013999999999999999,0.0769,0.0909
+2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Joe Alwyn - The Brutalist,-0.013999999999999999,0.0769,0.0909
+2024-11-01 11:22:44.718148,James Bond Specials - Next James Bond Director - Bond 26 Director,Danny Boyle,-0.013999999999999999,0.0769,0.0909
+2024-11-01 11:22:44.663958,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Natasha Lyonne - His Three Daughters,-0.013999999999999999,0.0769,0.0909
 2024-11-01 10:32:55.068985,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Demeco Ryans,-0.014099999999999998,0.0244,0.0385
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Wenyi Ding,-0.014099999999999998,0.0244,0.0385
 2024-11-01 07:26:11.758786,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,Yes,-0.014399999999999968,0.9231,0.9375
-2024-11-01 11:22:45.213456,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Reed Sheppard (HOU),-0.014399999999999996,0.0625,0.0769
-2024-11-01 10:32:54.288173,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.014399999999999996,0.0625,0.0769
-2024-11-01 11:22:44.673970,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Ariana Grande - Eternal Sunshine,-0.014399999999999996,0.0625,0.0769
-2024-11-01 11:22:44.718148,James Bond Specials - Next James Bond Director - Bond 26 Director,Ryan Coogler,-0.014399999999999996,0.0625,0.0769
-2024-11-01 11:22:45.213456,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Yves Missi (NO),-0.014399999999999996,0.0625,0.0769
 2024-11-01 11:22:44.722784,James Bond Specials - Next James Bond Song Artist - Next Bond Song,Beyonce,-0.014399999999999996,0.0625,0.0769
+2024-11-01 11:22:45.213456,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Yves Missi (NO),-0.014399999999999996,0.0625,0.0769
+2024-11-01 11:22:44.718148,James Bond Specials - Next James Bond Director - Bond 26 Director,Ryan Coogler,-0.014399999999999996,0.0625,0.0769
+2024-11-01 11:22:44.673970,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Ariana Grande - Eternal Sunshine,-0.014399999999999996,0.0625,0.0769
+2024-11-01 11:22:45.213456,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Reed Sheppard (HOU),-0.014399999999999996,0.0625,0.0769
+2024-11-01 12:48:30.875289,45th Razzie Awards - Worst Picture - Worst Picture,Mea Culpa,-0.014399999999999996,0.0625,0.0769
+2024-11-01 10:32:54.288173,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.014399999999999996,0.0625,0.0769
+2024-11-01 12:48:30.875289,45th Razzie Awards - Worst Picture - Worst Picture,Argylle,-0.014399999999999996,0.0625,0.0769
+2024-11-01 12:48:30.875289,45th Razzie Awards - Worst Picture - Worst Picture,Unfrosted,-0.014399999999999996,0.0625,0.0769
 2024-11-01 03:05:30.653410,Electoral College Winner - Alaska (AK) - Alaska,Democrat,-0.01440000000000001,0.0909,0.1053
 2024-11-01 06:37:12.226955,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.01469999999999999,0.2353,0.25
-2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Death,-0.014899999999999997,0.0476,0.0625
+2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Rapunzel,-0.014899999999999997,0.0476,0.0625
 2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Frog Prince,-0.014899999999999997,0.0476,0.0625
 2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Goldilocks,-0.014899999999999997,0.0476,0.0625
-2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Mouse King,-0.014899999999999997,0.0476,0.0625
-2024-11-01 11:22:45.998284,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Lamar Jackson (BAL),-0.014899999999999997,0.0476,0.0625
 2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Prince Charming,-0.014899999999999997,0.0476,0.0625
-2024-11-01 10:32:54.288173,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jalen Brunson (NYK),-0.014899999999999997,0.0476,0.0625
+2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Mouse King,-0.014899999999999997,0.0476,0.0625
 2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Queen Of Hearts,-0.014899999999999997,0.0476,0.0625
-2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Rapunzel,-0.014899999999999997,0.0476,0.0625
+2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Little Bo Peep,-0.014899999999999997,0.0476,0.0625
 2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Little Mermaid,-0.014899999999999997,0.0476,0.0625
+2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Death,-0.014899999999999997,0.0476,0.0625
+2024-11-01 10:32:54.288173,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jalen Brunson (NYK),-0.014899999999999997,0.0476,0.0625
+2024-11-01 11:22:45.998284,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Lamar Jackson (BAL),-0.014899999999999997,0.0476,0.0625
 2024-11-01 11:22:44.722784,James Bond Specials - Next James Bond Song Artist - Next Bond Song,Taylor Swift,-0.014899999999999997,0.0476,0.0625
 2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Sugar Plum Fairy,-0.014899999999999997,0.0476,0.0625
 2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Ugly Duckling,-0.014899999999999997,0.0476,0.0625
-2024-11-01 11:22:44.693134,Shrek 5 - Shrek 5: Who is the main villain? - Shrek 5 Villain,Little Bo Peep,-0.014899999999999997,0.0476,0.0625
 2024-11-01 11:22:45.202354,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Alperen Sengun (HOU),-0.014900000000000004,0.0196,0.0345
 2024-11-01 11:22:44.663958,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Maria Bakalova - The Apprentice,-0.015300000000000001,0.0323,0.0476
-2024-11-01 11:22:44.727846,Spotify - 2024 Spotify Top Global Artist - 2024 Top Global Artist,Dua Lipa,-0.015300000000000001,0.0323,0.0476
 2024-11-01 11:22:44.663958,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Isabella Rosselini - Conclave,-0.015300000000000001,0.0323,0.0476
+2024-11-01 11:22:44.727846,Spotify - 2024 Spotify Top Global Artist - 2024 Top Global Artist,Dua Lipa,-0.015300000000000001,0.0323,0.0476
 2024-11-01 11:22:44.722784,James Bond Specials - Next James Bond Song Artist - Next Bond Song,SZA,-0.015300000000000001,0.0323,0.0476
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Hongtaek Kim,-0.015499999999999998,0.0123,0.0278
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Ben Campbell,-0.0157,0.0278,0.0435
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Sampson Zheng,-0.015899999999999997,0.002,0.0179
 2024-11-01 10:32:54.284472,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Norman Powell (LAC),-0.0159,0.0164,0.0323
-2024-10-31 23:27:28.097265,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.016000000000000014,0.3922,0.4082
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,M J Maguire,-0.0163,0.0033,0.0196
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Mao Saigo,-0.0171,0.0025,0.0196
-2024-11-01 02:01:13.065572,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.017299999999999982,0.4082,0.4255
 2024-11-01 06:37:12.236369,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.017299999999999982,0.4082,0.4255
-2024-10-31 23:27:28.899592,Boxing Lines - Eric Tudor vs Harold Calderon - To Win the Bout,Eric Tudor,-0.017300000000000093,0.697,0.7143
+2024-11-01 02:01:13.065572,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.017299999999999982,0.4082,0.4255
 2024-11-01 11:22:45.202354,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Scottie Barnes (TOR),-0.017800000000000003,0.0066,0.0244
 2024-11-01 11:22:46.006150,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brian Thomas (JAX),-0.018200000000000004,0.0294,0.0476
 2024-11-01 11:22:44.673970,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Beyonce - Cowboy Carter,-0.01820000000000002,0.1818,0.2
@@ -188,16 +208,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 11:22:44.411775,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Cruzeiro MG,-0.01880000000000004,0.5556,0.5744
 2024-11-01 11:22:45.202354,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),-0.0189,0.0196,0.0385
 2024-11-01 05:30:00.430359,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Houston Texans,-0.019099999999999992,0.0476,0.0667
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Prom Meesawat,-0.0194,0.005,0.0244
 2024-11-01 10:32:55.163807,Boxing Lines - Robbie Davies Jr vs Javier Fortuna - To Win the Bout,Robbie Davies Jr,-0.019499999999999962,0.6296,0.6491
 2024-11-01 07:26:11.971845,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 58.5,-0.01970000000000005,0.5455,0.5652
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Stefano Mazzoli,-0.019899999999999998,0.0079,0.0278
+2024-11-01 12:48:32.397067,BKFC 68: Faulkner vs Oskar - Danny Moir vs Kyle Redfearn - To Win the Bout,Danny Moir,-0.020199999999999996,0.8131,0.8333
+2024-11-01 07:26:11.601285,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,-0.02020000000000001,0.0909,0.1111
 2024-11-01 11:22:44.663958,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Lesley Manville - Queer,-0.02020000000000001,0.0909,0.1111
 2024-11-01 11:22:44.673970,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Kacey Musgraves - Deeper Well,-0.02020000000000001,0.0909,0.1111
-2024-11-01 07:26:11.601285,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,-0.02020000000000001,0.0909,0.1111
 2024-11-01 11:22:46.006150,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),-0.0204,0.0141,0.0345
 2024-11-01 07:26:11.721223,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,-0.02090000000000003,0.95,0.9709
 2024-11-01 07:26:12.045978,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 46.5,-0.02169999999999994,0.5238,0.5455
 2024-11-01 11:22:46.002619,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),-0.02169999999999994,0.5238,0.5455
 2024-11-01 03:05:30.581818,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,-0.021999999999999964,0.2857,0.3077
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Sadom Kaewkanjana,-0.022099999999999998,0.0164,0.0385
 2024-11-01 07:26:11.696184,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,-0.02260000000000001,0.3774,0.4
 2024-11-01 06:37:12.245955,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.022699999999999998,0.4651,0.4878
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Xiyu Lin,-0.023799999999999998,0.004,0.0278
@@ -205,6 +229,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 02:01:12.356332,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,-0.023800000000000043,0.5,0.5238
 2024-11-01 11:22:44.663958,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Ariana Grande - Wicked,-0.024,0.0385,0.0625
 2024-11-01 07:26:11.750389,To Make the Playoffs - New York Knicks 2024-25 - To Make the Playoffs,No,-0.024299999999999995,0.0526,0.0769
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Gaganjeet Bhullar,-0.0253,0.0025,0.0278
 2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Yura Borisov - Anora,-0.025300000000000003,0.1176,0.1429
 2024-11-01 11:22:44.718148,James Bond Specials - Next James Bond Director - Bond 26 Director,Edward Berger,-0.02560000000000001,0.3077,0.3333
 2024-11-01 02:01:13.057500,Boxing Lines - Ruadhan Farrell vs Connor Kerr - To Win the Bout,Ruadhan Farrell,-0.0260999999999999,0.7778,0.8039
@@ -233,8 +258,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 07:26:12.065777,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 20.5,-0.05689999999999995,0.5348,0.5917
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Hyo Joo Kim,-0.0573,0.0196,0.0769
 2024-11-01 11:22:44.683861,Wicked - Wicked - Part 1: Opening Weekend Box Office - Opening Weekend,Over $140 million,-0.05860000000000004,0.4762,0.5348
-2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Ayaka Furue,-0.0596,0.0833,0.1429
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Haeran Ryu,-0.0596,0.0833,0.1429
+2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Ayaka Furue,-0.0596,0.0833,0.1429
+2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Richard Bland,-0.060099999999999994,0.0066,0.0667
 2024-11-01 08:31:34.598736,TOTO Japan Classic - TOTO Japan Classic - Winner,Jenny Shin,-0.0654,0.0013,0.0667
 2024-11-01 11:22:44.659679,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Jeremy Strong - The Apprentice,-0.06670000000000001,0.1333,0.2
 2024-11-01 11:22:44.663958,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Aunjanue Ellis-Taylor - Nickel Boys,-0.06820000000000001,0.1818,0.25
