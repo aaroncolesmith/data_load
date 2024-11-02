@@ -2,160 +2,118 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Phoenix Campbell,0.3579,0.4167,0.0588
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Billy Dowling,0.3055,0.3333,0.0278
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Angel Ayora,0.2923,0.6,0.3077
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Richard T Lee,0.24620000000000003,0.4,0.1538
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Kristoffer Reitan,0.18330000000000002,0.25,0.0667
 2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Los Angeles Rams,0.16959999999999997,0.8571,0.6875
 2024-11-01 19:23:26.625688,NFL Specials - Where will Cooper Kupp after the 2024 NFL Trade Deadline - Proposition,Rams,0.14279999999999993,0.8571,0.7143
 2024-11-01 19:23:26.621485,NFL Specials - Where will Budda Baker  after the 2024 NFL Trade Deadline - Proposition,Arizona Cardinals,0.13139999999999996,0.6552,0.5238
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Deadpool,0.11119999999999997,0.5556,0.4444
 2024-11-01 19:23:26.634203,NFL Specials - Where will Mike Williams after the 2024 NFL Trade Deadline - Proposition,Jets,0.10149999999999992,0.6667,0.5652
 2024-11-01 22:29:26.968702,"Daily Specials - NBA Daily Specials - Friday, November 1st","A.Davis & A.Edwards 22+ Pts Each, N.Jokic to score a Double Double, LeBron 11+ Assists + Rebounds",0.08039999999999997,0.5455,0.4651
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Declan O'Donovan,0.0548,0.0588,0.004
-2024-11-01 12:48:30.875289,45th Razzie Awards - Worst Picture - Worst Picture,Megalopolis,0.0504,0.2857,0.2353
+2024-11-02 01:51:36.850996,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,0.052000000000000046,0.9091,0.8571
 2024-11-01 19:23:26.638424,NFL Specials - Where will Za’Darius Smith after the 2024 NFL Trade Deadline - Proposition,Detroit Lions,0.04410000000000003,0.3774,0.3333
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,John Catlin,0.0334,0.0769,0.0435
+2024-11-02 01:51:37.693015,Electoral College Winner - Michigan (MI) - Michigan,Democrat,0.037900000000000045,0.6296,0.5917
+2024-11-02 01:51:37.715855,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,0.031799999999999995,0.4762,0.4444
 2024-11-01 18:33:58.298398,Boxing Lines - Kurt Walker vs Rudy Garcia - To Win the Bout,Rudy Garcia,0.028700000000000003,0.2105,0.1818
+2024-11-02 01:51:37.844665,Electoral College Winner - New Hampshire (NH) - New Hampshire,Republican,0.02729999999999999,0.2273,0.2
+2024-11-02 01:51:37.643489,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,0.026800000000000046,0.7143,0.6875
+2024-11-02 01:51:37.647118,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.026800000000000046,0.7143,0.6875
 2024-11-01 20:27:48.168831,Boxing Lines - Padraig McCrory vs Leonard Carillo - To Win the Bout,Leonard Carillo,0.0267,0.1176,0.0909
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Rashid Khan,0.0253,0.0385,0.0132
 2024-11-01 14:29:21.059348,Political Specials - US Treasury Secretary On June 30th 2025 - Treasury Secretary,Howard Lutnick (Trump),0.024999999999999994,0.125,0.1
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Kieran Vincent,0.023200000000000002,0.0476,0.0244
+2024-11-02 01:51:37.651319,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,0.024500000000000022,0.4167,0.3922
 2024-11-01 14:29:21.063876,Political Specials - White House Chief Of Staff On June 30th 2025 - Chief Of Staff,Susie Wiles (Trump),0.02310000000000001,0.1,0.0769
-2024-11-01 14:29:20.776335,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,6,0.022199999999999998,0.2222,0.2
+2024-11-02 01:51:36.859827,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne Victory,0.022199999999999998,0.2222,0.2
 2024-11-01 14:29:20.776335,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,5,0.022199999999999998,0.2222,0.2
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Chang Wei-Lun,0.022099999999999998,0.0278,0.0057
+2024-11-01 14:29:20.776335,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,6,0.022199999999999998,0.2222,0.2
 2024-11-01 14:29:20.776335,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,0,0.022000000000000006,0.1053,0.0833
 2024-11-01 14:29:21.063876,Political Specials - White House Chief Of Staff On June 30th 2025 - Chief Of Staff,Brooke Rollins (Trump),0.02169999999999994,0.5455,0.5238
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Angelo Que,0.021199999999999997,0.0278,0.0066
-2024-11-01 12:48:32.397067,BKFC 68: Faulkner vs Oskar - Danny Moir vs Kyle Redfearn - To Win the Bout,Kyle Redfearn,0.021100000000000008,0.2564,0.2353
-2024-11-01 13:31:27.964400,Boxing Lines - Eric Tudor vs Harold Calderon - To Win the Bout,Harold Calderon,0.02100000000000002,0.3846,0.3636
+2024-11-02 01:51:37.723445,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,0.02169999999999994,0.5455,0.5238
 2024-11-01 14:29:20.776335,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,3,0.02020000000000001,0.1111,0.0909
 2024-11-01 14:29:20.776335,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,1,0.01830000000000001,0.0952,0.0769
 2024-11-01 14:29:20.776335,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,2,0.01830000000000001,0.0952,0.0769
-2024-11-01 12:48:31.320676,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Suggs (ORL),0.0179,0.0278,0.0099
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Natipong Srithong,0.0179,0.0278,0.0099
+2024-11-02 01:51:37.635604,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.017299999999999982,0.4255,0.4082
+2024-11-02 01:51:37.639551,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.017299999999999982,0.4255,0.4082
 2024-11-01 14:29:21.063876,Political Specials - White House Chief Of Staff On June 30th 2025 - Chief Of Staff,Kevin McCarthy (Trump),0.016700000000000007,0.1,0.0833
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Scream,0.015699999999999936,0.9681,0.9524
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Maverick Antcliff,0.014400000000000003,0.0323,0.0179
-2024-11-01 13:31:28.096261,BKFC 68: Faulkner vs Oskar - Lewis Keen vs Ben Bonner - To Win the Bout,Lewis Keen,0.0131,0.7778,0.7647
-2024-11-01 13:31:28.079903,BKFC 68: Faulkner vs Oskar - Anthony Holmes vs Charles Wasserman - To Win the Bout,Anthony Holmes,0.0131,0.7778,0.7647
-2024-11-01 13:31:28.017463,Boxing Lines - Yan Santana vs Eduardo Baez - To Win the Bout,Eduardo Baez,0.012899999999999995,0.1667,0.1538
-2024-11-01 13:31:27.960355,Boxing Lines - Gabriela Fundora vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,0.012899999999999995,0.1667,0.1538
+2024-11-02 01:51:37.708221,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,0.015400000000000025,0.3279,0.3125
+2024-11-02 01:51:37.685456,Electoral College Winner - Georgia (GA) - Georgia,Democrat,0.014500000000000013,0.3175,0.303
+2024-11-02 01:51:37.659831,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; DEM Senate; REP House,0.012800000000000002,0.0244,0.0116
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Ben Eccles,0.011399999999999997,0.0278,0.0164
+2024-11-02 01:51:37.906869,Electoral College Winner - Virginia (VA) - Virginia,Democrat,0.01090000000000002,0.8571,0.8462
+2024-11-02 01:51:36.859827,A-League - Australia A-League 2024/25 - Grand Final Winner,Central Coast Mariners,0.010899999999999993,0.1538,0.1429
 2024-11-01 17:28:27.616835,Boxing Lines - Ruadhan Farrell vs Connor Kerr - To Win the Bout,Connor Kerr,0.010800000000000032,0.274,0.2632
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Kyongjun Moon,0.010700000000000001,0.0385,0.0278
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Harry Hillier,0.010300000000000002,0.0244,0.0141
+2024-11-02 01:51:38.455613,Boxing Lines - Eric Tudor vs Harold Calderon - To Win the Bout,Eric Tudor,0.010099999999999998,0.6875,0.6774
 2024-11-01 19:23:26.625688,NFL Specials - Where will Cooper Kupp after the 2024 NFL Trade Deadline - Proposition,Chargers,-0.010099999999999998,0.0952,0.1053
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Jye Pickin,-0.0101,0.004,0.0141
 2024-11-01 17:28:27.616835,Boxing Lines - Ruadhan Farrell vs Connor Kerr - To Win the Bout,Ruadhan Farrell,-0.010199999999999987,0.7937,0.8039
-2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Oliver Lindell,-0.0102,0.0667,0.0769
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Frank Kennedy,-0.0102,0.005,0.0152
+2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Oliver Lindell,-0.0102,0.0667,0.0769
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Kerry Mountcastle,-0.0103,0.002,0.0123
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Miguel Tabuena,-0.010700000000000001,0.0057,0.0164
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Shahriffuddin Ariffin,-0.011,0.0013,0.0123
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Tim Hart,-0.011,0.0013,0.0123
 2024-11-01 19:23:26.634203,NFL Specials - Where will Mike Williams after the 2024 NFL Trade Deadline - Proposition,49ers,-0.011099999999999999,0.1,0.1111
 2024-11-01 21:24:56.807309,Boxing Lines -  Dalis Kaleiopu vs Manuel Valentine Lerma - To Win the Bout,Manuel Valentine Lerma,-0.011099999999999999,0.1,0.1111
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Pavit Tangkamolprasert,-0.0112,0.002,0.0132
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Cory Crawford,-0.011300000000000001,0.001,0.0123
 2024-11-01 19:23:26.638424,NFL Specials - Where will Za’Darius Smith after the 2024 NFL Trade Deadline - Proposition,Cleveland Browns,-0.011499999999999955,0.6552,0.6667
-2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Will Florimo,-0.0116,0.0025,0.0141
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Jarryd Felton,-0.0116,0.0025,0.0141
+2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Will Florimo,-0.0116,0.0025,0.0141
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Blake Windred,-0.011699999999999999,0.0079,0.0196
+2024-11-02 01:51:37.906869,Electoral College Winner - Virginia (VA) - Virginia,Republican,-0.011700000000000016,0.2105,0.2222
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Jonathan Goth-Rasmussen,-0.0119,0.0033,0.0152
-2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Tennessee Titans,-0.011900000000000008,0.0833,0.0952
-2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Miami Dolphins,-0.011900000000000008,0.0833,0.0952
 2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Las Vegas Raiders,-0.011900000000000008,0.0833,0.0952
+2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Miami Dolphins,-0.011900000000000008,0.0833,0.0952
+2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Tennessee Titans,-0.011900000000000008,0.0833,0.0952
 2024-11-01 19:23:26.621485,NFL Specials - Where will Budda Baker  after the 2024 NFL Trade Deadline - Proposition,Dallas Cowboys,-0.012299999999999991,0.1053,0.1176
+2024-11-02 01:51:36.859827,A-League - Australia A-League 2024/25 - Grand Final Winner,Sydney FC,-0.012899999999999995,0.1538,0.1667
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Kyle Michel,-0.013,0.0066,0.0196
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Nicolai Von Dellingshausen,-0.013,0.0066,0.0196
+2024-11-02 01:51:37.708221,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,-0.01319999999999999,0.7368,0.75
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Lars van Meijel,-0.0132,0.002,0.0152
+2024-11-02 01:51:37.635604,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.013799999999999923,0.6226,0.6364
+2024-11-02 01:51:37.639551,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.013799999999999923,0.6226,0.6364
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Dimitrios Papadatos,-0.013900000000000001,0.0025,0.0164
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Shaun Of The Dead,-0.013999999999999999,0.0769,0.0909
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Blade,-0.013999999999999999,0.0769,0.0909
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Wenyi Ding,-0.014099999999999998,0.0244,0.0385
-2024-11-01 12:48:30.875289,45th Razzie Awards - Worst Picture - Worst Picture,Argylle,-0.014399999999999996,0.0625,0.0769
-2024-11-01 14:29:21.063876,Political Specials - White House Chief Of Staff On June 30th 2025 - Chief Of Staff,Karen Dunn (Harris),-0.014399999999999996,0.0625,0.0769
-2024-11-01 12:48:30.875289,45th Razzie Awards - Worst Picture - Worst Picture,Unfrosted,-0.014399999999999996,0.0625,0.0769
-2024-11-01 12:48:30.875289,45th Razzie Awards - Worst Picture - Worst Picture,Mea Culpa,-0.014399999999999996,0.0625,0.0769
 2024-11-01 19:23:26.634203,NFL Specials - Where will Mike Williams after the 2024 NFL Trade Deadline - Proposition,Chiefs,-0.014399999999999996,0.0625,0.0769
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Dune,-0.014399999999999996,0.0625,0.0769
+2024-11-01 14:29:21.063876,Political Specials - White House Chief Of Staff On June 30th 2025 - Chief Of Staff,Karen Dunn (Harris),-0.014399999999999996,0.0625,0.0769
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Euan Walker,-0.014599999999999998,0.005,0.0196
+2024-11-02 01:51:37.685456,Electoral College Winner - Georgia (GA) - Georgia,Republican,-0.015100000000000002,0.7468,0.7619
 2024-11-01 21:24:55.253448,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Danielle Deadwyler - The Piano Lesson,-0.015400000000000025,0.3846,0.4
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Hongtaek Kim,-0.015499999999999998,0.0123,0.0278
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Ben Campbell,-0.0157,0.0278,0.0435
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Sampson Zheng,-0.015899999999999997,0.002,0.0179
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,M J Maguire,-0.0163,0.0033,0.0196
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Jake McLeod,-0.0163,0.0033,0.0196
-2024-11-01 13:31:28.096261,BKFC 68: Faulkner vs Oskar - Lewis Keen vs Ben Bonner - To Win the Bout,Ben Bonner,-0.017299999999999982,0.2857,0.303
-2024-11-01 13:31:28.079903,BKFC 68: Faulkner vs Oskar - Anthony Holmes vs Charles Wasserman - To Win the Bout,Charles Wasserman,-0.017299999999999982,0.2857,0.303
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Brandon Robinson-Thompson,-0.017800000000000003,0.0066,0.0244
 2024-11-01 14:29:20.776335,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,4,-0.01820000000000002,0.1818,0.2
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Benjamin Hebert,-0.0186,0.001,0.0196
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Prom Meesawat,-0.0194,0.005,0.0244
-2024-11-01 13:31:27.964400,Boxing Lines - Eric Tudor vs Harold Calderon - To Win the Bout,Eric Tudor,-0.01959999999999995,0.6774,0.697
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Nicolai Kristensen,-0.019800000000000005,0.0278,0.0476
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Stefano Mazzoli,-0.019899999999999998,0.0079,0.0278
-2024-11-01 12:48:32.397067,BKFC 68: Faulkner vs Oskar - Danny Moir vs Kyle Redfearn - To Win the Bout,Danny Moir,-0.020199999999999996,0.8131,0.8333
 2024-11-01 20:27:48.168831,Boxing Lines - Padraig McCrory vs Leonard Carillo - To Win the Bout,Padraig McCrory,-0.020299999999999985,0.9412,0.9615
 2024-11-01 19:23:26.625688,NFL Specials - Where will Cooper Kupp after the 2024 NFL Trade Deadline - Proposition,Buccaneers,-0.0208,0.0625,0.0833
+2024-11-02 01:51:37.647118,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.02100000000000002,0.3636,0.3846
+2024-11-02 01:51:37.643489,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,-0.02100000000000002,0.3636,0.3846
+2024-11-02 01:51:37.723445,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,-0.02169999999999994,0.5238,0.5455
+2024-11-02 01:51:37.651319,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,-0.021799999999999986,0.3704,0.3922
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Braden Becker,-0.022099999999999998,0.0057,0.0278
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Sadom Kaewkanjana,-0.022099999999999998,0.0164,0.0385
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Gregorio De Leo,-0.022400000000000003,0.0099,0.0323
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,The Rocky Horror Picture Show,-0.023799999999999988,0.1429,0.1667
 2024-11-01 19:23:26.621485,NFL Specials - Where will Budda Baker  after the 2024 NFL Trade Deadline - Proposition,Minnesota Vikings,-0.023799999999999988,0.1429,0.1667
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Jak Carter,-0.0244,0.0079,0.0323
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Martin Couvra,-0.024800000000000003,0.0278,0.0526
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Michael Sim,-0.024999999999999998,0.0028,0.0278
 2024-11-01 18:33:58.298398,Boxing Lines - Kurt Walker vs Rudy Garcia - To Win the Bout,Kurt Walker,-0.02529999999999999,0.8571,0.8824
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Gaganjeet Bhullar,-0.0253,0.0025,0.0278
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Joel Moscatel,-0.0257,0.0066,0.0323
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,M3EGAN,-0.028399999999999995,0.0625,0.0909
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Candyman,-0.028399999999999995,0.0625,0.0909
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Venom,-0.028399999999999995,0.0625,0.0909
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Barbie,-0.030299999999999994,0.3333,0.3636
+2024-11-02 01:51:37.844665,Electoral College Winner - New Hampshire (NH) - New Hampshire,Democrat,-0.02639999999999998,0.8403,0.8667
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Josh Armstrong,-0.0303,0.002,0.0323
+2024-11-02 01:51:37.715855,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Republican,-0.03090000000000004,0.5917,0.6226
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Deon Germishuys,-0.0335,0.001,0.0345
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Saw,-0.03640000000000004,0.3636,0.4
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Nathan Barbieri,-0.0372,0.0013,0.0385
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Elvis Smylie,-0.0384,0.0385,0.0769
 2024-11-01 19:23:26.634203,NFL Specials - Where will Mike Williams after the 2024 NFL Trade Deadline - Proposition,Buccaneers,-0.04040000000000002,0.1818,0.2222
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Brett Rankin,-0.041,0.0066,0.0476
+2024-11-02 01:51:37.693015,Electoral College Winner - Michigan (MI) - Michigan,Republican,-0.04139999999999999,0.4348,0.4762
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Conor Purcell,-0.042600000000000006,0.005,0.0476
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,A Quiet Place,-0.043300000000000005,0.9091,0.9524
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Get Out,-0.043300000000000005,0.9091,0.9524
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Niklas Lemke,-0.0436,0.0152,0.0588
 2024-11-01 19:23:26.621485,NFL Specials - Where will Budda Baker  after the 2024 NFL Trade Deadline - Proposition,Philadelphia Eagles,-0.047599999999999976,0.2857,0.3333
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Jack Buchanan,-0.0476,0.005,0.0526
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Daniel Gale,-0.0476,0.005,0.0526
 2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Minnesota Vikings,-0.04849999999999999,0.1333,0.1818
 2024-11-01 19:23:26.634203,NFL Specials - Where will Mike Williams after the 2024 NFL Trade Deadline - Proposition,Chargers,-0.04999999999999999,0.2,0.25
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Split,-0.052399999999999995,0.0385,0.0909
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,'Salem's Lot,-0.05559999999999998,0.1111,0.1667
 2024-11-01 19:23:26.621485,NFL Specials - Where will Budda Baker  after the 2024 NFL Trade Deadline - Proposition,New York Jets,-0.0562,0.2105,0.2667
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Joakim Lagergren,-0.056799999999999996,0.002,0.0588
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Psycho,-0.05710000000000001,0.1429,0.2
-2024-11-01 12:48:32.465107,Indonesian Masters - Indonesian Masters - Winner,Richard Bland,-0.060099999999999994,0.0066,0.0667
+2024-11-02 01:51:36.850996,Ligue 1 - France Ligue 1 2024/25 - Winner,Monaco,-0.06669999999999998,0.1,0.1667
 2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,New York Giants,-0.08330000000000001,0.1667,0.25
 2024-11-01 14:29:21.809961,Queensland PGA Championship - Queensland PGA Championship - Winner,Cameron Smith,-0.09519999999999998,0.2381,0.3333
 2024-11-01 19:23:26.625688,NFL Specials - Where will Cooper Kupp after the 2024 NFL Trade Deadline - Proposition,Steelers,-0.09799999999999998,0.2353,0.3333
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Oppenheimer,-0.10419999999999999,0.0625,0.1667
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,The Omen,-0.11359999999999998,0.25,0.3636
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Rasmus Neergaard-Petersen,-0.11900000000000002,0.1667,0.2857
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,The Shining,-0.13329999999999997,0.2,0.3333
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Paranormal Activity,-0.13749999999999996,0.8,0.9375
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Mission: Impossible,-0.1428,0.1429,0.2857
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,The Sixth Sense,-0.15000000000000002,0.25,0.4
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,A Nightmare On Elm Street,-0.15000000000000002,0.25,0.4
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Joker,-0.15559999999999996,0.4,0.5556
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,The Ring,-0.1666,0.1667,0.3333
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,The Matrix,-0.19039999999999999,0.1429,0.3333
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Interview With The Vampire,-0.1969,0.1667,0.3636
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Alien,-0.1969,0.1667,0.3636
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Midsommar,-0.2,0.2,0.4
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,The Exorcist,-0.2143,0.2857,0.5
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Pet Sematary,-0.23330000000000004,0.1667,0.4
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Lord Of The Rings,-0.23330000000000004,0.1667,0.4
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Beetlejuice,-0.27380000000000004,0.25,0.5238
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Harry Potter,-0.27770000000000006,0.1667,0.4444
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Taylor Swift: The Eras Tour,-0.3056,0.25,0.5556
-2024-11-01 13:31:26.488664,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Black Panther,-0.3889,0.1667,0.5556
