@@ -5,7 +5,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 08:30:29.702576,TOTO Japan Classic - TOTO Japan Classic - Winner,Hana Wakimoto,0.1691,0.3509,0.1818
 2024-11-02 10:29:54.027465,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 44.5,0.1486,0.5122,0.3636
 2024-11-02 10:29:54.047013,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 42.5,0.13690000000000002,0.4878,0.3509
-2024-11-02 07:24:55.691972,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,UL Lafayette,0.13670000000000004,0.4444,0.3077
 2024-11-02 10:29:53.716398,To Make the Playoffs - Orlando Magic 2024-25 - To Make the Playoffs,No,0.13240000000000002,0.25,0.1176
 2024-11-02 08:30:28.395365,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.13190000000000002,0.4545,0.3226
 2024-11-02 10:29:55.167554,Queensland PGA Championship - Queensland PGA Championship - Winner,Kerry Mountcastle,0.123,0.125,0.002
@@ -47,8 +46,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 08:30:28.395365,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.034100000000000005,0.125,0.0909
 2024-11-02 08:30:28.645482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Dereck Lively II (DAL),0.033600000000000005,0.05,0.0164
 2024-11-02 08:30:28.649016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Mike Budenholzer,0.033299999999999996,0.1333,0.1
-2024-11-02 14:27:11.053928,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),0.031799999999999995,0.1429,0.1111
 2024-11-02 19:23:17.185312,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.031799999999999995,0.3175,0.2857
+2024-11-02 14:27:11.053928,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),0.031799999999999995,0.1429,0.1111
 2024-11-02 14:27:11.213525,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 35.5,0.03179999999999994,0.5556,0.5238
 2024-11-02 14:27:11.068422,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.031200000000000002,0.0476,0.0164
 2024-11-02 15:28:16.660143,Electoral College Winner - Nevada (NV) - Nevada,Democrat,0.030799999999999994,0.4082,0.3774
@@ -62,10 +61,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 08:30:29.702576,TOTO Japan Classic - TOTO Japan Classic - Winner,Yealimi Noh,0.027999999999999997,0.1818,0.1538
 2024-11-02 14:27:11.053928,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Miles McBride (NYK),0.027800000000000005,0.1111,0.0833
 2024-11-02 13:28:15.680581,Boxing Lines - Ekow Essuman vs Ben Vaughan - To Win the Bout,Ben Vaughan,0.027700000000000002,0.4444,0.4167
-2024-11-02 19:23:17.971199,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Shabaz Masoud,0.02679999999999999,0.3125,0.2857
 2024-11-02 15:28:17.578616,BKFC 68: Faulkner vs Oskar - Bart Krol vs Mat Wiwczaryk - To Win the Bout,Mat Wiwczaryk,0.02679999999999999,0.3125,0.2857
 2024-11-02 15:28:17.574654,BKFC 68: Faulkner vs Oskar - Anthony Holmes vs Charles Wasserman - To Win the Bout,Charles Wasserman,0.02679999999999999,0.3125,0.2857
+2024-11-02 19:23:17.971199,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Shabaz Masoud,0.02679999999999999,0.3125,0.2857
 2024-11-02 15:28:17.423018,Boxing Lines - Ekow Essuman vs Ben Vaughan - To Win the Bout,Ekow Essuman,0.026499999999999968,0.6491,0.6226
+2024-11-02 20:26:42.563055,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 42.5,0.026499999999999968,0.5917,0.5652
 2024-11-02 08:30:28.656366,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Edwards (MIN),0.024999999999999994,0.125,0.1
 2024-11-02 10:29:53.696006,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,No,0.02479999999999999,0.1538,0.129
 2024-11-02 11:21:20.082589,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.0245,0.0833,0.0588
@@ -80,7 +80,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 08:30:28.645482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.022199999999999998,0.1333,0.1111
 2024-11-02 17:26:09.117433,Boxing Lines - Eithan James vs Jermaine Osbourne-Edwards - To Win the Bout,Eithan James,0.02200000000000002,0.7143,0.6923
 2024-11-02 10:29:54.978634,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Liam Davies,0.021700000000000053,0.7778,0.7561
-2024-11-02 07:24:55.691972,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Georgia Southern,0.021699999999999997,0.1429,0.1212
 2024-11-02 10:29:54.007860,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 43.5,0.02169999999999994,0.5455,0.5238
 2024-11-02 14:27:11.133929,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 43.5,0.02169999999999994,0.5455,0.5238
 2024-11-02 16:31:49.802514,BKFC 68: Faulkner vs Oskar - Anthony Holmes vs Charles Wasserman - To Win the Bout,Charles Wasserman,0.020799999999999985,0.3333,0.3125
@@ -90,9 +89,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 14:27:11.064709,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.02020000000000001,0.1111,0.0909
 2024-11-02 14:27:12.051469,Boxing Lines - Eithan James vs Jermaine Osbourne-Edwards - To Win the Bout,Eithan James,0.020199999999999996,0.6923,0.6721
 2024-11-02 10:29:55.167554,Queensland PGA Championship - Queensland PGA Championship - Winner,Lucas Higgins,0.020000000000000004,0.0323,0.0123
-2024-11-02 15:28:16.682740,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,0.01970000000000005,0.5652,0.5455
-2024-11-02 14:27:11.168712,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 51.5,0.01970000000000005,0.5652,0.5455
 2024-11-02 14:27:11.089346,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 58.5,0.01970000000000005,0.5652,0.5455
+2024-11-02 14:27:11.168712,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 51.5,0.01970000000000005,0.5652,0.5455
+2024-11-02 15:28:16.682740,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,0.01970000000000005,0.5652,0.5455
 2024-11-02 08:30:28.645482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Naz Reid (MIN),0.01949999999999999,0.0909,0.0714
 2024-11-02 10:29:53.646953,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,Yes,0.01820000000000002,0.2,0.1818
 2024-11-02 13:28:15.812783,BKFC 68: Faulkner vs Oskar - Agi Faulkner vs Dawid Oskar - To Win the Bout,Agi Faulkner,0.018100000000000005,0.4348,0.4167
@@ -110,9 +109,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 17:26:09.271253,BKFC 68: Faulkner vs Oskar - Karl Thompson vs Dawid Chylinski - To Win the Bout,Karl Thompson,0.01539999999999997,0.6875,0.6721
 2024-11-02 09:26:04.886030,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Ivica Zubac (LAC),0.014899999999999997,0.0625,0.0476
 2024-11-02 08:30:28.381546,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.014800000000000035,0.6226,0.6078
-2024-11-02 13:28:15.853029,BKFC 68: Faulkner vs Oskar - Robbie Brown  vs Bradley Taylor - To Win the Bout,Robbie Brown,0.01479999999999998,0.3922,0.3774
 2024-11-02 10:29:53.634722,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,0.01479999999999998,0.3922,0.3774
-2024-11-02 07:24:55.691972,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Marshall,0.014399999999999996,0.0769,0.0625
+2024-11-02 13:28:15.853029,BKFC 68: Faulkner vs Oskar - Robbie Brown  vs Bradley Taylor - To Win the Bout,Robbie Brown,0.01479999999999998,0.3922,0.3774
 2024-11-02 09:26:04.878450,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kevin Durant (PHX),0.014399999999999996,0.0769,0.0625
 2024-11-02 10:29:53.939451,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Draymond Green (GSW),0.014099999999999998,0.0385,0.0244
 2024-11-02 11:21:20.082589,MLS - USA MLS 2024 - Futures - Winner,New York Red Bulls,0.014099999999999998,0.0435,0.0294
@@ -127,9 +125,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 14:27:11.068422,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),0.012299999999999991,0.1176,0.1053
 2024-11-02 14:27:11.173637,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 42.5,0.012199999999999989,0.5,0.4878
 2024-11-02 14:27:11.068422,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),0.011900000000000008,0.0952,0.0833
+2024-11-02 14:27:11.158788,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,0.011600000000000055,0.5238,0.5122
 2024-11-02 10:29:53.988182,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,0.011600000000000055,0.5238,0.5122
 2024-11-02 10:29:53.993066,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 49.5,0.011600000000000055,0.5238,0.5122
-2024-11-02 14:27:11.158788,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,0.011600000000000055,0.5238,0.5122
 2024-11-02 17:26:09.259103,BKFC 68: Faulkner vs Oskar - Anthony Holmes vs Charles Wasserman - To Win the Bout,Charles Wasserman,0.01150000000000001,0.3448,0.3333
 2024-11-02 09:26:04.878450,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Donovan Mitchell (CLE),0.011500000000000003,0.05,0.0385
 2024-11-02 09:26:04.886030,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),0.011199999999999995,0.0435,0.0323
@@ -141,48 +139,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 10:29:54.066762,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 49.5,0.010699999999999932,0.5455,0.5348
 2024-11-02 10:29:53.671433,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,No,0.010699999999999932,0.5455,0.5348
 2024-11-02 15:28:17.562759,BKFC 68: Faulkner vs Oskar - Matt Hodgson vs Conor Cook - To Win the Bout,Matt Hodgson,0.010599999999999998,0.4651,0.4545
-2024-11-02 16:31:48.717754,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),0.010499999999999982,0.2105,0.2
 2024-11-02 16:31:48.717754,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),0.010499999999999982,0.2105,0.2
+2024-11-02 16:31:48.717754,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),0.010499999999999982,0.2105,0.2
 2024-11-02 16:31:48.717754,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Yves Missi (NO),0.0102,0.0769,0.0667
-2024-11-02 14:27:11.208567,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 45.5,0.010099999999999998,0.5556,0.5455
-2024-11-02 12:46:50.012545,BKFC 68: Faulkner vs Oskar - Robbie Brown  vs Bradley Taylor - To Win the Bout,Bradley Taylor,0.010099999999999998,0.6875,0.6774
-2024-11-02 10:29:53.998081,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 26.5,0.010099999999999998,0.5556,0.5455
-2024-11-02 14:27:11.099260,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 29.5,0.010099999999999998,0.5556,0.5455
-2024-11-02 14:27:12.215622,BKFC 68: Faulkner vs Oskar - Matt Hodgson vs Conor Cook - To Win the Bout,Matt Hodgson,0.010099999999999998,0.4545,0.4444
-2024-11-02 14:27:11.109189,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 52.5,0.010099999999999998,0.5556,0.5455
-2024-11-02 10:29:53.687832,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,No,0.010099999999999998,0.4545,0.4444
 2024-11-02 09:26:04.878450,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Tyrese Maxey (PHI),0.010099999999999998,0.0556,0.0455
 2024-11-02 09:26:04.886030,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),0.010099999999999998,0.1053,0.0952
-2024-11-02 11:21:20.154179,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Cruz Azul,-0.010099999999999998,0.4444,0.4545
+2024-11-02 10:29:53.998081,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 26.5,0.010099999999999998,0.5556,0.5455
+2024-11-02 14:27:12.215622,BKFC 68: Faulkner vs Oskar - Matt Hodgson vs Conor Cook - To Win the Bout,Matt Hodgson,0.010099999999999998,0.4545,0.4444
+2024-11-02 14:27:11.109189,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 52.5,0.010099999999999998,0.5556,0.5455
+2024-11-02 14:27:11.099260,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 29.5,0.010099999999999998,0.5556,0.5455
+2024-11-02 14:27:11.208567,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 45.5,0.010099999999999998,0.5556,0.5455
+2024-11-02 10:29:53.687832,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,No,0.010099999999999998,0.4545,0.4444
+2024-11-02 12:46:50.012545,BKFC 68: Faulkner vs Oskar - Robbie Brown  vs Bradley Taylor - To Win the Bout,Bradley Taylor,0.010099999999999998,0.6875,0.6774
 2024-11-02 10:29:53.993066,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 49.5,-0.010099999999999998,0.5455,0.5556
-2024-11-02 10:29:53.988182,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 49.5,-0.010099999999999998,0.5455,0.5556
 2024-11-02 14:27:11.158788,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 43.5,-0.010099999999999998,0.5455,0.5556
 2024-11-02 10:29:53.634722,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,-0.010099999999999998,0.6774,0.6875
-2024-11-02 07:24:55.683658,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Boise State,-0.010099999999999998,0.6774,0.6875
 2024-11-02 15:28:17.442791,Boxing Lines - Eric Tudor vs Harold Calderon - To Win the Bout,Eric Tudor,-0.010099999999999998,0.6774,0.6875
-2024-11-02 11:21:20.082589,MLS - USA MLS 2024 - Futures - Winner,Columbus Crew,-0.0102,0.0667,0.0769
+2024-11-02 10:29:53.988182,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 49.5,-0.010099999999999998,0.5455,0.5556
+2024-11-02 11:21:20.154179,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Cruz Azul,-0.010099999999999998,0.4444,0.4545
 2024-11-02 11:21:20.150382,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,German Berterame,-0.0102,0.0667,0.0769
-2024-11-02 11:21:20.150382,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Georgios Giakoumakis,-0.0102,0.0667,0.0769
 2024-11-02 10:29:53.939451,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Bam Adebayo (MIA),-0.0102,0.0667,0.0769
+2024-11-02 11:21:20.082589,MLS - USA MLS 2024 - Futures - Winner,Columbus Crew,-0.0102,0.0667,0.0769
+2024-11-02 11:21:20.150382,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Georgios Giakoumakis,-0.0102,0.0667,0.0769
 2024-11-02 14:27:11.076000,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Victor Wembanyama (SAS),-0.010600000000000002,0.0217,0.0323
 2024-11-02 14:27:11.148860,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 45.5,-0.010699999999999932,0.5348,0.5455
 2024-11-02 14:27:11.203612,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 21.5,-0.010699999999999932,0.5348,0.5455
 2024-11-02 15:28:17.446809,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Shabaz Masoud,-0.010699999999999987,0.3226,0.3333
-2024-11-02 11:21:20.154179,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Deportivo Toluca,-0.010899999999999993,0.1429,0.1538
 2024-11-02 19:23:17.975280,Boxing Lines - Yan Santana vs Eduardo Baez - To Win the Bout,Eduardo Baez,-0.010899999999999993,0.1429,0.1538
-2024-11-02 10:29:54.066762,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 49.5,-0.01100000000000001,0.5238,0.5348
+2024-11-02 11:21:20.154179,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Deportivo Toluca,-0.010899999999999993,0.1429,0.1538
 2024-11-02 10:29:53.671433,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,Yes,-0.01100000000000001,0.5238,0.5348
-2024-11-02 14:27:11.076000,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Davis (LAL),-0.011099999999999999,0.1,0.1111
+2024-11-02 10:29:54.066762,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 49.5,-0.01100000000000001,0.5238,0.5348
 2024-11-02 14:27:11.076000,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),-0.011099999999999999,0.1,0.1111
 2024-11-02 17:26:09.259103,BKFC 68: Faulkner vs Oskar - Anthony Holmes vs Charles Wasserman - To Win the Bout,Anthony Holmes,-0.011099999999999999,0.7222,0.7333
+2024-11-02 14:27:11.076000,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Davis (LAL),-0.011099999999999999,0.1,0.1111
 2024-11-02 11:21:20.150382,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Andre-Pierre Gignac,-0.011199999999999995,0.0476,0.0588
 2024-11-02 10:29:55.167554,Queensland PGA Championship - Queensland PGA Championship - Winner,Ben Eccles,-0.011399999999999997,0.0164,0.0278
 2024-11-02 08:30:28.645482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Caris LeVert (CLE),-0.011500000000000003,0.0385,0.05
 2024-11-02 14:27:11.068422,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Josh Giddey (CHI),-0.011500000000000003,0.0385,0.05
-2024-11-02 14:27:11.208567,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 45.5,-0.011600000000000055,0.5122,0.5238
-2024-11-02 14:27:11.109189,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 52.5,-0.011600000000000055,0.5122,0.5238
 2024-11-02 10:29:53.998081,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 26.5,-0.011600000000000055,0.5122,0.5238
+2024-11-02 14:27:11.208567,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 45.5,-0.011600000000000055,0.5122,0.5238
 2024-11-02 14:27:11.099260,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 29.5,-0.011600000000000055,0.5122,0.5238
+2024-11-02 14:27:11.109189,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 52.5,-0.011600000000000055,0.5122,0.5238
 2024-11-02 14:27:12.211627,BKFC 68: Faulkner vs Oskar - Danny Moir vs Kyle Redfearn - To Win the Bout,Kyle Redfearn,-0.011699999999999988,0.274,0.2857
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Lee Chieh-Po,-0.011699999999999999,0.0079,0.0196
 2024-11-02 10:29:53.740838,To Make the Playoffs - Utah Jazz 2024-25 - To Make the Playoffs,No,-0.011700000000000044,0.9833,0.995
@@ -190,31 +187,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Chapchai Nirat,-0.0119,0.0013,0.0132
 2024-11-02 14:27:11.124049,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 26.5,-0.012199999999999989,0.5,0.5122
 2024-11-02 14:27:11.153818,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 44.5,-0.012199999999999989,0.5,0.5122
-2024-11-02 18:32:04.198982,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.012699999999999989,0.3509,0.3636
 2024-11-02 18:32:04.195385,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,-0.012699999999999989,0.3509,0.3636
+2024-11-02 18:32:04.198982,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.012699999999999989,0.3509,0.3636
 2024-11-02 10:29:53.939451,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Alex Caruso (OKC),-0.012700000000000003,0.0196,0.0323
 2024-11-02 15:28:17.570653,BKFC 68: Faulkner vs Oskar - Paul Cook vs Luke Beamish - To Win the Bout,Paul Cook,-0.012700000000000045,0.6364,0.6491
-2024-11-02 11:21:22.080682,Boxing Lines - Gabriela Fundora vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,-0.012899999999999995,0.1538,0.1667
-2024-11-02 08:30:29.702576,TOTO Japan Classic - TOTO Japan Classic - Winner,Rio Takeda,-0.012899999999999995,0.1538,0.1667
 2024-11-02 08:30:28.645482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Malik Monk (SAC),-0.012899999999999995,0.1538,0.1667
+2024-11-02 11:21:22.080682,Boxing Lines - Gabriela Fundora vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,-0.012899999999999995,0.1538,0.1667
 2024-11-02 11:21:22.092811,Boxing Lines - Yan Santana vs Eduardo Baez - To Win the Bout,Eduardo Baez,-0.012899999999999995,0.1538,0.1667
+2024-11-02 08:30:29.702576,TOTO Japan Classic - TOTO Japan Classic - Winner,Rio Takeda,-0.012899999999999995,0.1538,0.1667
 2024-11-02 08:30:28.649016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Quin Snyder,-0.0138,0.0079,0.0217
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Sadom Kaewkanjana,-0.013900000000000001,0.0025,0.0164
-2024-11-02 10:29:55.098917,BKFC 68: Faulkner vs Oskar - Gary Fox vs John Spencer - To Win the Bout,John Spencer,-0.013999999999999999,0.0769,0.0909
 2024-11-02 10:29:53.651041,To Make the Playoffs - Cleveland Cavaliers 2024-25 - To Make the Playoffs,No,-0.013999999999999999,0.0769,0.0909
+2024-11-02 10:29:55.098917,BKFC 68: Faulkner vs Oskar - Gary Fox vs John Spencer - To Win the Bout,John Spencer,-0.013999999999999999,0.0769,0.0909
 2024-11-02 08:30:28.656366,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.014099999999999994,0.0526,0.0667
 2024-11-02 11:21:20.082589,MLS - USA MLS 2024 - Futures - Winner,Seattle Sounders,-0.014099999999999994,0.0526,0.0667
 2024-11-02 16:31:48.717754,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Donovan Clingan (POR),-0.014099999999999998,0.0244,0.0385
 2024-11-02 11:21:20.154179,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Tijuana,-0.014099999999999998,0.0294,0.0435
 2024-11-02 10:29:53.708245,To Make the Playoffs - New York Knicks 2024-25 - To Make the Playoffs,No,-0.014100000000000001,0.0385,0.0526
-2024-11-02 16:31:49.833806,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Bjorn Akesson,-0.0142,0.001,0.0152
 2024-11-02 16:31:49.833806,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Niklas Lemke,-0.0142,0.001,0.0152
+2024-11-02 16:31:49.833806,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Bjorn Akesson,-0.0142,0.001,0.0152
 2024-11-02 08:30:28.649016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tom Thibodeau,-0.014399999999999996,0.0625,0.0769
-2024-11-02 08:30:29.702576,TOTO Japan Classic - TOTO Japan Classic - Winner,Linn Grant,-0.014599999999999998,0.005,0.0196
-2024-11-02 08:30:29.702576,TOTO Japan Classic - TOTO Japan Classic - Winner,Miyu Yamashita,-0.014599999999999998,0.005,0.0196
 2024-11-02 09:26:04.886030,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Immanuel Quickley (TOR),-0.014599999999999998,0.005,0.0196
-2024-11-02 15:28:17.594484,BKFC 68: Faulkner vs Oskar - Robbie Brown  vs Bradley Taylor - To Win the Bout,Robbie Brown,-0.01479999999999998,0.3774,0.3922
+2024-11-02 08:30:29.702576,TOTO Japan Classic - TOTO Japan Classic - Winner,Miyu Yamashita,-0.014599999999999998,0.005,0.0196
+2024-11-02 08:30:29.702576,TOTO Japan Classic - TOTO Japan Classic - Winner,Linn Grant,-0.014599999999999998,0.005,0.0196
 2024-11-02 17:26:09.271253,BKFC 68: Faulkner vs Oskar - Karl Thompson vs Dawid Chylinski - To Win the Bout,Dawid Chylinski,-0.01479999999999998,0.3774,0.3922
+2024-11-02 15:28:17.594484,BKFC 68: Faulkner vs Oskar - Robbie Brown  vs Bradley Taylor - To Win the Bout,Robbie Brown,-0.01479999999999998,0.3774,0.3922
 2024-11-02 14:27:12.215622,BKFC 68: Faulkner vs Oskar - Matt Hodgson vs Conor Cook - To Win the Bout,Conor Cook,-0.014800000000000035,0.6078,0.6226
 2024-11-02 08:30:28.645482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jordan Clarkson (UTA),-0.015300000000000001,0.0323,0.0476
 2024-11-02 13:28:15.853029,BKFC 68: Faulkner vs Oskar - Robbie Brown  vs Bradley Taylor - To Win the Bout,Bradley Taylor,-0.01539999999999997,0.6721,0.6875
@@ -235,16 +232,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 13:28:15.812783,BKFC 68: Faulkner vs Oskar - Agi Faulkner vs Dawid Oskar - To Win the Bout,Dawid Oskar,-0.019499999999999962,0.6296,0.6491
 2024-11-02 08:30:28.649016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Taylor Jenkins,-0.01949999999999999,0.0714,0.0909
 2024-11-02 17:26:09.117433,Boxing Lines - Eithan James vs Jermaine Osbourne-Edwards - To Win the Bout,Jermaine Osbourne-Edwards,-0.019500000000000017,0.3509,0.3704
-2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Ben Campbell,-0.019899999999999998,0.0079,0.0278
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Chang Wei-Lun,-0.019899999999999998,0.0079,0.0278
+2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Ben Campbell,-0.019899999999999998,0.0079,0.0278
 2024-11-02 17:26:08.370147,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; DEM House,-0.020100000000000007,0.1538,0.1739
-2024-11-02 09:26:04.878450,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Damian Lillard (MIL),-0.0203,0.0323,0.0526
 2024-11-02 11:21:20.085318,MLS - USA MLS 2024 - Futures - To Reach the Final,Houston Dynamo,-0.0203,0.0385,0.0588
+2024-11-02 09:26:04.878450,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Damian Lillard (MIL),-0.0203,0.0323,0.0526
 2024-11-02 14:27:11.104228,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 30.5,-0.02079999999999993,0.5348,0.5556
 2024-11-02 14:27:11.094331,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 20.5,-0.02079999999999993,0.5348,0.5556
 2024-11-02 14:27:11.064709,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Chet Holmgren (OKC),-0.020799999999999985,0.3125,0.3333
-2024-11-02 10:29:54.007860,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 43.5,-0.02169999999999994,0.5238,0.5455
 2024-11-02 14:27:11.133929,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 43.5,-0.02169999999999994,0.5238,0.5455
+2024-11-02 10:29:54.007860,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 43.5,-0.02169999999999994,0.5238,0.5455
 2024-11-02 14:27:12.051469,Boxing Lines - Eithan James vs Jermaine Osbourne-Edwards - To Win the Bout,Jermaine Osbourne-Edwards,-0.021799999999999986,0.3704,0.3922
 2024-11-02 08:30:29.702576,TOTO Japan Classic - TOTO Japan Classic - Winner,Chisato Iwai,-0.021799999999999996,0.0217,0.0435
 2024-11-02 10:29:54.978634,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Shabaz Masoud,-0.021999999999999964,0.2857,0.3077
@@ -254,28 +251,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 08:30:28.645482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Julian Strawther (DEN),-0.023200000000000002,0.0244,0.0476
 2024-11-02 09:26:04.878450,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,LeBron James (LAL),-0.023299999999999994,0.0323,0.0556
 2024-11-02 08:30:28.659815,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),-0.023799999999999988,0.1429,0.1667
+2024-11-02 20:26:42.563055,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 42.5,-0.023799999999999988,0.4762,0.5
 2024-11-02 14:27:11.089346,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 58.5,-0.023800000000000043,0.5,0.5238
 2024-11-02 14:27:11.168712,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 51.5,-0.023800000000000043,0.5,0.5238
 2024-11-02 15:28:16.682740,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,-0.023800000000000043,0.5,0.5238
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Maverick Antcliff,-0.0244,0.0079,0.0323
 2024-11-02 09:26:04.878450,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kyrie Irving (DAL),-0.026,0.011,0.037
 2024-11-02 13:28:15.680581,Boxing Lines - Ekow Essuman vs Ben Vaughan - To Win the Bout,Ekow Essuman,-0.026499999999999968,0.6226,0.6491
+2024-11-02 16:31:49.833806,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Nicolai Kristensen,-0.0265,0.0013,0.0278
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Natipong Srithong,-0.0265,0.0013,0.0278
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Kosuke Hamamoto,-0.0265,0.0013,0.0278
-2024-11-02 16:31:49.833806,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Nicolai Kristensen,-0.0265,0.0013,0.0278
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Angelo Que,-0.026799999999999997,0.001,0.0278
 2024-11-02 16:31:49.833806,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Martin Couvra,-0.026799999999999997,0.001,0.0278
 2024-11-02 15:28:17.423018,Boxing Lines - Ekow Essuman vs Ben Vaughan - To Win the Bout,Ben Vaughan,-0.027700000000000002,0.4167,0.4444
 2024-11-02 08:30:28.649016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,-0.027800000000000005,0.0833,0.1111
+2024-11-02 15:28:17.574654,BKFC 68: Faulkner vs Oskar - Anthony Holmes vs Charles Wasserman - To Win the Bout,Anthony Holmes,-0.027800000000000047,0.75,0.7778
 2024-11-02 15:28:17.578616,BKFC 68: Faulkner vs Oskar - Bart Krol vs Mat Wiwczaryk - To Win the Bout,Bart Krol,-0.027800000000000047,0.75,0.7778
 2024-11-02 19:23:17.971199,Boxing Lines - Liam Davies vs Shabaz Masoud - To Win the Bout,Liam Davies,-0.027800000000000047,0.75,0.7778
-2024-11-02 15:28:17.574654,BKFC 68: Faulkner vs Oskar - Anthony Holmes vs Charles Wasserman - To Win the Bout,Anthony Holmes,-0.027800000000000047,0.75,0.7778
 2024-11-02 10:29:53.696006,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,Yes,-0.02839999999999998,0.9091,0.9375
 2024-11-02 14:27:11.053928,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Tre Mann (CHA),-0.028399999999999995,0.0625,0.0909
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,Rashid Khan,-0.0286,0.0099,0.0385
 2024-11-02 10:29:55.157543,Indonesian Masters - Indonesian Masters - Winner,John Catlin,-0.029299999999999993,0.0476,0.0769
-2024-11-02 19:23:17.185312,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,-0.030299999999999994,0.3333,0.3636
 2024-11-02 11:21:20.302683,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,-0.030299999999999994,0.6364,0.6667
+2024-11-02 19:23:17.185312,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,-0.030299999999999994,0.3333,0.3636
 2024-11-02 14:27:11.084425,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 35.5,-0.030399999999999983,0.5348,0.5652
 2024-11-02 08:30:28.649016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Willie Green,-0.031200000000000002,0.0164,0.0476
 2024-11-02 14:27:11.129003,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 43.5,-0.031799999999999995,0.4444,0.4762
@@ -324,6 +322,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 10:29:54.047013,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 42.5,-0.13990000000000002,0.5744,0.7143
 2024-11-02 11:21:20.085318,MLS - USA MLS 2024 - Futures - To Reach the Final,Columbus Crew,-0.15,0.1,0.25
 2024-11-02 10:29:54.027465,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 44.5,-0.1503,0.5556,0.7059
-2024-11-02 07:24:55.691972,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Texas State,-0.2177,0.0323,0.25
 2024-11-02 16:31:49.833806,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Angel Ayora,-0.2364,0.3636,0.6
 2024-11-02 10:29:55.167554,Queensland PGA Championship - Queensland PGA Championship - Winner,Billy Dowling,-0.27449999999999997,0.0588,0.3333
