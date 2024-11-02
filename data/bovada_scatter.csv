@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-01 19:23:26.625688,NFL Specials - Where will Cooper Kupp after the 2024 NFL Trade Deadline - Proposition,Rams,0.14279999999999993,0.8571,0.7143
 2024-11-01 19:23:26.621485,NFL Specials - Where will Budda Baker  after the 2024 NFL Trade Deadline - Proposition,Arizona Cardinals,0.13139999999999996,0.6552,0.5238
 2024-11-01 19:23:26.634203,NFL Specials - Where will Mike Williams after the 2024 NFL Trade Deadline - Proposition,Jets,0.10149999999999992,0.6667,0.5652
+2024-11-02 03:31:35.210386,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.08329999999999999,0.3333,0.25
 2024-11-01 22:29:26.968702,"Daily Specials - NBA Daily Specials - Friday, November 1st","A.Davis & A.Edwards 22+ Pts Each, N.Jokic to score a Double Double, LeBron 11+ Assists + Rebounds",0.08039999999999997,0.5455,0.4651
 2024-11-02 02:53:57.268438,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.05709999999999993,0.8571,0.8
 2024-11-02 01:51:36.850996,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,0.052000000000000046,0.9091,0.8571
@@ -13,13 +14,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 01:51:37.715855,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,0.031799999999999995,0.4762,0.4444
 2024-11-01 18:33:58.298398,Boxing Lines - Kurt Walker vs Rudy Garcia - To Win the Bout,Rudy Garcia,0.028700000000000003,0.2105,0.1818
 2024-11-02 01:51:37.844665,Electoral College Winner - New Hampshire (NH) - New Hampshire,Republican,0.02729999999999999,0.2273,0.2
-2024-11-02 01:51:37.647118,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.026800000000000046,0.7143,0.6875
 2024-11-02 01:51:37.643489,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,0.026800000000000046,0.7143,0.6875
+2024-11-02 01:51:37.647118,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.026800000000000046,0.7143,0.6875
 2024-11-01 20:27:48.168831,Boxing Lines - Padraig McCrory vs Leonard Carillo - To Win the Bout,Leonard Carillo,0.0267,0.1176,0.0909
 2024-11-02 02:53:57.358119,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.026499999999999968,0.6491,0.6226
 2024-11-02 01:51:37.651319,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,0.024500000000000022,0.4167,0.3922
-2024-11-02 02:53:57.351654,Championship - England Championship 2024/25 - Top Goalscorer,Borja Sainz,0.022199999999999998,0.2222,0.2
 2024-11-02 01:51:36.859827,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne Victory,0.022199999999999998,0.2222,0.2
+2024-11-02 02:53:57.351654,Championship - England Championship 2024/25 - Top Goalscorer,Borja Sainz,0.022199999999999998,0.2222,0.2
 2024-11-02 02:53:57.355041,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.021999999999999964,0.3077,0.2857
 2024-11-02 01:51:37.723445,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,0.02169999999999994,0.5455,0.5238
 2024-11-02 02:53:57.351654,Championship - England Championship 2024/25 - Top Goalscorer,Josh Maja,0.01820000000000002,0.2,0.1818
@@ -37,19 +38,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-02 01:51:38.455613,Boxing Lines - Eric Tudor vs Harold Calderon - To Win the Bout,Eric Tudor,0.010099999999999998,0.6875,0.6774
 2024-11-01 19:23:26.625688,NFL Specials - Where will Cooper Kupp after the 2024 NFL Trade Deadline - Proposition,Chargers,-0.010099999999999998,0.0952,0.1053
 2024-11-01 17:28:27.616835,Boxing Lines - Ruadhan Farrell vs Connor Kerr - To Win the Bout,Ruadhan Farrell,-0.010199999999999987,0.7937,0.8039
-2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Oliver Lindell,-0.0102,0.0667,0.0769
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Frank Kennedy,-0.0102,0.005,0.0152
 2024-11-02 02:53:57.351654,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,-0.0102,0.0667,0.0769
+2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Oliver Lindell,-0.0102,0.0667,0.0769
 2024-11-02 02:53:57.264012,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.010599999999999998,0.4545,0.4651
-2024-11-01 19:23:26.634203,NFL Specials - Where will Mike Williams after the 2024 NFL Trade Deadline - Proposition,49ers,-0.011099999999999999,0.1,0.1111
 2024-11-02 02:53:57.933157,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Texas Tech,-0.011099999999999999,0.0556,0.0667
+2024-11-01 19:23:26.634203,NFL Specials - Where will Mike Williams after the 2024 NFL Trade Deadline - Proposition,49ers,-0.011099999999999999,0.1,0.1111
 2024-11-01 21:24:56.807309,Boxing Lines -  Dalis Kaleiopu vs Manuel Valentine Lerma - To Win the Bout,Manuel Valentine Lerma,-0.011099999999999999,0.1,0.1111
 2024-11-01 19:23:26.638424,NFL Specials - Where will Za’Darius Smith after the 2024 NFL Trade Deadline - Proposition,Cleveland Browns,-0.011499999999999955,0.6552,0.6667
-2024-11-02 02:53:57.348484,Championship - England Championship 2024/25 - Winner,Sunderland,-0.011700000000000016,0.2105,0.2222
 2024-11-02 01:51:37.906869,Electoral College Winner - Virginia (VA) - Virginia,Republican,-0.011700000000000016,0.2105,0.2222
+2024-11-02 02:53:57.348484,Championship - England Championship 2024/25 - Winner,Sunderland,-0.011700000000000016,0.2105,0.2222
 2024-11-01 19:23:27.063340,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Jonathan Goth-Rasmussen,-0.0119,0.0033,0.0152
-2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Las Vegas Raiders,-0.011900000000000008,0.0833,0.0952
 2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Miami Dolphins,-0.011900000000000008,0.0833,0.0952
+2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Las Vegas Raiders,-0.011900000000000008,0.0833,0.0952
 2024-11-01 19:23:26.629919,NFL Specials - Where will Matthew Stafford after the 2024 NFL Trade Deadline - Proposition,Tennessee Titans,-0.011900000000000008,0.0833,0.0952
 2024-11-01 19:23:26.621485,NFL Specials - Where will Budda Baker  after the 2024 NFL Trade Deadline - Proposition,Dallas Cowboys,-0.012299999999999991,0.1053,0.1176
 2024-11-02 02:53:57.268438,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Borussia Dortmund,-0.012700000000000003,0.0196,0.0323
