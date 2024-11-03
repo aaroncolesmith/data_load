@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 11:22:23.303330,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Paulinho Fernandes,0.14140000000000008,0.7778,0.6364
 2024-11-03 11:22:23.248788,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.13670000000000004,0.6923,0.5556
 2024-11-03 10:32:03.046576,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,0.13370000000000004,0.7701,0.6364
+2024-11-03 17:26:25.184333,US Senate Elections 2024 - Senate Election Winner - Michigan - Winner,Democrat,0.11430000000000007,0.8113,0.697
 2024-11-03 12:45:55.289510,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cam Ward (MIA),0.11359999999999998,0.3636,0.25
 2024-11-03 11:22:23.248788,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.10769999999999996,0.3077,0.2
 2024-11-03 09:26:58.672318,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,0.10769999999999996,0.3077,0.2
@@ -10,25 +11,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 07:25:47.420712,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.0917,0.7143,0.6226
 2024-11-03 09:26:58.440871,Serie A - Italy Serie A 2024/25 - To Be Relegated,Genoa,0.09099999999999997,0.5455,0.4545
 2024-11-03 10:32:03.046576,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,0.08490000000000009,0.8182,0.7333
+2024-11-03 17:26:25.133913,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,54,0.08410000000000001,0.1429,0.0588
 2024-11-03 11:22:23.248788,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.07690000000000002,0.3846,0.3077
 2024-11-03 09:26:58.656951,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Liverpool,0.06969999999999998,0.6923,0.6226
-2024-11-03 16:30:49.717752,NBA Specials - Where will Giannis Antetokounmpo Play after the 2025 NBA Trade Deadline if not with the Milwaukee Bucks - Proposition,Miami Heat,0.06670000000000004,0.4,0.3333
 2024-11-03 09:26:58.663123,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Newcastle United,0.06670000000000004,0.4,0.3333
+2024-11-03 16:30:49.717752,NBA Specials - Where will Giannis Antetokounmpo Play after the 2025 NBA Trade Deadline if not with the Milwaukee Bucks - Proposition,Miami Heat,0.06670000000000004,0.4,0.3333
 2024-11-03 09:26:58.446735,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,0.0635,0.2857,0.2222
+2024-11-03 17:26:25.234372,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Democratic,0.0626000000000001,0.7959,0.7333
 2024-11-03 09:26:58.666223,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Nottingham Forest,0.05980000000000002,0.4444,0.3846
+2024-11-03 17:26:25.230210,US Senate Elections 2024 - Senate Election Winner - Ohio - Winner,Democrat,0.057699999999999974,0.5122,0.4545
 2024-11-03 09:26:58.666223,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,0.05559999999999998,0.5,0.4444
 2024-11-03 07:25:47.692111,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Alexandre Sarr (WAS),0.05379999999999999,0.1538,0.1
 2024-11-03 09:26:58.666223,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Newcastle United,0.052000000000000046,0.9091,0.8571
 2024-11-03 10:32:03.046576,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Hoffenheim,0.052000000000000005,0.1429,0.0909
 2024-11-03 11:22:23.251712,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.050000000000000044,0.8,0.75
+2024-11-03 17:26:25.272824,US Senate Elections 2024 - Senate Election Winner - Wisconsin - Winner,Democrat,0.046600000000000086,0.7436,0.697
 2024-11-03 10:32:03.083073,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Saint-Étienne,0.045499999999999985,0.5,0.4545
-2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,0.042899999999999994,0.1429,0.1
+2024-11-03 17:26:25.133913,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,56 or more,0.04329999999999999,0.0909,0.0476
 2024-11-03 11:22:23.178714,MLS - USA MLS 2024 - Futures - To Reach the Final,Minnesota United,0.042899999999999994,0.1429,0.1
+2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,0.042899999999999994,0.1429,0.1
 2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Buddy Hield (GSW),0.04240000000000001,0.1333,0.0909
+2024-11-03 17:26:25.209295,US Senate Elections 2024 - Senate Election Winner - Nevada - Winner,Democrat,0.042300000000000004,0.8571,0.8148
 2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,0.040999999999999925,0.7333,0.6923
 2024-11-03 09:26:59.192244,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),0.0407,0.1176,0.0769
 2024-11-03 10:32:03.076830,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,0.04040000000000002,0.2222,0.1818
 2024-11-03 12:45:55.294143,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,0.04040000000000002,0.2222,0.1818
+2024-11-03 17:26:25.133913,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,55,0.0398,0.0833,0.0435
 2024-11-03 12:45:55.289510,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jaxson Dart (MISS),0.0392,0.0588,0.0196
 2024-11-03 07:25:47.407679,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.03889999999999999,0.1818,0.1429
 2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.03889999999999999,0.1818,0.1429
@@ -39,17 +47,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 10:32:03.308056,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,0.0348,0.3333,0.2985
 2024-11-03 10:32:03.293982,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Ajax,0.0343,0.1176,0.0833
 2024-11-03 10:32:03.086249,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,0.03420000000000001,0.1111,0.0769
-2024-11-03 09:26:58.676160,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Mohamed Salah (Liverpool),0.034100000000000005,0.125,0.0909
 2024-11-03 07:25:47.692111,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),0.034100000000000005,0.125,0.0909
+2024-11-03 09:26:58.676160,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Mohamed Salah (Liverpool),0.034100000000000005,0.125,0.0909
 2024-11-03 09:26:59.192244,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Bilal Coulibaly (WAS),0.0334,0.0769,0.0435
 2024-11-03 09:26:59.192244,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),0.0334,0.0769,0.0435
 2024-11-03 12:45:55.289510,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),0.033300000000000024,0.2,0.1667
+2024-11-03 17:26:24.384362,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.033300000000000024,0.2,0.1667
 2024-11-03 09:26:58.663123,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,0.03330000000000001,0.1,0.0667
+2024-11-03 17:26:25.133913,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,53,0.033299999999999996,0.1333,0.1
 2024-11-03 10:32:03.083073,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Brest,0.03219999999999999,0.0667,0.0345
 2024-11-03 10:32:03.312705,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,0.0321,0.0909,0.0588
 2024-11-03 09:26:59.831512,NFL Specials - Where will Cooper Kupp after the 2024 NFL Trade Deadline - Proposition,Rams,0.03180000000000005,0.8889,0.8571
-2024-11-03 09:26:58.630817,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.031799999999999995,0.2985,0.2667
 2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Aston Villa,0.031799999999999995,0.1429,0.1111
+2024-11-03 09:26:58.630817,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.031799999999999995,0.2985,0.2667
 2024-11-03 09:26:59.192244,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Gradey Dick (TOR),0.031,0.0588,0.0278
 2024-11-03 12:45:55.294143,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Miami Florida,0.030699999999999998,0.0833,0.0526
 2024-11-03 09:26:58.643728,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Bukayo Saka,0.030299999999999994,0.3636,0.3333
@@ -59,6 +69,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Tre Mann (CHA),0.028399999999999995,0.0909,0.0625
 2024-11-03 09:26:58.443776,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Genoa,0.02779999999999999,0.25,0.2222
 2024-11-03 09:26:59.181855,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Donovan Mitchell (CLE),0.026899999999999993,0.0769,0.05
+2024-11-03 17:26:24.384362,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,0.026600000000000013,0.4348,0.4082
 2024-11-03 10:32:03.308056,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.025600000000000067,0.6923,0.6667
 2024-11-03 09:26:58.663123,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester United,0.02560000000000001,0.3333,0.3077
 2024-11-03 11:22:23.419816,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.02560000000000001,0.3333,0.3077
@@ -69,14 +80,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 12:45:54.646159,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,0.023799999999999988,0.1667,0.1429
 2024-11-03 09:26:59.181855,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kyrie Irving (DAL),0.023500000000000004,0.0345,0.011
 2024-11-03 10:32:03.043381,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Omar Marmoush (Eintracht Frankfurt),0.02310000000000001,0.1,0.0769
-2024-11-03 12:45:54.668588,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.022199999999999998,0.6774,0.6552
 2024-11-03 07:25:47.430026,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.022199999999999998,0.2222,0.2
+2024-11-03 12:45:54.668588,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.022199999999999998,0.6774,0.6552
 2024-11-03 09:26:58.446735,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,0.02200000000000002,0.7143,0.6923
 2024-11-03 11:22:23.451553,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,0.021999999999999964,0.3077,0.2857
+2024-11-03 17:26:24.732748,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.021699999999999997,0.4762,0.4545
+2024-11-03 17:26:24.728751,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.021699999999999997,0.4762,0.4545
 2024-11-03 09:26:58.440871,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,0.02100000000000002,0.3846,0.3636
 2024-11-03 07:25:47.692111,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Kyle Filipowski (UTA),0.0203,0.0526,0.0323
-2024-11-03 11:22:23.175826,MLS - USA MLS 2024 - Futures - Winner,Minnesota United,0.0203,0.0588,0.0385
 2024-11-03 09:26:59.192244,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Josh Giddey (CHI),0.0203,0.0588,0.0385
+2024-11-03 11:22:23.175826,MLS - USA MLS 2024 - Futures - Winner,Minnesota United,0.0203,0.0588,0.0385
 2024-11-03 09:26:59.192244,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Johnson (ATL),0.02020000000000001,0.1111,0.0909
 2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,0.020199999999999996,0.9091,0.8889
 2024-11-03 10:32:03.043381,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Harry Kane (Bayern Munich),0.020199999999999996,0.9091,0.8889
@@ -85,18 +98,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 14:28:42.506770,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.01959999999999995,0.697,0.6774
 2024-11-03 12:45:54.711847,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 3 to 3.99%,0.019099999999999992,0.0667,0.0476
 2024-11-03 09:26:58.676160,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Cole Palmer (Chelsea),0.019000000000000017,0.2857,0.2667
-2024-11-03 11:22:23.451553,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.018900000000000028,0.4444,0.4255
+2024-11-03 17:26:25.142340,US Senate Elections 2024 - Senate Election Winner - Arizona - Winner,Democrat,0.018999999999999906,0.7917,0.7727
 2024-11-03 10:32:03.086249,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,0.018900000000000028,0.4444,0.4255
+2024-11-03 11:22:23.451553,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.018900000000000028,0.4444,0.4255
 2024-11-03 10:32:03.083073,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Montpellier,0.01880000000000004,0.5744,0.5556
 2024-11-03 12:45:55.294143,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Army,0.0183,0.0196,0.0013
 2024-11-03 11:22:23.488896,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.01820000000000002,0.2,0.1818
-2024-11-03 14:28:42.464167,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.018100000000000005,0.2778,0.2597
 2024-11-03 16:30:49.842604,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.018100000000000005,0.5833,0.5652
 2024-11-03 14:28:42.467858,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.018100000000000005,0.2778,0.2597
 2024-11-03 16:30:49.846492,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.018100000000000005,0.5833,0.5652
+2024-11-03 14:28:42.464167,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.018100000000000005,0.2778,0.2597
 2024-11-03 11:22:23.248788,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Fluminense,0.0179,0.1429,0.125
 2024-11-03 10:32:03.284590,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hannover 96,0.0179,0.1429,0.125
 2024-11-03 10:32:03.079814,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Jonathan David (Lille),0.017600000000000005,0.3509,0.3333
+2024-11-03 17:26:24.352946,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.01759999999999999,0.1176,0.1
 2024-11-03 12:45:54.692647,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,0.01759999999999995,0.6667,0.6491
 2024-11-03 07:25:47.688606,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.017299999999999982,0.303,0.2857
 2024-11-03 09:26:59.181855,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,DeMar DeRozan (SAC),0.0168,0.0385,0.0217
@@ -105,37 +120,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 10:32:03.083073,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Le Havre,0.015400000000000025,0.4,0.3846
 2024-11-03 10:32:03.289205,Super League - Greece Super League 2024/25 - Winner,Olympiakos,0.015400000000000025,0.4,0.3846
 2024-11-03 14:28:42.545109,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,0.01539999999999997,0.6154,0.6
-2024-11-03 10:32:03.298684,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,0.015100000000000002,0.1818,0.1667
 2024-11-03 10:32:03.284590,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,0.015100000000000002,0.1818,0.1667
+2024-11-03 10:32:03.298684,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,0.015100000000000002,0.1818,0.1667
 2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Dereck Lively II (DAL),0.014899999999999997,0.0625,0.0476
 2024-11-03 10:32:03.308056,Super Lig - Turkey Super Lig 2024/25 - Outright,Samsunspor,0.014599999999999998,0.0196,0.005
 2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Everton,0.014100000000000001,0.9756,0.9615
-2024-11-03 09:26:58.437521,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Valentin Castellanos (Lazio),0.014099999999999998,0.0385,0.0244
 2024-11-03 10:32:03.076830,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,0.014099999999999998,0.0385,0.0244
 2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Trey Murphy (NOP),0.014099999999999998,0.0385,0.0244
+2024-11-03 09:26:58.437521,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Valentin Castellanos (Lazio),0.014099999999999998,0.0385,0.0244
 2024-11-03 10:32:03.303379,Premiership - Scotland Premiership 2024/25 - Winner,Rangers,0.013999999999999999,0.0909,0.0769
+2024-11-03 17:26:24.389016,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.013899999999999996,0.125,0.1111
 2024-11-03 09:26:58.640207,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Alisson,0.013899999999999996,0.125,0.1111
 2024-11-03 09:26:59.188583,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),0.013800000000000034,0.3774,0.3636
 2024-11-03 09:26:58.672318,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Nottingham Forest,0.012800000000000034,0.998,0.9852
 2024-11-03 10:32:03.312705,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,0.012700000000000045,0.6491,0.6364
-2024-11-03 11:22:23.242638,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Fortaleza,0.012100000000000001,0.0244,0.0123
 2024-11-03 07:25:47.692111,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Jared McCain (PHI),0.012100000000000001,0.0244,0.0123
+2024-11-03 11:22:23.242638,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Fortaleza,0.012100000000000001,0.0244,0.0123
+2024-11-03 17:26:24.393688,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.011700000000000016,0.2222,0.2105
+2024-11-03 17:26:24.389016,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.0116,0.4878,0.4762
 2024-11-03 14:28:43.196583,NFL Weekly Specials - NFL Week 9- Leaders - Most Rushing Yards (Sunday Only),Austin Ekeler (WAS),0.0115,0.0294,0.0179
-2024-11-03 09:26:58.440871,Serie A - Italy Serie A 2024/25 - To Be Relegated,Udinese,0.011199999999999995,0.0588,0.0476
-2024-11-03 10:32:03.083073,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Strasbourg,0.011199999999999995,0.0588,0.0476
-2024-11-03 09:26:58.434593,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Lazio,0.011199999999999995,0.0588,0.0476
-2024-11-03 10:32:03.279910,Ligue 2 - France Ligue 2 2024/25 - Outright,Clermont Foot,0.011199999999999995,0.0588,0.0476
 2024-11-03 10:32:03.279910,Ligue 2 - France Ligue 2 2024/25 - Outright,Annecy,0.011199999999999995,0.0588,0.0476
-2024-11-03 10:32:03.279910,Ligue 2 - France Ligue 2 2024/25 - Outright,Guingamp,0.011199999999999995,0.0588,0.0476
+2024-11-03 09:26:58.434593,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Lazio,0.011199999999999995,0.0588,0.0476
+2024-11-03 09:26:58.440871,Serie A - Italy Serie A 2024/25 - To Be Relegated,Udinese,0.011199999999999995,0.0588,0.0476
 2024-11-03 09:26:58.647299,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Alexander Isak (Newcastle),0.011199999999999995,0.0588,0.0476
-2024-11-03 09:26:58.440871,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,0.011099999999999999,0.1111,0.1
+2024-11-03 10:32:03.279910,Ligue 2 - France Ligue 2 2024/25 - Outright,Guingamp,0.011199999999999995,0.0588,0.0476
+2024-11-03 10:32:03.279910,Ligue 2 - France Ligue 2 2024/25 - Outright,Clermont Foot,0.011199999999999995,0.0588,0.0476
+2024-11-03 10:32:03.083073,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Strasbourg,0.011199999999999995,0.0588,0.0476
 2024-11-03 11:22:23.448410,Serie B - Italy Serie B 2024/25 - Winner,Spezia,0.011099999999999999,0.1111,0.1
+2024-11-03 17:26:24.393688,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,0.011099999999999999,0.4762,0.4651
+2024-11-03 09:26:58.440871,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,0.011099999999999999,0.1111,0.1
 2024-11-03 09:26:58.443776,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Lecce,0.010899999999999993,0.1538,0.1429
 2024-11-03 07:25:47.692111,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),0.010499999999999982,0.2105,0.2
 2024-11-03 09:26:58.653841,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Everton,0.0102,0.0769,0.0667
-2024-11-03 09:26:58.647299,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Bryan Mbeumo (Brentford),0.0102,0.0769,0.0667
 2024-11-03 09:26:59.188583,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Bam Adebayo (MIA),0.0102,0.0769,0.0667
 2024-11-03 11:22:23.303330,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,German Berterame,0.0102,0.0769,0.0667
+2024-11-03 09:26:58.647299,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Bryan Mbeumo (Brentford),0.0102,0.0769,0.0667
+2024-11-03 17:26:25.200953,US Senate Elections 2024 - Senate Election Winner - Montana - Winner,Republican,0.010099999999999998,0.8889,0.8788
+2024-11-03 17:26:25.200953,US Senate Elections 2024 - Senate Election Winner - Montana - Winner,Democrat,-0.010099999999999998,0.1786,0.1887
+2024-11-03 17:26:24.352946,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.010099999999999998,0.4444,0.4545
 2024-11-03 09:26:58.440871,Serie A - Italy Serie A 2024/25 - To Be Relegated,Bologna,-0.010100000000000001,0.0244,0.0345
 2024-11-03 10:32:03.043381,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Lois Openda (RB Leipzig),-0.0102,0.0667,0.0769
 2024-11-03 10:32:03.043381,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Florian Wirtz (Bayer Leverkusen),-0.0102,0.0667,0.0769
@@ -144,79 +166,87 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 09:26:58.443776,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,-0.010899999999999993,0.1429,0.1538
 2024-11-03 16:30:49.717752,NBA Specials - Where will Giannis Antetokounmpo Play after the 2025 NBA Trade Deadline if not with the Milwaukee Bucks - Proposition,Memphis Grizzlies,-0.010899999999999993,0.1429,0.1538
 2024-11-03 07:25:47.688606,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.0109,0.0417,0.0526
-2024-11-03 14:28:42.472178,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.011099999999999999,0.4651,0.4762
 2024-11-03 07:25:47.399246,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.011099999999999999,0.1,0.1111
+2024-11-03 14:28:42.472178,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.011099999999999999,0.4651,0.4762
 2024-11-03 09:26:58.443776,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Empoli,-0.011199999999999995,0.0476,0.0588
+2024-11-03 11:22:23.451553,Serie B - Italy Serie B 2024/25 - To Be Promoted,Modena,-0.011199999999999995,0.0476,0.0588
+2024-11-03 17:26:24.352946,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,-0.011199999999999995,0.0476,0.0588
 2024-11-03 11:22:23.248788,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Grêmio,-0.011199999999999995,0.0476,0.0588
 2024-11-03 07:25:47.399246,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Miami Heat,-0.011199999999999995,0.0476,0.0588
-2024-11-03 11:22:23.451553,Serie B - Italy Serie B 2024/25 - To Be Promoted,Modena,-0.011199999999999995,0.0476,0.0588
-2024-11-03 14:28:42.460185,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.0116,0.4762,0.4878
 2024-11-03 14:28:42.456205,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.0116,0.4762,0.4878
+2024-11-03 14:28:42.460185,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.0116,0.4762,0.4878
 2024-11-03 12:45:55.294143,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Georgia,-0.011700000000000016,0.2105,0.2222
+2024-11-03 17:26:24.384362,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.011700000000000016,0.2105,0.2222
 2024-11-03 09:26:59.192244,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Chet Holmgren (OKC),-0.011899999999999994,0.0714,0.0833
 2024-11-03 09:26:58.663123,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,-0.012700000000000045,0.6364,0.6491
 2024-11-03 10:32:03.279910,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.012799999999999978,0.2857,0.2985
 2024-11-03 11:22:23.419816,First Division A - Belgium First Division A 2024/25 - Outright,Royal Antwerp,-0.012899999999999995,0.1538,0.1667
-2024-11-03 10:32:03.076830,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Brest,-0.013,0.0066,0.0196
 2024-11-03 11:22:23.307290,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Club León,-0.013,0.0066,0.0196
 2024-11-03 10:32:03.083073,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Nice,-0.013,0.0066,0.0196
-2024-11-03 10:32:04.550141,NFL Specials - Where will Cooper Kupp after the 2024 NFL Trade Deadline - Proposition,Steelers,-0.0131,0.2222,0.2353
+2024-11-03 10:32:03.076830,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Brest,-0.013,0.0066,0.0196
 2024-11-03 13:28:32.832283,NFL Weekly Specials - NFL Week 9 - RedZone Specials - Sunday November 3 - 1pm EST Games,All 16 starting Quarterbacks to Record 150+ Passing Yds each,-0.0131,0.2222,0.2353
+2024-11-03 10:32:04.550141,NFL Specials - Where will Cooper Kupp after the 2024 NFL Trade Deadline - Proposition,Steelers,-0.0131,0.2222,0.2353
 2024-11-03 09:26:58.434593,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,-0.013899999999999996,0.1111,0.125
 2024-11-03 10:32:03.284590,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,-0.013899999999999996,0.1111,0.125
-2024-11-03 07:25:47.434642,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.013899999999999996,0.1111,0.125
 2024-11-03 11:22:23.303330,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Henry Martin,-0.013899999999999996,0.1111,0.125
+2024-11-03 07:25:47.434642,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.013899999999999996,0.1111,0.125
 2024-11-03 09:26:58.647299,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Ollie Watkins (Aston Villa),-0.013999999999999999,0.0769,0.0909
 2024-11-03 10:32:03.284590,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Elversberg,-0.014099999999999998,0.0244,0.0385
 2024-11-03 12:45:55.294143,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Tennessee,-0.014399999999999996,0.0625,0.0769
 2024-11-03 09:26:59.181855,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Tyrese Haliburton (IND),-0.01440000000000001,0.0909,0.1053
 2024-11-03 09:26:59.181855,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,James Harden (LAC),-0.01440000000000001,0.0909,0.1053
 2024-11-03 12:45:55.289510,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Carson Beck (UGA),-0.0145,0.0099,0.0244
+2024-11-03 17:26:24.384362,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.01469999999999999,0.2353,0.25
 2024-11-03 09:26:59.192244,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Victor Wembanyama (SAS),-0.014899999999999997,0.0476,0.0625
+2024-11-03 09:26:58.663123,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,-0.015100000000000002,0.8182,0.8333
 2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.015100000000000002,0.8182,0.8333
 2024-11-03 09:26:58.653841,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,-0.015100000000000002,0.1667,0.1818
-2024-11-03 09:26:58.663123,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,-0.015100000000000002,0.8182,0.8333
 2024-11-03 09:26:58.663123,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,West Ham United,-0.015300000000000001,0.0435,0.0588
 2024-11-03 12:45:54.668588,Electoral College Winner - Georgia (GA) - Georgia,Democrat,-0.016000000000000014,0.3922,0.4082
 2024-11-03 12:45:54.692647,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,-0.016699999999999993,0.4,0.4167
 2024-11-03 07:25:47.692111,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),-0.0179,0.125,0.1429
 2024-11-03 09:26:58.666223,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,-0.018099999999999998,0.0588,0.0769
-2024-11-03 11:22:23.178714,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.01820000000000002,0.1818,0.2
+2024-11-03 17:26:24.728751,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.018100000000000005,0.5652,0.5833
+2024-11-03 17:26:24.732748,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,-0.018100000000000005,0.5652,0.5833
+2024-11-03 17:26:24.374982,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.01820000000000002,0.1818,0.2
 2024-11-03 09:26:58.647299,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Cole Palmer (Chelsea),-0.01820000000000002,0.1818,0.2
+2024-11-03 11:22:23.178714,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.01820000000000002,0.1818,0.2
 2024-11-03 09:26:58.672318,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,West Ham United,-0.01849999999999996,0.9524,0.9709
 2024-11-03 14:28:42.730551,Electoral College Winner - Virginia (VA) - Virginia,Republican,-0.018599999999999978,0.1481,0.1667
 2024-11-03 09:26:58.663123,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,-0.01880000000000004,0.5556,0.5744
 2024-11-03 07:25:47.688606,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Edwards (MIN),-0.019699999999999995,0.1053,0.125
 2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Alex Caruso (OKC),-0.019899999999999998,0.0079,0.0278
+2024-11-03 17:26:25.142340,US Senate Elections 2024 - Senate Election Winner - Arizona - Winner,Republican,-0.02009999999999995,0.274,0.2941
 2024-11-03 09:26:58.676160,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Erling Haaland (Man City),-0.020100000000000007,0.2299,0.25
 2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Naz Reid (MIN),-0.02020000000000001,0.0909,0.1111
 2024-11-03 14:28:42.545109,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,-0.020699999999999996,0.4444,0.4651
 2024-11-03 11:22:23.251712,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,-0.02169999999999994,0.5238,0.5455
-2024-11-03 07:25:47.399246,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.021699999999999997,0.4545,0.4762
-2024-11-03 16:30:49.842604,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.021699999999999997,0.4545,0.4762
 2024-11-03 16:30:49.846492,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.021699999999999997,0.4545,0.4762
+2024-11-03 16:30:49.842604,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.021699999999999997,0.4545,0.4762
+2024-11-03 07:25:47.399246,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.021699999999999997,0.4545,0.4762
 2024-11-03 14:28:42.506770,Electoral College Winner - Georgia (GA) - Georgia,Democrat,-0.021799999999999986,0.3704,0.3922
 2024-11-03 09:26:58.443776,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,-0.021999999999999964,0.2857,0.3077
 2024-11-03 09:26:58.440871,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,-0.021999999999999964,0.2857,0.3077
+2024-11-03 07:25:47.407679,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.022199999999999998,0.1111,0.1333
 2024-11-03 09:26:58.440871,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.022199999999999998,0.2,0.2222
 2024-11-03 10:32:03.079814,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),-0.022199999999999998,0.2,0.2222
+2024-11-03 16:30:49.717752,NBA Specials - Where will Giannis Antetokounmpo Play after the 2025 NBA Trade Deadline if not with the Milwaukee Bucks - Proposition,Houston Rockets,-0.022199999999999998,0.2,0.2222
 2024-11-03 10:32:03.284590,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Fortuna Düsseldorf,-0.022199999999999998,0.2,0.2222
-2024-11-03 07:25:47.407679,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.022199999999999998,0.1111,0.1333
 2024-11-03 10:32:03.046576,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Freiburg,-0.0228,0.0066,0.0294
 2024-11-03 12:45:55.294143,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Penn State,-0.0232,0.0435,0.0667
 2024-11-03 09:26:59.192244,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),-0.023200000000000002,0.0244,0.0476
 2024-11-03 09:26:58.446735,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Torino,-0.023200000000000002,0.0244,0.0476
 2024-11-03 10:32:03.086249,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Brest,-0.023200000000000002,0.0244,0.0476
-2024-11-03 11:22:23.251712,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,-0.023799999999999988,0.1429,0.1667
-2024-11-03 11:22:23.488896,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,-0.023799999999999988,0.1429,0.1667
 2024-11-03 07:25:47.434642,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.023799999999999988,0.4762,0.5
-2024-11-03 16:30:49.717752,NBA Specials - Where will Giannis Antetokounmpo Play after the 2025 NBA Trade Deadline if not with the Milwaukee Bucks - Proposition,San Antonio Spurs,-0.023799999999999988,0.1429,0.1667
 2024-11-03 11:22:23.451553,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,-0.023799999999999988,0.4762,0.5
+2024-11-03 11:22:23.488896,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,-0.023799999999999988,0.1429,0.1667
+2024-11-03 16:30:49.717752,NBA Specials - Where will Giannis Antetokounmpo Play after the 2025 NBA Trade Deadline if not with the Milwaukee Bucks - Proposition,San Antonio Spurs,-0.023799999999999988,0.1429,0.1667
 2024-11-03 09:26:58.666223,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.023799999999999988,0.1429,0.1667
+2024-11-03 11:22:23.251712,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,-0.023799999999999988,0.1429,0.1667
 2024-11-03 14:28:42.464167,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.023900000000000032,0.7874,0.8113
 2024-11-03 14:28:42.467858,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.023900000000000032,0.7874,0.8113
-2024-11-03 10:32:03.303379,Premiership - Scotland Premiership 2024/25 - Winner,Aberdeen,-0.0242,0.0667,0.0909
 2024-11-03 09:26:58.666223,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,-0.0242,0.9091,0.9333
+2024-11-03 10:32:03.303379,Premiership - Scotland Premiership 2024/25 - Winner,Aberdeen,-0.0242,0.0667,0.0909
 2024-11-03 07:25:47.692111,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Yves Missi (NO),-0.024299999999999995,0.0526,0.0769
 2024-11-03 10:32:03.046576,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Mainz,-0.024999999999999994,0.1,0.125
 2024-11-03 09:26:58.446735,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,-0.025300000000000003,0.1176,0.1429
@@ -235,27 +265,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Malik Monk (SAC),-0.028799999999999992,0.125,0.1538
 2024-11-03 14:28:42.522111,Electoral College Winner - Nevada (NV) - Nevada,Republican,-0.02960000000000007,0.6,0.6296
 2024-11-03 12:45:55.289510,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter (COL),-0.030299999999999994,0.3333,0.3636
-2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.031799999999999995,0.1111,0.1429
 2024-11-03 11:22:23.248788,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,-0.031799999999999995,0.2667,0.2985
+2024-11-03 09:26:59.178408,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.031799999999999995,0.1111,0.1429
 2024-11-03 09:26:58.676160,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Kevin De Bruyne (Man City),-0.0321,0.0588,0.0909
 2024-11-03 09:26:58.666223,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester City,-0.03210000000000002,0.9091,0.9412
 2024-11-03 11:22:23.248788,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Atlético Mineiro,-0.0336,0.0099,0.0435
 2024-11-03 09:26:58.663123,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester City,-0.03410000000000002,0.875,0.9091
+2024-11-03 17:26:25.133913,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,51,-0.034399999999999986,0.2597,0.2941
 2024-11-03 07:25:47.420712,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.0353,0.2,0.2353
 2024-11-03 09:26:58.656951,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,-0.035699999999999954,0.7143,0.75
 2024-11-03 09:26:58.672318,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Ipswich Town,-0.03640000000000004,0.3636,0.4
 2024-11-03 10:32:03.046576,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Augsburg,-0.03889999999999999,0.1429,0.1818
+2024-11-03 17:26:25.133913,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,49 or fewer,-0.04000000000000001,0.16,0.2
 2024-11-03 09:26:58.666223,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,-0.04039999999999999,0.7778,0.8182
+2024-11-03 17:26:25.209295,US Senate Elections 2024 - Senate Election Winner - Nevada - Winner,Republican,-0.04269999999999999,0.2105,0.2532
 2024-11-03 12:45:55.294143,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Clemson,-0.0429,0.0196,0.0625
 2024-11-03 07:25:47.407679,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.04409999999999997,0.25,0.2941
 2024-11-03 09:26:58.653841,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Southampton,-0.044399999999999995,0.4,0.4444
+2024-11-03 17:26:25.133913,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,52,-0.04720000000000002,0.2703,0.3175
+2024-11-03 17:26:25.272824,US Senate Elections 2024 - Senate Election Winner - Wisconsin - Winner,Republican,-0.04780000000000001,0.3226,0.3704
 2024-11-03 11:22:23.419816,First Division A - Belgium First Division A 2024/25 - Outright,Union Saint-Gilloise,-0.048100000000000004,0.0769,0.125
 2024-11-03 10:32:03.086249,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,-0.04810000000000003,0.7701,0.8182
 2024-11-03 09:26:58.666223,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.05130000000000001,0.3333,0.3846
 2024-11-03 09:26:58.446735,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,-0.05559999999999998,0.4444,0.5
 2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Nottingham Forest,-0.05590000000000006,0.6364,0.6923
 2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,-0.05710000000000001,0.1429,0.2
+2024-11-03 17:26:25.230210,US Senate Elections 2024 - Senate Election Winner - Ohio - Winner,Republican,-0.059799999999999964,0.5556,0.6154
 2024-11-03 09:26:58.669300,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.061999999999999944,0.5744,0.6364
+2024-11-03 17:26:25.133913,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,50,-0.062200000000000005,0.16,0.2222
+2024-11-03 17:26:25.234372,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Republican,-0.063,0.2703,0.3333
 2024-11-03 10:32:03.293982,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,-0.06600000000000006,0.8571,0.9231
 2024-11-03 09:26:58.630817,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.07450000000000001,0.4255,0.5
 2024-11-03 10:32:03.308056,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,-0.07579999999999999,0.0909,0.1667
@@ -264,6 +302,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-03 09:26:58.672318,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Everton,-0.08490000000000009,0.7333,0.8182
 2024-11-03 11:22:23.456177,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Bodø/Glimt,-0.09089999999999998,0.8182,0.9091
 2024-11-03 09:26:58.633805,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.09999999999999998,0.4,0.5
+2024-11-03 17:26:25.184333,US Senate Elections 2024 - Senate Election Winner - Michigan - Winner,Republican,-0.11399999999999999,0.2564,0.3704
 2024-11-03 10:32:03.083073,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Angers,-0.14289999999999992,0.5238,0.6667
 2024-11-03 10:32:03.046576,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,St. Pauli,-0.14290000000000003,0.3333,0.4762
 2024-11-03 11:22:23.248788,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,-0.2701,0.2299,0.5
