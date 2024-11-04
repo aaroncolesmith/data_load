@@ -1,33 +1,21 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-11-04 08:32:34.910568,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Miami Florida,0.2272,0.6923,0.4651
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Nebraska,0.2115,0.25,0.0385
-2024-11-04 08:32:34.910568,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,SMU,0.2014,0.3125,0.1111
-2024-11-04 08:32:34.914570,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Tulane,0.15340000000000004,0.5238,0.3704
 2024-11-04 11:24:54.955730,Copa do Brasil - Copa do Brasil 2024 - Winner,Flamengo,0.15090000000000003,0.8,0.6491
-2024-11-04 08:32:34.918582,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Colorado,0.1428,0.2857,0.1429
-2024-11-04 08:32:34.942574,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Georgia Southern,0.1428,0.2857,0.1429
-2024-11-04 08:32:34.848164,CFL - CFL Futures -  Grey Cup Winner 2024,Toronto Argonauts,0.125,0.25,0.125
 2024-11-04 19:23:46.651458,NFL Specials - Where will Adam Thielen after the 2024 NFL Trade Deadline - Proposition,Pittsburgh Steelers,0.1238,0.2667,0.1429
 2024-11-04 11:24:54.960397,J1 League - Japan J1 League 2024 - Winner,Vissel Kobe,0.12379999999999997,0.6,0.4762
 2024-11-04 17:28:03.941923,East Group A - East Group A Winner - East Group A Winner,Philadelphia 76ers,0.11969999999999997,0.3636,0.2439
 2024-11-04 11:24:54.915068,Serie B - Italy Serie B 2024/25 - Winner,Pisa,0.10769999999999996,0.3077,0.2
 2024-11-04 17:28:03.946619,East Group B - East Group B Winner - East Group B Winner,Indiana Pacers,0.10719999999999996,0.3636,0.2564
-2024-11-04 08:32:34.922647,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Ohio State,0.10320000000000001,0.4878,0.3846
 2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.09999999999999998,0.5,0.4
 2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,0.09820000000000001,0.5744,0.4762
 2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,0.09229999999999994,0.6667,0.5744
 2024-11-04 18:34:53.998518,Electoral College Winner - Mississippi (MS) - Mississippi - Popular Vote Winning Margin,Trump By Less than 20% or Harris,0.09049999999999997,0.5556,0.4651
 2024-11-04 17:28:03.956022,West Group A - West Group A Winner - West Group A Winner,Sacramento Kings,0.08329999999999999,0.3333,0.25
 2024-11-04 11:24:54.697964,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,0.07940000000000003,0.5238,0.4444
-2024-11-04 08:32:34.848164,CFL - CFL Futures -  Grey Cup Winner 2024,Winnipeg Blue Bombers,0.07789999999999997,0.3636,0.2857
-2024-11-04 08:32:34.938557,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Georgia,0.07190000000000002,0.4167,0.3448
-2024-11-04 08:32:34.918582,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Texas Tech,0.0692,0.0909,0.0217
 2024-11-04 11:24:54.915068,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.06519999999999998,0.3509,0.2857
 2024-11-04 17:28:03.965452,West Group C - West Group C Winner - West Group C Winner,New Orleans Pelicans,0.065,0.1176,0.0526
 2024-11-04 11:24:54.688725,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,0.0635,0.2857,0.2222
-2024-11-04 08:32:34.934600,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Colorado State,0.058300000000000005,0.125,0.0667
 2024-11-04 10:33:28.688780,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester United,0.055800000000000016,0.2857,0.2299
-2024-11-04 08:32:34.942574,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,UL Lafayette,0.05559999999999998,0.5,0.4444
 2024-11-04 12:51:05.483727,Cryptocurrency Specials - Bitcoin Closing Value On November 6th - Bitcoin Value After Election,$50000.01 to $60000.00,0.05559999999999998,0.1667,0.1111
 2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,0.05550000000000002,0.2222,0.1667
 2024-11-04 11:24:54.674933,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Ademola Lookman (Atalanta),0.052399999999999995,0.0909,0.0385
@@ -38,45 +26,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-04 11:24:54.793828,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,0.0465,0.0588,0.0123
 2024-11-04 17:28:03.956022,West Group A - West Group A Winner - West Group A Winner,Minnesota Timberwolves,0.04630000000000001,0.4167,0.3704
 2024-11-04 17:28:03.951302,East Group C - East Group C Winner - East Group C Winner,Boston Celtics,0.04630000000000001,0.6296,0.5833
-2024-11-04 11:24:54.694999,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Saint-Étienne,0.045499999999999985,0.5455,0.5
-2024-11-04 08:32:34.914570,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Army,0.045499999999999985,0.5,0.4545
 2024-11-04 11:24:54.886619,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.045499999999999985,0.5455,0.5
+2024-11-04 11:24:54.694999,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Saint-Étienne,0.045499999999999985,0.5455,0.5
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.044499999999999984,0.2667,0.2222
 2024-11-04 20:27:00.618132,58th CMA Awards - CMA Awards: Female Vocalist Of The Year - Female Vocalist,Ashley McBryde,0.04329999999999999,0.0909,0.0476
 2024-11-04 10:33:28.413534,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.043200000000000016,0.6923,0.6491
 2024-11-04 15:29:38.982306,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 4% or more,0.042899999999999994,0.1429,0.1
 2024-11-04 12:51:05.009639,MLS - USA MLS 2024 - Futures - To Reach the Final,Seattle Sounders,0.04169999999999999,0.1667,0.125
 2024-11-04 10:33:28.619594,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,0.04099999999999998,0.3077,0.2667
-2024-11-04 08:32:34.930668,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,0.04099999999999998,0.3077,0.2667
 2024-11-04 11:24:54.654844,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,0.04099999999999998,0.3077,0.2667
 2024-11-04 11:24:54.678208,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,0.040999999999999925,0.6154,0.5744
 2024-11-04 11:24:54.694999,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Montpellier,0.040999999999999925,0.6154,0.5744
 2024-11-04 17:28:03.965452,West Group C - West Group C Winner - West Group C Winner,Memphis Grizzlies,0.04000000000000001,0.2,0.16
 2024-11-04 11:24:54.661005,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Hoffenheim,0.03889999999999999,0.1818,0.1429
-2024-11-04 08:32:34.918582,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Arizona State,0.0385,0.0526,0.0141
 2024-11-04 14:30:47.169846,East Group C - East Group C Winner - East Group C Winner,Boston Celtics,0.037800000000000056,0.5833,0.5455
 2024-11-04 18:34:54.050840,Electoral College Winner - New York (NY) - New York - Popular Vote Winning Margin,Harris By Less Than 10% or Trump,0.03670000000000001,0.1905,0.1538
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Derrick Henry (BAL),0.036199999999999996,0.0526,0.0164
 2024-11-04 10:33:29.130993,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),UAB,0.03570000000000001,0.2857,0.25
 2024-11-04 14:30:47.257337,BNXT League - BNXT League 2024/25 - Outright,BC Oostende,0.035699999999999954,0.75,0.7143
-2024-11-04 08:32:34.922647,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Indiana,0.0343,0.1176,0.0833
 2024-11-04 10:33:28.416492,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Robert Lewandowski (FC Barcelona),0.03410000000000002,0.9091,0.875
-2024-11-04 08:32:34.848164,CFL - CFL Futures -  Grey Cup Winner 2024,Saskatchewan Roughriders,0.033399999999999985,0.1667,0.1333
 2024-11-04 11:24:54.694999,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Nantes,0.033300000000000024,0.2,0.1667
 2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Brescia,0.033299999999999996,0.1333,0.1
 2024-11-04 10:33:29.106777,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Duke,0.031799999999999995,0.4762,0.4444
-2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Indiana,0.031799999999999995,0.1429,0.1111
 2024-11-04 11:24:54.671485,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.031799999999999995,0.1429,0.1111
+2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Indiana,0.031799999999999995,0.1429,0.1111
 2024-11-04 14:30:47.160458,East Group A - East Group A Winner - East Group A Winner,New York Knicks,0.03179999999999994,0.5556,0.5238
-2024-11-04 08:32:34.109415,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Gradey Dick (TOR),0.031,0.0588,0.0278
-2024-11-04 08:32:34.848164,CFL - CFL Futures -  Grey Cup Winner 2024,Montreal Alouettes,0.030299999999999994,0.3636,0.3333
-2024-11-04 08:32:34.938557,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Texas,0.030299999999999994,0.3636,0.3333
 2024-11-04 10:33:28.682579,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,0.030299999999999994,0.6667,0.6364
 2024-11-04 11:24:54.800418,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,0.029899999999999982,0.2299,0.2
-2024-11-04 08:32:34.109415,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Bilal Coulibaly (WAS),0.029299999999999993,0.0769,0.0476
-2024-11-04 08:32:34.926700,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Sam Houston State,0.028799999999999992,0.1538,0.125
-2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,0.028199999999999996,0.0667,0.0385
 2024-11-04 17:28:03.946619,East Group B - East Group B Winner - East Group B Winner,Detroit Pistons,0.028199999999999996,0.0667,0.0385
+2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,0.028199999999999996,0.0667,0.0385
 2024-11-04 11:24:54.671485,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Juventus,0.02779999999999999,0.25,0.2222
 2024-11-04 14:30:47.165157,East Group B - East Group B Winner - East Group B Winner,Milwaukee Bucks,0.027700000000000002,0.4444,0.4167
 2024-11-04 17:28:03.951302,East Group C - East Group C Winner - East Group C Winner,Chicago Bulls,0.026499999999999996,0.0588,0.0323
@@ -85,49 +63,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,0.02560000000000001,0.3333,0.3077
 2024-11-04 09:29:47.339101,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.025300000000000003,0.1429,0.1176
 2024-11-04 15:29:38.615114,B League - Japan B-League 2024/25 - Outright,Utsunomiya Brex,0.024999999999999994,0.125,0.1
-2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,0.024299999999999995,0.0769,0.0526
+2024-11-04 21:25:16.894626,Electoral College Winner - Virginia (VA) - Virginia - Popular Vote Winning Margin,Harris by Less than 6% Or Trump,0.024399999999999977,0.5122,0.4878
 2024-11-04 12:51:05.006774,MLS - USA MLS 2024 - Futures - Winner,Seattle Sounders,0.024299999999999995,0.0769,0.0526
+2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,0.024299999999999995,0.0769,0.0526
+2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Cardiff City,0.0242,0.0909,0.0667
 2024-11-04 10:33:29.102666,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),George Mason,0.0242,0.0909,0.0667
 2024-11-04 10:33:28.416492,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Raphinha (FC Barcelona),0.0242,0.0909,0.0667
-2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Cardiff City,0.0242,0.0909,0.0667
-2024-11-04 08:32:34.938557,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Alabama,0.024,0.0625,0.0385
-2024-11-04 08:32:34.101889,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Mark Daigneault,0.024,0.0625,0.0385
-2024-11-04 08:32:34.922647,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Oregon,0.023800000000000043,0.5238,0.5
-2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Luton Town,0.023799999999999988,0.1667,0.1429
-2024-11-04 11:24:54.905671,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hannover 96,0.023799999999999988,0.1667,0.1429
-2024-11-04 11:24:54.671485,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AC Milan,0.023799999999999988,0.1667,0.1429
 2024-11-04 09:29:47.339101,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,0.023799999999999988,0.1667,0.1429
+2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Luton Town,0.023799999999999988,0.1667,0.1429
+2024-11-04 11:24:54.671485,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AC Milan,0.023799999999999988,0.1667,0.1429
+2024-11-04 11:24:54.905671,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hannover 96,0.023799999999999988,0.1667,0.1429
 2024-11-04 12:51:05.006774,MLS - USA MLS 2024 - Futures - Winner,New York Red Bulls,0.0232,0.0667,0.0435
 2024-11-04 18:34:53.727643,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.0232,0.2899,0.2667
 2024-11-04 11:24:54.661005,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Wolfsburg,0.02310000000000001,0.1,0.0769
-2024-11-04 08:32:34.101889,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,0.02310000000000001,0.1481,0.125
 2024-11-04 09:29:46.552150,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; REP House,0.02260000000000001,0.4,0.3774
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Connecticut,0.022199999999999998,0.3448,0.3226
 2024-11-04 11:24:54.663863,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,0.022199999999999998,0.8,0.7778
-2024-11-04 16:32:06.894922,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,0.022199999999999998,0.8,0.7778
-2024-11-04 08:32:34.918582,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,BYU,0.022199999999999998,0.3448,0.3226
 2024-11-04 11:24:54.691787,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),0.022199999999999998,0.2222,0.2
+2024-11-04 16:32:06.894922,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,0.022199999999999998,0.8,0.7778
 2024-11-04 11:24:54.681147,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,0.021999999999999964,0.3077,0.2857
 2024-11-04 11:24:54.678208,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,0.021999999999999964,0.3077,0.2857
 2024-11-04 15:29:38.600706,Liga ACB - Spain Liga ACB 2024/25 - Outright,Barcelona,0.020799999999999985,0.3333,0.3125
 2024-11-04 12:51:06.108538,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Republican,0.02079999999999993,0.5556,0.5348
 2024-11-04 14:30:47.184093,West Group C - West Group C Winner - West Group C Winner,Denver Nuggets,0.020699999999999996,0.2381,0.2174
-2024-11-04 08:32:34.094647,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Buddy Hield (GSW),0.02049999999999999,0.1538,0.1333
-2024-11-04 20:27:00.618132,58th CMA Awards - CMA Awards: Female Vocalist Of The Year - Female Vocalist,Kacey Musgraves,0.02020000000000001,0.1111,0.0909
 2024-11-04 09:29:46.413914,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Hannah Hidalgo (Notre Dame),0.02020000000000001,0.1111,0.0909
-2024-11-04 08:32:34.101889,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tyronn Lue,0.019800000000000005,0.0476,0.0278
+2024-11-04 20:27:00.618132,58th CMA Awards - CMA Awards: Female Vocalist Of The Year - Female Vocalist,Kacey Musgraves,0.02020000000000001,0.1111,0.0909
 2024-11-04 10:33:28.619594,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Viking FK,0.019499999999999997,0.0294,0.0099
 2024-11-04 17:28:03.941923,East Group A - East Group A Winner - East Group A Winner,Charlotte Hornets,0.01949999999999999,0.0909,0.0714
-2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jalen Hurts (PHI),0.019099999999999992,0.0667,0.0476
 2024-11-04 11:24:54.678208,Serie A - Italy Serie A 2024/25 - To Be Relegated,Torino,0.019099999999999992,0.0667,0.0476
-2024-11-04 14:30:47.174568,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,0.019000000000000017,0.2857,0.2667
+2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jalen Hurts (PHI),0.019099999999999992,0.0667,0.0476
 2024-11-04 10:33:28.624402,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,FC Porto,0.019000000000000017,0.2857,0.2667
+2024-11-04 14:30:47.174568,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,0.019000000000000017,0.2857,0.2667
 2024-11-04 10:33:29.126969,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Kentucky,0.019000000000000003,0.0625,0.0435
 2024-11-04 09:29:47.339101,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Quinn,0.018799999999999983,0.3636,0.3448
 2024-11-04 10:33:28.685683,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,0.01849999999999996,0.9709,0.9524
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Alabama,0.018400000000000027,0.3125,0.2941
 2024-11-04 12:51:05.009639,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,0.01820000000000002,0.2,0.1818
-2024-11-04 08:32:34.094647,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.01820000000000002,0.2,0.1818
 2024-11-04 12:51:06.000199,2024 Election Core - US Presidential Election 2024 - Election Specials - Election Specials ,"Harris to win Any Of AL, AK, AR, ID, IN, IA, KS, KY, LA, MS, MO, MT, NE, ND, OH, OK, SC, SD, TN, UT, WV, WY",0.01820000000000002,0.2,0.1818
 2024-11-04 09:29:46.529820,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.018100000000000005,0.5833,0.5652
 2024-11-04 09:29:46.524454,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.018100000000000005,0.5833,0.5652
@@ -137,133 +108,122 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-04 10:33:28.633873,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,0.017600000000000005,0.3509,0.3333
 2024-11-04 18:34:53.727643,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.017600000000000005,0.3509,0.3333
 2024-11-04 10:33:29.122928,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Nevada,0.01680000000000001,0.2273,0.2105
+2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Pittsburgh,0.0168,0.0385,0.0217
 2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Tamin Lipsey (Iowa State),0.0168,0.0385,0.0217
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Oklahoma,0.0168,0.0385,0.0217
-2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Pittsburgh,0.0168,0.0385,0.0217
-2024-11-04 12:51:05.006774,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.016700000000000007,0.1,0.0833
 2024-11-04 17:28:03.960716,West Group B - West Group B Winner - West Group B Winner,San Antonio Spurs,0.016700000000000007,0.1,0.0833
+2024-11-04 12:51:05.006774,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.016700000000000007,0.1,0.0833
 2024-11-04 15:29:38.610283,Super Ligi - Turkey BSL 2024/25 - Outright,Anadolu Efes,0.016699999999999993,0.4167,0.4
 2024-11-04 11:24:54.910359,Super League - Greece Super League 2024/25 - Winner,AEK Athens,0.016699999999999993,0.2667,0.25
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Baker Mayfield (TB),0.0165,0.0244,0.0079
 2024-11-04 11:24:54.800418,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,0.015700000000000006,0.1333,0.1176
-2024-11-04 11:24:54.674933,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),0.015400000000000025,0.4,0.3846
-2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.015400000000000025,0.2857,0.2703
+2024-11-04 21:25:17.559402,Boxing Lines - Keyshawn Davis vs Gustavo Daniel Lemos - To Win the Bout,Keyshawn Davis,0.015699999999999936,0.8824,0.8667
 2024-11-04 11:24:54.678208,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,0.015400000000000025,0.4,0.3846
+2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.015400000000000025,0.2857,0.2703
+2024-11-04 11:24:54.674933,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),0.015400000000000025,0.4,0.3846
 2024-11-04 09:29:46.409785,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.015400000000000025,0.4,0.3846
-2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Caleb Love (Arizona),0.015300000000000001,0.0476,0.0323
-2024-11-04 14:30:46.870156,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Wicked,0.015300000000000001,0.0476,0.0323
 2024-11-04 17:28:03.946619,East Group B - East Group B Winner - East Group B Winner,Toronto Raptors,0.015300000000000001,0.0476,0.0323
+2024-11-04 14:30:46.870156,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Wicked,0.015300000000000001,0.0476,0.0323
+2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Caleb Love (Arizona),0.015300000000000001,0.0476,0.0323
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,North Carolina,0.015100000000000002,0.1818,0.1667
+2024-11-04 11:24:54.806568,Championship - England Championship 2024/25 - Top 2 Finish,Middlesbrough,0.015100000000000002,0.1818,0.1667
 2024-11-04 11:24:54.661005,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,0.015100000000000002,0.8333,0.8182
 2024-11-04 16:32:06.007148,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,0.015100000000000002,0.1818,0.1667
-2024-11-04 11:24:54.806568,Championship - England Championship 2024/25 - Top 2 Finish,Middlesbrough,0.015100000000000002,0.1818,0.1667
 2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Milan Momcilovic (Iowa State),0.0151,0.0217,0.0066
-2024-11-04 08:32:34.934600,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Boise State,0.014900000000000024,0.6923,0.6774
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Illinois,0.014899999999999997,0.0625,0.0476
-2024-11-04 08:32:34.101889,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Mike Budenholzer,0.014800000000000008,0.1481,0.1333
 2024-11-04 14:30:47.501538,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Pennsylvania,0.01469999999999999,0.25,0.2353
 2024-11-04 09:29:46.413914,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Rori Harmom (Texas),0.014599999999999998,0.0278,0.0132
-2024-11-04 08:32:34.109415,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Tre Mann (CHA),0.0145,0.0244,0.0099
 2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,0.01440000000000001,0.1053,0.0909
-2024-11-04 08:32:34.094647,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Tre Mann (CHA),0.01440000000000001,0.1053,0.0909
 2024-11-04 10:33:29.122928,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Utah State,0.01440000000000001,0.1053,0.0909
 2024-11-04 17:28:03.951302,East Group C - East Group C Winner - East Group C Winner,Atlanta Hawks,0.014399999999999996,0.0769,0.0625
-2024-11-04 10:33:29.093450,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,North Carolina,0.014100000000000001,0.0526,0.0385
 2024-11-04 11:24:54.915068,Serie B - Italy Serie B 2024/25 - Winner,Cesena,0.014100000000000001,0.0526,0.0385
+2024-11-04 10:33:29.093450,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,North Carolina,0.014100000000000001,0.0526,0.0385
+2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Queens Park Rangers,0.014099999999999998,0.0385,0.0244
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Kyler Murray (ARI),0.014099999999999998,0.0435,0.0294
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Sam Darnold (MIN),0.014099999999999998,0.0435,0.0294
-2024-11-04 08:32:34.109415,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Norman Powell (LAC),0.014099999999999998,0.0385,0.0244
-2024-11-04 08:32:34.109415,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Bennedict Mathurin (IND),0.014099999999999998,0.0385,0.0244
-2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Queens Park Rangers,0.014099999999999998,0.0385,0.0244
 2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),0.014099999999999994,0.0667,0.0526
 2024-11-04 09:29:47.339101,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jonathan Gannon,0.014099999999999994,0.0667,0.0526
-2024-11-04 08:32:34.101889,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tom Thibodeau,0.014099999999999994,0.0667,0.0526
 2024-11-04 18:34:53.841456,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 4% or more,0.013999999999999999,0.0909,0.0769
 2024-11-04 11:24:54.654844,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Borussia Dortmund,0.013899999999999996,0.125,0.1111
 2024-11-04 15:29:38.615114,B League - Japan B-League 2024/25 - Outright,San En Neo Phoenix,0.013899999999999996,0.125,0.1111
 2024-11-04 15:29:38.898775,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will Harris get more votes than Biden in 2020?,"No (Under 81,286,454 Votes)",0.013799999999999923,0.6364,0.6226
-2024-11-04 08:32:34.098383,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jayson Tatum (BOS),0.0131,0.0476,0.0345
 2024-11-04 09:29:46.413914,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Kiki Iriafen (USC),0.0131,0.0476,0.0345
 2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,0.012899999999999995,0.1667,0.1538
-2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,0.012899999999999995,0.1667,0.1538
 2024-11-04 13:34:20.070792,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,6,0.012899999999999995,0.1667,0.1538
+2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,0.012899999999999995,0.1667,0.1538
 2024-11-04 10:33:29.093450,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.012299999999999991,0.1176,0.1053
 2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Kam Jones (Marquette),0.012100000000000001,0.0244,0.0123
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Virginia Commonwealth,0.0118,0.0217,0.0099
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Matthew Stafford (LAR),0.011699999999999999,0.0196,0.0079
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Wake Forest,0.011500000000000003,0.05,0.0385
-2024-11-04 08:32:34.109415,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Santi Aldama (MEM),0.0114,0.0164,0.005
-2024-11-04 16:32:06.007148,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 215+,0.011199999999999995,0.0588,0.0476
-2024-11-04 11:24:54.910359,Super League - Greece Super League 2024/25 - Winner,Aris Thessaloniki,0.011199999999999995,0.0588,0.0476
-2024-11-04 09:29:47.339101,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McVay,0.011199999999999995,0.0588,0.0476
 2024-11-04 10:33:28.413534,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Sociedad,0.011199999999999995,0.0588,0.0476
-2024-11-04 14:30:48.354427,Boxing Lines - Khalil Coe vs Manuel Gallegos - To Win the Bout,Manuel Gallegos,0.011099999999999999,0.1111,0.1
-2024-11-04 11:24:54.800418,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.011099999999999999,0.1111,0.1
-2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,0.011099999999999999,0.1111,0.1
-2024-11-04 17:28:05.133129,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.011099999999999999,0.2778,0.2667
+2024-11-04 11:24:54.910359,Super League - Greece Super League 2024/25 - Winner,Aris Thessaloniki,0.011199999999999995,0.0588,0.0476
+2024-11-04 16:32:06.007148,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 215+,0.011199999999999995,0.0588,0.0476
+2024-11-04 09:29:47.339101,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McVay,0.011199999999999995,0.0588,0.0476
 2024-11-04 13:34:20.070792,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,1,0.011099999999999999,0.1111,0.1
+2024-11-04 17:28:05.133129,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.011099999999999999,0.2778,0.2667
+2024-11-04 11:24:54.800418,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.011099999999999999,0.1111,0.1
 2024-11-04 12:51:05.009639,MLS - USA MLS 2024 - Futures - To Reach the Final,New York Red Bulls,0.011099999999999999,0.1111,0.1
-2024-11-04 16:32:05.986033,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.011099999999999999,0.2778,0.2667
 2024-11-04 11:24:54.657765,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Omar Marmoush (Eintracht Frankfurt),0.011099999999999999,0.1111,0.1
+2024-11-04 16:32:05.986033,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.011099999999999999,0.2778,0.2667
+2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,0.011099999999999999,0.1111,0.1
+2024-11-04 14:30:48.354427,Boxing Lines - Khalil Coe vs Manuel Gallegos - To Win the Bout,Manuel Gallegos,0.011099999999999999,0.1111,0.1
 2024-11-04 11:24:54.806568,Championship - England Championship 2024/25 - Top 2 Finish,West Bromwich Albion,0.010899999999999993,0.1538,0.1429
 2024-11-04 09:29:46.543215,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.010699999999999987,0.3333,0.3226
 2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.010499999999999982,0.2105,0.2
 2024-11-04 11:24:54.697964,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lens,0.010399999999999993,0.2326,0.2222
+2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Indiana,0.0102,0.0769,0.0667
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,St. John's,0.0102,0.0769,0.0667
 2024-11-04 15:29:38.982306,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 3 to 3.99%,0.0102,0.0769,0.0667
-2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Indiana,0.0102,0.0769,0.0667
 2024-11-04 11:24:54.663863,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Union Berlin,0.0102,0.0769,0.0667
-2024-11-04 13:34:20.194999,Electoral College Winner - California (CA) - California - Popular Vote Winning Margin,Harris by 25% Or More,0.010099999999999998,0.5556,0.5455
 2024-11-04 14:30:47.184093,West Group C - West Group C Winner - West Group C Winner,Golden State Warriors,0.010099999999999998,0.3226,0.3125
+2024-11-04 13:34:20.194999,Electoral College Winner - California (CA) - California - Popular Vote Winning Margin,Harris by 25% Or More,0.010099999999999998,0.5556,0.5455
 2024-11-04 17:28:04.235078,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.010099999999999998,0.4444,0.4545
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,-0.010099999999999998,0.3125,0.3226
 2024-11-04 17:28:04.239065,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.010099999999999998,0.4444,0.4545
 2024-11-04 17:28:03.960716,West Group B - West Group B Winner - West Group B Winner,Utah Jazz,-0.010100000000000001,0.0244,0.0345
-2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Michigan State,-0.0102,0.0667,0.0769
 2024-11-04 12:51:05.009639,MLS - USA MLS 2024 - Futures - To Reach the Final,Orlando City,-0.0102,0.0667,0.0769
 2024-11-04 09:29:46.982349,MAGA Multis - MAGA Multis - MAGA Multis,Donald Trump Sr / Kansas City Chiefs (-9) / New Orleans Pelicans (-4) / Dallas Mavericks (-7),-0.0102,0.0667,0.0769
+2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Michigan State,-0.0102,0.0667,0.0769
 2024-11-04 10:33:29.130993,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Florida Atlantic,-0.0102,0.0667,0.0769
-2024-11-04 08:32:34.942574,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Marshall,-0.0102,0.0667,0.0769
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Gonzaga,-0.010399999999999993,0.2222,0.2326
-2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Nebraska,-0.010700000000000001,0.0278,0.0385
 2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),USC,-0.010700000000000001,0.0278,0.0385
+2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Nebraska,-0.010700000000000001,0.0278,0.0385
 2024-11-04 14:30:47.488305,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 2 to 2.99%,-0.010899999999999993,0.1429,0.1538
-2024-11-04 14:30:47.501538,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Nevada,-0.010899999999999993,0.1429,0.1538
-2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Hunter Dickinson (Kansas),-0.010899999999999993,0.1429,0.1538
 2024-11-04 09:29:46.982349,MAGA Multis - MAGA Multis - MAGA Multis,Donald Trump Sr / Kansas City Chiefs (-9) / New Orleans Pelicans (-4),-0.010899999999999993,0.1429,0.1538
+2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Hunter Dickinson (Kansas),-0.010899999999999993,0.1429,0.1538
+2024-11-04 14:30:47.501538,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Nevada,-0.010899999999999993,0.1429,0.1538
 2024-11-04 10:33:28.679363,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,-0.010899999999999993,0.1429,0.1538
 2024-11-04 11:24:54.697964,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,-0.011099999999999999,0.1,0.1111
 2024-11-04 11:24:54.657765,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),-0.011199999999999995,0.0476,0.0588
 2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Wisconsin,-0.011199999999999995,0.0323,0.0435
-2024-11-04 08:32:34.910568,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Virginia Tech,-0.011200000000000002,0.0132,0.0244
 2024-11-04 12:51:06.047344,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,RFK Jr.,-0.01150000000000001,0.3333,0.3448
 2024-11-04 13:34:20.194999,Electoral College Winner - California (CA) - California - Popular Vote Winning Margin,Harris by Less that 25% Or Trump,-0.011600000000000055,0.5122,0.5238
-2024-11-04 14:30:47.257337,BNXT League - BNXT League 2024/25 - Outright,Kangoeres Mechelen,-0.011899999999999994,0.0714,0.0833
 2024-11-04 14:30:47.501538,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Michigan,-0.011899999999999994,0.1481,0.16
-2024-11-04 11:24:54.688725,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Rennes,-0.012100000000000001,0.0123,0.0244
+2024-11-04 14:30:47.257337,BNXT League - BNXT League 2024/25 - Outright,Kangoeres Mechelen,-0.011899999999999994,0.0714,0.0833
 2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Sociedad,-0.012100000000000001,0.0123,0.0244
-2024-11-04 16:32:05.986033,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.012600000000000056,0.7874,0.8
+2024-11-04 11:24:54.688725,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Rennes,-0.012100000000000001,0.0123,0.0244
 2024-11-04 16:32:05.989757,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.012600000000000056,0.7874,0.8
+2024-11-04 16:32:05.986033,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.012600000000000056,0.7874,0.8
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jordan Love (GB),-0.012700000000000003,0.0196,0.0323
 2024-11-04 10:33:28.669933,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Crystal Palace,-0.012899999999999995,0.1538,0.1667
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,-0.012899999999999995,0.1538,0.1667
-2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Memphis,-0.0131,0.0345,0.0476
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),C.J. Stroud (HOU),-0.0131,0.0345,0.0476
+2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Memphis,-0.0131,0.0345,0.0476
 2024-11-04 15:29:38.610283,Super Ligi - Turkey BSL 2024/25 - Outright,Fenerbahce,-0.013299999999999979,0.6296,0.6429
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Miami Florida,-0.0133,0.0455,0.0588
 2024-11-04 14:30:47.257337,BNXT League - BNXT League 2024/25 - Outright,Limburg United,-0.013899999999999996,0.1111,0.125
-2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,-0.013999999999999999,0.0769,0.0909
 2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan,-0.013999999999999999,0.0769,0.0909
+2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,-0.013999999999999999,0.0769,0.0909
 2024-11-04 11:24:54.674933,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Romelu Lukaku (Napoli),-0.014099999999999994,0.0526,0.0667
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,TCU,-0.014099999999999998,0.0244,0.0385
-2024-11-04 08:32:34.094647,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Trey Murphy (NOP),-0.014099999999999998,0.0244,0.0385
 2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,-0.014100000000000001,0.0385,0.0526
 2024-11-04 10:33:29.126969,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Texas,-0.014899999999999997,0.0476,0.0625
 2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,A.J. Storr (Kansas),-0.014899999999999997,0.0476,0.0625
-2024-11-04 13:34:20.070792,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,4,-0.015100000000000002,0.1667,0.1818
 2024-11-04 20:27:00.618132,58th CMA Awards - CMA Awards: Female Vocalist Of The Year - Female Vocalist,Megan Moroney,-0.015100000000000002,0.1667,0.1818
-2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Providence,-0.015300000000000001,0.0323,0.0476
+2024-11-04 13:34:20.070792,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,4,-0.015100000000000002,0.1667,0.1818
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Virginia,-0.015300000000000001,0.0323,0.0476
+2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Providence,-0.015300000000000001,0.0323,0.0476
 2024-11-04 11:24:54.910359,Super League - Greece Super League 2024/25 - Winner,Olympiakos,-0.015400000000000025,0.3846,0.4
 2024-11-04 10:33:29.118931,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,-0.015700000000000006,0.1176,0.1333
 2024-11-04 14:30:47.488305,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 3 to 3.99%,-0.015899999999999997,0.1379,0.1538
@@ -274,13 +234,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-04 10:33:28.624402,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Sporting CP,-0.01759999999999995,0.6491,0.6667
 2024-11-04 12:51:05.391386,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,-0.017600000000000005,0.3333,0.3509
 2024-11-04 11:24:54.797260,Championship - England Championship 2024/25 - To Be Promoted,Burnley,-0.017600000000000005,0.3333,0.3509
-2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Salernitana,-0.0179,0.125,0.1429
 2024-11-04 10:33:28.413534,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,-0.0179,0.125,0.1429
+2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Salernitana,-0.0179,0.125,0.1429
 2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Sunderland,-0.017900000000000027,0.8571,0.875
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Ohio State,-0.018099999999999998,0.0588,0.0769
+2024-11-04 21:25:17.559402,Boxing Lines - Keyshawn Davis vs Gustavo Daniel Lemos - To Win the Bout,Gustavo Daniel Lemos,-0.01820000000000002,0.1818,0.2
 2024-11-04 11:24:54.793828,Championship - England Championship 2024/25 - Top Goalscorer,Josh Maja,-0.01820000000000002,0.1818,0.2
 2024-11-04 11:24:54.678208,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.01820000000000002,0.1818,0.2
 2024-11-04 09:29:46.982349,MAGA Multis - MAGA Multis - MAGA Multis,Donald Trump Sr / Kansas City Chiefs / New Orleans Pelicans / Dallas Mavericks,-0.01820000000000002,0.1818,0.2
+2024-11-04 21:25:16.894626,Electoral College Winner - Virginia (VA) - Virginia - Popular Vote Winning Margin,Harris By 6% Or More,-0.01880000000000004,0.5556,0.5744
 2024-11-04 11:24:54.797260,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.018900000000000028,0.4255,0.4444
 2024-11-04 15:29:38.898775,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will Harris get more votes than Biden in 2020?,"Yes (Over 81,286,454 Votes)",-0.018900000000000028,0.4255,0.4444
 2024-11-04 09:29:46.982349,MAGA Multis - MAGA Multis - MAGA Multis,Donald Trump Sr / Kansas City Chiefs / New Orleans Pelicans,-0.019000000000000017,0.2667,0.2857
@@ -289,38 +251,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-04 11:24:54.663863,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Bayer Leverkusen,-0.019100000000000006,0.9333,0.9524
 2024-11-04 10:33:29.126969,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Arkansas,-0.01949999999999999,0.0714,0.0909
 2024-11-04 11:24:54.663863,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.01970000000000005,0.5455,0.5652
-2024-11-04 10:33:29.118931,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,-0.01999999999999999,0.1905,0.2105
 2024-11-04 10:33:29.122928,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),San Diego State,-0.01999999999999999,0.1905,0.2105
+2024-11-04 10:33:29.118931,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,-0.01999999999999999,0.1905,0.2105
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Oregon,-0.0203,0.0385,0.0588
-2024-11-04 10:33:29.118931,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Villanova,-0.0203,0.0323,0.0526
 2024-11-04 11:24:54.800418,Championship - England Championship 2024/25 - To Be Relegated,Millwall,-0.0203,0.0385,0.0588
+2024-11-04 10:33:29.118931,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Villanova,-0.0203,0.0323,0.0526
 2024-11-04 10:33:29.118931,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,-0.020699999999999996,0.4444,0.4651
 2024-11-04 09:29:46.982349,MAGA Multis - MAGA Multis - MAGA Multis,Donald Trump Sr / Kansas City Chiefs / Dallas Mavericks,-0.020799999999999985,0.3125,0.3333
 2024-11-04 10:33:29.126969,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,-0.020799999999999985,0.3125,0.3333
-2024-11-04 11:24:54.797260,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.02169999999999994,0.5238,0.5455
 2024-11-04 11:24:54.688725,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,-0.02169999999999994,0.5238,0.5455
-2024-11-04 09:29:46.529820,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.021699999999999997,0.4545,0.4762
+2024-11-04 11:24:54.797260,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.02169999999999994,0.5238,0.5455
 2024-11-04 09:29:46.524454,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.021699999999999997,0.4545,0.4762
-2024-11-04 10:33:28.679363,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.021999999999999964,0.2857,0.3077
+2024-11-04 09:29:46.529820,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.021699999999999997,0.4545,0.4762
 2024-11-04 12:51:05.483727,Cryptocurrency Specials - Bitcoin Closing Value On November 6th - Bitcoin Value After Election,Over $80000.00,-0.021999999999999964,0.2857,0.3077
-2024-11-04 15:29:38.600706,Liga ACB - Spain Liga ACB 2024/25 - Outright,Real Madrid BC,-0.022199999999999998,0.6552,0.6774
+2024-11-04 10:33:28.679363,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.021999999999999964,0.2857,0.3077
 2024-11-04 14:30:48.338333,Boxing Lines - Keyshawn Davis vs Gustavo Daniel Lemos - To Win the Bout,Keyshawn Davis,-0.022199999999999998,0.8667,0.8889
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arkansas,-0.022199999999999998,0.1111,0.1333
-2024-11-04 08:32:34.942574,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,James Madison,-0.02239999999999999,0.0952,0.1176
+2024-11-04 15:29:38.600706,Liga ACB - Spain Liga ACB 2024/25 - Outright,Real Madrid BC,-0.022199999999999998,0.6552,0.6774
 2024-11-04 12:51:06.108538,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.022600000000000064,0.5122,0.5348
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jayden Daniels (WAS),-0.02310000000000001,0.0769,0.1
-2024-11-04 08:32:34.109415,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),-0.02310000000000001,0.0769,0.1
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,BYU,-0.0232,0.0435,0.0667
 2024-11-04 11:24:54.674933,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.023799999999999988,0.1429,0.1667
 2024-11-04 10:33:28.688780,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,-0.0242,0.0667,0.0909
 2024-11-04 11:24:54.915068,Serie B - Italy Serie B 2024/25 - Winner,Sampdoria,-0.024299999999999995,0.0345,0.0588
 2024-11-04 10:33:28.679363,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,-0.024999999999999994,0.1,0.125
+2024-11-04 19:23:46.651458,NFL Specials - Where will Adam Thielen after the 2024 NFL Trade Deadline - Proposition,Dallas Cowboys,-0.025300000000000003,0.1176,0.1429
 2024-11-04 19:23:46.651458,NFL Specials - Where will Adam Thielen after the 2024 NFL Trade Deadline - Proposition,LA Chargers,-0.025300000000000003,0.1176,0.1429
 2024-11-04 19:23:46.651458,NFL Specials - Where will Adam Thielen after the 2024 NFL Trade Deadline - Proposition,Tampa Bay Buccaneers,-0.025300000000000003,0.1176,0.1429
-2024-11-04 19:23:46.651458,NFL Specials - Where will Adam Thielen after the 2024 NFL Trade Deadline - Proposition,Dallas Cowboys,-0.025300000000000003,0.1176,0.1429
 2024-11-04 11:24:54.697964,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,-0.025499999999999967,0.4,0.4255
-2024-11-04 09:29:46.552150,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; DEM House,-0.02560000000000001,0.3077,0.3333
 2024-11-04 11:24:54.661005,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,St. Pauli,-0.02560000000000001,0.3077,0.3333
+2024-11-04 09:29:46.552150,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; DEM House,-0.02560000000000001,0.3077,0.3333
 2024-11-04 10:33:29.102666,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Joseph's,-0.0267,0.0909,0.1176
 2024-11-04 11:24:54.694999,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Toulouse,-0.0267,0.0909,0.1176
 2024-11-04 10:33:29.126969,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,-0.02679999999999999,0.2857,0.3125
@@ -335,15 +295,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.030299999999999994,0.6364,0.6667
 2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Burnley,-0.030299999999999994,0.6364,0.6667
 2024-11-04 10:33:28.682579,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,-0.03179999999999994,0.5238,0.5556
-2024-11-04 10:33:29.114942,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Baylor,-0.031799999999999995,0.1111,0.1429
 2024-11-04 11:24:54.694999,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,AJ Auxerre,-0.031799999999999995,0.1111,0.1429
+2024-11-04 10:33:29.114942,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Baylor,-0.031799999999999995,0.1111,0.1429
 2024-11-04 10:33:29.122928,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Boise State,-0.03259999999999999,0.2174,0.25
 2024-11-04 10:33:29.122928,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Colorado State,-0.033299999999999996,0.1,0.1333
 2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.033300000000000024,0.1667,0.2
 2024-11-04 09:29:47.335446,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes (KC),-0.033399999999999985,0.1333,0.1667
 2024-11-04 09:29:47.339101,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Matt LaFleur,-0.0334,0.0435,0.0769
 2024-11-04 18:34:54.050840,Electoral College Winner - New York (NY) - New York - Popular Vote Winning Margin,Harris by 10% Or More,-0.03410000000000002,0.875,0.9091
-2024-11-04 08:32:34.938557,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,LSU,-0.0343,0.0833,0.1176
 2024-11-04 17:28:05.133129,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.0353,0.7647,0.8
 2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.03570000000000001,0.25,0.2857
 2024-11-04 11:24:54.697964,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,-0.036800000000000055,0.7333,0.7701
@@ -352,32 +311,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sampdoria,-0.04040000000000002,0.1818,0.2222
 2024-11-04 11:24:54.806568,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,-0.04040000000000002,0.1818,0.2222
 2024-11-04 11:24:54.809926,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,-0.04040000000000002,0.1818,0.2222
-2024-11-04 10:33:28.659973,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.04089999999999999,0.3846,0.4255
 2024-11-04 10:33:29.097752,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,-0.04089999999999999,0.2817,0.3226
+2024-11-04 10:33:28.659973,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.04089999999999999,0.3846,0.4255
 2024-11-04 10:33:29.110877,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,-0.04169999999999999,0.125,0.1667
-2024-11-04 08:32:34.910568,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Pittsburgh,-0.04239999999999999,0.0164,0.0588
-2024-11-04 08:32:34.942574,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Old Dominion,-0.04240000000000001,0.0909,0.1333
 2024-11-04 11:24:54.886619,First Division A - Belgium First Division A 2024/25 - Outright,Royal Antwerp,-0.04269999999999999,0.1111,0.1538
 2024-11-04 12:51:05.009639,MLS - USA MLS 2024 - Futures - To Reach the Final,Minnesota United,-0.042899999999999994,0.1,0.1429
 2024-11-04 11:24:54.681147,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,-0.042899999999999994,0.1,0.1429
 2024-11-04 17:28:03.946619,East Group B - East Group B Winner - East Group B Winner,Milwaukee Bucks,-0.044399999999999995,0.4,0.4444
 2024-11-04 19:23:46.651458,NFL Specials - Where will Adam Thielen after the 2024 NFL Trade Deadline - Proposition,Kansas City Chiefs,-0.044800000000000006,0.1905,0.2353
-2024-11-04 08:32:34.938557,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Texas A&M,-0.047,0.0909,0.1379
 2024-11-04 10:33:28.682579,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester United,-0.047599999999999976,0.2857,0.3333
 2024-11-04 13:34:20.070792,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,0,-0.0476,0.1429,0.1905
-2024-11-04 10:33:29.126969,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,-0.04830000000000001,0.1739,0.2222
 2024-11-04 10:33:29.114942,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,-0.04830000000000001,0.1739,0.2222
+2024-11-04 10:33:29.126969,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,-0.04830000000000001,0.1739,0.2222
 2024-11-04 17:28:03.956022,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,-0.0504,0.2353,0.2857
 2024-11-04 18:34:54.035416,Electoral College Winner - New Jersey (NJ) - New Jersey - Popular Vote Winning Margin,Harris by 10% Or More,-0.05159999999999998,0.7561,0.8077
-2024-11-04 08:32:34.942574,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,South Alabama,-0.05170000000000001,0.0435,0.0952
 2024-11-04 11:24:54.797260,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,-0.052000000000000046,0.8571,0.9091
 2024-11-04 10:33:29.130993,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),South Florida,-0.0524,0.0476,0.1
 2024-11-04 17:28:03.941923,East Group A - East Group A Winner - East Group A Winner,Brooklyn Nets,-0.05500000000000001,0.0164,0.0714
-2024-11-04 10:33:28.685683,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,-0.055499999999999994,0.7778,0.8333
 2024-11-04 10:33:28.682579,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Arsenal,-0.055499999999999994,0.9375,0.993
-2024-11-04 08:32:34.938557,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Tennessee,-0.0567,0.1538,0.2105
-2024-11-04 11:24:54.663863,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,-0.05710000000000001,0.1429,0.2
+2024-11-04 10:33:28.685683,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,-0.055499999999999994,0.7778,0.8333
 2024-11-04 11:24:54.800418,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.05710000000000001,0.1429,0.2
+2024-11-04 11:24:54.663863,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,-0.05710000000000001,0.1429,0.2
 2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,-0.0588,0.0588,0.1176
 2024-11-04 11:24:54.806568,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.05980000000000002,0.3846,0.4444
 2024-11-04 11:24:54.654844,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Bayer Leverkusen,-0.061999999999999944,0.5744,0.6364
@@ -388,7 +342,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-04 11:24:54.694999,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Le Havre,-0.06670000000000004,0.3333,0.4
 2024-11-04 10:33:28.619594,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Bodø/Glimt,-0.06820000000000004,0.75,0.8182
 2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.06970000000000004,0.3077,0.3774
-2024-11-04 08:32:34.914570,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Navy,-0.07579999999999999,0.0909,0.1667
 2024-11-04 11:24:54.671485,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,-0.07619999999999993,0.5238,0.6
 2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.07940000000000003,0.4444,0.5238
 2024-11-04 09:29:46.413914,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Deja Kelly (Oregon),-0.08099999999999999,0.0099,0.0909
@@ -402,16 +355,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-04 11:24:54.960397,J1 League - Japan J1 League 2024 - Winner,Sanfrecce Hiroshima,-0.10109999999999997,0.4545,0.5556
 2024-11-04 10:33:28.416492,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.1071,0.1429,0.25
 2024-11-04 11:24:54.918176,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,-0.11110000000000003,0.3333,0.4444
-2024-11-04 08:32:34.914570,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Memphis,-0.11529999999999999,0.0385,0.1538
-2024-11-04 08:32:34.918582,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Iowa State,-0.1179,0.2667,0.3846
 2024-11-04 17:28:03.941923,East Group A - East Group A Winner - East Group A Winner,New York Knicks,-0.12079999999999996,0.4348,0.5556
 2024-11-04 17:28:03.965452,West Group C - West Group C Winner - West Group C Winner,Golden State Warriors,-0.1321,0.1905,0.3226
 2024-11-04 17:28:03.951302,East Group C - East Group C Winner - East Group C Winner,Cleveland Cavaliers,-0.13670000000000004,0.3077,0.4444
-2024-11-04 08:32:34.918582,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Kansas State,-0.1389,0.1111,0.25
 2024-11-04 11:24:54.955730,Copa do Brasil - Copa do Brasil 2024 - Winner,Atlético Mineiro,-0.14150000000000001,0.2667,0.4082
 2024-11-04 10:33:28.419866,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,-0.14549999999999996,0.4545,0.6
-2024-11-04 08:32:34.922647,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Penn State,-0.1627,0.0278,0.1905
 2024-11-04 09:29:46.404421,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Cooper Flagg (Duke),-0.1781,0.1667,0.3448
 2024-11-04 10:33:29.106777,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),NC State,-0.1968,0.0385,0.2353
 2024-11-04 09:29:46.413914,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),-0.22259999999999996,0.3774,0.6
-2024-11-04 08:32:34.910568,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Clemson,-0.35860000000000003,0.1176,0.4762
