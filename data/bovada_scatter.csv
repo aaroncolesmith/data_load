@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 09:27:23.255298,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,0.17830000000000001,0.2,0.0217
 2024-11-05 10:32:55.288026,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,0.17820000000000003,0.6226,0.4444
 2024-11-05 09:27:23.537862,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 27.5,0.13889999999999997,0.5556,0.4167
+2024-11-05 12:47:52.638619,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Will Jill Stein get 1% Or More of the popular vote,Yes,0.11810000000000004,0.5348,0.4167
 2024-11-05 09:27:23.552818,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 44.5,0.11219999999999997,0.5122,0.4
 2024-11-05 09:27:23.597155,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 59.5,0.11069999999999997,0.5455,0.4348
 2024-11-05 08:31:37.607389,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Denzel Washington - Gladiator II,0.10910000000000002,0.2,0.0909
@@ -19,26 +20,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 10:32:55.239445,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.07619999999999999,0.4762,0.4
 2024-11-05 08:31:37.621307,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Taylor Swift - The Tortured Poets Department,0.07619999999999993,0.6,0.5238
 2024-11-05 10:32:56.037642,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,Yes,0.0741,0.1852,0.1111
-2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Trump by 3 to 3.99%,0.07069999999999999,0.1818,0.1111
 2024-11-05 09:27:23.771201,Electoral College Winner - Michigan (MI) - Michigan - Popular Vote Winning Margin,Harris by 1 to 1.99%,0.07069999999999999,0.1818,0.1111
+2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Trump by 3 to 3.99%,0.07069999999999999,0.1818,0.1111
 2024-11-05 01:51:26.340234,NBL - Australia NBL 2024/25 - To Make Grand Final,New Zealand Breakers,0.06840000000000002,0.2222,0.1538
 2024-11-05 09:27:23.542898,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Over 46.5,0.06779999999999997,0.5122,0.4444
-2024-11-05 10:32:56.471309,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Nevada,0.0676,0.2105,0.1429
 2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 4% or more,0.0676,0.2105,0.1429
+2024-11-05 10:32:56.471309,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Nevada,0.0676,0.2105,0.1429
 2024-11-05 05:29:38.293892,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Pennsylvania,0.06670000000000004,0.4,0.3333
 2024-11-05 01:51:25.891349,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,0.066,0.1429,0.0769
 2024-11-05 01:51:26.336608,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,0.0635,0.1111,0.0476
 2024-11-05 10:32:56.170536,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,0.0595,0.25,0.1905
 2024-11-05 10:32:55.242474,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Celta de Vigo,0.058899999999999994,0.0833,0.0244
+2024-11-05 12:47:52.635084,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,Jill Stein,0.057699999999999974,0.5455,0.4878
 2024-11-05 01:51:25.891349,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,0.0573,0.0769,0.0196
 2024-11-05 10:32:55.288026,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,0.05550000000000002,0.2222,0.1667
 2024-11-05 10:32:55.595265,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Arsenal,0.055499999999999994,0.993,0.9375
 2024-11-05 01:51:25.891349,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,0.052000000000000005,0.1429,0.0909
 2024-11-05 10:32:55.242474,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,0.04849999999999999,0.1818,0.1333
-2024-11-05 10:32:56.178752,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,0.04830000000000001,0.2222,0.1739
 2024-11-05 10:32:56.166463,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,0.04830000000000001,0.2222,0.1739
-2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 3 to 3.99%,0.048100000000000004,0.125,0.0769
+2024-11-05 10:32:56.178752,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,0.04830000000000001,0.2222,0.1739
 2024-11-05 10:32:56.581549,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 2 to 2.49%,0.048100000000000004,0.125,0.0769
+2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 3 to 3.99%,0.048100000000000004,0.125,0.0769
 2024-11-05 10:32:56.029173,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,0.047799999999999954,0.6774,0.6296
 2024-11-05 10:32:56.511858,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will Trump get more votes than he did in 2020?,"Yes (Over 74,225,926 Votes)",0.04589999999999994,0.7895,0.7436
 2024-11-05 09:27:23.264581,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.04579999999999995,0.7333,0.6875
@@ -60,10 +62,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 10:32:56.193728,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame (W),0.034100000000000005,0.125,0.0909
 2024-11-05 08:31:38.004357,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jayson Tatum (BOS),0.033300000000000024,0.2,0.1667
 2024-11-05 10:32:56.139384,Men's Basketball Tournament - Early Season Tournaments - 2024 Maui Invitational ,Auburn,0.033300000000000024,0.2,0.1667
-2024-11-05 10:32:56.840288,Electoral College Winner - Virginia (VA) - Virginia - Popular Vote Winning Margin,Harris by Less than 6% Or Trump,0.033299999999999996,0.5455,0.5122
-2024-11-05 09:27:23.518142,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 28.5,0.033299999999999996,0.5455,0.5122
-2024-11-05 10:32:55.943929,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,No,0.033299999999999996,0.9,0.8667
 2024-11-05 10:32:56.174611,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Colorado State,0.033299999999999996,0.1333,0.1
+2024-11-05 10:32:56.840288,Electoral College Winner - Virginia (VA) - Virginia - Popular Vote Winning Margin,Harris by Less than 6% Or Trump,0.033299999999999996,0.5455,0.5122
+2024-11-05 10:32:55.943929,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,No,0.033299999999999996,0.9,0.8667
+2024-11-05 09:27:23.518142,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 28.5,0.033299999999999996,0.5455,0.5122
 2024-11-05 10:32:55.990571,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,0.032200000000000006,0.8148,0.7826
 2024-11-05 08:31:37.996967,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Gradey Dick (TOR),0.0321,0.0909,0.0588
 2024-11-05 05:29:38.275514,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,0.0321,0.0909,0.0588
@@ -83,42 +85,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 10:32:56.007549,To Make the Playoffs - New York Knicks 2024-25 - To Make the Playoffs,No,0.028199999999999996,0.0667,0.0385
 2024-11-05 10:32:55.935564,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,Yes,0.028199999999999996,0.0667,0.0385
 2024-11-05 10:32:56.193728,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Texas (W),0.027999999999999997,0.1333,0.1053
+2024-11-05 12:47:52.683822,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Trump by 0 to 0.99%,0.027999999999999997,0.1818,0.1538
 2024-11-05 08:31:37.607389,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Guy Pearce - The Brutalist,0.02779999999999999,0.25,0.2222
 2024-11-05 10:32:56.182848,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Memphis,0.026600000000000013,0.4348,0.4082
+2024-11-05 12:47:52.679955,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.026499999999999968,0.6491,0.6226
 2024-11-05 09:27:23.273860,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.026100000000000012,0.2,0.1739
 2024-11-05 08:31:37.993130,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Chet Holmgren (OKC),0.02560000000000001,0.3333,0.3077
 2024-11-05 10:32:55.595265,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Newcastle United,0.025499999999999967,0.4255,0.4
-2024-11-04 23:26:03.830872,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,2,0.025300000000000003,0.1429,0.1176
 2024-11-05 10:32:55.960963,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,0.025300000000000003,0.1429,0.1176
 2024-11-05 09:27:23.760203,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.0252,0.7222,0.697
 2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 2 to 2.99%,0.024999999999999994,0.125,0.1
 2024-11-05 09:27:23.771201,Electoral College Winner - Michigan (MI) - Michigan - Popular Vote Winning Margin,Trump by 1 to 1.99%,0.024999999999999994,0.125,0.1
 2024-11-05 09:27:23.786468,Electoral College Winner - North Carolina (NC) - North Carolina - Popular Vote Winning Margin,Harris by 1 to 1.99%,0.0242,0.0909,0.0667
+2024-11-05 10:32:55.239445,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.023800000000000043,0.5238,0.5
 2024-11-05 09:27:22.999199,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,0.023800000000000043,0.5238,0.5
 2024-11-05 01:51:26.259497,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,0.023800000000000043,0.5238,0.5
-2024-11-05 10:32:55.239445,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.023800000000000043,0.5238,0.5
-2024-11-05 10:32:56.135849,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Gonzaga,0.023799999999999988,0.3571,0.3333
 2024-11-05 08:31:38.007834,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Alexandre Sarr (WAS),0.023799999999999988,0.1667,0.1429
-2024-11-05 05:29:38.271178,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; DEM House,0.023799999999999988,0.1667,0.1429
 2024-11-05 09:27:23.278493,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.023799999999999988,0.5,0.4762
+2024-11-05 10:32:56.135849,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Gonzaga,0.023799999999999988,0.3571,0.3333
+2024-11-05 05:29:38.271178,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; DEM House,0.023799999999999988,0.1667,0.1429
 2024-11-05 10:32:56.024880,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,Yes,0.023799999999999932,0.8571,0.8333
 2024-11-05 10:32:56.182848,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),East Carolina,0.023200000000000002,0.0476,0.0244
-2024-11-05 05:29:38.275514,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 35 - 64,0.02310000000000001,0.1,0.0769
 2024-11-05 01:51:25.969729,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Brentford,0.02310000000000001,0.1,0.0769
+2024-11-05 05:29:38.275514,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 35 - 64,0.02310000000000001,0.1,0.0769
 2024-11-05 01:51:26.254848,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.022699999999999998,0.4878,0.4651
+2024-11-05 12:47:52.659039,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 4% or more,0.022699999999999998,0.4878,0.4651
 2024-11-05 10:32:56.722081,Electoral College Winner - Mississippi (MS) - Mississippi - Popular Vote Winning Margin,Trump by 20% Or More,0.022600000000000064,0.5348,0.5122
+2024-11-05 12:47:52.762350,Electoral College Winner - Florida (FL) - Florida - Popular Vote Winning Margin,Trump By 8% Or More,0.022600000000000064,0.6226,0.6
 2024-11-05 10:32:56.581549,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 0.5 to 0.99%,0.02239999999999999,0.1176,0.0952
-2024-11-05 08:31:38.007834,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),0.022199999999999998,0.2222,0.2
-2024-11-04 23:26:03.830872,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,1,0.022199999999999998,0.1333,0.1111
 2024-11-05 10:32:56.471309,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Georgia,0.022199999999999998,0.1333,0.1111
+2024-11-05 08:31:38.007834,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),0.022199999999999998,0.2222,0.2
 2024-11-05 06:34:38.871430,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Kansas City Chiefs,0.022199999999999998,0.2222,0.2
 2024-11-05 03:30:32.431720,Electoral College Winner - Iowa (IA) - Iowa - Popular Vote Winning Margin,Trump By Less Than 12% Or Harris,0.022199999999999998,0.8889,0.8667
 2024-11-05 10:32:55.321727,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.02200000000000002,0.7143,0.6923
 2024-11-05 10:32:56.174611,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),UNLV,0.022000000000000006,0.1053,0.0833
 2024-11-05 10:32:55.288026,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,0.021999999999999964,0.3077,0.2857
+2024-11-05 12:47:52.692060,Electoral College Winner - North Carolina (NC) - North Carolina - Popular Vote Winning Margin,Trump by 4% or more,0.021699999999999997,0.4762,0.4545
 2024-11-05 01:51:26.600346,Electoral College Winner - Nevada (NV) - Nevada,Democrat,0.021699999999999997,0.4762,0.4545
-2024-11-05 09:27:23.527950,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,0.02169999999999994,0.5455,0.5238
 2024-11-05 09:27:23.607025,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 46.5,0.02169999999999994,0.5455,0.5238
+2024-11-05 09:27:23.527950,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,0.02169999999999994,0.5455,0.5238
 2024-11-05 10:32:55.977911,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,Yes,0.021399999999999975,0.2778,0.2564
 2024-11-05 09:27:22.999199,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.02100000000000002,0.3846,0.3636
 2024-11-05 01:51:26.592634,Electoral College Winner - Michigan (MI) - Michigan,Democrat,0.02080000000000004,0.6875,0.6667
@@ -129,8 +134,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 06:34:38.881027,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.02030000000000004,0.3774,0.3571
 2024-11-05 09:27:22.986517,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Dominic Solanke (Tottenham),0.0203,0.0588,0.0385
 2024-11-05 09:27:23.756011,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Harris by 1 to 1.99%,0.02020000000000001,0.1111,0.0909
-2024-11-05 05:29:38.286972,2024 Election Core - US Presidential Election 2024 - Election Specials - State Harris wins by the largest margin?,Vermont,0.020100000000000007,0.75,0.7299
 2024-11-05 10:32:55.321727,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,0.020100000000000007,0.25,0.2299
+2024-11-05 05:29:38.286972,2024 Election Core - US Presidential Election 2024 - Election Specials - State Harris wins by the largest margin?,Vermont,0.020100000000000007,0.75,0.7299
 2024-11-05 01:51:25.688728,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.01970000000000005,0.5652,0.5455
 2024-11-05 09:27:23.250558,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.019699999999999995,0.125,0.1053
 2024-11-05 09:27:24.167762,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Republican,0.019600000000000006,0.2899,0.2703
@@ -143,12 +148,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,North Carolina,0.01820000000000002,0.2,0.1818
 2024-11-05 09:27:22.969701,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,0.018200000000000004,0.0476,0.0294
 2024-11-05 10:32:55.324716,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.018199999999999994,0.8182,0.8
-2024-11-05 06:34:38.930218,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,0.018100000000000005,0.9412,0.9231
 2024-11-05 10:32:55.982130,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,0.018100000000000005,0.4348,0.4167
+2024-11-05 06:34:38.930218,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,0.018100000000000005,0.9412,0.9231
 2024-11-05 09:27:23.786468,Electoral College Winner - North Carolina (NC) - North Carolina - Popular Vote Winning Margin,Harris by 4% or more,0.018099999999999998,0.0769,0.0588
+2024-11-05 12:47:52.700084,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 2 to 2.49%,0.0179,0.1429,0.125
+2024-11-05 10:32:56.162328,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,0.0179,0.1429,0.125
 2024-11-05 01:51:26.349863,LNB Pro A - France LNB Pro A 2024/25 - Winner,Paris,0.0179,0.1429,0.125
 2024-11-05 10:32:56.182848,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),North Texas,0.0179,0.1429,0.125
-2024-11-05 10:32:56.162328,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,0.0179,0.1429,0.125
 2024-11-05 09:27:23.763594,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Harris by 0 to 0.99%,0.01759999999999999,0.1176,0.1
 2024-11-05 09:27:23.250558,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Orlando Magic,0.017,0.0625,0.0455
 2024-11-05 09:27:23.005323,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Everton,0.016700000000000048,0.75,0.7333
@@ -156,8 +162,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 09:27:23.783061,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,0.01629999999999998,0.7222,0.7059
 2024-11-05 10:32:56.751357,Electoral College Winner - New Hampshire (NH) - New Hampshire,Republican,0.016000000000000014,0.2222,0.2062
 2024-11-05 09:27:23.771201,Electoral College Winner - Michigan (MI) - Michigan - Popular Vote Winning Margin,Harris by 3 to 3.99%,0.015899999999999997,0.1111,0.0952
+2024-11-05 12:47:52.692060,Electoral College Winner - North Carolina (NC) - North Carolina - Popular Vote Winning Margin,Trump by 1 to 1.99%,0.015700000000000006,0.1333,0.1176
 2024-11-05 10:32:55.973712,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,No,0.015699999999999992,0.2062,0.1905
+2024-11-05 12:47:52.568535,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.015400000000000025,0.4,0.3846
 2024-11-05 10:32:55.321727,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.015400000000000025,0.4,0.3846
+2024-11-05 12:47:52.855007,Electoral College Winner - Missouri (MO) - Missouri - Popular Vote Winning Margin,Trump By Less than 20% or Harris,0.015100000000000002,0.8333,0.8182
 2024-11-05 10:32:56.135849,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Indiana,0.015100000000000002,0.1818,0.1667
 2024-11-05 10:32:56.158200,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Miami Florida,0.014899999999999997,0.0625,0.0476
 2024-11-05 08:31:37.986052,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,DeMar DeRozan (SAC),0.014899999999999997,0.0625,0.0476
@@ -166,65 +175,66 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 10:32:56.458038,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 6 to 6.99%,0.014399999999999996,0.0769,0.0625
 2024-11-05 11:22:28.286868,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.01419999999999999,0.3846,0.3704
 2024-11-05 10:32:56.193728,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,NC State (W),0.014099999999999998,0.0385,0.0244
-2024-11-05 10:32:56.046033,To Make the Playoffs - Washington Wizards 2024-25 - To Make the Playoffs,Yes,0.014099999999999994,0.0667,0.0526
-2024-11-05 10:32:56.011796,To Make the Playoffs - Oklahoma City Thunder 2024-25 - To Make the Playoffs,No,0.014099999999999994,0.0667,0.0526
-2024-11-05 10:32:55.242474,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,0.014099999999999994,0.0667,0.0526
 2024-11-05 10:32:56.041832,To Make the Playoffs - Utah Jazz 2024-25 - To Make the Playoffs,Yes,0.014099999999999994,0.0667,0.0526
+2024-11-05 10:32:55.242474,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,0.014099999999999994,0.0667,0.0526
+2024-11-05 10:32:56.011796,To Make the Playoffs - Oklahoma City Thunder 2024-25 - To Make the Playoffs,No,0.014099999999999994,0.0667,0.0526
+2024-11-05 10:32:56.046033,To Make the Playoffs - Washington Wizards 2024-25 - To Make the Playoffs,Yes,0.014099999999999994,0.0667,0.0526
 2024-11-05 09:27:22.999199,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,0.014000000000000012,0.9231,0.9091
-2024-11-05 10:32:56.581549,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 1 to 1.49%,0.013999999999999999,0.0909,0.0769
 2024-11-05 08:31:37.796283,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.013999999999999999,0.0909,0.0769
 2024-11-05 10:32:56.162328,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan,0.013999999999999999,0.0909,0.0769
+2024-11-05 10:32:56.581549,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 1 to 1.49%,0.013999999999999999,0.0909,0.0769
 2024-11-05 01:51:25.972837,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.013900000000000023,0.8889,0.875
+2024-11-05 12:47:52.659039,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 3 to 3.99%,0.013899999999999996,0.125,0.1111
+2024-11-05 09:27:23.763594,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 1 to 1.99%,0.013899999999999996,0.125,0.1111
+2024-11-05 08:31:38.004357,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),0.013899999999999996,0.125,0.1111
 2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arkansas,0.013899999999999996,0.125,0.1111
 2024-11-05 01:51:26.254848,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.013899999999999996,0.125,0.1111
-2024-11-05 08:31:38.004357,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),0.013899999999999996,0.125,0.1111
-2024-11-05 09:27:23.763594,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 1 to 1.99%,0.013899999999999996,0.125,0.1111
 2024-11-05 01:51:26.584788,Electoral College Winner - Georgia (GA) - Georgia,Democrat,0.013800000000000034,0.3774,0.3636
-2024-11-05 10:32:56.581549,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 2.5% or more,0.0131,0.2353,0.2222
 2024-11-05 01:51:25.717707,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne Victory,0.0131,0.2353,0.2222
+2024-11-05 10:32:56.581549,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 2.5% or more,0.0131,0.2353,0.2222
 2024-11-05 10:32:55.595265,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,0.012899999999999995,0.1667,0.1538
 2024-11-05 10:32:55.994878,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,No,0.012899999999999995,0.1667,0.1538
 2024-11-05 10:32:56.182848,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Tulsa,0.012700000000000003,0.0323,0.0196
 2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Connecticut,0.012299999999999978,0.3571,0.3448
 2024-11-05 09:27:23.278493,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.012199999999999989,0.5,0.4878
 2024-11-05 09:27:23.582440,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 51.5,0.012199999999999989,0.5122,0.5
-2024-11-05 10:32:55.242474,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Alavés,0.012100000000000001,0.0244,0.0123
 2024-11-05 01:51:25.891349,Superligaen - Denmark Superligaen 2024/2025 - Winner,Randers,0.012100000000000001,0.0244,0.0123
+2024-11-05 10:32:55.242474,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Alavés,0.012100000000000001,0.0244,0.0123
 2024-11-05 10:32:55.284976,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Torino,0.012100000000000001,0.0244,0.0123
 2024-11-05 09:27:24.142712,US Senate Elections 2024 - Senate Election Winner - Nevada - Winner,Republican,0.011700000000000016,0.2222,0.2105
-2024-11-04 23:26:03.830872,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,7,0.011700000000000016,0.2222,0.2105
 2024-11-05 08:31:37.796283,NBA Championship - NBA Championship 2024-25 - NBA Champion,Orlando Magic,0.011399999999999997,0.0278,0.0164
 2024-11-05 10:32:56.154045,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),George Washington,0.011200000000000002,0.0244,0.0132
-2024-11-05 01:51:25.894417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Viborg FF,0.011199999999999995,0.0588,0.0476
 2024-11-05 09:27:24.611623,WWT Championship - WWT Championship - Winner,Max Greyserman,0.011199999999999995,0.0588,0.0476
-2024-11-05 09:27:23.756011,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 1 to 1.99%,0.011099999999999999,0.1111,0.1
-2024-11-05 10:32:55.284976,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,0.011099999999999999,0.1111,0.1
+2024-11-05 01:51:25.894417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Viborg FF,0.011199999999999995,0.0588,0.0476
+2024-11-05 12:47:52.688362,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,0.011099999999999999,0.7333,0.7222
 2024-11-05 10:32:55.595265,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,0.011099999999999999,0.1111,0.1
+2024-11-05 10:32:55.284976,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,0.011099999999999999,0.1111,0.1
 2024-11-05 10:32:56.578087,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,0.011099999999999999,0.4762,0.4651
-2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Baylor,0.010899999999999993,0.1538,0.1429
-2024-11-05 01:51:25.717707,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,0.010899999999999993,0.1538,0.1429
+2024-11-05 09:27:23.756011,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 1 to 1.99%,0.011099999999999999,0.1111,0.1
 2024-11-05 06:34:38.885821,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.010899999999999993,0.1538,0.1429
+2024-11-05 01:51:25.717707,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,0.010899999999999993,0.1538,0.1429
 2024-11-05 10:32:55.480120,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,0.010899999999999993,0.1538,0.1429
+2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Baylor,0.010899999999999993,0.1538,0.1429
 2024-11-05 09:27:23.005323,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Fulham,0.010800000000000032,0.996,0.9852
 2024-11-05 10:32:56.174611,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,0.010800000000000004,0.2381,0.2273
 2024-11-05 09:27:23.255298,Western Conference - Western Conference 2024-25 - Western Conference Winner,New Orleans Pelicans,0.010700000000000001,0.0385,0.0278
 2024-11-05 09:27:23.255298,Western Conference - Western Conference 2024-25 - Western Conference Winner,Sacramento Kings,0.010700000000000001,0.0385,0.0278
 2024-11-05 10:32:55.986334,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,No,0.010599999999999998,0.4651,0.4545
-2024-11-05 03:30:32.428445,Electoral College Winner - Iowa (IA) - Iowa,Republican,0.010300000000000087,0.8333,0.823
 2024-11-05 10:32:55.956689,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,Yes,0.010300000000000087,0.8333,0.823
-2024-11-05 06:34:38.885821,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,0.0102,0.0769,0.0667
-2024-11-05 09:27:23.778856,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 3 to 3.99%,0.0102,0.0769,0.0667
+2024-11-05 03:30:32.428445,Electoral College Winner - Iowa (IA) - Iowa,Republican,0.010300000000000087,0.8333,0.823
 2024-11-05 10:32:56.135849,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Providence,0.0102,0.0769,0.0667
+2024-11-05 09:27:23.778856,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 3 to 3.99%,0.0102,0.0769,0.0667
+2024-11-05 06:34:38.885821,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,0.0102,0.0769,0.0667
 2024-11-05 01:51:26.871135,Electoral College Winner - Virginia (VA) - Virginia,Democrat,0.010199999999999987,0.9333,0.9231
 2024-11-05 10:32:55.315313,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Fortaleza,0.010100000000000001,0.0345,0.0244
-2024-11-05 05:29:38.393787,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.010099999999999998,0.4545,0.4444
 2024-11-05 09:27:23.557745,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 38.5,0.010099999999999998,0.5556,0.5455
+2024-11-05 05:29:38.393787,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.010099999999999998,0.4545,0.4444
 2024-11-05 09:27:23.626844,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 35.5,-0.010099999999999998,0.5455,0.5556
 2024-11-05 09:27:23.616932,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 22.5,-0.010099999999999998,0.5455,0.5556
-2024-11-05 10:32:56.836855,Electoral College Winner - Virginia (VA) - Virginia,Democrat,-0.010199999999999987,0.9231,0.9333
 2024-11-05 10:32:56.763481,Electoral College Winner - New Mexico (NM) - New Mexico,Democrat,-0.010199999999999987,0.9231,0.9333
-2024-11-05 01:51:26.333437,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,-0.010499999999999982,0.2,0.2105
+2024-11-05 10:32:56.836855,Electoral College Winner - Virginia (VA) - Virginia,Democrat,-0.010199999999999987,0.9231,0.9333
 2024-11-05 09:27:23.264581,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,-0.010499999999999982,0.2,0.2105
+2024-11-05 01:51:26.333437,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,-0.010499999999999982,0.2,0.2105
 2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,-0.010899999999999993,0.1429,0.1538
 2024-11-05 09:27:24.142712,US Senate Elections 2024 - Senate Election Winner - Nevada - Winner,Democrat,-0.01090000000000002,0.8462,0.8571
 2024-11-05 10:32:56.188206,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),-0.011099999999999999,0.0556,0.0667
@@ -236,60 +246,64 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 10:32:56.162328,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Northwestern,-0.011200000000000002,0.0132,0.0244
 2024-11-05 10:32:56.154045,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Richmond,-0.011399999999999997,0.0164,0.0278
 2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Wake Forest,-0.011500000000000003,0.0385,0.05
+2024-11-05 12:47:52.688362,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,-0.01150000000000001,0.3333,0.3448
 2024-11-05 09:27:23.557745,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 38.5,-0.011600000000000055,0.5122,0.5238
 2024-11-05 09:27:23.572578,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,-0.011600000000000055,0.5122,0.5238
-2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,-0.0121,0.0435,0.0556
+2024-11-05 12:47:52.655327,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.0121,0.2778,0.2899
 2024-11-05 10:32:56.166463,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Texas Tech,-0.0121,0.0435,0.0556
+2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,-0.0121,0.0435,0.0556
 2024-11-05 10:32:56.154045,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Loyola Chicago,-0.012299999999999991,0.1053,0.1176
 2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,-0.012299999999999991,0.1053,0.1176
 2024-11-05 10:32:55.480120,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,-0.012799999999999978,0.2857,0.2985
-2024-11-04 23:26:03.830872,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,4,-0.012899999999999995,0.1538,0.1667
 2024-11-05 10:32:55.275327,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AC Milan,-0.012899999999999995,0.1538,0.1667
 2024-11-05 01:51:25.894417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,-0.012899999999999995,0.1538,0.1667
 2024-11-05 10:32:55.973712,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,Yes,-0.012900000000000023,0.8621,0.875
 2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.0131,0.0345,0.0476
 2024-11-05 08:31:37.796283,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,-0.013199999999999996,0.0323,0.0455
+2024-11-05 12:47:52.635084,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,Chase Oliver,-0.013600000000000001,0.2941,0.3077
 2024-11-05 10:32:56.197982,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),-0.013800000000000034,0.3636,0.3774
-2024-11-05 10:32:55.327732,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.013899999999999996,0.1111,0.125
-2024-11-05 09:27:23.756011,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 3 to 3.99%,-0.013899999999999996,0.1111,0.125
 2024-11-05 10:32:56.135849,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Louisville,-0.013899999999999996,0.1111,0.125
 2024-11-05 10:32:55.233047,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,-0.013899999999999996,0.1111,0.125
-2024-11-05 10:32:55.236113,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Raphinha (FC Barcelona),-0.013999999999999999,0.0769,0.0909
-2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,-0.013999999999999999,0.0769,0.0909
-2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Kansas,-0.013999999999999999,0.0769,0.0909
+2024-11-05 10:32:55.327732,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.013899999999999996,0.1111,0.125
+2024-11-05 09:27:23.756011,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 3 to 3.99%,-0.013899999999999996,0.1111,0.125
 2024-11-05 10:32:56.471309,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,New Hampshire,-0.013999999999999999,0.0769,0.0909
+2024-11-05 12:47:52.700084,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 0.5 to 0.99%,-0.013999999999999999,0.0769,0.0909
+2024-11-05 12:47:52.700084,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 1 to 1.49%,-0.013999999999999999,0.0769,0.0909
+2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,-0.013999999999999999,0.0769,0.0909
+2024-11-05 10:32:55.236113,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Raphinha (FC Barcelona),-0.013999999999999999,0.0769,0.0909
+2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Kansas,-0.013999999999999999,0.0769,0.0909
 2024-11-05 01:51:25.969729,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,-0.013999999999999999,0.0769,0.0909
 2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,North Carolina,-0.014100000000000001,0.0385,0.0526
 2024-11-05 08:31:37.996967,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),-0.014399999999999996,0.0625,0.0769
-2024-11-05 10:32:56.193728,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,UCLA (W),-0.014399999999999996,0.0625,0.0769
-2024-11-05 05:29:38.293892,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Arizona,-0.014399999999999996,0.0625,0.0769
-2024-11-05 10:32:56.158200,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Clemson,-0.014399999999999996,0.0625,0.0769
 2024-11-05 09:27:23.413571,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.014399999999999996,0.0625,0.0769
+2024-11-05 05:29:38.293892,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Arizona,-0.014399999999999996,0.0625,0.0769
+2024-11-05 10:32:56.193728,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,UCLA (W),-0.014399999999999996,0.0625,0.0769
+2024-11-05 10:32:56.158200,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Clemson,-0.014399999999999996,0.0625,0.0769
 2024-11-05 10:32:56.197982,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Rori Harmom (Texas),-0.014599999999999998,0.0132,0.0278
 2024-11-05 01:51:25.962900,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.01469999999999999,0.2353,0.25
+2024-11-05 12:47:52.855007,Electoral College Winner - Missouri (MO) - Missouri - Popular Vote Winning Margin,Trump by 20% Or More,-0.01469999999999999,0.2353,0.25
 2024-11-05 05:29:38.286972,2024 Election Core - US Presidential Election 2024 - Election Specials - State Harris wins by the largest margin?,Califronia,-0.014899999999999997,0.0476,0.0625
 2024-11-05 05:29:39.168264,Boxing Lines - William Zepeda vs Farmer Tevin - To Win the Bout,Farmer Tevin,-0.015,0.1026,0.1176
-2024-11-05 01:51:25.688728,Serie A - Italy Serie A 2024/25 - Winner,Fiorentina,-0.015300000000000001,0.0323,0.0476
 2024-11-05 01:51:25.969729,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Fulham,-0.015300000000000001,0.0323,0.0476
 2024-11-05 10:32:56.188206,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Caleb Love (Arizona),-0.015300000000000001,0.0323,0.0476
+2024-11-05 01:51:25.688728,Serie A - Italy Serie A 2024/25 - Winner,Fiorentina,-0.015300000000000001,0.0323,0.0476
 2024-11-05 10:32:55.986334,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,Yes,-0.01539999999999997,0.6,0.6154
 2024-11-05 10:32:56.751357,Electoral College Winner - New Hampshire (NH) - New Hampshire,Democrat,-0.015900000000000025,0.8462,0.8621
-2024-11-05 05:29:38.275514,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 0 - 4,-0.016700000000000007,0.0833,0.1
 2024-11-05 01:51:26.333437,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,-0.016700000000000007,0.0833,0.1
+2024-11-05 05:29:38.275514,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 0 - 4,-0.016700000000000007,0.0833,0.1
 2024-11-05 10:32:56.162328,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Illinois,-0.01759999999999999,0.1,0.1176
 2024-11-05 10:32:55.288026,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Torino,-0.017800000000000003,0.0066,0.0244
-2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 1 to 1.99%,-0.0179,0.125,0.1429
 2024-11-05 09:27:23.002280,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Aston Villa,-0.0179,0.125,0.1429
 2024-11-05 10:32:55.321727,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Fluminense,-0.0179,0.125,0.1429
-2024-11-04 23:26:03.830872,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,0,-0.0179,0.125,0.1429
+2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 1 to 1.99%,-0.0179,0.125,0.1429
 2024-11-05 05:29:38.298222,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,2,-0.0179,0.125,0.1429
 2024-11-05 05:29:38.275514,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 5 - 14,-0.018099999999999998,0.0588,0.0769
 2024-11-05 10:32:55.948151,To Make the Playoffs - Cleveland Cavaliers 2024-25 - To Make the Playoffs,No,-0.018099999999999998,0.0588,0.0769
 2024-11-05 09:27:24.167762,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Democratic,-0.018100000000000005,0.7778,0.7959
 2024-11-05 10:32:55.284976,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Empoli,-0.018200000000000004,0.0294,0.0476
-2024-11-05 05:29:38.298222,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,5,-0.01820000000000002,0.1818,0.2
 2024-11-05 10:32:56.033416,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,Yes,-0.01820000000000002,0.1818,0.2
 2024-11-05 10:32:56.193728,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),-0.01820000000000002,0.1818,0.2
+2024-11-05 05:29:38.298222,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,5,-0.01820000000000002,0.1818,0.2
 2024-11-05 09:27:23.771201,Electoral College Winner - Michigan (MI) - Michigan - Popular Vote Winning Margin,Trump by 3 to 3.99%,-0.01830000000000001,0.0769,0.0952
 2024-11-05 01:51:26.584788,Electoral College Winner - Georgia (GA) - Georgia,Republican,-0.018399999999999972,0.6875,0.7059
 2024-11-05 09:27:23.783061,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,-0.018799999999999983,0.3448,0.3636
@@ -299,61 +313,63 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 05:29:38.286972,2024 Election Core - US Presidential Election 2024 - Election Specials - State Harris wins by the largest margin?,Any Other,-0.019099999999999995,0.0244,0.0435
 2024-11-05 10:32:55.982130,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,-0.019499999999999962,0.6296,0.6491
 2024-11-05 09:27:23.582440,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 51.5,-0.01970000000000005,0.5455,0.5652
-2024-11-05 05:29:38.298222,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,6,-0.020100000000000007,0.1538,0.1739
 2024-11-05 01:51:26.259497,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,-0.020100000000000007,0.1538,0.1739
 2024-11-05 10:32:56.471309,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Any Other,-0.020100000000000007,0.1538,0.1739
 2024-11-05 10:32:55.275327,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Juventus,-0.020100000000000007,0.2299,0.25
+2024-11-05 05:29:38.298222,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,6,-0.020100000000000007,0.1538,0.1739
 2024-11-05 01:51:25.894417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,-0.020199999999999996,0.8889,0.9091
-2024-11-05 08:31:37.993130,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),-0.02020000000000001,0.0909,0.1111
-2024-11-05 08:31:38.007834,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),-0.02020000000000001,0.0909,0.1111
-2024-11-05 08:31:37.996967,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),-0.02020000000000001,0.0909,0.1111
-2024-11-05 08:31:37.993130,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),-0.02020000000000001,0.0909,0.1111
 2024-11-05 10:32:56.581549,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 0 to 0.49%,-0.02020000000000001,0.0909,0.1111
+2024-11-05 08:31:37.993130,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),-0.02020000000000001,0.0909,0.1111
+2024-11-05 08:31:37.993130,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),-0.02020000000000001,0.0909,0.1111
+2024-11-05 08:31:37.996967,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),-0.02020000000000001,0.0909,0.1111
+2024-11-05 08:31:38.007834,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),-0.02020000000000001,0.0909,0.1111
 2024-11-05 10:32:56.581549,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 0.5 to 0.99%,-0.02020000000000001,0.0909,0.1111
+2024-11-05 12:47:52.762350,Electoral College Winner - Florida (FL) - Florida - Popular Vote Winning Margin,Trump by less than 8% or Harris,-0.020699999999999996,0.4444,0.4651
 2024-11-05 10:32:56.722081,Electoral College Winner - Mississippi (MS) - Mississippi - Popular Vote Winning Margin,Trump By Less than 20% or Harris,-0.02079999999999993,0.5348,0.5556
 2024-11-05 03:30:32.431720,Electoral College Winner - Iowa (IA) - Iowa - Popular Vote Winning Margin,Trump by 12% Or More,-0.021400000000000002,0.1786,0.2
-2024-11-05 09:27:23.518142,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 28.5,-0.02169999999999994,0.5238,0.5455
-2024-11-05 09:27:23.527950,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 49.5,-0.02169999999999994,0.5238,0.5455
 2024-11-05 09:27:23.607025,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 46.5,-0.02169999999999994,0.5238,0.5455
+2024-11-05 09:27:23.527950,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 49.5,-0.02169999999999994,0.5238,0.5455
+2024-11-05 09:27:23.518142,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 28.5,-0.02169999999999994,0.5238,0.5455
 2024-11-05 09:27:23.763594,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 4% or more,-0.021699999999999997,0.4545,0.4762
 2024-11-05 09:27:23.786468,Electoral College Winner - North Carolina (NC) - North Carolina - Popular Vote Winning Margin,Trump by 4% or more,-0.021699999999999997,0.4545,0.4762
-2024-11-05 05:29:38.271178,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; DEM House,-0.021999999999999964,0.2857,0.3077
 2024-11-05 10:32:55.239445,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.021999999999999964,0.2857,0.3077
 2024-11-05 01:51:26.336608,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,-0.021999999999999964,0.2857,0.3077
+2024-11-05 05:29:38.271178,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; DEM House,-0.021999999999999964,0.2857,0.3077
 2024-11-05 09:27:23.002280,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,-0.02200000000000002,0.6923,0.7143
 2024-11-05 10:32:55.324716,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.02200000000000002,0.6923,0.7143
 2024-11-05 10:32:56.024880,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,No,-0.02210000000000001,0.2105,0.2326
 2024-11-05 09:27:23.250558,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.022199999999999998,0.1111,0.1333
 2024-11-05 08:31:37.607389,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Clarence Maclin - Sing Sing,-0.022199999999999998,0.2,0.2222
 2024-11-05 01:51:26.592634,Electoral College Winner - Michigan (MI) - Michigan,Republican,-0.02260000000000001,0.3774,0.4
-2024-11-05 10:32:56.640637,Electoral College Winner - Florida (FL) - Florida - Popular Vote Winning Margin,Trump By 8% Or More,-0.022600000000000064,0.6,0.6226
 2024-11-05 09:27:23.562681,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 45.5,-0.022600000000000064,0.5122,0.5348
-2024-11-05 01:51:26.698996,Electoral College Winner - Iowa (IA) - Iowa,Republican,-0.0232,0.823,0.8462
+2024-11-05 10:32:56.640637,Electoral College Winner - Florida (FL) - Florida - Popular Vote Winning Margin,Trump By 8% Or More,-0.022600000000000064,0.6,0.6226
 2024-11-05 10:32:56.135849,Men's Basketball Tournament - Early Season Tournaments - 2024 Battle 4 Atlantis,Oklahoma,-0.0232,0.0435,0.0667
+2024-11-05 01:51:26.698996,Electoral College Winner - Iowa (IA) - Iowa,Republican,-0.0232,0.823,0.8462
 2024-11-05 05:29:38.262525,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,-0.0232,0.2667,0.2899
 2024-11-05 10:32:56.158200,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Pittsburgh,-0.023200000000000002,0.0244,0.0476
 2024-11-05 01:51:26.600346,Electoral College Winner - Nevada (NV) - Nevada,Republican,-0.023699999999999943,0.5917,0.6154
-2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Trump by 0 to 0.99%,-0.023799999999999988,0.1429,0.1667
-2024-11-05 01:51:26.254848,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.023799999999999988,0.4762,0.5
 2024-11-05 09:27:23.756011,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 2 to 2.99%,-0.023799999999999988,0.1429,0.1667
 2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Harris by 0 to 0.99%,-0.023799999999999988,0.1429,0.1667
+2024-11-05 01:51:26.254848,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.023799999999999988,0.4762,0.5
+2024-11-05 10:32:56.589318,Electoral College Winner - Wisconsin (WI) - Wisconsin - Popular Vote Winning Margin,Trump by 0 to 0.99%,-0.023799999999999988,0.1429,0.1667
 2024-11-05 10:32:56.188206,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Cooper Flagg (Duke),-0.023799999999999988,0.1429,0.1667
 2024-11-05 10:32:56.170536,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,-0.023800000000000016,0.1667,0.1905
 2024-11-05 10:32:55.977911,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,No,-0.023900000000000032,0.7874,0.8113
-2024-11-05 01:51:26.340234,NBL - Australia NBL 2024/25 - To Make Grand Final,Tasmania JackJumpers,-0.0242,0.0667,0.0909
 2024-11-05 10:32:55.526341,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,-0.0242,0.0667,0.0909
-2024-11-05 10:32:56.188206,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Hunter Dickinson (Kansas),-0.025300000000000003,0.1176,0.1429
-2024-11-05 10:32:56.188206,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Mark Sears (Alabama),-0.025300000000000003,0.1176,0.1429
+2024-11-05 01:51:26.340234,NBL - Australia NBL 2024/25 - To Make Grand Final,Tasmania JackJumpers,-0.0242,0.0667,0.0909
 2024-11-05 09:27:23.786468,Electoral College Winner - North Carolina (NC) - North Carolina - Popular Vote Winning Margin,Trump by 3 to 3.99%,-0.025300000000000003,0.1176,0.1429
+2024-11-05 10:32:56.188206,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Mark Sears (Alabama),-0.025300000000000003,0.1176,0.1429
+2024-11-05 10:32:56.188206,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Hunter Dickinson (Kansas),-0.025300000000000003,0.1176,0.1429
 2024-11-05 01:51:25.891349,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.025499999999999967,0.4,0.4255
-2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,-0.02560000000000001,0.1667,0.1923
 2024-11-05 09:27:23.760203,Electoral College Winner - Georgia (GA) - Georgia,Democrat,-0.02560000000000001,0.3448,0.3704
+2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,-0.02560000000000001,0.1667,0.1923
 2024-11-05 10:32:55.233047,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,-0.025600000000000067,0.6667,0.6923
 2024-11-05 10:32:55.960963,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,-0.026899999999999924,0.9231,0.95
 2024-11-05 01:51:26.340234,NBL - Australia NBL 2024/25 - To Make Grand Final,Adelaide 36ers,-0.02739999999999998,0.2667,0.2941
 2024-11-05 01:51:26.333437,NBL - Australia NBL 2024/25 - Outright,Melbourne United,-0.02739999999999998,0.2667,0.2941
-2024-11-05 10:32:56.466837,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,-0.027999999999999997,0.1538,0.1818
+2024-11-05 12:47:52.679955,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.027700000000000002,0.4167,0.4444
 2024-11-05 09:27:23.417921,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,-0.027999999999999997,0.1538,0.1818
+2024-11-05 10:32:56.466837,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,-0.027999999999999997,0.1538,0.1818
 2024-11-05 09:27:23.264581,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.028700000000000003,0.1818,0.2105
 2024-11-05 05:29:38.286972,2024 Election Core - US Presidential Election 2024 - Election Specials - State Harris wins by the largest margin?,Maryland,-0.028799999999999992,0.125,0.1538
 2024-11-05 08:31:37.996967,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Bilal Coulibaly (WAS),-0.029299999999999993,0.0476,0.0769
@@ -368,32 +384,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 09:27:23.775452,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.031799999999999995,0.4444,0.4762
 2024-11-05 10:32:55.236113,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.031799999999999995,0.1111,0.1429
 2024-11-05 10:32:55.990571,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,No,-0.03250000000000003,0.2532,0.2857
-2024-11-05 05:29:38.286972,2024 Election Core - US Presidential Election 2024 - Election Specials - State Harris wins by the largest margin?,Hawaii,-0.033299999999999996,0.1,0.1333
 2024-11-05 10:32:55.969530,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,No,-0.033299999999999996,0.5122,0.5455
+2024-11-05 05:29:38.286972,2024 Election Core - US Presidential Election 2024 - Election Specials - State Harris wins by the largest margin?,Hawaii,-0.033299999999999996,0.1,0.1333
 2024-11-05 10:32:55.943929,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,Yes,-0.033300000000000024,0.1667,0.2
 2024-11-05 01:51:26.349863,LNB Pro A - France LNB Pro A 2024/25 - Winner,ASVEL Basket,-0.033300000000000024,0.1667,0.2
 2024-11-05 01:51:26.336608,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,-0.033399999999999985,0.1333,0.1667
-2024-11-05 10:32:56.182848,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Wichita State,-0.034100000000000005,0.0909,0.125
 2024-11-05 09:27:23.278493,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.034100000000000005,0.0909,0.125
+2024-11-05 10:32:56.182848,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Wichita State,-0.034100000000000005,0.0909,0.125
 2024-11-05 09:27:23.756011,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 4% or more,-0.03489999999999999,0.4651,0.5
 2024-11-05 10:32:56.193728,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,LSU (W),-0.035699999999999996,0.0476,0.0833
 2024-11-05 10:32:56.178752,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,-0.03570000000000001,0.25,0.2857
 2024-11-05 01:51:26.615598,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.035999999999999976,0.4762,0.5122
-2024-11-05 11:22:28.267318,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.03620000000000001,0.4082,0.4444
 2024-11-05 11:22:28.271294,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.03620000000000001,0.4082,0.4444
+2024-11-05 11:22:28.267318,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.03620000000000001,0.4082,0.4444
 2024-11-05 09:27:23.002280,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Nottingham Forest,-0.03639999999999999,0.6,0.6364
+2024-11-05 12:47:52.635084,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,RFK Jr.,-0.03920000000000001,0.2941,0.3333
 2024-11-05 10:32:56.166463,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,-0.0398,0.2632,0.303
 2024-11-05 10:32:56.139384,Men's Basketball Tournament - Early Season Tournaments - 2024 Maui Invitational ,North Carolina,-0.04040000000000002,0.1818,0.2222
-2024-11-05 10:32:55.284976,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,-0.04099999999999998,0.2667,0.3077
 2024-11-05 09:27:23.005323,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,-0.04099999999999998,0.2667,0.3077
+2024-11-05 10:32:55.284976,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,-0.04099999999999998,0.2667,0.3077
 2024-11-05 08:31:38.007834,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),-0.04169999999999999,0.125,0.1667
 2024-11-05 10:32:56.170536,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Xavier,-0.04240000000000001,0.0909,0.1333
 2024-11-05 10:32:56.029173,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,No,-0.04260000000000003,0.3922,0.4348
 2024-11-05 10:32:56.162328,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,-0.042800000000000005,0.0625,0.1053
 2024-11-05 10:32:55.242474,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,-0.04329999999999999,0.0476,0.0909
 2024-11-05 10:32:56.174611,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Boise State,-0.04350000000000001,0.1739,0.2174
-2024-11-05 10:32:56.162328,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,-0.043800000000000006,0.1667,0.2105
 2024-11-05 05:29:38.293892,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Michigan,-0.043800000000000006,0.1667,0.2105
+2024-11-05 10:32:56.162328,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,-0.043800000000000006,0.1667,0.2105
 2024-11-05 10:32:55.288026,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.044399999999999995,0.5556,0.6
 2024-11-05 10:32:56.511858,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will Trump get more votes than he did in 2020?,"No (Under  74,225,926 Votes)",-0.044800000000000006,0.2778,0.3226
 2024-11-05 09:27:23.771201,Electoral College Winner - Michigan (MI) - Michigan - Popular Vote Winning Margin,Harris by 0 to 0.99%,-0.04620000000000002,0.1538,0.2
@@ -427,6 +444,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 09:27:23.597155,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 59.5,-0.1058,0.5238,0.6296
 2024-11-05 09:27:23.552818,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 44.5,-0.11109999999999998,0.5556,0.6667
 2024-11-05 10:32:55.315313,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Palmeiras,-0.11359999999999998,0.25,0.3636
+2024-11-05 12:47:52.638619,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Will Jill Stein get 1% Or More of the popular vote,No,-0.11429999999999996,0.5348,0.6491
 2024-11-05 09:27:23.537862,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 27.5,-0.13690000000000002,0.5122,0.6491
 2024-11-05 10:32:56.003339,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,Yes,-0.1835,0.4082,0.5917
 2024-11-05 09:27:23.497908,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 32.5,-0.19810000000000005,0.5455,0.7436
