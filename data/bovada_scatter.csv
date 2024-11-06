@@ -12,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 09:30:23.984200,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,0.05710000000000001,0.2,0.1429
 2024-11-06 09:30:24.066535,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.05449999999999999,0.6,0.5455
 2024-11-06 12:49:30.277892,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 69.5,0.05300000000000005,0.5652,0.5122
+2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,JD Vance,0.04999999999999999,0.25,0.2
 2024-11-06 09:30:24.054122,League One - England League One 2024/25 - To Be Promoted,Wycombe,0.04849999999999999,0.2985,0.25
 2024-11-06 09:30:24.063398,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.04620000000000002,0.2,0.1538
 2024-11-06 06:34:54.983236,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.042300000000000004,0.9756,0.9333
@@ -37,8 +38,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 16:33:06.306935,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.022199999999999998,0.2222,0.2
 2024-11-06 09:30:23.981242,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,0.021999999999999964,0.3077,0.2857
 2024-11-06 11:22:36.928144,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Dinamo Zagreb,0.021900000000000003,0.0244,0.0025
-2024-11-06 16:33:07.511596,Tournament Match-Ups - Tournament Match-Up - H. Hall vs M. Schmid - Tournament Match-Up,Harry Hall,0.02169999999999994,0.5455,0.5238
 2024-11-06 09:30:23.984200,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.02169999999999994,0.5455,0.5238
+2024-11-06 16:33:07.511596,Tournament Match-Ups - Tournament Match-Up - H. Hall vs M. Schmid - Tournament Match-Up,Harry Hall,0.02169999999999994,0.5455,0.5238
 2024-11-06 06:34:54.975021,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,0.020500000000000074,0.8667,0.8462
 2024-11-06 07:25:33.204279,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.020399999999999974,0.996,0.9756
 2024-11-06 10:32:11.690260,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Vivek Ramaswamy,0.02020000000000001,0.1111,0.0909
@@ -56,8 +57,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 07:25:33.200169,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.015599999999999947,0.996,0.9804
 2024-11-06 14:29:08.107082,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Kevin Gonzalez,0.01539999999999997,0.6875,0.6721
 2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Donald Trump Jr.,0.015300000000000001,0.0476,0.0323
-2024-11-06 14:29:06.601378,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Bayern Munich,0.014900000000000024,0.3226,0.3077
 2024-11-06 12:49:28.040003,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,FC Barcelona,0.014900000000000024,0.3226,0.3077
+2024-11-06 14:29:06.601378,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Bayern Munich,0.014900000000000024,0.3226,0.3077
 2024-11-06 12:49:28.040003,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Borussia Dortmund,0.01479999999999998,0.3922,0.3774
 2024-11-06 15:28:05.663223,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.014700000000000046,0.7647,0.75
 2024-11-06 07:25:33.218004,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.014599999999999946,0.995,0.9804
@@ -67,9 +68,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 09:30:24.004784,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Pumas UNAM,0.014099999999999998,0.0435,0.0294
 2024-11-06 16:33:06.274491,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,0.013899999999999996,0.125,0.1111
 2024-11-06 15:28:05.953422,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Egor Denim (BYU),0.013,0.0196,0.0066
+2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Tucker Carlson,0.012700000000000003,0.0323,0.0196
 2024-11-06 12:49:30.246657,Scores - 1st Round Score - Min Woo Lee - 1st Round Score,Over 70.5,0.012199999999999989,0.5,0.4878
-2024-11-06 16:33:06.274491,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.011099999999999999,0.4762,0.4651
 2024-11-06 08:32:27.690970,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,0.011099999999999999,0.1111,0.1
+2024-11-06 16:33:06.274491,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.011099999999999999,0.4762,0.4651
 2024-11-06 16:33:06.316306,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,0.01100000000000001,0.5348,0.5238
 2024-11-06 12:49:28.040003,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Juventus,0.01090000000000002,0.8571,0.8462
 2024-11-06 12:49:28.040003,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,RB Leipzig,0.010899999999999993,0.1538,0.1429
@@ -78,6 +80,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 16:33:06.291833,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Philadelphia 76ers,-0.0102,0.0667,0.0769
 2024-11-06 12:49:28.040003,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Inter Milan,-0.010599999999999998,0.4545,0.4651
 2024-11-06 08:32:27.687798,Championship - England Championship 2024/25 - Top 2 Finish,West Bromwich Albion,-0.010899999999999993,0.1429,0.1538
+2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Ron DeSantis,-0.011099999999999999,0.1,0.1111
+2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Vivek Ramaswamy,-0.011099999999999999,0.1,0.1111
 2024-11-06 11:22:36.928144,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Aston Villa,-0.011499999999999955,0.6552,0.6667
 2024-11-06 13:30:30.184691,Round Match-Ups - 1st Round Match-Ups - J.J. Spaun vs K. Mitchell - 1st Round Match-Ups,Keith Mitchell,-0.011600000000000055,0.5122,0.5238
 2024-11-06 14:29:07.896594,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Kansas City Chiefs,-0.011700000000000016,0.2105,0.2222
@@ -87,18 +91,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 11:22:36.928144,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayer Leverkusen,-0.013800000000000034,0.3636,0.3774
 2024-11-06 07:25:33.213707,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.014099999999999994,0.0526,0.0667
 2024-11-06 14:29:08.107082,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,-0.01479999999999998,0.3774,0.3922
+2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Andy Beshear,-0.014899999999999997,0.0476,0.0625
 2024-11-06 12:49:28.004731,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,-0.015100000000000002,0.1667,0.1818
-2024-11-06 09:30:24.050754,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,-0.015100000000000002,0.1667,0.1818
-2024-11-06 14:29:06.598532,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Sturm Graz,-0.015100000000000002,0.1667,0.1818
 2024-11-06 08:32:27.687798,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,-0.015100000000000002,0.1667,0.1818
+2024-11-06 09:30:24.050754,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,-0.015100000000000002,0.1667,0.1818
 2024-11-06 12:49:28.036657,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,-0.015100000000000002,0.1667,0.1818
+2024-11-06 14:29:06.598532,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Sturm Graz,-0.015100000000000002,0.1667,0.1818
 2024-11-06 16:33:07.139861,WWT Championship - WWT Championship - Winner,Lucas Glover,-0.015300000000000001,0.0323,0.0476
 2024-11-06 12:49:28.040003,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Slovan Bratislava,-0.017100000000000004,0.0152,0.0323
 2024-11-06 12:49:28.036657,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,-0.017600000000000005,0.3333,0.3509
 2024-11-06 12:49:28.040003,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Shakhtar Donetsk,-0.0179,0.125,0.1429
-2024-11-06 05:29:26.836827,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 155 - 214,-0.0179,0.0099,0.0278
 2024-11-06 14:29:07.896594,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Baltimore Ravens,-0.0179,0.125,0.1429
 2024-11-06 05:29:26.836827,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 1 - 4,-0.0179,0.0099,0.0278
+2024-11-06 05:29:26.836827,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 155 - 214,-0.0179,0.0099,0.0278
+2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Dwayne Johnson,-0.0179,0.0099,0.0278
 2024-11-06 10:32:11.690260,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Nikki Haley,-0.018099999999999998,0.0588,0.0769
 2024-11-06 12:49:28.040003,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bayern Munich,-0.018100000000000005,0.5652,0.5833
 2024-11-06 09:30:23.984200,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.0186,0.001,0.0196
@@ -107,10 +113,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 12:49:28.040003,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Arsenal,-0.019000000000000017,0.2667,0.2857
 2024-11-06 16:33:06.274491,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Milwaukee Bucks,-0.01949999999999999,0.0714,0.0909
 2024-11-06 14:29:06.612867,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Manchester City,-0.019500000000000017,0.3509,0.3704
-2024-11-06 09:30:23.987250,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.02020000000000001,0.0909,0.1111
-2024-11-06 05:29:26.874316,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.02020000000000001,0.0909,0.1111
 2024-11-06 08:32:27.690970,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,-0.02020000000000001,0.0909,0.1111
+2024-11-06 05:29:26.874316,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.02020000000000001,0.0909,0.1111
+2024-11-06 09:30:23.987250,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.02020000000000001,0.0909,0.1111
 2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Tom Cotton,-0.0203,0.0385,0.0588
+2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Wes Moore,-0.0203,0.0385,0.0588
+2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Nikki Haley,-0.0203,0.0385,0.0588
 2024-11-06 15:28:06.529570,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,-0.02030000000000004,0.3571,0.3774
 2024-11-06 08:32:27.687798,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.02100000000000002,0.3636,0.3846
 2024-11-06 16:33:07.511596,Tournament Match-Ups - Tournament Match-Up - H. Hall vs M. Schmid - Tournament Match-Up,Matti Schmid,-0.02169999999999994,0.5238,0.5455
@@ -121,19 +129,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 16:33:06.814478,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Tim Walz,-0.023899999999999998,0.0196,0.0435
 2024-11-06 06:34:55.008516,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.0242,0.0667,0.0909
 2024-11-06 09:30:25.289534,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.02440000000000009,0.7403,0.7647
-2024-11-06 16:33:06.301553,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.024800000000000016,0.2105,0.2353
 2024-11-06 16:33:06.306935,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.024800000000000016,0.2105,0.2353
+2024-11-06 16:33:06.301553,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.024800000000000016,0.2105,0.2353
 2024-11-06 08:32:27.684690,Championship - England Championship 2024/25 - To Finish Bottom,Oxford United,-0.024999999999999994,0.1,0.125
-2024-11-06 11:22:36.928144,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Borussia Dortmund,-0.025600000000000067,0.6667,0.6923
 2024-11-06 09:30:24.166511,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,-0.025600000000000067,0.6667,0.6923
-2024-11-06 06:34:54.986999,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.0267,0.0909,0.1176
+2024-11-06 11:22:36.928144,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Borussia Dortmund,-0.025600000000000067,0.6667,0.6923
 2024-11-06 06:34:54.983236,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.0267,0.0909,0.1176
 2024-11-06 05:29:26.841097,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,-0.0267,0.0909,0.1176
+2024-11-06 06:34:54.986999,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.0267,0.0909,0.1176
 2024-11-06 12:49:28.004731,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,-0.02779999999999999,0.2222,0.25
 2024-11-06 08:32:27.690970,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.02779999999999999,0.2222,0.25
 2024-11-06 05:29:26.836827,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,-0.028199999999999996,0.0385,0.0667
-2024-11-06 05:29:26.841097,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Republican Popular Vote,-0.0286,0.0099,0.0385
 2024-11-06 05:29:26.836827,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 215+,-0.0286,0.0099,0.0385
+2024-11-06 05:29:26.841097,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Republican Popular Vote,-0.0286,0.0099,0.0385
 2024-11-06 16:33:06.306935,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.028700000000000003,0.1818,0.2105
 2024-11-06 10:32:11.690260,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Gavin Newsom,-0.028799999999999992,0.125,0.1538
 2024-11-06 09:30:24.054122,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.029899999999999982,0.2,0.2299
@@ -146,16 +154,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 05:29:26.870160,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.034100000000000005,0.0909,0.125
 2024-11-06 09:30:24.063398,League One - England League One 2024/25 - Top 2 Finish,Stockport County,-0.03420000000000001,0.0769,0.1111
 2024-11-06 05:29:26.836827,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 155 - 214,-0.037700000000000004,0.0099,0.0476
-2024-11-06 05:29:26.882635,Electoral College Winner - Alaska (AK) - Alaska,Democrat,-0.038299999999999994,0.0526,0.0909
-2024-11-06 07:25:33.209382,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.038299999999999994,0.0526,0.0909
 2024-11-06 07:25:33.204279,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.038299999999999994,0.0526,0.0909
+2024-11-06 07:25:33.209382,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.038299999999999994,0.0526,0.0909
+2024-11-06 05:29:26.882635,Electoral College Winner - Alaska (AK) - Alaska,Democrat,-0.038299999999999994,0.0526,0.0909
 2024-11-06 08:32:27.690970,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,-0.03889999999999999,0.1429,0.1818
 2024-11-06 05:29:26.836827,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 15 - 34,-0.0392,0.0196,0.0588
 2024-11-06 16:33:06.296468,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,-0.04000000000000001,0.16,0.2
 2024-11-06 09:30:23.984200,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,-0.04039999999999999,0.7778,0.8182
 2024-11-06 16:33:06.316306,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,-0.04269999999999999,0.1111,0.1538
-2024-11-06 08:32:27.684690,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,-0.043200000000000016,0.3077,0.3509
 2024-11-06 09:30:23.984200,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.043200000000000016,0.6491,0.6923
+2024-11-06 08:32:27.684690,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,-0.043200000000000016,0.3077,0.3509
 2024-11-06 06:34:55.000158,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.04440000000000001,0.0667,0.1111
 2024-11-06 16:33:06.296468,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.04849999999999999,0.1333,0.1818
 2024-11-06 08:32:27.690970,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.04999999999999999,0.2,0.25
@@ -167,8 +175,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 06:34:54.995966,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.07579999999999999,0.0909,0.1667
 2024-11-06 05:29:26.836827,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 0 - 4,-0.0804,0.0196,0.1
 2024-11-06 05:29:26.836827,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,-0.08099999999999999,0.0099,0.0909
-2024-11-06 05:29:26.849284,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.08240000000000001,0.1176,0.2
 2024-11-06 05:29:26.852887,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.08240000000000001,0.1176,0.2
+2024-11-06 05:29:26.849284,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.08240000000000001,0.1176,0.2
 2024-11-06 07:25:33.189575,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 22.5,-0.08410000000000006,0.5455,0.6296
 2024-11-06 10:32:10.877452,"Daily Soccer Specials - UEFA Champions League Specials - Wednesday, 6th November - UEFA Champions League Specials - Wednesday, 6th November","PSG, FC Barcelona, and Bayern Munich each to Score 1 or more Goals and Take 3 or more Corners",-0.08490000000000009,0.7333,0.8182
 2024-11-06 06:34:55.004341,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.09530000000000001,0.0833,0.1786
