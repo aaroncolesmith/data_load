@@ -14,11 +14,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Liverpool,0.22649999999999998,0.5122,0.2857
 2024-11-06 01:50:47.428837,Electoral College Winner - Georgia (GA) - Georgia,Republican,0.21720000000000006,0.9231,0.7059
 2024-11-06 01:50:47.369765,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Pennsylvania,0.20590000000000003,0.6226,0.4167
+2024-11-06 04:31:33.834654,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.20000000000000007,0.8667,0.6667
+2024-11-06 04:31:33.831030,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.20000000000000007,0.8667,0.6667
 2024-11-05 23:26:03.486608,US Governor Elections 2024 - Governor Election Winners - New Hampshire Governor ,Republican,0.19099999999999995,0.8462,0.6552
 2024-11-06 01:50:47.424563,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 4% or more,0.18329999999999996,0.6,0.4167
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bayer Leverkusen,0.18010000000000004,0.6923,0.5122
-2024-11-06 03:30:15.511428,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.17889999999999995,0.6667,0.4878
+2024-11-06 04:31:33.838908,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.1795,0.8462,0.6667
 2024-11-06 03:30:15.515021,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.17889999999999995,0.6667,0.4878
+2024-11-06 03:30:15.511428,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.17889999999999995,0.6667,0.4878
 2024-11-06 03:30:15.532575,Electoral College Winner - Michigan (MI) - Michigan,Republican,0.17089999999999994,0.8261,0.6552
 2024-11-06 03:30:15.549165,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.16809999999999992,0.8824,0.7143
 2024-11-06 01:50:47.451681,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,0.16449999999999998,0.8788,0.7143
@@ -27,12 +30,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,PSV Eindhoven,0.15150000000000008,0.8182,0.6667
 2024-11-06 03:30:15.545045,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Republican,0.14529999999999998,0.8889,0.7436
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Monaco,0.141,0.3077,0.1667
-2024-11-06 01:50:47.319910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.12739999999999996,0.75,0.6226
 2024-11-06 01:50:47.323802,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.12739999999999996,0.75,0.6226
+2024-11-06 01:50:47.319910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.12739999999999996,0.75,0.6226
 2024-11-05 18:33:47.371990,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - AP calls Georgia by 5:00 AM Nov 6?,Yes,0.12320000000000009,0.8333,0.7101
 2024-11-06 01:50:47.717319,NFL Specials - NFL Next Coach To Permanently Leave Position - Proposition,Doug Pederson,0.12259999999999999,0.3448,0.2222
-2024-11-06 03:30:15.503608,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.12219999999999998,0.9,0.7778
 2024-11-06 03:30:15.507526,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.12219999999999998,0.9,0.7778
+2024-11-06 03:30:15.503608,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.12219999999999998,0.9,0.7778
+2024-11-06 04:31:33.885659,Electoral College Winner - Minnesota (MN) - Minnesota,Republican,0.12179999999999999,0.2597,0.1379
 2024-11-05 23:26:02.814528,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - 0.01 to 5% margin,0.12039999999999995,0.6552,0.5348
 2024-11-06 01:50:46.202174,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Borussia Dortmund,0.12,0.5455,0.4255
 2024-11-05 17:28:25.267080,Electoral College Winner - Nevada (NV) - Nevada,Democrat,0.11810000000000004,0.5348,0.4167
@@ -44,8 +48,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 20:27:42.206372,Electoral College Winner - Florida (FL) - Florida - Popular Vote Winning Margin,Trump By 8% Or More,0.10709999999999997,0.75,0.6429
 2024-11-05 18:33:47.346013,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will there be a Record turnout in 2024 Presidential election?,"Yes (Over 158,594,895 Votes)",0.1068,0.7222,0.6154
 2024-11-05 22:29:44.999242,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Harris by 0 to 0.99%,0.10460000000000001,0.2222,0.1176
-2024-11-06 01:50:47.331444,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.10370000000000001,0.3704,0.2667
 2024-11-06 01:50:47.327714,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.10370000000000001,0.3704,0.2667
+2024-11-06 01:50:47.331444,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.10370000000000001,0.3704,0.2667
 2024-11-06 02:52:44.972682,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,0.10160000000000002,0.9804,0.8788
 2024-11-06 03:30:14.517315,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.10089999999999999,0.75,0.6491
 2024-11-06 01:50:47.373944,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will Harris get more votes than Biden in 2020?,"Yes (Over 81,286,454 Votes)",0.09999999999999998,0.6,0.5
@@ -53,9 +57,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 23:26:02.893507,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will Trump get more votes than he did in 2020?,"Yes (Over 74,225,926 Votes)",0.09960000000000002,0.9091,0.8095
 2024-11-06 01:50:47.447439,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Trump by 2 to 2.99%,0.09960000000000001,0.1905,0.0909
 2024-11-06 02:52:44.980938,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.0989000000000001,0.7143,0.6154
+2024-11-06 04:31:33.848101,Electoral College Winner - Michigan (MI) - Michigan,Republican,0.09700000000000009,0.9231,0.8261
 2024-11-06 01:50:47.424563,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 1 to 1.99%,0.0947,0.2,0.1053
 2024-11-06 01:50:47.444054,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.09229999999999994,0.6667,0.5744
 2024-11-05 23:26:02.936634,2024 Election Core - US Presidential Election 2024 - Post Election Specials - Post Election Specials ,Trump wins and nominates RFK Jr. to Cabinet?,0.09160000000000001,0.4762,0.3846
+2024-11-06 04:31:33.852284,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.0907,0.8824,0.7917
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Liverpool,0.08979999999999999,0.9565,0.8667
 2024-11-06 02:52:44.928455,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.0892,0.3922,0.303
 2024-11-06 01:50:47.447439,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 0 to 0.99%,0.0885,0.2703,0.1818
@@ -71,6 +77,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 01:50:47.412680,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - What day will the AP call the election?,"Wednesday, Nov 6",0.07440000000000002,0.5744,0.5
 2024-11-05 16:33:39.868971,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Gonzaga,0.07189999999999996,0.2941,0.2222
 2024-11-05 20:27:42.134031,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 1 to 1.99%,0.07069999999999999,0.1818,0.1111
+2024-11-06 04:31:33.864753,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.07000000000000006,0.9524,0.8824
 2024-11-06 01:50:47.717319,NFL Specials - NFL Next Coach To Permanently Leave Position - Proposition,Matt Eberflus,0.06670000000000001,0.2,0.1333
 2024-11-05 23:26:02.014736,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Taylor Swift - The Tortured Poets Department,0.06669999999999998,0.6667,0.6
 2024-11-06 02:52:44.965226,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.06659999999999999,0.7333,0.6667
@@ -87,6 +94,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 19:20:48.304709,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),0.05299999999999999,0.4878,0.4348
 2024-11-05 22:29:45.030761,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 2 to 2.49%,0.052700000000000004,0.1053,0.0526
 2024-11-06 02:52:45.043325,Electoral College Winner - Virginia (VA) - Virginia,Democrat,0.0524,0.9615,0.9091
+2024-11-06 04:31:33.860588,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Republican,0.05230000000000001,0.9412,0.8889
 2024-11-06 02:52:44.944518,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 35 - 64,0.05049999999999999,0.2105,0.16
 2024-11-05 16:33:39.634448,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,0.0504,0.2857,0.2353
 2024-11-06 01:50:46.212990,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,FC Barcelona,0.04999999999999999,0.25,0.2
@@ -96,28 +104,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 01:50:47.416018,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - What day will the AP call the election?,Any Other Day,0.04849999999999999,0.8667,0.8182
 2024-11-05 21:24:25.559216,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.0479,0.2778,0.2299
 2024-11-06 02:52:45.027549,Electoral College Winner - New Mexico (NM) - New Mexico,Democrat,0.047799999999999954,0.9709,0.9231
+2024-11-06 04:31:33.827118,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.0474,0.9474,0.9
+2024-11-06 04:31:33.823193,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.0474,0.9474,0.9
 2024-11-05 18:33:47.830460,US Senate Elections 2024 - Senate Election Winner - Texas - Winner,Republican,0.04700000000000004,0.8667,0.8197
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Juventus,0.04619999999999991,0.8462,0.8
 2024-11-06 03:30:14.517315,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,0.04460000000000003,0.4082,0.3636
 2024-11-06 02:52:44.944518,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,0.044499999999999984,0.2667,0.2222
 2024-11-05 22:29:44.871736,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Pennsylvania,0.043300000000000005,0.303,0.2597
-2024-11-05 22:29:44.999242,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 0 to 0.99%,0.04240000000000001,0.16,0.1176
 2024-11-05 23:26:02.827371,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,North Carolina,0.04240000000000001,0.16,0.1176
+2024-11-05 22:29:44.999242,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 0 to 0.99%,0.04240000000000001,0.16,0.1176
 2024-11-06 01:50:46.204847,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - La Liga,Atlético Madrid,0.04229999999999999,0.0667,0.0244
 2024-11-05 18:33:46.742508,East Group B - East Group B Winner - East Group B Winner,Indiana Pacers,0.04099999999999998,0.3077,0.2667
 2024-11-06 01:50:47.335640,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.0398,0.303,0.2632
 2024-11-06 01:50:46.212990,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Liverpool,0.03950000000000001,0.25,0.2105
 2024-11-05 16:33:40.231904,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,RFK Jr.,0.03920000000000001,0.3333,0.2941
+2024-11-05 20:27:42.134031,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 0 to 0.99%,0.03889999999999999,0.1818,0.1429
 2024-11-05 22:29:44.871736,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Michigan,0.03889999999999999,0.1818,0.1429
 2024-11-06 01:50:47.447439,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Trump by 4% or more,0.03889999999999999,0.1818,0.1429
-2024-11-05 20:27:42.134031,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 0 to 0.99%,0.03889999999999999,0.1818,0.1429
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Lille,0.038899999999999935,0.8571,0.8182
 2024-11-05 23:26:02.834326,2024 Election Core - US Presidential Election 2024 - Election Specials - Election Specials ,"Trump wins AR, AK, TN, MS, KY, WV, AL, ID, WY, UT, SD & ND",0.035700000000000065,0.9524,0.9167
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,FC Barcelona,0.035699999999999954,0.75,0.7143
 2024-11-05 17:28:24.921585,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.0353,0.2353,0.2
+2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,FC Barcelona,0.033299999999999996,0.1333,0.1
 2024-11-05 23:26:02.901102,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,Jill Stein,0.033299999999999996,0.8333,0.8
 2024-11-06 01:50:47.622756,US Senate Elections 2024 - Senate Control Following 2024 Elections - Senate Control Following Elections,Republican,0.033299999999999996,0.9,0.8667
-2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,FC Barcelona,0.033299999999999996,0.1333,0.1
 2024-11-06 03:30:15.582648,Electoral College Winner - Virginia (VA) - Virginia,Republican,0.03259999999999999,0.1379,0.1053
 2024-11-06 03:30:14.517315,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.031799999999999995,0.1429,0.1111
 2024-11-05 22:29:44.917544,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,5,0.031700000000000006,0.2222,0.1905
@@ -128,16 +138,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 20:27:41.817967,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Donovan Mitchell (CLE),0.029399999999999996,0.0435,0.0141
 2024-11-05 23:26:02.827371,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,New Hampshire,0.029299999999999993,0.0769,0.0476
 2024-11-06 01:50:47.462817,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 1 to 1.49%,0.02840000000000001,0.1053,0.0769
-2024-11-06 01:50:46.196949,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Liverpool,0.027999999999999997,0.1333,0.1053
 2024-11-06 01:50:46.196949,UEFA Champions League - UEFA Champions League 2024/25 - Winner,FC Barcelona,0.027999999999999997,0.1333,0.1053
+2024-11-06 01:50:46.196949,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Liverpool,0.027999999999999997,0.1333,0.1053
 2024-11-05 22:29:44.999242,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 2 to 2.99%,0.027999999999999997,0.1333,0.1053
-2024-11-06 02:52:44.916701,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.027800000000000047,0.7778,0.75
 2024-11-06 02:52:44.912825,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.027800000000000047,0.7778,0.75
+2024-11-06 02:52:44.916701,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.027800000000000047,0.7778,0.75
 2024-11-05 20:27:41.825037,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),0.02779999999999999,0.25,0.2222
 2024-11-06 01:50:47.010961,NBL - Australia NBL 2024/25 - To Make Grand Final,New Zealand Breakers,0.02779999999999999,0.25,0.2222
 2024-11-05 19:20:48.304709,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.0267,0.1176,0.0909
-2024-11-05 17:28:25.119130,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.026600000000000013,0.4348,0.4082
 2024-11-05 17:28:25.114954,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.026600000000000013,0.4348,0.4082
+2024-11-05 17:28:25.119130,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,0.026600000000000013,0.4348,0.4082
 2024-11-06 01:50:47.597631,Electoral College Winner - Texas (TX) - Texas - Popular Vote Winning Margin,Trump by 10% Or More,0.026500000000000024,0.3774,0.3509
 2024-11-05 20:27:41.990088,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,0.026000000000000023,0.2857,0.2597
 2024-11-05 20:27:41.993608,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.026000000000000023,0.2857,0.2597
@@ -159,25 +169,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 03:30:14.541051,League One - England League One 2024/25 - Winner,Wycombe,0.0232,0.0667,0.0435
 2024-11-06 01:50:47.447439,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 2 to 2.99%,0.02310000000000001,0.1,0.0769
 2024-11-05 22:29:45.018239,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,0.022999999999999965,0.3509,0.3279
-2024-11-05 16:33:41.453967,Tournament Match-Ups - Tournament Match-Up - M. Woo Lee vs R. MacIntyre - Tournament Match-Up ,Min Woo Lee,0.022600000000000064,0.5348,0.5122
 2024-11-05 17:28:26.423555,Tournament Match-Ups - Tournament Match-Up - T. McKibbin vs A. Meronk - Tournament Match-Up ,Tom McKibbin,0.022600000000000064,0.5348,0.5122
-2024-11-06 01:50:47.506502,Electoral College Winner - Iowa (IA) - Iowa,Republican,0.022600000000000064,0.905,0.8824
+2024-11-05 16:33:41.453967,Tournament Match-Ups - Tournament Match-Up - M. Woo Lee vs R. MacIntyre - Tournament Match-Up ,Min Woo Lee,0.022600000000000064,0.5348,0.5122
 2024-11-05 17:28:26.392519,Tournament Match-Ups - Tournament Match-Up - J. Smith vs T. Detry - Tournament Match-Up ,Jordan Smith,0.022600000000000064,0.6226,0.6
+2024-11-06 01:50:47.506502,Electoral College Winner - Iowa (IA) - Iowa,Republican,0.022600000000000064,0.905,0.8824
 2024-11-06 01:50:47.447439,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Trump by 0 to 0.99%,0.022199999999999998,0.2222,0.2
 2024-11-06 01:50:47.550324,Electoral College Winner - New Hampshire (NH) - New Hampshire,Republican,0.02210000000000001,0.2326,0.2105
-2024-11-05 20:27:41.821549,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.021999999999999964,0.3077,0.2857
 2024-11-06 01:50:46.202174,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Bayern Munich,0.021999999999999964,0.3077,0.2857
+2024-11-05 20:27:41.821549,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.021999999999999964,0.3077,0.2857
 2024-11-06 01:50:47.432263,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 3 to 3.99%,0.021799999999999986,0.1818,0.16
 2024-11-05 18:33:47.442401,Electoral College Winner - Wisconsin (WI) - Wisconsin,Republican,0.021699999999999997,0.4762,0.4545
-2024-11-05 23:26:02.879994,2024 Election Core - US Presidential Election 2024 - Voter Turnout - How many votes will Trump get in the 2024 Presidential election,<66m,0.0208,0.0833,0.0625
 2024-11-05 23:26:02.879994,2024 Election Core - US Presidential Election 2024 - Voter Turnout - How many votes will Trump get in the 2024 Presidential election,66-68m,0.0208,0.0833,0.0625
+2024-11-05 23:26:02.879994,2024 Election Core - US Presidential Election 2024 - Voter Turnout - How many votes will Trump get in the 2024 Presidential election,<66m,0.0208,0.0833,0.0625
 2024-11-05 16:33:41.441480,Tournament Match-Ups - Tournament Match-Up - J. Campillo vs J. Guerrier - Tournament Match-Up ,Jorge Campillo,0.02079999999999993,0.5556,0.5348
 2024-11-05 22:29:45.026182,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,0.020699999999999996,0.4651,0.4444
 2024-11-06 01:50:47.432263,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 2 to 2.99%,0.02049999999999999,0.1538,0.1333
-2024-11-06 01:50:47.402450,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - AP calls Michigan by 5:00 AM Nov 6?,Yes,0.020299999999999985,0.6429,0.6226
 2024-11-05 18:33:47.497153,Electoral College Winner - Florida (FL) - Florida - Popular Vote Winning Margin,Trump By 8% Or More,0.020299999999999985,0.6429,0.6226
-2024-11-06 01:50:47.447439,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Trump by 3 to 3.99%,0.02020000000000001,0.1111,0.0909
+2024-11-06 01:50:47.402450,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - AP calls Michigan by 5:00 AM Nov 6?,Yes,0.020299999999999985,0.6429,0.6226
 2024-11-06 01:50:47.447439,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 4% or more,0.02020000000000001,0.1111,0.0909
+2024-11-06 01:50:47.447439,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Trump by 3 to 3.99%,0.02020000000000001,0.1111,0.0909
 2024-11-05 23:26:02.827371,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Georgia,0.02020000000000001,0.1111,0.0909
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Slovan Bratislava,0.020000000000000004,0.0323,0.0123
 2024-11-05 23:26:02.827371,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Pennsylvania,0.019600000000000006,0.3226,0.303
@@ -187,48 +197,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 16:33:41.458106,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs T. Olesen - Tournament Match-Up ,Thorbjorn Olesen,0.01880000000000004,0.5744,0.5556
 2024-11-05 20:27:42.134031,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Trump by 0 to 0.99%,0.01820000000000002,0.2,0.1818
 2024-11-05 21:24:25.979827,Electoral College Winner - Texas (TX) - Texas,Republican,0.018100000000000005,0.9852,0.9671
-2024-11-05 22:29:44.849886,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.018100000000000005,0.7959,0.7778
 2024-11-05 22:29:44.846248,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,0.018100000000000005,0.7959,0.7778
-2024-11-05 20:27:41.825037,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),0.0179,0.1429,0.125
+2024-11-05 22:29:44.849886,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.018100000000000005,0.7959,0.7778
 2024-11-06 01:50:47.432263,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 1 to 1.99%,0.0179,0.1429,0.125
-2024-11-05 17:28:25.271625,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,0.017600000000000005,0.3509,0.3333
+2024-11-05 20:27:41.825037,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),0.0179,0.1429,0.125
 2024-11-06 02:52:43.934586,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.017600000000000005,0.3509,0.3333
+2024-11-05 17:28:25.271625,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,0.017600000000000005,0.3509,0.3333
 2024-11-06 01:50:47.399105,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - AP calls Georgia by 5:00 AM Nov 6?,No,0.0174,0.25,0.2326
 2024-11-05 17:28:25.131422,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,0.017299999999999982,0.4255,0.4082
 2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Monaco,0.0168,0.0278,0.011
 2024-11-06 02:52:44.944518,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 0 - 4,0.016700000000000007,0.1,0.0833
-2024-11-06 01:50:47.432263,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 4% or more,0.016699999999999993,0.4167,0.4
 2024-11-05 19:20:48.535193,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Pennsylvania,0.016699999999999993,0.4167,0.4
+2024-11-06 01:50:47.432263,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 4% or more,0.016699999999999993,0.4167,0.4
 2024-11-05 19:20:48.521223,2024 Election Core - US Presidential Election 2024 - Election Specials - Election Specials ,"Trump wins AR, AK, TN, MS, KY, WV, AL, ID, WY, UT, SD & ND",0.016699999999999937,0.9167,0.9
 2024-11-05 20:27:41.825037,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Reed Sheppard (HOU),0.0159,0.0323,0.0164
 2024-11-05 22:29:45.030761,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 0.5 to 0.99%,0.015700000000000006,0.1333,0.1176
 2024-11-06 01:50:46.333479,Championship - England Championship 2024/25 - Winner,Leeds United,0.01539999999999997,0.6154,0.6
 2024-11-05 20:27:42.108219,Electoral College Winner - Arizona (AZ) - Arizona,Republican,0.01529999999999998,0.823,0.8077
 2024-11-05 23:26:02.890176,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will there be a Record turnout in 2024 Presidential election?,"Yes (Over 158,594,895 Votes)",0.015100000000000002,0.7619,0.7468
-2024-11-05 22:29:44.885945,2024 Election Core - US Presidential Election 2024 - Election Specials - State Harris wins by the largest margin?,California,0.014899999999999997,0.0625,0.0476
 2024-11-05 23:26:02.827371,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Minnesota,0.014899999999999997,0.0625,0.0476
+2024-11-05 22:29:44.885945,2024 Election Core - US Presidential Election 2024 - Election Specials - State Harris wins by the largest margin?,California,0.014899999999999997,0.0625,0.0476
 2024-11-06 01:50:47.521694,Electoral College Winner - Louisiana (LA) - Louisiana,Republican,0.014599999999999946,0.995,0.9804
+2024-11-06 04:31:33.902388,Electoral College Winner - Washington (WA) - Washington,Democrat,0.014499999999999957,0.9901,0.9756
 2024-11-05 19:20:48.304709,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),0.01440000000000001,0.1053,0.0909
-2024-11-05 16:33:40.180485,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 5 - 14,0.014399999999999996,0.0769,0.0625
 2024-11-05 22:29:44.999242,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Harris by 2 to 2.99%,0.014399999999999996,0.0769,0.0625
+2024-11-05 16:33:40.180485,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 5 - 14,0.014399999999999996,0.0769,0.0625
 2024-11-05 20:27:41.986227,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican Party,0.014200000000000101,0.6296,0.6154
 2024-11-05 20:27:41.982345,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.014200000000000101,0.6296,0.6154
 2024-11-05 23:26:02.827371,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Florida,0.014100000000000001,0.0526,0.0385
-2024-11-06 02:52:43.934586,Championship - England Championship 2024/25 - To Be Promoted,Sheffield Wednesday,0.014099999999999998,0.0435,0.0294
 2024-11-05 16:33:39.639202,West Group B - West Group B Winner - West Group B Winner,Utah Jazz,0.014099999999999998,0.0385,0.0244
+2024-11-06 02:52:43.934586,Championship - England Championship 2024/25 - To Be Promoted,Sheffield Wednesday,0.014099999999999998,0.0435,0.0294
 2024-11-05 21:24:25.366444,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Gradey Dick (TOR),0.014099999999999994,0.0667,0.0526
 2024-11-05 22:29:45.030761,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 1.5 to 1.99%,0.013999999999999999,0.0909,0.0769
-2024-11-06 01:50:47.486413,Electoral College Winner - Colorado (CO) - Colorado,Republican,0.013999999999999999,0.0909,0.0769
-2024-11-05 20:27:42.134031,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 3 to 3.99%,0.013999999999999999,0.0909,0.0769
-2024-11-05 23:26:02.827371,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Arizona,0.013999999999999999,0.0909,0.0769
-2024-11-05 22:29:45.030761,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 1 to 1.49%,0.013999999999999999,0.0909,0.0769
-2024-11-05 19:20:48.308628,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),0.013999999999999999,0.0909,0.0769
 2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kevin Durant (PHX),0.013999999999999999,0.0909,0.0769
-2024-11-05 22:29:44.214647,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2028,0.013899999999999996,0.125,0.1111
+2024-11-05 23:26:02.827371,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Arizona,0.013999999999999999,0.0909,0.0769
+2024-11-06 01:50:47.486413,Electoral College Winner - Colorado (CO) - Colorado,Republican,0.013999999999999999,0.0909,0.0769
+2024-11-05 19:20:48.308628,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),0.013999999999999999,0.0909,0.0769
+2024-11-05 20:27:42.134031,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Harris by 3 to 3.99%,0.013999999999999999,0.0909,0.0769
+2024-11-05 22:29:45.030761,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 1 to 1.49%,0.013999999999999999,0.0909,0.0769
 2024-11-06 02:52:43.792601,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),0.013899999999999996,0.125,0.1111
-2024-11-06 01:50:47.007201,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,0.013899999999999996,0.125,0.1111
 2024-11-05 20:27:41.825037,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),0.013899999999999996,0.125,0.1111
 2024-11-06 01:50:47.369765,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Wisconsin,0.013899999999999996,0.1739,0.16
+2024-11-05 22:29:44.214647,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2028,0.013899999999999996,0.125,0.1111
+2024-11-06 01:50:47.007201,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,0.013899999999999996,0.125,0.1111
 2024-11-05 19:20:48.703544,Electoral College Winner - Florida (FL) - Florida,Republican,0.01330000000000009,0.9804,0.9671
 2024-11-05 16:33:39.634448,West Group A - West Group A Winner - West Group A Winner,Portland Trail Blazers,0.013199999999999996,0.0455,0.0323
 2024-11-06 02:52:44.949522,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,0.012899999999999995,0.1667,0.1538
@@ -245,80 +256,83 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 01:50:47.606033,Electoral College Winner - Virginia (VA) - Virginia,Republican,0.010899999999999993,0.1538,0.1429
 2024-11-05 18:33:47.422333,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.010699999999999932,0.5455,0.5348
 2024-11-05 21:24:25.698299,Electoral College Winner - Arizona (AZ) - Arizona,Republican,0.010300000000000087,0.8333,0.823
-2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Inter Milan,0.0102,0.0769,0.0667
 2024-11-06 01:50:46.202174,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,VfB Stuttgart,0.0102,0.0769,0.0667
+2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Inter Milan,0.0102,0.0769,0.0667
 2024-11-06 03:30:14.510843,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,0.010100000000000001,0.0345,0.0244
-2024-11-05 19:20:48.632693,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.010099999999999998,0.5556,0.5455
 2024-11-05 16:33:40.231904,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,Jill Stein,0.010099999999999998,0.5556,0.5455
+2024-11-05 19:20:48.632693,Electoral College Winner - Nevada (NV) - Nevada,Republican,0.010099999999999998,0.5556,0.5455
 2024-11-05 20:27:42.145544,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.010099999999999998,0.4444,0.4545
-2024-11-05 23:26:02.814528,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Republican Win - Over 5% margin,-0.0102,0.0667,0.0769
 2024-11-06 01:50:47.462817,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 0.5 to 0.99%,-0.0102,0.0667,0.0769
-2024-11-05 18:33:47.280743,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.010299999999999976,0.2564,0.2667
+2024-11-06 04:31:33.873157,Electoral College Winner - California (CA) - California,Republican,-0.0102,0.0667,0.0769
+2024-11-05 23:26:02.814528,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Republican Win - Over 5% margin,-0.0102,0.0667,0.0769
 2024-11-05 18:33:47.277072,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,-0.010299999999999976,0.2564,0.2667
+2024-11-05 18:33:47.280743,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.010299999999999976,0.2564,0.2667
 2024-11-05 22:29:44.909918,"2024 Election Core - US Presidential Election 2024 - Election Specials - Maricopa, AZ (Phoenix) County: Popular Vote Winner",Kamala Harris,-0.010699999999999932,0.5348,0.5455
 2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Arsenal,-0.010899999999999993,0.1429,0.1538
-2024-11-06 01:50:46.207455,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Premier League,Aston Villa,-0.010899999999999993,0.1429,0.1538
 2024-11-05 19:20:48.301016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Mike Budenholzer,-0.010899999999999993,0.1429,0.1538
 2024-11-05 21:24:25.576894,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Michigan,-0.010899999999999993,0.1429,0.1538
-2024-11-06 01:50:46.219037,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,-0.01100000000000001,0.5238,0.5348
+2024-11-06 01:50:46.207455,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Premier League,Aston Villa,-0.010899999999999993,0.1429,0.1538
 2024-11-05 18:33:47.422333,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.01100000000000001,0.5238,0.5348
-2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Inter Milan,-0.011099999999999999,0.4651,0.4762
+2024-11-06 01:50:46.219037,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,-0.01100000000000001,0.5238,0.5348
 2024-11-06 01:50:47.424563,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 3 to 3.99%,-0.011099999999999999,0.1,0.1111
+2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Inter Milan,-0.011099999999999999,0.4651,0.4762
 2024-11-06 01:50:47.339920,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 4 to 4.99%,-0.011099999999999999,0.1,0.1111
 2024-11-05 20:27:42.768626,NFC East - NFC East 2024/25 - NFC East Winner,Dallas Cowboys,-0.011199999999999995,0.0323,0.0435
 2024-11-05 20:27:41.814272,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Josh Giddey (CHI),-0.011199999999999995,0.0323,0.0435
 2024-11-05 19:20:48.632693,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.011600000000000055,0.5122,0.5238
-2024-11-05 20:27:42.313253,Electoral College Winner - New Hampshire (NH) - New Hampshire,Republican,-0.011700000000000016,0.2105,0.2222
 2024-11-05 23:26:02.901102,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,Chase Oliver,-0.011700000000000016,0.2105,0.2222
+2024-11-05 20:27:42.313253,Electoral College Winner - New Hampshire (NH) - New Hampshire,Republican,-0.011700000000000016,0.2105,0.2222
 2024-11-05 20:27:42.130680,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.012199999999999989,0.5,0.5122
 2024-11-05 23:26:02.964772,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.012199999999999989,0.4878,0.5
-2024-11-05 21:24:25.701774,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 1 to 1.99%,-0.012299999999999991,0.1053,0.1176
 2024-11-05 19:20:48.308628,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),-0.012299999999999991,0.1053,0.1176
+2024-11-05 21:24:25.701774,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 1 to 1.99%,-0.012299999999999991,0.1053,0.1176
 2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Donovan Mitchell (CLE),-0.012600000000000007,0.0588,0.0714
 2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,RJ Barrett (TOR),-0.012700000000000003,0.0196,0.0323
 2024-11-06 01:50:47.339920,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Harris by 3 to 3.99%,-0.012899999999999995,0.125,0.1379
-2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,VfB Stuttgart,-0.012899999999999995,0.1538,0.1667
 2024-11-05 20:27:41.817967,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jayson Tatum (BOS),-0.012899999999999995,0.1538,0.1667
-2024-11-06 01:50:46.212990,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Arsenal,-0.0131,0.2222,0.2353
+2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,VfB Stuttgart,-0.012899999999999995,0.1538,0.1667
 2024-11-05 20:27:41.821549,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.0131,0.0345,0.0476
+2024-11-06 01:50:46.212990,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Arsenal,-0.0131,0.2222,0.2353
 2024-11-05 22:29:45.030761,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 2.5% or more,-0.0131,0.2222,0.2353
 2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Bayern Munich,-0.013400000000000002,0.011,0.0244
-2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Paris Saint-Germain,-0.013899999999999996,0.1111,0.125
-2024-11-05 22:29:44.871736,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Wisconsin,-0.013899999999999996,0.1111,0.125
 2024-11-05 21:24:25.701774,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 3 to 3.99%,-0.013899999999999996,0.1111,0.125
+2024-11-05 22:29:44.871736,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Wisconsin,-0.013899999999999996,0.1111,0.125
+2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Paris Saint-Germain,-0.013899999999999996,0.1111,0.125
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Brest,-0.013999999999999999,0.0769,0.0909
 2024-11-05 22:29:45.030761,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Harris by 1 to 1.49%,-0.013999999999999999,0.0769,0.0909
-2024-11-06 02:52:43.792601,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.013999999999999999,0.0769,0.0909
-2024-11-05 21:24:25.781549,Electoral College Winner - Colorado (CO) - Colorado,Republican,-0.013999999999999999,0.0769,0.0909
 2024-11-06 01:50:47.717319,NFL Specials - NFL Next Coach To Permanently Leave Position - Proposition,Zac Taylor,-0.013999999999999999,0.0769,0.0909
+2024-11-05 21:24:25.781549,Electoral College Winner - Colorado (CO) - Colorado,Republican,-0.013999999999999999,0.0769,0.0909
 2024-11-05 20:27:41.814272,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),-0.013999999999999999,0.0769,0.0909
+2024-11-06 02:52:43.792601,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.013999999999999999,0.0769,0.0909
 2024-11-06 01:50:47.606033,Electoral College Winner - Virginia (VA) - Virginia,Democrat,-0.014000000000000012,0.9091,0.9231
-2024-11-05 19:20:48.301016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tom Thibodeau,-0.014099999999999994,0.0526,0.0667
 2024-11-05 19:20:48.304709,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Bam Adebayo (MIA),-0.014099999999999994,0.0526,0.0667
+2024-11-05 19:20:48.301016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tom Thibodeau,-0.014099999999999994,0.0526,0.0667
 2024-11-05 20:27:41.814272,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Gradey Dick (TOR),-0.014099999999999994,0.0526,0.0667
 2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kyrie Irving (DAL),-0.014099999999999998,0.0244,0.0385
-2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Devin Booker (PHX),-0.014099999999999998,0.0244,0.0385
-2024-11-05 17:28:24.921585,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jordan Hawkins (NO),-0.014099999999999998,0.0244,0.0385
 2024-11-05 19:20:48.308628,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Bennedict Mathurin (IND),-0.014099999999999998,0.0244,0.0385
+2024-11-05 17:28:24.921585,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jordan Hawkins (NO),-0.014099999999999998,0.0244,0.0385
+2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Devin Booker (PHX),-0.014099999999999998,0.0244,0.0385
 2024-11-05 19:20:48.308628,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Norman Powell (LAC),-0.014099999999999998,0.0244,0.0385
+2024-11-06 04:31:33.838908,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Republican Popular Vote,-0.014100000000000001,0.0385,0.0526
 2024-11-06 01:50:47.432263,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Harris by 2 to 2.99%,-0.014399999999999996,0.0625,0.0769
 2024-11-06 02:52:44.944518,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 35 - 64,-0.01440000000000001,0.0909,0.1053
-2024-11-05 20:27:41.814272,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),-0.01440000000000001,0.0909,0.1053
 2024-11-05 17:28:24.921585,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Tre Mann (CHA),-0.01440000000000001,0.0909,0.1053
+2024-11-05 20:27:41.814272,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),-0.01440000000000001,0.0909,0.1053
 2024-11-05 23:26:02.890176,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will there be a Record turnout in 2024 Presidential election?,"No (Under 158,594,895 Votes)",-0.014500000000000013,0.303,0.3175
 2024-11-05 22:29:44.854161,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,-0.014600000000000002,0.2632,0.2778
-2024-11-06 01:50:47.717319,NFL Specials - NFL Next Coach To Permanently Leave Position - Proposition,Nick Sirianni,-0.014899999999999997,0.0476,0.0625
 2024-11-06 01:50:47.717319,NFL Specials - NFL Next Coach To Permanently Leave Position - Proposition,Mike McDaniel,-0.014899999999999997,0.0476,0.0625
+2024-11-06 01:50:47.717319,NFL Specials - NFL Next Coach To Permanently Leave Position - Proposition,Nick Sirianni,-0.014899999999999997,0.0476,0.0625
 2024-11-06 01:50:47.399105,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - AP calls Georgia by 5:00 AM Nov 6?,Yes,-0.015100000000000002,0.8182,0.8333
 2024-11-05 19:20:48.301016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tyronn Lue,-0.015300000000000001,0.0323,0.0476
+2024-11-05 20:27:41.814272,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Evan Mobley (CLE),-0.016600000000000004,0.0667,0.0833
+2024-11-06 04:31:33.856448,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,-0.016600000000000004,0.0667,0.0833
+2024-11-05 23:26:03.058794,Electoral College Winner - Indiana (IN) - Indiana,Democrat,-0.016600000000000004,0.0667,0.0833
 2024-11-06 01:50:47.502320,Electoral College Winner - Idaho (ID) - Idaho,Democrat,-0.016600000000000004,0.0667,0.0833
 2024-11-06 02:52:44.944518,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,-0.016600000000000004,0.0667,0.0833
 2024-11-06 01:50:47.566375,Electoral College Winner - New York (NY) - New York,Republican,-0.016600000000000004,0.0667,0.0833
-2024-11-05 23:26:03.058794,Electoral College Winner - Indiana (IN) - Indiana,Democrat,-0.016600000000000004,0.0667,0.0833
-2024-11-05 20:27:41.814272,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Evan Mobley (CLE),-0.016600000000000004,0.0667,0.0833
-2024-11-05 19:20:48.308628,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Evan Mobley (CLE),-0.016700000000000007,0.0833,0.1
 2024-11-05 19:20:48.703544,Electoral College Winner - Florida (FL) - Florida,Democrat,-0.016700000000000007,0.0833,0.1
 2024-11-06 01:50:46.212990,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Bayer Leverkusen,-0.016700000000000007,0.0833,0.1
+2024-11-05 19:20:48.308628,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Evan Mobley (CLE),-0.016700000000000007,0.0833,0.1
 2024-11-06 01:50:47.369765,2024 Election Core - US Presidential Election 2024 - Election Specials - Tipping Point State,Michigan,-0.017100000000000004,0.1429,0.16
 2024-11-05 21:24:25.559216,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.017299999999999982,0.4082,0.4255
 2024-11-05 19:20:48.636903,Electoral College Winner - North Carolina (NC) - North Carolina,Democrat,-0.017600000000000005,0.3333,0.3509
@@ -333,21 +347,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 01:50:46.219037,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,-0.01820000000000002,0.1818,0.2
 2024-11-05 20:27:42.108219,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.018699999999999994,0.241,0.2597
 2024-11-05 19:20:48.301016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,-0.018800000000000004,0.0526,0.0714
-2024-11-05 20:27:41.817967,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Joel Embiid (PHI),-0.018800000000000004,0.0526,0.0714
 2024-11-05 20:27:41.825037,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Ryan Dunn (PHX),-0.018800000000000004,0.0526,0.0714
 2024-11-05 20:27:41.825037,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Jamal Shead (TOR),-0.018800000000000004,0.0526,0.0714
-2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Pascal Siakam (IND),-0.0189,0.0196,0.0385
-2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Fred VanVleet (HOU),-0.0189,0.0196,0.0385
-2024-11-05 22:29:44.946938,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,Cornel West,-0.0189,0.0196,0.0385
+2024-11-05 20:27:41.817967,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Joel Embiid (PHI),-0.018800000000000004,0.0526,0.0714
 2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Bennedict Mathurin (IND),-0.0189,0.0196,0.0385
+2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Fred VanVleet (HOU),-0.0189,0.0196,0.0385
+2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Pascal Siakam (IND),-0.0189,0.0196,0.0385
+2024-11-05 22:29:44.946938,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,Cornel West,-0.0189,0.0196,0.0385
 2024-11-06 01:50:47.402450,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - AP calls Michigan by 5:00 AM Nov 6?,No,-0.018900000000000028,0.4255,0.4444
 2024-11-05 18:33:47.497153,Electoral College Winner - Florida (FL) - Florida - Popular Vote Winning Margin,Trump by less than 8% or Harris,-0.018900000000000028,0.4255,0.4444
 2024-11-05 17:28:25.271625,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,-0.018999999999999906,0.7143,0.7333
+2024-11-05 22:29:44.846248,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,-0.019000000000000017,0.2667,0.2857
+2024-11-05 22:29:44.849886,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.019000000000000017,0.2667,0.2857
 2024-11-06 02:52:44.912825,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.019000000000000017,0.2667,0.2857
 2024-11-06 02:52:43.792601,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),-0.019000000000000017,0.2667,0.2857
 2024-11-06 02:52:44.916701,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.019000000000000017,0.2667,0.2857
-2024-11-05 22:29:44.849886,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.019000000000000017,0.2667,0.2857
-2024-11-05 22:29:44.846248,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Republican Party,-0.019000000000000017,0.2667,0.2857
 2024-11-06 03:30:14.517315,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.0194,0.2105,0.2299
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Girona,-0.020000000000000004,0.0123,0.0323
 2024-11-05 17:28:25.131422,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,-0.020100000000000007,0.2299,0.25
@@ -356,57 +370,58 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Tyrese Maxey (PHI),-0.0203,0.0385,0.0588
 2024-11-06 01:50:47.717319,NFL Specials - NFL Next Coach To Permanently Leave Position - Proposition,Kevin Stefanski,-0.02049999999999999,0.1333,0.1538
 2024-11-05 17:28:26.392519,Tournament Match-Ups - Tournament Match-Up - J. Smith vs T. Detry - Tournament Match-Up ,Thomas Detry,-0.020699999999999996,0.4444,0.4651
-2024-11-05 17:28:26.423555,Tournament Match-Ups - Tournament Match-Up - T. McKibbin vs A. Meronk - Tournament Match-Up ,Adrian Meronk,-0.02079999999999993,0.5348,0.5556
 2024-11-05 16:33:41.453967,Tournament Match-Ups - Tournament Match-Up - M. Woo Lee vs R. MacIntyre - Tournament Match-Up ,Robert MacIntyre,-0.02079999999999993,0.5348,0.5556
+2024-11-05 17:28:26.423555,Tournament Match-Ups - Tournament Match-Up - T. McKibbin vs A. Meronk - Tournament Match-Up ,Adrian Meronk,-0.02079999999999993,0.5348,0.5556
 2024-11-05 17:28:25.279431,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.021699999999999997,0.4545,0.4762
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayern Munich,-0.021699999999999997,0.4545,0.4762
 2024-11-05 22:29:44.999242,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 3 to 3.99%,-0.021799999999999986,0.16,0.1818
 2024-11-06 01:50:46.207455,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Premier League,Arsenal,-0.022199999999999998,0.2,0.2222
-2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Arsenal,-0.022199999999999998,0.7778,0.8
 2024-11-06 01:50:47.432263,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Harris by 0 to 0.99%,-0.022199999999999998,0.2,0.2222
+2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Arsenal,-0.022199999999999998,0.7778,0.8
 2024-11-05 22:29:45.018239,Electoral College Winner - North Carolina (NC) - North Carolina,Republican,-0.022499999999999964,0.7143,0.7368
 2024-11-05 16:33:41.441480,Tournament Match-Ups - Tournament Match-Up - J. Campillo vs J. Guerrier - Tournament Match-Up ,Julien Guerrier,-0.022600000000000064,0.5122,0.5348
 2024-11-05 22:29:45.026182,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Republican,-0.022600000000000064,0.6,0.6226
 2024-11-05 16:33:41.449831,Tournament Match-Ups - Tournament Match-Up - J. Smith vs T. Detry - Tournament Match-Up ,Thomas Detry,-0.022699999999999998,0.4651,0.4878
-2024-11-05 19:20:48.301016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,-0.02310000000000001,0.125,0.1481
-2024-11-06 02:52:43.934586,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.02310000000000001,0.0769,0.1
 2024-11-05 21:24:25.979827,Electoral College Winner - Texas (TX) - Texas,Democrat,-0.02310000000000001,0.0769,0.1
+2024-11-05 19:20:48.301016,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,-0.02310000000000001,0.125,0.1481
 2024-11-06 03:30:14.517315,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,-0.02310000000000001,0.0769,0.1
+2024-11-06 02:52:43.934586,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.02310000000000001,0.0769,0.1
 2024-11-05 18:33:47.442401,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.023699999999999943,0.5917,0.6154
 2024-11-05 23:26:03.279674,US Senate Elections 2024 - Senate Election Winner - Florida - Winner,Democrat,-0.0237,0.1053,0.129
 2024-11-06 01:50:47.550324,Electoral College Winner - New Hampshire (NH) - New Hampshire,Democrat,-0.023799999999999932,0.8333,0.8571
-2024-11-05 20:27:41.825037,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Alexandre Sarr (WAS),-0.023799999999999988,0.1429,0.1667
 2024-11-06 03:30:15.523421,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,REP Presidency; REP Senate; DEM House,-0.023799999999999988,0.1429,0.1667
-2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Anfernee Simons (POR),-0.023899999999999998,0.0196,0.0435
+2024-11-05 20:27:41.825037,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Alexandre Sarr (WAS),-0.023799999999999988,0.1429,0.1667
 2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Aaron Gordon (DEN),-0.023899999999999998,0.0196,0.0435
+2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Anfernee Simons (POR),-0.023899999999999998,0.0196,0.0435
 2024-11-05 21:24:25.576894,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Florida,-0.024,0.0385,0.0625
 2024-11-05 18:33:47.406760,Electoral College Winner - Georgia (GA) - Georgia,Republican,-0.02400000000000002,0.7059,0.7299
-2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Tyrese Haliburton (IND),-0.0242,0.0667,0.0909
+2024-11-06 04:31:33.902388,Electoral College Winner - Washington (WA) - Washington,Republican,-0.0242,0.0667,0.0909
 2024-11-05 19:20:48.308628,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Gradey Dick (TOR),-0.0242,0.0667,0.0909
+2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Tyrese Haliburton (IND),-0.0242,0.0667,0.0909
 2024-11-05 16:33:41.458106,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs T. Olesen - Tournament Match-Up ,Nicolai Hojgaard,-0.024399999999999977,0.4878,0.5122
 2024-11-05 22:29:44.917544,2024 Election Core - US Presidential Election 2024 - Swing States - How many swing states will Trump win?,7,-0.024800000000000016,0.2105,0.2353
 2024-11-05 23:26:02.901102,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,RFK Jr.,-0.024800000000000016,0.2105,0.2353
 2024-11-06 01:50:47.506502,Electoral College Winner - Iowa (IA) - Iowa,Democrat,-0.0252,0.16,0.1852
 2024-11-05 21:24:25.822971,Electoral College Winner - Iowa (IA) - Iowa,Democrat,-0.02529999999999999,0.1852,0.2105
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Inter Milan,-0.025599999999999956,0.5744,0.6
-2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Club Brugge,-0.02560000000000001,0.3077,0.3333
-2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,FC Barcelona,-0.02560000000000001,0.3077,0.3333
 2024-11-06 02:52:43.934586,Championship - England Championship 2024/25 - To Be Promoted,Burnley,-0.02560000000000001,0.3077,0.3333
+2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,FC Barcelona,-0.02560000000000001,0.3077,0.3333
+2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Club Brugge,-0.02560000000000001,0.3077,0.3333
 2024-11-06 01:50:46.333479,Championship - England Championship 2024/25 - Winner,Sunderland,-0.026100000000000012,0.1739,0.2
 2024-11-06 01:50:47.597631,Electoral College Winner - Texas (TX) - Texas - Popular Vote Winning Margin,Trump by less that 10% or Harris,-0.026800000000000046,0.6875,0.7143
 2024-11-05 21:24:25.645020,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will there be a Record turnout in 2024 Presidential election?,"No (Under 158,594,895 Votes)",-0.02729999999999999,0.3175,0.3448
 2024-11-05 22:29:44.946938,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Which 3rd party candidate get the most votes,Chase Oliver,-0.02779999999999999,0.2222,0.25
-2024-11-05 20:27:42.134031,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Trump by 1 to 1.99%,-0.027999999999999997,0.1538,0.1818
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Lille,-0.027999999999999997,0.1538,0.1818
 2024-11-06 03:30:14.517315,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.027999999999999997,0.1538,0.1818
-2024-11-05 21:24:25.576894,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,New Hampshire,-0.029299999999999993,0.0476,0.0769
+2024-11-05 20:27:42.134031,Electoral College Winner - Nevada (NV) - Nevada - Popular Vote Winning Margin,Trump by 1 to 1.99%,-0.027999999999999997,0.1538,0.1818
 2024-11-05 21:24:25.576894,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Minnesota,-0.029299999999999993,0.0476,0.0769
+2024-11-05 21:24:25.576894,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,New Hampshire,-0.029299999999999993,0.0476,0.0769
 2024-11-06 01:50:46.212990,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Manchester City,-0.029600000000000015,0.3704,0.4
 2024-11-05 20:27:41.990088,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.029899999999999927,0.7778,0.8077
 2024-11-05 20:27:41.993608,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.029899999999999927,0.7778,0.8077
 2024-11-05 20:27:41.817967,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Giannis Antetokounmpo (MIL),-0.030199999999999998,0.0323,0.0625
-2024-11-05 17:28:25.259327,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.030299999999999994,0.6667,0.697
 2024-11-06 01:50:47.459390,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.030299999999999994,0.4348,0.4651
+2024-11-05 17:28:25.259327,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.030299999999999994,0.6667,0.697
 2024-11-06 01:50:47.521694,Electoral College Winner - Louisiana (LA) - Louisiana,Democrat,-0.030699999999999998,0.0526,0.0833
 2024-11-06 02:52:43.934586,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,-0.031399999999999983,0.2353,0.2667
 2024-11-06 01:50:47.424563,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 0 to 0.99%,-0.031799999999999995,0.1111,0.1429
@@ -414,8 +429,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 21:24:25.559216,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,-0.033299999999999996,0.3922,0.4255
 2024-11-05 20:27:41.817967,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jaylen Brown (BOS),-0.03330000000000001,0.0667,0.1
 2024-11-06 03:30:14.517315,Championship - England Championship 2024/25 - To Be Relegated,Sheffield Wednesday,-0.03330000000000001,0.0667,0.1
-2024-11-06 01:50:47.717319,NFL Specials - NFL Next Coach To Permanently Leave Position - Proposition,Mike McCarthy,-0.033300000000000024,0.1667,0.2
 2024-11-06 01:50:47.622756,US Senate Elections 2024 - Senate Control Following 2024 Elections - Senate Control Following Elections,Democrat,-0.033300000000000024,0.1667,0.2
+2024-11-06 01:50:47.717319,NFL Specials - NFL Next Coach To Permanently Leave Position - Proposition,Mike McCarthy,-0.033300000000000024,0.1667,0.2
 2024-11-06 01:50:46.199387,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Young Boys,-0.034100000000000005,0.0909,0.125
 2024-11-05 21:24:25.576894,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Arizona,-0.03420000000000001,0.0769,0.1111
 2024-11-06 03:30:14.510843,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,-0.0344,0.0244,0.0588
@@ -424,10 +439,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 18:33:46.742508,East Group B - East Group B Winner - East Group B Winner,Miami Heat,-0.03710000000000002,0.3333,0.3704
 2024-11-05 21:24:25.354797,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Anthony Edwards (MIN),-0.038299999999999994,0.0526,0.0909
 2024-11-05 21:24:25.576894,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Texas,-0.0384,0.0385,0.0769
-2024-11-06 01:50:46.196949,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,-0.04040000000000002,0.1818,0.2222
 2024-11-06 01:50:46.199387,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Sturm Graz,-0.04040000000000002,0.1818,0.2222
+2024-11-06 01:50:46.196949,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,-0.04040000000000002,0.1818,0.2222
 2024-11-05 21:24:25.576894,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Georgia,-0.04240000000000001,0.0909,0.1333
 2024-11-05 22:29:45.293271,Electoral College Winner - Vermont (VT) - Vermont,Republican,-0.042600000000000006,0.0526,0.0952
+2024-11-06 04:31:33.827118,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.042800000000000005,0.1053,0.1481
+2024-11-06 04:31:33.823193,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.042800000000000005,0.1053,0.1481
 2024-11-06 01:50:47.432263,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Harris by 4% or more,-0.0429,0.0196,0.0625
 2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Bayer Leverkusen,-0.043899999999999995,0.0149,0.0588
 2024-11-06 03:30:14.517315,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,-0.04409999999999992,0.6226,0.6667
@@ -436,8 +453,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 22:29:44.214647,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2030 or later,-0.044399999999999995,0.4,0.4444
 2024-11-06 01:50:46.199387,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,FC Salzburg,-0.044499999999999984,0.2222,0.2667
 2024-11-06 01:50:46.199387,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Crvena Zvezda,-0.04620000000000002,0.1538,0.2
-2024-11-05 16:33:39.634448,West Group A - West Group A Winner - West Group A Winner,Minnesota Timberwolves,-0.04630000000000001,0.3704,0.4167
 2024-11-05 23:26:02.814528,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Republican Win - 0.01 to 5% margin,-0.04630000000000001,0.3704,0.4167
+2024-11-05 16:33:39.634448,West Group A - West Group A Winner - West Group A Winner,Minnesota Timberwolves,-0.04630000000000001,0.3704,0.4167
 2024-11-05 18:33:47.830460,US Senate Elections 2024 - Senate Election Winner - Texas - Winner,Democrat,-0.0469,0.2,0.2469
 2024-11-05 19:20:48.304709,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Chet Holmgren (OKC),-0.047599999999999976,0.2857,0.3333
 2024-11-05 22:29:45.030761,Electoral College Winner - Pennsylvania (PA) - Pennsylvania - Popular Vote Winning Margin,Trump by 2.5% or more,-0.047599999999999976,0.2857,0.3333
@@ -445,6 +462,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 02:52:45.043325,Electoral College Winner - Virginia (VA) - Virginia,Republican,-0.04849999999999999,0.1053,0.1538
 2024-11-06 01:50:47.412680,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - What day will the AP call the election?,"Tuesday, Nov 5",-0.04999999999999999,0.2,0.25
 2024-11-05 22:29:45.220083,Electoral College Winner - New Jersey (NJ) - New Jersey - Popular Vote Winning Margin,Harris by 10% Or More,-0.05020000000000002,0.7059,0.7561
+2024-11-06 04:31:33.860588,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.05360000000000001,0.125,0.1786
 2024-11-05 21:24:25.576894,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Any Other,-0.05379999999999999,0.1,0.1538
 2024-11-05 22:29:44.999242,Electoral College Winner - Georgia (GA) - Georgia - Popular Vote Winning Margin,Trump by 4% or more,-0.05449999999999999,0.4,0.4545
 2024-11-05 22:29:45.034866,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.05689999999999995,0.5348,0.5917
@@ -460,13 +478,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 23:26:02.904564,2024 Election Core - US Presidential Election 2024 - 3rd Party Specials - Will Jill Stein get 1% Or More of the popular vote,No,-0.06970000000000004,0.4651,0.5348
 2024-11-05 21:24:25.701774,Electoral College Winner - Arizona (AZ) - Arizona - Popular Vote Winning Margin,Trump by 4% or more,-0.0711,0.4167,0.4878
 2024-11-05 19:20:48.554125,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will Harris get more votes than Biden in 2020?,"No (Under 81,286,454 Votes)",-0.07119999999999993,0.5652,0.6364
+2024-11-06 04:31:33.864753,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.0741,0.1111,0.1852
 2024-11-06 01:50:46.210114,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Inter Milan,-0.07790000000000008,0.6364,0.7143
 2024-11-06 01:50:47.421150,Electoral College Winner - Arizona (AZ) - Arizona,Democrat,-0.07880000000000001,0.1538,0.2326
 2024-11-06 01:50:47.467028,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.08030000000000004,0.4545,0.5348
+2024-11-06 04:31:33.838908,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.0804,0.0625,0.1429
 2024-11-05 16:33:39.634448,West Group A - West Group A Winner - West Group A Winner,Sacramento Kings,-0.08329999999999999,0.25,0.3333
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Monaco,-0.08330000000000004,0.75,0.8333
 2024-11-06 01:50:47.444054,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.08779999999999999,0.4,0.4878
+2024-11-06 04:31:33.852284,Electoral College Winner - Nevada (NV) - Nevada,Democrat,-0.08880000000000002,0.1852,0.274
 2024-11-06 03:30:14.517315,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.09230000000000005,0.3077,0.4
+2024-11-06 04:31:33.848101,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.0952,0.1429,0.2381
 2024-11-05 23:26:02.827371,2024 Election Core - US Presidential Election 2024 - Election Specials - Closest state in the Presidential election?,Nevada,-0.0952,0.1905,0.2857
 2024-11-05 22:29:44.214647,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2025 or before,-0.0953,0.0476,0.1429
 2024-11-05 23:26:02.893507,2024 Election Core - US Presidential Election 2024 - Voter Turnout - Will Trump get more votes than he did in 2020?,"No (Under  74,225,926 Votes)",-0.09620000000000001,0.1538,0.25
@@ -491,8 +513,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-05 17:28:25.267080,Electoral College Winner - Nevada (NV) - Nevada,Republican,-0.11429999999999996,0.5348,0.6491
 2024-11-06 03:30:15.503608,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.11859999999999998,0.1481,0.2667
 2024-11-06 03:30:15.507526,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.11859999999999998,0.1481,0.2667
+2024-11-06 04:31:33.885659,Electoral College Winner - Minnesota (MN) - Minnesota,Democrat,-0.12090000000000001,0.8077,0.9286
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Borussia Dortmund,-0.12259999999999999,0.3774,0.5
 2024-11-05 18:33:47.371990,2024 Election Core - US Presidential Election 2024 - Associated Press Specials - AP calls Georgia by 5:00 AM Nov 6?,No,-0.12449999999999997,0.2326,0.3571
+2024-11-06 04:31:33.838908,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,-0.12930000000000003,0.1176,0.2469
 2024-11-06 01:50:47.319910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.13979999999999998,0.2857,0.4255
 2024-11-06 01:50:47.323802,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic Party,-0.13979999999999998,0.2857,0.4255
 2024-11-06 03:30:15.545045,Electoral College Winner - Pennsylvania (PA) - Pennsylvania,Democrat,-0.144,0.1786,0.3226
@@ -502,19 +526,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-06 03:30:15.549165,Electoral College Winner - Wisconsin (WI) - Wisconsin,Democrat,-0.1657,0.1852,0.3509
 2024-11-06 01:50:46.202174,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Bayer Leverkusen,-0.1691,0.1818,0.3509
 2024-11-06 03:30:15.532575,Electoral College Winner - Michigan (MI) - Michigan,Democrat,-0.1701,0.2381,0.4082
-2024-11-06 03:30:15.511428,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.1744,0.4,0.5744
 2024-11-06 03:30:15.515021,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.1744,0.4,0.5744
+2024-11-06 03:30:15.511428,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.1744,0.4,0.5744
 2024-11-06 03:30:15.523421,2024 Election Core - US Presidential Election 2024 - Balance Of Power: Presidency/Senate/House - Balance of Power,DEM Presidency; REP Senate; DEM House,-0.1746,0.1111,0.2857
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayer Leverkusen,-0.17819999999999997,0.3774,0.5556
 2024-11-05 23:26:03.486608,US Governor Elections 2024 - Governor Election Winners - New Hampshire Governor ,Democrat,-0.186,0.2222,0.4082
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,AC Milan,-0.19709999999999994,0.6491,0.8462
 2024-11-06 01:50:46.216420,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Manchester City,-0.1974,0.0526,0.25
+2024-11-06 04:31:33.834654,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,-0.2,0.2,0.4
+2024-11-06 04:31:33.831030,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Party Of Popular Vote Winner,Democratic Party,-0.2,0.2,0.4
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Manchester City,-0.20830000000000004,0.6667,0.875
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Girona,-0.21820000000000003,0.1818,0.4
 2024-11-06 01:50:47.428837,Electoral College Winner - Georgia (GA) - Georgia,Democrat,-0.22069999999999998,0.1429,0.3636
 2024-11-06 03:30:15.519203,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,-0.2409,0.2469,0.4878
 2024-11-06 01:50:46.207455,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Premier League,Manchester City,-0.28650000000000003,0.0909,0.3774
-2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sporting CP,-0.2955,0.4545,0.75
 2024-11-06 01:50:46.204847,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - La Liga,Real Madrid,-0.2955,0.25,0.5455
+2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sporting CP,-0.2955,0.4545,0.75
 2024-11-06 01:50:46.222503,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,RB Leipzig,-0.3116,0.1429,0.4545
 2024-11-06 01:50:46.225602,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Real Madrid,-0.4167,0.3333,0.75
