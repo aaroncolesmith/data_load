@@ -44,29 +44,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Aaron Rodgers (NYJ),0.028399999999999995,0.0909,0.0625
 2024-11-07 09:27:02.837761,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.02779999999999999,0.25,0.2222
 2024-11-07 08:31:17.513739,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kevin Durant (PHX),0.0267,0.1176,0.0909
+2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.02560000000000001,0.3333,0.3077
 2024-11-07 17:26:51.865428,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,0.02560000000000001,0.3333,0.3077
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.02560000000000001,0.3333,0.3077
-2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.02560000000000001,0.3333,0.3077
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,Millwall,0.0242,0.0909,0.0667
 2024-11-07 17:26:52.399310,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,0.024,0.0625,0.0385
-2024-11-07 09:27:03.541516,WWT Championship - 2/3 Balls - 1st Round 3 Balls - B. Hossler / D. Wu / R. Shelton - 1st Round 3 Balls,Beau Hossler,0.023800000000000043,0.5238,0.5
 2024-11-07 18:33:25.887175,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 44.5,0.023800000000000043,0.5238,0.5
+2024-11-07 09:27:03.541516,WWT Championship - 2/3 Balls - 1st Round 3 Balls - B. Hossler / D. Wu / R. Shelton - 1st Round 3 Balls,Beau Hossler,0.023800000000000043,0.5238,0.5
 2024-11-07 09:27:03.533626,WWT Championship - 2/3 Balls - 1st Round 3 Balls - L. List / M. Kuchar / R. Brehm - 1st Round 3 Balls,Matt Kuchar,0.023800000000000043,0.5238,0.5
 2024-11-07 17:26:52.827848,Round Match-Ups - 2nd Round Match-Up - J. Rose v E. Ferguson - 2nd Round Match-Up ,Ewen Ferguson,0.023799999999999988,0.5,0.4762
 2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.023799999999999988,0.1667,0.1429
 2024-11-07 17:26:51.903896,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,Yes,0.023600000000000065,0.8857,0.8621
-2024-11-07 09:27:02.332584,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Wolfsburg,0.02310000000000001,0.1,0.0769
 2024-11-07 09:27:02.174886,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Besiktas,0.02310000000000001,0.1,0.0769
+2024-11-07 09:27:02.332584,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Wolfsburg,0.02310000000000001,0.1,0.0769
 2024-11-07 18:33:25.862253,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 44.5,0.022600000000000064,0.5348,0.5122
 2024-11-07 18:33:25.872256,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 38.5,0.022600000000000064,0.5348,0.5122
 2024-11-07 09:27:02.318295,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,0.022199999999999998,0.8,0.7778
 2024-11-07 08:31:17.839309,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Kevin Gonzalez,0.02200000000000002,0.7143,0.6923
+2024-11-07 13:29:41.321642,Tournament Match-Ups - Tournament Match-Up - B. Hossler vs M. McNealy - Tournament Match-Up,Beau Hossler,0.02169999999999994,0.5455,0.5238
 2024-11-07 16:32:53.973686,Match-Ups - Tournament Match-Up - P. Fishburn v P. Rodgers - Requests,Patrick Rodgers,0.02169999999999994,0.5455,0.5238
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.02169999999999994,0.5455,0.5238
-2024-11-07 13:29:41.321642,Tournament Match-Ups - Tournament Match-Up - B. Hossler vs M. McNealy - Tournament Match-Up,Beau Hossler,0.02169999999999994,0.5455,0.5238
 2024-11-07 09:27:02.315163,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,0.02100000000000002,0.3846,0.3636
 2024-11-07 10:31:29.028927,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),0.0208,0.0833,0.0625
 2024-11-07 09:27:02.318295,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,0.02020000000000001,0.1111,0.0909
+2024-11-07 20:27:03.821825,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Pedro Campa,0.019000000000000017,0.2857,0.2667
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.018900000000000028,0.4444,0.4255
 2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Nataliya Guseva,0.0189,0.0385,0.0196
 2024-11-07 15:27:30.598935,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Christian Braun (DEN),0.0189,0.0385,0.0196
@@ -74,8 +75,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 17:26:52.399310,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,0.018599999999999978,0.1667,0.1481
 2024-11-07 10:31:28.406117,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,River Plate,0.018200000000000004,0.0476,0.0294
 2024-11-07 09:27:02.318295,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,0.018099999999999998,0.0769,0.0588
-2024-11-07 09:27:02.270577,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Fluminense,0.0179,0.1429,0.125
 2024-11-07 18:33:26.209727,National League - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,0.0179,0.1429,0.125
+2024-11-07 09:27:02.270577,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Fluminense,0.0179,0.1429,0.125
 2024-11-07 15:27:31.047359,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Leo Bercier,0.017300000000000093,0.7143,0.697
 2024-11-07 17:26:51.869793,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,Yes,0.016600000000000004,0.0833,0.0667
 2024-11-07 09:27:03.336330,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,John Mannu,0.01539999999999997,0.6875,0.6721
@@ -83,8 +84,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.01469999999999999,0.25,0.2353
 2024-11-07 14:27:30.521114,Abu Dhabi HSBC Championship - 2/3 Balls - 2nd Round 3 Balls - J. Svensson / A. Hidalgo / M. Wallace - 2nd Round 3 Balls,Angel Hidalgo,0.014600000000000002,0.2778,0.2632
 2024-11-07 18:33:26.214661,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Mets,0.013999999999999999,0.0909,0.0769
-2024-11-07 17:26:52.399310,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,0.013999999999999999,0.0909,0.0769
 2024-11-07 09:27:02.817540,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.013999999999999999,0.0909,0.0769
+2024-11-07 17:26:52.399310,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,0.013999999999999999,0.0909,0.0769
 2024-11-07 09:27:02.318295,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,0.013899999999999996,0.125,0.1111
 2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,0.013799999999999923,0.6364,0.6226
 2024-11-07 08:31:17.815801,Boxing Lines - Austin Deanda vs Deaundre Pettus - To Win the Bout,Deaundre Pettus,0.01369999999999999,0.241,0.2273
@@ -95,31 +96,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 09:27:02.822405,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.011900000000000022,0.7619,0.75
 2024-11-07 15:27:31.055330,Bare Knuckle Fighting Championship - Kai Stewart vs Jimmie Rivera - To Win the Bout,Jimmie Rivera,0.01150000000000001,0.3448,0.3333
 2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Savannah Grewal,0.0112,0.0152,0.004
+2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,You Min Hwang,0.011199999999999995,0.0588,0.0476
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,Luton Town,0.011199999999999995,0.0588,0.0476
 2024-11-07 09:27:02.302425,Championship - England Championship 2024/25 - Top Goalscorer,Thomas Cannon,0.011199999999999995,0.0588,0.0476
-2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,You Min Hwang,0.011199999999999995,0.0588,0.0476
 2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Bahcesehir Koleji,0.011099999999999999,0.1111,0.1
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,Stoke City,0.010700000000000001,0.0385,0.0278
 2024-11-07 18:33:25.917102,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 42.5,0.010699999999999932,0.5455,0.5348
 2024-11-07 17:26:52.407066,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Nate Wiggins (BAL),0.010600000000000002,0.0323,0.0217
+2024-11-07 20:27:03.813985,Boxing Lines - Keyshawn Davis vs Gustavo Daniel Lemos - To Win the Bout,Gustavo Daniel Lemos,0.010499999999999982,0.2105,0.2
 2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,0.0102,0.0769,0.0667
-2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Texas Rangers,0.0102,0.0769,0.0667
 2024-11-07 17:26:51.938854,To Make the Playoffs - New York Knicks 2024-25 - To Make the Playoffs,No,0.0102,0.0769,0.0667
+2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Texas Rangers,0.0102,0.0769,0.0667
 2024-11-07 18:33:25.912170,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 59.5,0.010099999999999998,0.5556,0.5455
 2024-11-07 09:27:02.817540,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,-0.010099999999999998,0.0952,0.1053
 2024-11-07 09:27:02.837761,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.010099999999999998,0.4444,0.4545
-2024-11-07 09:27:02.817540,Western Conference - Western Conference 2024-25 - Western Conference Winner,New Orleans Pelicans,-0.010100000000000001,0.0244,0.0345
 2024-11-07 09:27:02.315163,Championship - England Championship 2024/25 - Top 2 Finish,Coventry City,-0.010100000000000001,0.0244,0.0345
+2024-11-07 09:27:02.817540,Western Conference - Western Conference 2024-25 - Western Conference Winner,New Orleans Pelicans,-0.010100000000000001,0.0244,0.0345
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.0102,0.0667,0.0769
-2024-11-07 09:27:02.270577,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Corinthians,-0.0102,0.0667,0.0769
 2024-11-07 19:20:49.536230,Boxing Lines - Abdullah Mason vs Yohan Vasquez - To Win the Bout,Yohan Vasquez,-0.0102,0.0667,0.0769
+2024-11-07 09:27:02.270577,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Corinthians,-0.0102,0.0667,0.0769
 2024-11-07 09:27:03.533626,WWT Championship - 2/3 Balls - 1st Round 3 Balls - L. List / M. Kuchar / R. Brehm - 1st Round 3 Balls,Ryan Brehm,-0.010399999999999993,0.2222,0.2326
 2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.010499999999999982,0.2,0.2105
 2024-11-07 18:33:25.862253,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 44.5,-0.010699999999999932,0.5348,0.5455
 2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Ashleigh Buhai,-0.010700000000000001,0.0278,0.0385
 2024-11-07 09:27:02.817540,Western Conference - Western Conference 2024-25 - Western Conference Winner,Sacramento Kings,-0.010700000000000001,0.0278,0.0385
-2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.010899999999999993,0.1429,0.1538
 2024-11-07 09:27:02.817540,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.010899999999999993,0.1429,0.1538
+2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.010899999999999993,0.1429,0.1538
 2024-11-07 18:33:25.917102,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Over 42.5,-0.01100000000000001,0.5238,0.5348
 2024-11-07 14:27:30.521114,Abu Dhabi HSBC Championship - 2/3 Balls - 2nd Round 3 Balls - J. Svensson / A. Hidalgo / M. Wallace - 2nd Round 3 Balls,Matt Wallace,-0.011099999999999999,0.4651,0.4762
 2024-11-07 15:27:31.055330,Bare Knuckle Fighting Championship - Kai Stewart vs Jimmie Rivera - To Win the Bout,Kai Stewart,-0.011099999999999999,0.7222,0.7333
@@ -139,14 +141,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 15:27:31.039482,Bare Knuckle Fighting Championship - Carlos Trinidad vs Zach Juusola - To Win the Bout,Zach Juusola,-0.013800000000000034,0.3636,0.3774
 2024-11-07 08:31:17.509985,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.013899999999999996,0.1111,0.125
 2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Cleveland Guardians,-0.013999999999999999,0.0769,0.0909
-2024-11-07 09:27:02.276539,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,-0.013999999999999999,0.0769,0.0909
 2024-11-07 09:27:02.318295,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,-0.013999999999999999,0.0769,0.0909
+2024-11-07 09:27:02.276539,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,-0.013999999999999999,0.0769,0.0909
 2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Hyo Joo Kim,-0.014099999999999994,0.0526,0.0667
 2024-11-07 17:26:52.399310,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jonathan Gannon,-0.014099999999999994,0.0526,0.0667
 2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Millwall,-0.014099999999999998,0.0244,0.0385
-2024-11-07 09:27:02.318295,Championship - England Championship 2024/25 - Top 6 Finish,Leeds United,-0.014100000000000001,0.9615,0.9756
 2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Joventut Badalona,-0.014100000000000001,0.0385,0.0526
 2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.014100000000000001,0.0385,0.0526
+2024-11-07 09:27:02.318295,Championship - England Championship 2024/25 - Top 6 Finish,Leeds United,-0.014100000000000001,0.9615,0.9756
 2024-11-07 08:31:17.815801,Boxing Lines - Austin Deanda vs Deaundre Pettus - To Win the Bout,Austin Deanda,-0.014200000000000101,0.8261,0.8403
 2024-11-07 09:27:02.174886,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Malmö FF,-0.014599999999999998,0.005,0.0196
 2024-11-07 09:27:03.336330,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,Rikki Naito,-0.01479999999999998,0.3774,0.3922
@@ -159,8 +161,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 09:27:02.174886,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Lyon,-0.017299999999999982,0.5744,0.5917
 2024-11-07 09:27:02.174886,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Ajax,-0.01759999999999995,0.6491,0.6667
 2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Pauline Roussin Bouchard,-0.017599999999999998,0.002,0.0196
-2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Grace Kim,-0.0179,0.0099,0.0278
 2024-11-07 09:27:02.294383,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Deportivo Toluca,-0.0179,0.125,0.1429
+2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Grace Kim,-0.0179,0.0099,0.0278
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,-0.018200000000000004,0.0294,0.0476
 2024-11-07 09:27:02.273557,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,-0.01820000000000002,0.1818,0.2
 2024-11-07 09:27:02.812720,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.01899999999999999,0.2083,0.2273
@@ -173,9 +175,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 18:33:25.872256,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 38.5,-0.02079999999999993,0.5348,0.5556
 2024-11-07 17:26:52.407066,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Edgerrin Cooper (GB),-0.0208,0.0625,0.0833
 2024-11-07 18:33:25.817469,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,-0.02169999999999994,0.5238,0.5455
-2024-11-07 13:29:41.321642,Tournament Match-Ups - Tournament Match-Up - B. Hossler vs M. McNealy - Tournament Match-Up,Maverick McNealy,-0.02169999999999994,0.5238,0.5455
 2024-11-07 16:32:53.973686,Match-Ups - Tournament Match-Up - P. Fishburn v P. Rodgers - Requests,Patrick Fishburn,-0.02169999999999994,0.5238,0.5455
+2024-11-07 13:29:41.321642,Tournament Match-Ups - Tournament Match-Up - B. Hossler vs M. McNealy - Tournament Match-Up,Maverick McNealy,-0.02169999999999994,0.5238,0.5455
 2024-11-07 09:27:02.308957,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.022199999999999998,0.1111,0.1333
+2024-11-07 20:27:03.821825,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Alfredo Santiago Alvarez,-0.022199999999999998,0.7778,0.8
 2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Yu Jin Sung,-0.022400000000000003,0.0099,0.0323
 2024-11-07 17:26:51.865428,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,-0.022800000000000042,0.7333,0.7561
 2024-11-07 09:27:02.312059,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,-0.023200000000000002,0.0244,0.0476
@@ -187,14 +190,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 09:27:02.305861,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.0245,0.0588,0.0833
 2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Marina Alex,-0.0257,0.0066,0.0323
 2024-11-07 15:27:30.367209,East Group A - East Group A Winner - East Group A Winner,Orlando Magic,-0.026100000000000012,0.1739,0.2
-2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Nick Chubb (CLE),-0.0267,0.0909,0.1176
 2024-11-07 10:31:30.038602,LOTTE Championship - LOTTE Championship - Winner,Ayaka Furue,-0.0267,0.0909,0.1176
+2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Nick Chubb (CLE),-0.0267,0.0909,0.1176
 2024-11-07 12:48:05.812437,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.027700000000000002,0.4167,0.4444
-2024-11-07 09:27:02.315163,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,-0.027800000000000047,0.75,0.7778
 2024-11-07 09:27:02.273557,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,-0.027800000000000047,0.75,0.7778
+2024-11-07 09:27:02.315163,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,-0.027800000000000047,0.75,0.7778
 2024-11-07 17:26:52.407066,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tykee Smith (TB),-0.0282,0.0244,0.0526
-2024-11-07 10:31:29.028927,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),-0.028399999999999995,0.0625,0.0909
 2024-11-07 10:31:29.028927,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),-0.028399999999999995,0.0625,0.0909
+2024-11-07 10:31:29.028927,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),-0.028399999999999995,0.0625,0.0909
 2024-11-07 11:23:26.446890,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),-0.028399999999999995,0.0625,0.0909
 2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),-0.028799999999999992,0.125,0.1538
 2024-11-07 15:27:30.367209,East Group A - East Group A Winner - East Group A Winner,Philadelphia 76ers,-0.030299999999999994,0.3333,0.3636
@@ -217,8 +220,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 09:27:02.318295,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.04169999999999999,0.125,0.1667
 2024-11-07 17:26:52.407066,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Andru Phillips (NYG),-0.04229999999999999,0.0244,0.0667
 2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),-0.04240000000000001,0.0909,0.1333
-2024-11-07 18:33:25.842350,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 50.5,-0.043399999999999994,0.5122,0.5556
 2024-11-07 18:33:25.907220,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,-0.043399999999999994,0.5122,0.5556
+2024-11-07 18:33:25.842350,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 50.5,-0.043399999999999994,0.5122,0.5556
 2024-11-07 17:26:51.916670,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,Yes,-0.044399999999999995,0.5556,0.6
 2024-11-07 16:32:53.723972,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Pedro Campa,-0.04580000000000001,0.2667,0.3125
 2024-11-07 09:27:02.276539,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.052399999999999995,0.0385,0.0909
