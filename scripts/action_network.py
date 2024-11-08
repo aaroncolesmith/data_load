@@ -11,7 +11,9 @@ from bs4 import BeautifulSoup
 import ast
 import re
 from io import StringIO
-
+import numpy as np
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 
 def req_to_df(r):
   try:
@@ -478,7 +480,225 @@ teams_df.drop_duplicates().to_csv('./data/teams_db.csv',index=False)
 
 
 
+### adding in the trank data
+def update_trank(df_cbb):
+  
+  df_cbb['start_time_pt'] = pd.to_datetime(df_cbb['start_time']).dt.tz_convert('US/Pacific')
+  df_cbb['date'] = df_cbb['start_time_pt'].dt.date
+  start_date = datetime.now().date() - timedelta(31)
+  end_date = datetime.now().date() + timedelta(14)
+  ## read parquet file for trank_db
+  df = pd.read_parquet('./data/trank_db.parquet')
 
+
+  date_added = datetime.now()
+  for date in pd.date_range(start_date, end_date):
+    url_date=pd.to_datetime(date).strftime('%Y%m%d')
+    url=f'https://barttorvik.com/schedule.php?date={url_date}&conlimit='
+    r=requests.get(url)
+    trank=pd.read_html(r.content)[0]
+    if trank.index.size > 0:
+      trank.columns = [x.lower().replace('(','').replace(')','').replace(' ','_').replace('-','_') for x in trank.columns]
+      for x in trank.columns:
+        if 'unnamed' in x:
+          del trank[x]
+      trank['date'] = pd.to_datetime(date)
+
+      replacements = ['\d+', 'BIG12|ESPN+','Peacock', 'ESPNU', 'ESPN', 'FS', 'ACCN', 'BIG|', 'CBSSN',
+                      'ACC Network', 'FloSports',
+                      'PAC','truTV','CBS','BE-T','Ivy-T','NCAA-T','FOX','WCC-T','Amer-T U','CAA-T','MWC-T','NEC-T','TBS','CUSA-T','BW-T','SECN',
+                      'SEC-T','P-T','MAC-T','B-T','BTN','MAAC-T','ACC-T']
+      for replacement in replacements:
+          trank['matchup'] = trank['matchup'].str.replace(replacement, '', regex=True)
+      trank['matchup'] = trank['matchup'].str.replace(r'\s\+\s*$', '', regex=True)
+      trank['matchup'] = trank['matchup'].str.replace('Illinois Chicago', 'UIC', regex=True)
+      trank['matchup'] = trank['matchup'].str.replace('Gardner Webb', 'Gardner-Webb', regex=True)
+      trank['trank_spread']='-'+trank.t_rank_line.str.split('-',expand=True)[1].str.split(',',expand=True)[0]
+
+      trank['date_added'] = date_added
+
+      df = pd.concat([df, trank])
+
+  replacements = ['\d+', 'BIG12|ESPN+','Peacock', 'ESPNU', 'ESPN', 'FS', 'ACCN', 'BIG|', 'CBSSN',
+                  'ACC Network', 'FloSports',
+                  'PAC','truTV','CBS','BE-T','Ivy-T','NCAA-T','FOX','WCC-T','Amer-T U','CAA-T','MWC-T','NEC-T','TBS','CUSA-T','BW-T','SECN',
+                  'SEC-T','P-T','MAC-T','B-T','BTN','MAAC-T','ACC-T']
+  for replacement in replacements:
+      df['matchup'] = df['matchup'].str.replace(replacement, '', regex=True)
+
+
+  df['matchup'] = df['matchup'].str.strip()
+  df['matchup'] = df['matchup'].str.replace('  ',' ')
+
+  df = df.sort_values(['date','matchup','date_added']).reset_index(drop=True)
+
+  df['ttq'] = df['ttq'].astype('str')
+
+  df.loc[df['matchup'] != df['matchup'].shift(-1), 'keep_record'] = 1
+  df.loc[df['matchup'] != df['matchup'].shift(1), 'keep_record'] = 1
+  df.loc[df['ttq'] != df['ttq'].shift(-1), 'keep_record'] = 1  
+
+  df = df.loc[df.keep_record == 1]
+
+  df['ttq'] = df['ttq'].astype(str)
+  table = pa.Table.from_pandas(df)
+  pq.write_table(table, './data/trank_db.parquet',compression='BROTLI')
+
+  return df
+
+
+def update_merged_data(df_cbb, df_trank):
+  ## load odds data
+  ## update pass in df_cbb
+  df_cbb = df_cbb.merge(df_cbb.groupby(['id']).agg(updated_start_time=('start_time','last')).reset_index(), on='id', how='left')
+  del df_cbb['start_time']
+
+  df_cbb=df_cbb.rename(columns={'updated_start_time':'start_time'})
+  df_cbb.columns = [x.lower() for x in df_cbb.columns]
+  df_cbb.columns = [x.replace('.','_') for x in df_cbb.columns]
+  df_cbb=df_cbb.sort_values(['start_time','date_scraped'],ascending=[True,True]).reset_index(drop=True)
+
+  df_cbb = normalize_bet_team_names(df_cbb, 'home_team')
+  df_cbb = normalize_bet_team_names(df_cbb, 'away_team')
+
+  df_cbb['matchup'] = df_cbb['away_team'] + ' at ' + df_cbb['home_team']
+  df_cbb['start_time_pt'] = pd.to_datetime(df_cbb['start_time']).dt.tz_convert('US/Pacific')
+  df_cbb['start_time_et'] = pd.to_datetime(df_cbb['start_time']).dt.tz_convert('US/Eastern')
+  df_cbb['date'] = df_cbb['start_time_pt'].dt.date
+
+  df=df_cbb.groupby(['id','date','start_time_et','matchup','home_team_id','home_team','away_team_id','away_team']).agg(
+                                                                                        status=('status','last'),
+                                                                                        spread_away=('spread_away','last'),
+                                                                                        spread_home=('spread_home','last'),
+                                                                                        spread_away_min=('spread_away','min'),
+                                                                                        spread_away_max=('spread_away','max'),
+                                                                                        spread_away_std=('spread_away','std'),
+                                                                                        spread_home_min=('spread_home','min'),
+                                                                                        spread_home_max=('spread_home','max'),
+                                                                                        spread_home_std=('spread_home','std'),
+                                                                                        score_away=('boxscore_total_away_points','last'),
+                                                                                        score_home=('boxscore_total_home_points','last'),
+                                                                                        attendance=('attendance','max'),
+                                                                                        spread_home_public=('spread_home_public','max'),
+                                                                                        spread_away_public=('spread_away_public','max'),
+                                                                                        num_bets=('num_bets','max'),
+                                                                                        rec_count=('inserted','size')
+                                                                                        ).reset_index()
+  df['spread_away_result'] = df['score_away'] - df['score_home']
+  df['spread_home_result'] = df['score_home'] - df['score_away']
+  df.loc[(df.spread_home_result+df.spread_home)>0,'bet_result'] = 'home_wins'
+  df.loc[(df.spread_home_result+df.spread_home)<0,'bet_result'] = 'away_wins'
+  df.loc[(df.spread_home_result+df.spread_home)==0,'bet_result'] = 'push'
+
+  ## load trank data
+
+  df2=pd.merge(df_trank,
+              df_trank.groupby(['matchup', 'date']).agg(date_added=('date_added','max')).reset_index(),
+          left_on=['matchup', 'date','date_added'], right_on=['matchup', 'date','date_added'], how='inner',suffixes=('','_del'))
+  for x in df2.columns:
+    if 'del' in x:
+      del df2[x]
+
+  ## max date = yesterday
+  max_date = datetime.now().date() - timedelta(1)
+  df['date']=pd.to_datetime(df['date'])
+  df2['date']=pd.to_datetime(df2['date'])
+
+  ## filter odds data for greater than max date
+  df=df.loc[pd.to_datetime(df.date)>=pd.to_datetime(max_date)]
+
+  ## filter trank data for greater than max date
+  df2=df2.loc[pd.to_datetime(df2.date)>=pd.to_datetime(max_date)]
+  ## merge data
+
+
+
+  # Load the pre-trained Sentence Transformer model
+  model = SentenceTransformer("multi-qa-MiniLM-L6-cos-v1")
+
+  df['date']=pd.to_datetime(df['date'])
+  df2['date']=pd.to_datetime(df2['date'])
+
+  df3=pd.read_parquet('./data/trank_db_merged.parquet')
+  df3=df3.loc[pd.to_datetime(df3.date)<pd.to_datetime(max_date)]
+  for date in df.date.unique():
+    # Filter the dataframes by date
+    df_filtered = df[pd.to_datetime(df['date']) == pd.to_datetime(date)]
+    df2_filtered = df2[df2['date'] == date]
+
+    # Get the matchup columns from both dataframes
+    df_matchups = df_filtered['matchup'].dropna().tolist()  # Drop any NaN values
+    df2_matchups = df2_filtered['matchup'].dropna().tolist()
+
+    # Ensure the matchup lists are not empty
+    if len(df_matchups) == 0 or len(df2_matchups) == 0:
+        raise ValueError("One of the matchup lists is empty. Check the input dataframes.")
+
+    # Encode the matchups into sentence embeddings
+    df_embeddings = model.encode(df_matchups)
+    df2_embeddings = model.encode(df2_matchups)
+
+    # Check if the embeddings are 2D arrays
+    if df_embeddings.ndim == 1:
+        df_embeddings = df_embeddings.reshape(1, -1)
+    if df2_embeddings.ndim == 1:
+        df2_embeddings = df2_embeddings.reshape(1, -1)
+
+    # Calculate the cosine similarity between the matchups
+    similarity_matrix = cosine_similarity(df_embeddings, df2_embeddings)
+
+    # Get the best match from df2 for each matchup in df based on cosine similarity
+    best_match_idx = np.argmax(similarity_matrix, axis=1)
+    best_matches = [df2_matchups[i] for i in best_match_idx]
+    similarity_scores = [similarity_matrix[i, best_match_idx[i]] for i in range(len(df_matchups))]
+
+    # Add best matches and similarity scores to df
+    df_filtered['best_match'] = best_matches
+    df_filtered['similarity_score'] = similarity_scores
+
+    # Merge the two dataframes based on best match and date
+    df_merged = pd.merge(df_filtered, df2_filtered, how='left', left_on=['best_match', 'date'], right_on=['matchup', 'date'], suffixes=('', '_df2'))
+
+    # Filter based on similarity score threshold (e.g., 0.8 or 80%)
+    similarity_threshold = 0.15
+    df_merged_filtered = df_merged[df_merged['similarity_score'] >= similarity_threshold]
+
+    df3=pd.concat([df3,df_merged_filtered])
+
+
+  df3['favorite_spread_bovada']=df3[['spread_away','spread_home']].min(axis=1)
+  df3['favorite_spread_bovada'] = pd.to_numeric(df3['favorite_spread_bovada'])
+  df3['trank_spread'] = pd.to_numeric(df3['trank_spread'])
+  df3['spread_diff'] = abs(df3['favorite_spread_bovada'] - df3['trank_spread'])
+
+  df3['spread_diff']=pd.to_numeric(df3['spread_diff'])
+  df3['ttq']=pd.to_numeric(df3['ttq'])
+  df3['similarity_score']=pd.to_numeric(df3['similarity_score'])
+
+  # If bovada line > trank like, bet favorite; otherwise bet the dog
+  df3.loc[df3.favorite_spread_bovada > df3.trank_spread, 'bet_advice'] = 'bet_favorite'
+  df3.loc[df3.favorite_spread_bovada < df3.trank_spread, 'bet_advice'] = 'bet_dog'
+
+  df3.loc[(df3.spread_away<0)&(df3.bet_result=='away_wins'), 'fav_result'] = 'fav_wins'
+  df3.loc[(df3.spread_home<0)&(df3.bet_result=='home_wins'), 'fav_result'] = 'fav_wins'
+
+  df3.loc[(df3.spread_away>0)&(df3.bet_result=='away_wins'), 'fav_result'] = 'dog_wins'
+  df3.loc[(df3.spread_home>0)&(df3.bet_result=='home_wins'), 'fav_result'] = 'dog_wins'
+
+  df3.loc[(df3.bet_advice=='bet_favorite')&(df3.fav_result=='fav_wins'), 'bet_advice_result'] = 'win'
+  df3.loc[(df3.bet_advice=='bet_dog')&(df3.fav_result=='dog_wins'), 'bet_advice_result'] = 'win'
+
+  df3.loc[(df3.bet_advice=='bet_favorite')&(df3.fav_result=='dog_wins'), 'bet_advice_result'] = 'loss'
+  df3.loc[(df3.bet_advice=='bet_dog')&(df3.fav_result=='fav_wins'), 'bet_advice_result'] = 'loss'
+
+
+  table = pa.Table.from_pandas(df3)
+  pq.write_table(table, './data/trank_db_merged.parquet',compression='BROTLI')
+
+
+if datetime.now().hour in (4,10,15):
+  df_trank = update_trank(df_cbb)
+  update_merged_data(df_cbb, df_trank)
 
 
 ### FBREF SECTION
