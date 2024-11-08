@@ -1,8 +1,16 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Stewart Cink,0.2098,0.3636,0.1538
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Nataliya Guseva,0.10439999999999999,0.1429,0.0385
 2024-11-08 06:34:40.941084,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.09530000000000005,0.7727,0.6774
 2024-11-08 07:24:43.518384,AFC South - AFC South 2024/25 - AFC South Winner,Houston Texans,0.08979999999999999,0.9565,0.8667
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Ruixin Liu,0.0871,0.1538,0.0667
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Nasa Hataoka,0.0754,0.0833,0.0079
+2024-11-08 08:31:26.928897,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.07140000000000002,0.8333,0.7619
+2024-11-08 08:31:27.514396,MLB Specials - MLB Specials 2025 - Juan Soto Next Team If Not NY Yankees,New York Mets,0.06659999999999999,0.3333,0.2667
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,A Lim Kim,0.0655,0.1905,0.125
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Yuri Yoshida,0.0637,0.0833,0.0196
 2024-11-08 07:24:43.051826,West Group C - West Group C Winner - West Group C Winner,New Orleans Pelicans,0.0588,0.1176,0.0588
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Ryann O'Toole,0.056799999999999996,0.0667,0.0099
 2024-11-08 05:29:43.123425,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Chelsea,0.05559999999999998,0.5556,0.5
 2024-11-08 07:24:43.507868,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.053099999999999925,0.7674,0.7143
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,K J Choi,0.048799999999999996,0.0833,0.0345
@@ -10,100 +18,145 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-08 07:24:43.031802,East Group B - East Group B Winner - East Group B Winner,Toronto Raptors,0.04359999999999999,0.0769,0.0333
 2024-11-07 21:24:35.343530,Bare Knuckle Fighting Championship - Cory Willis vs Brady Meister - To Win the Bout,Brady Meister,0.043200000000000016,0.6923,0.6491
 2024-11-08 07:24:43.041856,West Group A - West Group A Winner - West Group A Winner,L.A. Clippers,0.04040000000000002,0.2222,0.1818
+2024-11-08 08:31:27.171051,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Johnson (ATL),0.036199999999999996,0.1538,0.1176
 2024-11-08 07:24:43.031802,East Group B - East Group B Winner - East Group B Winner,Detroit Pistons,0.0334,0.0769,0.0435
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Paul Broadhurst,0.033,0.0526,0.0196
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Alex Cejka,0.03219999999999999,0.0667,0.0345
+2024-11-08 08:31:26.952555,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,0.030399999999999983,0.5652,0.5348
 2024-11-08 05:29:44.347968,BKFC: Stewart vs Rivera - Cory Willis vs Brady Meister - To Win the Bout,Brady Meister,0.029899999999999927,0.7222,0.6923
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Auston Kim,0.029500000000000002,0.0345,0.005
+2024-11-08 08:31:27.847118,Round Match-Ups - 2nd Round Match-Ups - D. Ghim vs P. Fishburn - 2nd Round Match-Ups,Doug Ghim,0.028900000000000037,0.5744,0.5455
+2024-11-08 08:31:26.899955,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.027999999999999997,0.1818,0.1538
+2024-11-08 08:31:26.952555,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.02779999999999999,0.25,0.2222
 2024-11-07 21:24:35.220164,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,John Mannu,0.026800000000000046,0.7143,0.6875
 2024-11-07 22:29:10.517195,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Leo Bercier,0.025999999999999912,0.7403,0.7143
 2024-11-07 22:29:10.371925,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,John Mannu,0.025999999999999912,0.7403,0.7143
+2024-11-08 08:31:26.911645,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.023799999999999988,0.5,0.4762
 2024-11-07 21:24:35.224102,Boxing Lines - Austin Deanda vs Deaundre Pettus - To Win the Bout,Deaundre Pettus,0.022199999999999998,0.2632,0.241
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,0.021999999999999964,0.3077,0.2857
+2024-11-08 08:31:26.943038,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.020799999999999985,0.3333,0.3125
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Manchester United,0.02049999999999999,0.1538,0.1333
 2024-11-08 07:24:43.036815,East Group C - East Group C Winner - East Group C Winner,Chicago Bulls,0.019899999999999994,0.0556,0.0357
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Joe Durant,0.0194,0.0244,0.005
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Angel Yin,0.019099999999999992,0.0667,0.0476
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Stephen Ames,0.019099999999999992,0.0667,0.0476
-2024-11-07 20:27:03.821825,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Pedro Campa,0.019000000000000017,0.2857,0.2667
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Rod Pampling,0.0189,0.0385,0.0196
+2024-11-08 08:31:26.896614,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,0.01880000000000004,0.5744,0.5556
 2024-11-07 22:29:10.521337,Bare Knuckle Fighting Championship - Robert Armas vs Louie Lopez - To Win the Bout,Robert Armas,0.01880000000000004,0.5744,0.5556
+2024-11-08 08:31:26.933580,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.018199999999999994,0.8182,0.8
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Galatasaray,0.018099999999999998,0.0769,0.0588
 2024-11-08 06:34:40.911858,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Baltimore Ravens,0.0179,0.1429,0.125
 2024-11-08 07:24:43.060856,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Shai Gilgeous-Alexander (OKC),0.01759999999999999,0.1176,0.1
 2024-11-07 23:24:54.030231,WNBL - Australia WNBL 2024/25 - Outright,Geelong Supercats (W),0.016700000000000007,0.1,0.0833
-2024-11-08 07:24:43.057083,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Phoenix Suns,0.016600000000000004,0.0833,0.0667
 2024-11-08 07:24:43.026855,East Group A - East Group A Winner - East Group A Winner,Orlando Magic,0.016600000000000004,0.1905,0.1739
+2024-11-08 07:24:43.057083,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Phoenix Suns,0.016600000000000004,0.0833,0.0667
+2024-11-08 08:31:26.915290,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Southeast,0.015899999999999997,0.1111,0.0952
 2024-11-08 05:29:44.383677,BKFC: Stewart vs Rivera - Leo Bercier vs Drew Nolan - To Win the Bout,Leo Bercier,0.015899999999999914,0.7937,0.7778
+2024-11-08 08:31:26.920357,Western Conference - Western Conference 2024-25 - Western Conference Winner,Phoenix Suns,0.015700000000000006,0.1333,0.1176
+2024-11-08 08:31:27.178471,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Edwards (MIN),0.015700000000000006,0.1333,0.1176
 2024-11-07 22:29:10.367932,Boxing Lines - Dzmitry Asanau vs Matias Carlos Adrian Rueda - To Win the Bout,Dzmitry Asanau,0.014900000000000024,0.9804,0.9655
 2024-11-08 07:24:43.026855,East Group A - East Group A Winner - East Group A Winner,Brooklyn Nets,0.014899999999999997,0.0625,0.0476
+2024-11-08 08:31:26.923923,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Pacific,0.014500000000000013,0.3175,0.303
+2024-11-08 08:31:26.892986,NBA Championship - NBA Championship 2024-25 - NBA Champion,Dallas Mavericks,0.01440000000000001,0.1053,0.0909
 2024-11-08 07:24:43.026855,East Group A - East Group A Winner - East Group A Winner,Charlotte Hornets,0.01440000000000001,0.1053,0.0909
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Real Sociedad,0.013999999999999999,0.0909,0.0769
 2024-11-07 23:24:54.030231,WNBL - Australia WNBL 2024/25 - Outright,Townsville Fire (W),0.013600000000000001,0.3077,0.2941
 2024-11-08 05:29:44.359751,BKFC: Stewart vs Rivera - Brandon Allen vs Timmy Mason - To Win the Bout,Timmy Mason,0.012699999999999989,0.3636,0.3509
 2024-11-08 07:24:43.502970,NFC East - NFC East 2024/25 - NFC East Winner,Washington Commanders,0.012199999999999989,0.5122,0.5
-2024-11-08 07:24:43.466974,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Kansas City Chiefs,0.011700000000000016,0.2222,0.2105
+2024-11-08 08:31:26.947751,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.012199999999999989,0.5,0.4878
 2024-11-08 07:24:43.046930,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,0.011700000000000016,0.2222,0.2105
+2024-11-08 07:24:43.466974,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Kansas City Chiefs,0.011700000000000016,0.2222,0.2105
 2024-11-08 07:24:43.026855,East Group A - East Group A Winner - East Group A Winner,New York Knicks,0.011600000000000055,0.5238,0.5122
 2024-11-08 06:34:41.227044,BKFC: Stewart vs Rivera - Robert Armas vs Louie Lopez - To Win the Bout,Robert Armas,0.0116,0.4878,0.4762
+2024-11-08 08:31:27.842342,WWT Championship - 2/3 Balls - 2nd Round 3-Balls - R. Campos / T. Crowe / I. Benitez - 2nd Round 3-Balls,Rafael Campos,0.01150000000000001,0.3448,0.3333
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Ajax,0.011199999999999995,0.0588,0.0476
 2024-11-07 21:24:35.247796,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Kevin Gonzalez,0.011099999999999999,0.7333,0.7222
+2024-11-08 08:31:26.947751,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.011099999999999999,0.1111,0.1
 2024-11-08 07:24:43.057083,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Philadelphia 76ers,0.010700000000000001,0.0385,0.0278
+2024-11-08 08:31:26.920357,Western Conference - Western Conference 2024-25 - Western Conference Winner,Sacramento Kings,0.010700000000000001,0.0385,0.0278
 2024-11-08 07:24:43.627420,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,Rikki Naito,0.010699999999999987,0.3333,0.3226
 2024-11-08 07:24:43.036815,East Group C - East Group C Winner - East Group C Winner,Cleveland Cavaliers,0.010599999999999998,0.4651,0.4545
-2024-11-07 20:27:03.813985,Boxing Lines - Keyshawn Davis vs Gustavo Daniel Lemos - To Win the Bout,Gustavo Daniel Lemos,0.010499999999999982,0.2105,0.2
+2024-11-08 08:31:26.892986,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.01050000000000001,0.1923,0.1818
 2024-11-07 21:24:35.339612,Bare Knuckle Fighting Championship - Aj Craig vs Elijah Jamerson - To Win the Bout,Aj Craig,0.010099999999999998,0.5556,0.5455
+2024-11-08 08:31:26.938315,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.010499999999999982,0.2,0.2105
 2024-11-08 06:34:41.088315,Boxing Lines - Keyshawn Davis vs Gustavo Daniel Lemos - To Win the Bout,Gustavo Daniel Lemos,-0.010499999999999982,0.2,0.2105
-2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Richard Green,-0.010700000000000001,0.0278,0.0385
+2024-11-08 08:31:26.923923,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Northwest,-0.010699999999999932,0.5348,0.5455
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Miguel Angel Jimenez,-0.010700000000000001,0.0278,0.0385
+2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Richard Green,-0.010700000000000001,0.0278,0.0385
 2024-11-08 05:29:44.355828,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.011099999999999999,0.4651,0.4762
+2024-11-08 08:31:26.892986,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.011099999999999999,0.1,0.1111
+2024-11-08 08:31:26.892986,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.011199999999999995,0.0476,0.0588
 2024-11-08 07:24:43.057083,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Denver Nuggets,-0.011199999999999995,0.0476,0.0588
 2024-11-07 21:24:35.247796,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,-0.01150000000000001,0.3333,0.3448
 2024-11-07 21:24:35.339612,Bare Knuckle Fighting Championship - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.011600000000000055,0.5122,0.5238
+2024-11-08 08:31:26.906587,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.011699999999999933,0.7778,0.7895
 2024-11-08 05:29:44.383677,BKFC: Stewart vs Rivera - Leo Bercier vs Drew Nolan - To Win the Bout,Drew Nolan,-0.011699999999999988,0.274,0.2857
 2024-11-08 07:24:43.041856,West Group A - West Group A Winner - West Group A Winner,Sacramento Kings,-0.011899999999999994,0.2381,0.25
+2024-11-08 08:31:27.842342,WWT Championship - 2/3 Balls - 2nd Round 3-Balls - R. Campos / T. Crowe / I. Benitez - 2nd Round 3-Balls,Trace Crowe,-0.012199999999999989,0.5,0.5122
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Ken Duke,-0.012499999999999999,0.0071,0.0196
 2024-11-08 07:24:43.502970,NFC East - NFC East 2024/25 - NFC East Winner,Dallas Cowboys,-0.012700000000000003,0.0196,0.0323
 2024-11-08 01:51:41.097522,Boxing Lines - Ernesto Mercado vs Jesus Saracho - To Win the Bout,Jesus Saracho,-0.012899999999999995,0.1538,0.1667
 2024-11-08 05:29:43.123425,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Hearts,-0.013,0.0066,0.0196
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Jasmine Suwannapura,-0.013600000000000001,0.0028,0.0164
 2024-11-08 07:24:43.507868,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,-0.01440000000000001,0.0909,0.1053
 2024-11-08 06:34:40.911858,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,San Francisco 49ers,-0.01440000000000001,0.0909,0.1053
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,-0.014499999999999999,0.0149,0.0294
-2024-11-07 22:29:10.367932,Boxing Lines - Dzmitry Asanau vs Matias Carlos Adrian Rueda - To Win the Bout,Matias Carlos Adrian Rueda,-0.016600000000000004,0.0667,0.0833
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,-0.016600000000000004,0.0667,0.0833
+2024-11-07 22:29:10.367932,Boxing Lines - Dzmitry Asanau vs Matias Carlos Adrian Rueda - To Win the Bout,Matias Carlos Adrian Rueda,-0.016600000000000004,0.0667,0.0833
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Ashleigh Buhai,-0.0168,0.011,0.0278
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Doug Barron,-0.0171,0.0025,0.0196
 2024-11-08 06:34:41.227044,BKFC: Stewart vs Rivera - Robert Armas vs Louie Lopez - To Win the Bout,Louie Lopez,-0.017299999999999982,0.5744,0.5917
 2024-11-08 05:29:44.359751,BKFC: Stewart vs Rivera - Brandon Allen vs Timmy Mason - To Win the Bout,Brandon Allen (SF),-0.017300000000000093,0.697,0.7143
+2024-11-08 08:31:26.911645,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.01780000000000001,0.1905,0.2083
+2024-11-08 08:31:26.906587,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),-0.01830000000000001,0.0769,0.0952
 2024-11-08 07:24:43.057083,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Milwaukee Bucks,-0.018800000000000004,0.0526,0.0714
 2024-11-08 07:24:43.046930,West Group B - West Group B Winner - West Group B Winner,Utah Jazz,-0.0189,0.0196,0.0385
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,-0.0203,0.0385,0.0588
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Polly Mack,-0.0203,0.0323,0.0526
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Hye Jin Choi,-0.021900000000000003,0.0025,0.0244
 2024-11-08 07:24:43.057083,In-Season Tournament Cup - Emirates NBA Cup 2024  -  NBA In-Season Tournament Winner,Boston Celtics,-0.022199999999999998,0.2,0.2222
-2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,-0.022199999999999998,0.2,0.2222
 2024-11-07 21:24:35.224102,Boxing Lines - Austin Deanda vs Deaundre Pettus - To Win the Bout,Austin Deanda,-0.022199999999999998,0.8039,0.8261
-2024-11-07 20:27:03.821825,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Alfredo Santiago Alvarez,-0.022199999999999998,0.7778,0.8
+2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,-0.022199999999999998,0.2,0.2222
+2024-11-08 08:31:27.167136,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),-0.02239999999999999,0.0952,0.1176
 2024-11-08 07:24:43.041856,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,-0.02250000000000002,0.2632,0.2857
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Thomas Bjorn,-0.022799999999999997,0.005,0.0278
 2024-11-08 07:24:43.046930,West Group B - West Group B Winner - West Group B Winner,San Antonio Spurs,-0.02310000000000001,0.0769,0.1
 2024-11-08 07:24:43.051826,West Group C - West Group C Winner - West Group C Winner,Memphis Grizzlies,-0.023799999999999988,0.1429,0.1667
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,AS Roma,-0.0242,0.0667,0.0909
+2024-11-08 08:31:26.896614,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,-0.024399999999999977,0.4878,0.5122
 2024-11-07 22:29:10.521337,Bare Knuckle Fighting Championship - Robert Armas vs Louie Lopez - To Win the Bout,Louie Lopez,-0.024399999999999977,0.4878,0.5122
 2024-11-08 07:24:43.051826,West Group C - West Group C Winner - West Group C Winner,Dallas Mavericks,-0.024599999999999955,0.339,0.3636
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Vijay Singh,-0.024600000000000004,0.0099,0.0345
+2024-11-08 08:31:26.915290,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Atlantic,-0.024799999999999933,0.7647,0.7895
 2024-11-08 07:24:43.041856,West Group A - West Group A Winner - West Group A Winner,Minnesota Timberwolves,-0.02560000000000001,0.3448,0.3704
 2024-11-08 05:29:44.347968,BKFC: Stewart vs Rivera - Cory Willis vs Brady Meister - To Win the Bout,Cory Willis,-0.02560000000000001,0.3448,0.3704
 2024-11-07 21:24:35.220164,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,Rikki Naito,-0.026500000000000024,0.3509,0.3774
 2024-11-08 07:24:43.031802,East Group B - East Group B Winner - East Group B Winner,Milwaukee Bucks,-0.026600000000000013,0.4082,0.4348
+2024-11-08 08:31:26.933580,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.027999999999999997,0.1053,0.1333
 2024-11-07 22:29:10.371925,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,Rikki Naito,-0.028299999999999992,0.3226,0.3509
 2024-11-07 22:29:10.517195,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Drew Nolan,-0.028299999999999992,0.3226,0.3509
+2024-11-08 08:31:26.952555,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,-0.02850000000000001,0.0667,0.0952
 2024-11-08 07:24:43.031802,East Group B - East Group B Winner - East Group B Winner,Indiana Pacers,-0.029899999999999982,0.2778,0.3077
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Y E Yang,-0.030500000000000003,0.004,0.0345
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Ricardo Gonzalez,-0.0314,0.0071,0.0385
+2024-11-08 08:31:26.952555,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,-0.031700000000000006,0.1905,0.2222
+2024-11-08 08:31:26.899955,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,-0.03210000000000002,0.3846,0.4167
+2024-11-08 08:31:26.947751,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.033299999999999996,0.4545,0.4878
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Brooke Henderson,-0.0335,0.0141,0.0476
 2024-11-08 07:24:43.518384,AFC South - AFC South 2024/25 - AFC South Winner,Indianapolis Colts,-0.0343,0.0833,0.1176
+2024-11-08 08:31:27.847118,Round Match-Ups - 2nd Round Match-Ups - D. Ghim vs P. Fishburn - 2nd Round Match-Ups,Patrick Fishburn,-0.03489999999999999,0.4651,0.5
+2024-11-08 08:31:26.943038,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.036599999999999994,0.1739,0.2105
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Perrine Delacour,-0.0392,0.0196,0.0588
 2024-11-07 21:24:35.367240,Bare Knuckle Fighting Championship - Robert Armas vs Louie Lopez - To Win the Bout,Robert Armas,-0.044399999999999995,0.5556,0.6
 2024-11-07 21:24:35.343530,Bare Knuckle Fighting Championship - Cory Willis vs Brady Meister - To Win the Bout,Cory Willis,-0.04630000000000001,0.3704,0.4167
+2024-11-08 08:31:26.928897,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.04999999999999999,0.2,0.25
 2024-11-08 07:24:43.051826,West Group C - West Group C Winner - West Group C Winner,Golden State Warriors,-0.05129999999999996,0.2564,0.3077
 2024-11-07 23:24:54.030231,WNBL - Australia WNBL 2024/25 - Outright,Southside Flyers (W),-0.05550000000000002,0.1667,0.2222
 2024-11-08 07:24:43.031802,East Group B - East Group B Winner - East Group B Winner,Miami Heat,-0.063,0.2703,0.3333
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Bianca Pagdanganan,-0.0639,0.0028,0.0667
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Steven Alker,-0.0666,0.0667,0.1333
 2024-11-08 07:24:43.036815,East Group C - East Group C Winner - East Group C Winner,Boston Celtics,-0.07110000000000005,0.5122,0.5833
+2024-11-08 08:31:27.954209,LOTTE Championship - LOTTE Championship - Winner,Ayaka Furue,-0.07569999999999999,0.0152,0.0909
 2024-11-08 06:34:40.941084,AFC North - AFC North 2024/25 - AFC North Winner,Cincinnati Bengals,-0.08330000000000001,0.0278,0.1111
 2024-11-08 07:24:44.034472,Charles Schwab Cup - Charles Schwab Cup - Winner,Padraig Harrington,-0.1,0.1,0.2
 2024-11-08 07:24:43.026855,East Group A - East Group A Winner - East Group A Winner,Philadelphia 76ers,-0.11109999999999998,0.2222,0.3333
