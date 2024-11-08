@@ -4,3 +4,4 @@ requests
 pyarrow==14.0.1
 lxml==4.9.3
 beautifulsoup4
+sentence-transformers
