@@ -9,7 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 18:33:25.882190,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 45.5,0.06929999999999997,0.5455,0.4762
 2024-11-07 16:32:54.026588,Round Match-Ups - 2nd Round Match-Up - R. McIlroy v T. Hatton - 2nd Round Match-Up,Tyrrell Hatton,0.06779999999999997,0.5122,0.4444
 2024-11-07 17:26:51.933942,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,No,0.06699999999999995,0.7222,0.6552
-2024-11-07 12:48:05.812437,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.0625,0.3125,0.25
 2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Joe Burrow (CIN),0.05710000000000001,0.2,0.1429
 2024-11-07 16:32:53.723972,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Alfredo Santiago Alvarez,0.050000000000000044,0.8,0.75
 2024-11-07 17:26:51.916670,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,No,0.047099999999999975,0.5122,0.4651
@@ -21,32 +20,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 17:26:51.943362,To Make the Playoffs - Orlando Magic 2024-25 - To Make the Playoffs,Yes,0.038899999999999935,0.8571,0.8182
 2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Jameis Winston (CLE),0.0384,0.0769,0.0385
 2024-11-07 17:26:51.952089,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,No,0.03739999999999999,0.9231,0.8857
-2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.03710000000000002,0.3704,0.3333
 2024-11-07 18:33:25.636157,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Unicaja Málaga,0.03710000000000002,0.3704,0.3333
+2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.03710000000000002,0.3704,0.3333
 2024-11-07 18:33:25.852333,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 26.5,0.03480000000000005,0.5348,0.5
-2024-11-07 18:33:25.877212,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 45.5,0.033299999999999996,0.5455,0.5122
 2024-11-07 18:33:25.817469,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 59.5,0.033299999999999996,0.5455,0.5122
+2024-11-07 18:33:25.877212,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 45.5,0.033299999999999996,0.5455,0.5122
 2024-11-07 15:27:30.367209,East Group A - East Group A Winner - East Group A Winner,Brooklyn Nets,0.031200000000000002,0.0476,0.0164
 2024-11-07 18:33:25.941824,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 28.5,0.028900000000000037,0.5744,0.5455
 2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Aaron Rodgers (NYJ),0.028399999999999995,0.0909,0.0625
 2024-11-07 21:24:35.220164,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,John Mannu,0.026800000000000046,0.7143,0.6875
-2024-11-07 22:29:10.371925,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,John Mannu,0.025999999999999912,0.7403,0.7143
 2024-11-07 22:29:10.517195,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Leo Bercier,0.025999999999999912,0.7403,0.7143
+2024-11-07 22:29:10.371925,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,John Mannu,0.025999999999999912,0.7403,0.7143
 2024-11-07 17:26:51.865428,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,0.02560000000000001,0.3333,0.3077
 2024-11-07 17:26:52.399310,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,0.024,0.0625,0.0385
 2024-11-07 18:33:25.887175,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 44.5,0.023800000000000043,0.5238,0.5
 2024-11-07 17:26:52.827848,Round Match-Ups - 2nd Round Match-Up - J. Rose v E. Ferguson - 2nd Round Match-Up ,Ewen Ferguson,0.023799999999999988,0.5,0.4762
 2024-11-07 17:26:51.903896,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,Yes,0.023600000000000065,0.8857,0.8621
-2024-11-07 18:33:25.872256,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 38.5,0.022600000000000064,0.5348,0.5122
 2024-11-07 18:33:25.862253,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 44.5,0.022600000000000064,0.5348,0.5122
+2024-11-07 18:33:25.872256,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 38.5,0.022600000000000064,0.5348,0.5122
 2024-11-07 21:24:35.224102,Boxing Lines - Austin Deanda vs Deaundre Pettus - To Win the Bout,Deaundre Pettus,0.022199999999999998,0.2632,0.241
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,0.021999999999999964,0.3077,0.2857
 2024-11-07 16:32:53.973686,Match-Ups - Tournament Match-Up - P. Fishburn v P. Rodgers - Requests,Patrick Rodgers,0.02169999999999994,0.5455,0.5238
-2024-11-07 13:29:41.321642,Tournament Match-Ups - Tournament Match-Up - B. Hossler vs M. McNealy - Tournament Match-Up,Beau Hossler,0.02169999999999994,0.5455,0.5238
 2024-11-07 20:27:03.821825,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Pedro Campa,0.019000000000000017,0.2857,0.2667
 2024-11-07 15:27:30.598935,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Christian Braun (DEN),0.0189,0.0385,0.0196
-2024-11-07 18:33:25.837397,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 53.5,0.01880000000000004,0.5744,0.5556
 2024-11-07 22:29:10.521337,Bare Knuckle Fighting Championship - Robert Armas vs Louie Lopez - To Win the Bout,Robert Armas,0.01880000000000004,0.5744,0.5556
+2024-11-07 18:33:25.837397,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 53.5,0.01880000000000004,0.5744,0.5556
 2024-11-07 17:26:52.399310,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,0.018599999999999978,0.1667,0.1481
 2024-11-07 18:33:26.209727,National League - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,0.0179,0.1429,0.125
 2024-11-07 15:27:31.047359,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Leo Bercier,0.017300000000000093,0.7143,0.697
@@ -58,14 +56,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 18:33:26.214661,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Mets,0.013999999999999999,0.0909,0.0769
 2024-11-07 23:24:54.030231,WNBL - Australia WNBL 2024/25 - Outright,Townsville Fire (W),0.013600000000000001,0.3077,0.2941
 2024-11-07 15:27:31.055330,Bare Knuckle Fighting Championship - Kai Stewart vs Jimmie Rivera - To Win the Bout,Jimmie Rivera,0.01150000000000001,0.3448,0.3333
-2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Bahcesehir Koleji,0.011099999999999999,0.1111,0.1
 2024-11-07 21:24:35.247796,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Kevin Gonzalez,0.011099999999999999,0.7333,0.7222
+2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Bahcesehir Koleji,0.011099999999999999,0.1111,0.1
 2024-11-07 18:33:25.917102,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 42.5,0.010699999999999932,0.5455,0.5348
 2024-11-07 17:26:52.407066,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Nate Wiggins (BAL),0.010600000000000002,0.0323,0.0217
 2024-11-07 20:27:03.813985,Boxing Lines - Keyshawn Davis vs Gustavo Daniel Lemos - To Win the Bout,Gustavo Daniel Lemos,0.010499999999999982,0.2105,0.2
+2024-11-07 17:26:51.938854,To Make the Playoffs - New York Knicks 2024-25 - To Make the Playoffs,No,0.0102,0.0769,0.0667
 2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,0.0102,0.0769,0.0667
 2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Texas Rangers,0.0102,0.0769,0.0667
-2024-11-07 17:26:51.938854,To Make the Playoffs - New York Knicks 2024-25 - To Make the Playoffs,No,0.0102,0.0769,0.0667
 2024-11-07 18:33:25.912170,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 59.5,0.010099999999999998,0.5556,0.5455
 2024-11-07 21:24:35.339612,Bare Knuckle Fighting Championship - Aj Craig vs Elijah Jamerson - To Win the Bout,Aj Craig,0.010099999999999998,0.5556,0.5455
 2024-11-07 19:20:49.536230,Boxing Lines - Abdullah Mason vs Yohan Vasquez - To Win the Bout,Yohan Vasquez,-0.0102,0.0667,0.0769
@@ -75,29 +73,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 15:27:31.055330,Bare Knuckle Fighting Championship - Kai Stewart vs Jimmie Rivera - To Win the Bout,Kai Stewart,-0.011099999999999999,0.7222,0.7333
 2024-11-07 17:26:52.407066,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Evan Williams (GB),-0.011199999999999995,0.0476,0.0588
 2024-11-07 21:24:35.247796,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,-0.01150000000000001,0.3333,0.3448
-2024-11-07 21:24:35.339612,Bare Knuckle Fighting Championship - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.011600000000000055,0.5122,0.5238
 2024-11-07 18:33:25.912170,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 59.5,-0.011600000000000055,0.5122,0.5238
+2024-11-07 21:24:35.339612,Bare Knuckle Fighting Championship - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.011600000000000055,0.5122,0.5238
 2024-11-07 15:27:31.047359,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Drew Nolan,-0.012699999999999989,0.3509,0.3636
-2024-11-07 12:48:05.812437,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.012899999999999995,0.1538,0.1667
+2024-11-08 01:51:41.097522,Boxing Lines - Ernesto Mercado vs Jesus Saracho - To Win the Bout,Jesus Saracho,-0.012899999999999995,0.1538,0.1667
 2024-11-07 15:27:31.039482,Bare Knuckle Fighting Championship - Carlos Trinidad vs Zach Juusola - To Win the Bout,Zach Juusola,-0.013800000000000034,0.3636,0.3774
 2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Cleveland Guardians,-0.013999999999999999,0.0769,0.0909
 2024-11-07 17:26:52.399310,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jonathan Gannon,-0.014099999999999994,0.0526,0.0667
 2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Joventut Badalona,-0.014100000000000001,0.0385,0.0526
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,-0.014499999999999999,0.0149,0.0294
 2024-11-07 17:26:52.407066,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Byron Murphy (SEA),-0.014899999999999997,0.0476,0.0625
-2024-11-07 22:29:10.367932,Boxing Lines - Dzmitry Asanau vs Matias Carlos Adrian Rueda - To Win the Bout,Matias Carlos Adrian Rueda,-0.016600000000000004,0.0667,0.0833
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,-0.016600000000000004,0.0667,0.0833
-2024-11-07 18:33:25.887175,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 44.5,-0.01970000000000005,0.5455,0.5652
+2024-11-07 22:29:10.367932,Boxing Lines - Dzmitry Asanau vs Matias Carlos Adrian Rueda - To Win the Bout,Matias Carlos Adrian Rueda,-0.016600000000000004,0.0667,0.0833
 2024-11-07 17:26:52.827848,Round Match-Ups - 2nd Round Match-Up - J. Rose v E. Ferguson - 2nd Round Match-Up ,Justin Rose,-0.01970000000000005,0.5455,0.5652
+2024-11-07 18:33:25.887175,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 44.5,-0.01970000000000005,0.5455,0.5652
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,-0.0203,0.0385,0.0588
 2024-11-07 17:26:52.399310,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McVay,-0.0203,0.0385,0.0588
 2024-11-07 18:33:25.872256,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 38.5,-0.02079999999999993,0.5348,0.5556
 2024-11-07 17:26:52.407066,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Edgerrin Cooper (GB),-0.0208,0.0625,0.0833
 2024-11-07 18:33:25.817469,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,-0.02169999999999994,0.5238,0.5455
-2024-11-07 13:29:41.321642,Tournament Match-Ups - Tournament Match-Up - B. Hossler vs M. McNealy - Tournament Match-Up,Maverick McNealy,-0.02169999999999994,0.5238,0.5455
 2024-11-07 16:32:53.973686,Match-Ups - Tournament Match-Up - P. Fishburn v P. Rodgers - Requests,Patrick Fishburn,-0.02169999999999994,0.5238,0.5455
-2024-11-07 20:27:03.821825,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Alfredo Santiago Alvarez,-0.022199999999999998,0.7778,0.8
 2024-11-07 21:24:35.224102,Boxing Lines - Austin Deanda vs Deaundre Pettus - To Win the Bout,Austin Deanda,-0.022199999999999998,0.8039,0.8261
+2024-11-07 20:27:03.821825,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Alfredo Santiago Alvarez,-0.022199999999999998,0.7778,0.8
 2024-11-07 17:26:51.865428,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,-0.022800000000000042,0.7333,0.7561
 2024-11-07 18:33:25.941824,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 28.5,-0.023800000000000043,0.5,0.5238
 2024-11-07 22:29:10.521337,Bare Knuckle Fighting Championship - Robert Armas vs Louie Lopez - To Win the Bout,Louie Lopez,-0.024399999999999977,0.4878,0.5122
@@ -105,10 +102,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-07 15:27:30.367209,East Group A - East Group A Winner - East Group A Winner,Orlando Magic,-0.026100000000000012,0.1739,0.2
 2024-11-07 21:24:35.220164,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,Rikki Naito,-0.026500000000000024,0.3509,0.3774
 2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Nick Chubb (CLE),-0.0267,0.0909,0.1176
-2024-11-07 12:48:05.812437,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.027700000000000002,0.4167,0.4444
 2024-11-07 17:26:52.407066,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tykee Smith (TB),-0.0282,0.0244,0.0526
-2024-11-07 22:29:10.517195,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Drew Nolan,-0.028299999999999992,0.3226,0.3509
 2024-11-07 22:29:10.371925,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,Rikki Naito,-0.028299999999999992,0.3226,0.3509
+2024-11-07 22:29:10.517195,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Drew Nolan,-0.028299999999999992,0.3226,0.3509
 2024-11-07 17:26:52.402913,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),-0.028799999999999992,0.125,0.1538
 2024-11-07 15:27:30.367209,East Group A - East Group A Winner - East Group A Winner,Philadelphia 76ers,-0.030299999999999994,0.3333,0.3636
 2024-11-07 18:33:25.852333,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 26.5,-0.030399999999999983,0.5348,0.5652
