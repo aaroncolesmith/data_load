@@ -1,88 +1,55 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-11-07 18:33:25.660267,Bundesliga - Germany Bundesliga 2024/25 - Outright,Bayern Munich,0.0857,0.8,0.7143
-2024-11-07 18:33:25.882190,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 45.5,0.06929999999999997,0.5455,0.4762
+2024-11-08 06:34:40.941084,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.09530000000000005,0.7727,0.6774
 2024-11-08 05:29:43.123425,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Chelsea,0.05559999999999998,0.5556,0.5
 2024-11-07 21:24:35.367240,Bare Knuckle Fighting Championship - Robert Armas vs Louie Lopez - To Win the Bout,Louie Lopez,0.047099999999999975,0.5122,0.4651
-2024-11-07 18:33:25.842350,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 50.5,0.043399999999999994,0.5556,0.5122
-2024-11-07 18:33:25.907220,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,0.043399999999999994,0.5556,0.5122
 2024-11-07 21:24:35.343530,Bare Knuckle Fighting Championship - Cory Willis vs Brady Meister - To Win the Bout,Brady Meister,0.043200000000000016,0.6923,0.6491
-2024-11-07 18:33:25.922012,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,0.03959999999999997,0.5744,0.5348
-2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.03710000000000002,0.3704,0.3333
-2024-11-07 18:33:25.636157,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Unicaja Málaga,0.03710000000000002,0.3704,0.3333
-2024-11-07 18:33:25.852333,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 26.5,0.03480000000000005,0.5348,0.5
-2024-11-07 18:33:25.877212,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 45.5,0.033299999999999996,0.5455,0.5122
-2024-11-07 18:33:25.817469,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 59.5,0.033299999999999996,0.5455,0.5122
 2024-11-08 05:29:44.347968,BKFC: Stewart vs Rivera - Cory Willis vs Brady Meister - To Win the Bout,Brady Meister,0.029899999999999927,0.7222,0.6923
-2024-11-07 18:33:25.941824,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 28.5,0.028900000000000037,0.5744,0.5455
 2024-11-07 21:24:35.220164,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,John Mannu,0.026800000000000046,0.7143,0.6875
 2024-11-07 22:29:10.371925,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,John Mannu,0.025999999999999912,0.7403,0.7143
 2024-11-07 22:29:10.517195,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Leo Bercier,0.025999999999999912,0.7403,0.7143
-2024-11-07 18:33:25.887175,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 44.5,0.023800000000000043,0.5238,0.5
-2024-11-07 18:33:25.862253,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 44.5,0.022600000000000064,0.5348,0.5122
-2024-11-07 18:33:25.872256,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 38.5,0.022600000000000064,0.5348,0.5122
 2024-11-07 21:24:35.224102,Boxing Lines - Austin Deanda vs Deaundre Pettus - To Win the Bout,Deaundre Pettus,0.022199999999999998,0.2632,0.241
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,0.021999999999999964,0.3077,0.2857
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Manchester United,0.02049999999999999,0.1538,0.1333
 2024-11-07 20:27:03.821825,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Pedro Campa,0.019000000000000017,0.2857,0.2667
 2024-11-07 22:29:10.521337,Bare Knuckle Fighting Championship - Robert Armas vs Louie Lopez - To Win the Bout,Robert Armas,0.01880000000000004,0.5744,0.5556
-2024-11-07 18:33:25.837397,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 53.5,0.01880000000000004,0.5744,0.5556
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Galatasaray,0.018099999999999998,0.0769,0.0588
-2024-11-07 18:33:26.209727,National League - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,0.0179,0.1429,0.125
+2024-11-08 06:34:40.911858,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Baltimore Ravens,0.0179,0.1429,0.125
 2024-11-07 23:24:54.030231,WNBL - Australia WNBL 2024/25 - Outright,Geelong Supercats (W),0.016700000000000007,0.1,0.0833
 2024-11-08 05:29:44.383677,BKFC: Stewart vs Rivera - Leo Bercier vs Drew Nolan - To Win the Bout,Leo Bercier,0.015899999999999914,0.7937,0.7778
 2024-11-07 22:29:10.367932,Boxing Lines - Dzmitry Asanau vs Matias Carlos Adrian Rueda - To Win the Bout,Dzmitry Asanau,0.014900000000000024,0.9804,0.9655
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Real Sociedad,0.013999999999999999,0.0909,0.0769
-2024-11-07 18:33:26.214661,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Mets,0.013999999999999999,0.0909,0.0769
 2024-11-07 23:24:54.030231,WNBL - Australia WNBL 2024/25 - Outright,Townsville Fire (W),0.013600000000000001,0.3077,0.2941
 2024-11-08 05:29:44.359751,BKFC: Stewart vs Rivera - Brandon Allen vs Timmy Mason - To Win the Bout,Timmy Mason,0.012699999999999989,0.3636,0.3509
+2024-11-08 06:34:41.227044,BKFC: Stewart vs Rivera - Robert Armas vs Louie Lopez - To Win the Bout,Robert Armas,0.0116,0.4878,0.4762
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Ajax,0.011199999999999995,0.0588,0.0476
-2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Bahcesehir Koleji,0.011099999999999999,0.1111,0.1
 2024-11-07 21:24:35.247796,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Kevin Gonzalez,0.011099999999999999,0.7333,0.7222
-2024-11-07 18:33:25.917102,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 42.5,0.010699999999999932,0.5455,0.5348
 2024-11-07 20:27:03.813985,Boxing Lines - Keyshawn Davis vs Gustavo Daniel Lemos - To Win the Bout,Gustavo Daniel Lemos,0.010499999999999982,0.2105,0.2
-2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,0.0102,0.0769,0.0667
-2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Texas Rangers,0.0102,0.0769,0.0667
 2024-11-07 21:24:35.339612,Bare Knuckle Fighting Championship - Aj Craig vs Elijah Jamerson - To Win the Bout,Aj Craig,0.010099999999999998,0.5556,0.5455
-2024-11-07 18:33:25.912170,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 59.5,0.010099999999999998,0.5556,0.5455
 2024-11-07 19:20:49.536230,Boxing Lines - Abdullah Mason vs Yohan Vasquez - To Win the Bout,Yohan Vasquez,-0.0102,0.0667,0.0769
-2024-11-07 18:33:25.862253,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 44.5,-0.010699999999999932,0.5348,0.5455
-2024-11-07 18:33:25.917102,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Over 42.5,-0.01100000000000001,0.5238,0.5348
+2024-11-08 06:34:41.088315,Boxing Lines - Keyshawn Davis vs Gustavo Daniel Lemos - To Win the Bout,Gustavo Daniel Lemos,-0.010499999999999982,0.2,0.2105
 2024-11-08 05:29:44.355828,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.011099999999999999,0.4651,0.4762
 2024-11-07 21:24:35.247796,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,-0.01150000000000001,0.3333,0.3448
 2024-11-07 21:24:35.339612,Bare Knuckle Fighting Championship - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.011600000000000055,0.5122,0.5238
-2024-11-07 18:33:25.912170,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 59.5,-0.011600000000000055,0.5122,0.5238
 2024-11-08 05:29:44.383677,BKFC: Stewart vs Rivera - Leo Bercier vs Drew Nolan - To Win the Bout,Drew Nolan,-0.011699999999999988,0.274,0.2857
 2024-11-08 01:51:41.097522,Boxing Lines - Ernesto Mercado vs Jesus Saracho - To Win the Bout,Jesus Saracho,-0.012899999999999995,0.1538,0.1667
 2024-11-08 05:29:43.123425,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Hearts,-0.013,0.0066,0.0196
-2024-11-07 18:33:26.204768,American League - MLB 2025 American League - MLB 2025 American League Winner,Cleveland Guardians,-0.013999999999999999,0.0769,0.0909
-2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Joventut Badalona,-0.014100000000000001,0.0385,0.0526
+2024-11-08 06:34:40.911858,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,San Francisco 49ers,-0.01440000000000001,0.0909,0.1053
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,-0.014499999999999999,0.0149,0.0294
 2024-11-07 22:29:10.367932,Boxing Lines - Dzmitry Asanau vs Matias Carlos Adrian Rueda - To Win the Bout,Matias Carlos Adrian Rueda,-0.016600000000000004,0.0667,0.0833
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,-0.016600000000000004,0.0667,0.0833
+2024-11-08 06:34:41.227044,BKFC: Stewart vs Rivera - Robert Armas vs Louie Lopez - To Win the Bout,Louie Lopez,-0.017299999999999982,0.5744,0.5917
 2024-11-08 05:29:44.359751,BKFC: Stewart vs Rivera - Brandon Allen vs Timmy Mason - To Win the Bout,Brandon Allen (SF),-0.017300000000000093,0.697,0.7143
-2024-11-07 18:33:25.887175,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 44.5,-0.01970000000000005,0.5455,0.5652
 2024-11-07 23:24:53.992467,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,-0.0203,0.0385,0.0588
-2024-11-07 18:33:25.872256,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 38.5,-0.02079999999999993,0.5348,0.5556
-2024-11-07 18:33:25.817469,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,-0.02169999999999994,0.5238,0.5455
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,-0.022199999999999998,0.2,0.2222
-2024-11-07 21:24:35.224102,Boxing Lines - Austin Deanda vs Deaundre Pettus - To Win the Bout,Austin Deanda,-0.022199999999999998,0.8039,0.8261
 2024-11-07 20:27:03.821825,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Alfredo Santiago Alvarez,-0.022199999999999998,0.7778,0.8
-2024-11-07 18:33:25.941824,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 28.5,-0.023800000000000043,0.5,0.5238
+2024-11-07 21:24:35.224102,Boxing Lines - Austin Deanda vs Deaundre Pettus - To Win the Bout,Austin Deanda,-0.022199999999999998,0.8039,0.8261
 2024-11-08 05:29:43.118557,UEFA Europa League - UEFA Europa League 2024/25 - Winner,AS Roma,-0.0242,0.0667,0.0909
 2024-11-07 22:29:10.521337,Bare Knuckle Fighting Championship - Robert Armas vs Louie Lopez - To Win the Bout,Louie Lopez,-0.024399999999999977,0.4878,0.5122
 2024-11-08 05:29:44.347968,BKFC: Stewart vs Rivera - Cory Willis vs Brady Meister - To Win the Bout,Cory Willis,-0.02560000000000001,0.3448,0.3704
 2024-11-07 21:24:35.220164,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,Rikki Naito,-0.026500000000000024,0.3509,0.3774
-2024-11-07 22:29:10.517195,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Drew Nolan,-0.028299999999999992,0.3226,0.3509
 2024-11-07 22:29:10.371925,Boxing Lines - Rikki Naito vs John Mannu - To Win the Bout,Rikki Naito,-0.028299999999999992,0.3226,0.3509
-2024-11-07 18:33:25.852333,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 26.5,-0.030399999999999983,0.5348,0.5652
-2024-11-07 18:33:25.877212,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 45.5,-0.03179999999999994,0.5238,0.5556
-2024-11-07 18:33:25.631229,Euro Cup - Euro Cup 2024/25 - Outright,Hapoel Tel Aviv,-0.033300000000000024,0.1667,0.2
-2024-11-07 18:33:25.636157,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Tenerife,-0.033300000000000024,0.1667,0.2
-2024-11-07 18:33:25.922012,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 50.5,-0.03480000000000005,0.5,0.5348
-2024-11-07 18:33:25.842350,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 50.5,-0.043399999999999994,0.5122,0.5556
-2024-11-07 18:33:25.907220,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,-0.043399999999999994,0.5122,0.5556
+2024-11-07 22:29:10.517195,Bare Knuckle Fighting Championship - Leo Bercier vs Drew Nolan - To Win the Bout,Drew Nolan,-0.028299999999999992,0.3226,0.3509
 2024-11-07 21:24:35.367240,Bare Knuckle Fighting Championship - Robert Armas vs Louie Lopez - To Win the Bout,Robert Armas,-0.044399999999999995,0.5556,0.6
 2024-11-07 21:24:35.343530,Bare Knuckle Fighting Championship - Cory Willis vs Brady Meister - To Win the Bout,Cory Willis,-0.04630000000000001,0.3704,0.4167
 2024-11-07 23:24:54.030231,WNBL - Australia WNBL 2024/25 - Outright,Southside Flyers (W),-0.05550000000000002,0.1667,0.2222
-2024-11-07 18:33:25.882190,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 45.5,-0.0595,0.5238,0.5833
-2024-11-07 18:33:25.660267,Bundesliga - Germany Bundesliga 2024/25 - Outright,Alba Berlin,-0.07500000000000001,0.125,0.2
+2024-11-08 06:34:40.941084,AFC North - AFC North 2024/25 - AFC North Winner,Cincinnati Bengals,-0.08330000000000001,0.0278,0.1111
