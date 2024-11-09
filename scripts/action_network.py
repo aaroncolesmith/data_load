@@ -737,10 +737,10 @@ def update_merged_data(df_cbb, df_trank):
   pq.write_table(table, './data/trank_db_merged.parquet',compression='BROTLI')
 
 print(datetime.now())
-
-if datetime.now().hour in (4,10,15):
-  df_trank = update_trank(df_cbb)
-  update_merged_data(df_cbb, df_trank)
+print('----trank time ------')
+# if datetime.now().hour in (1,2,3,4,10,15):
+df_trank = update_trank(df_cbb)
+update_merged_data(df_cbb, df_trank)
 
 
 ### FBREF SECTION
