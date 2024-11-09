@@ -695,6 +695,7 @@ def update_merged_data(df_cbb, df_trank):
   table = pa.Table.from_pandas(df3)
   pq.write_table(table, './data/trank_db_merged.parquet',compression='BROTLI')
 
+print(datetime.now())
 
 if datetime.now().hour in (4,10,15):
   df_trank = update_trank(df_cbb)
