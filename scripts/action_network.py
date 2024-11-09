@@ -481,6 +481,47 @@ teams_df.drop_duplicates().to_csv('./data/teams_db.csv',index=False)
 
 
 ### adding in the trank data
+def normalize_bet_team_names(d, field):
+    substitutions = {'State': 'St.', 
+                      'Kansas City Roos': 'UMKC', 
+                      'Long Island University Sharks': 'LIU Brooklyn',
+                    'Omaha Mavericks': 'Nebraska Omaha', 
+                    'North Carolina-Wilmington Seahawks': 'UNC Wilmington',
+                    'Virginia Military Institute Keydets': 'VMI', 
+                    'Southern Methodist Mustangs': 'SMU',
+                    'Virginia Commonwealth Rams':'VCU',
+                    'Florida International Golden Panthers':'FIU',
+                    'N.J.I.T. Highlanders':'NJIT',
+                    'Ole Miss':'Mississippi',
+                    'St. Peter\'s Peacocks':'Saint Peter\'s',
+                    'Texas-Arlington Mavericks':'UT Arlington',
+                    'Miami (FL) Hurricanes':'Miami FL',
+                    'Pennsylvania Quakers':'Penn',
+                    'Louisiana-Monroe Warhawks':'Louisiana Monroe',
+                    'Texas A&M-CC Islanders':'Texas A&M Corpus Chris',
+                    'IPFW Mastodons':'Fort Wayne',
+                    'Missouri KC':'UMKC',
+                    'Chaminade Silverswords':'Chaminade',
+                    'Florida International':'FIU',
+                    'UConn Huskies':'Connecticut',
+                    'UMass Minutemen':'Massachusetts',
+                    'Massachusetts Lowell River Hawks':'UMass Lowell',
+                    'SIU-Edwardsville':'SIU Edwardsville',
+                    'Miami (FL) Hurricanes':'Miami FL'
+                    }
+
+    for key, value in substitutions.items():
+        d[field] = d[field].str.replace(key, value, regex=True)
+
+    replacements = ['Musketeers','Longhorns','Wildcats','Panthers','Tigers','Warriors','Skyhawks','Sharks','Flames','Bulldogs','Cougars','Runnin\'','Rebels',
+                    'Spartans','Razorbacks','Bears','Raiders','Cardinal','Buckeyes','Hawkeyes','Bobcats','Rockets',
+                    'Gauchos']
+    for replacement in replacements:
+        d[field] = d[field].str.replace(replacement, '', regex=True)
+    return d
+
+
+
 def update_trank(df_cbb):
   
   df_cbb['start_time_pt'] = pd.to_datetime(df_cbb['start_time']).dt.tz_convert('US/Pacific')
