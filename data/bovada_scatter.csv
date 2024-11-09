@@ -20,14 +20,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-09 09:25:52.258503,Eastern Conference - Conference Seeding  - To Be #1 Seed ,New York Knicks,0.04169999999999999,0.1667,0.125
 2024-11-09 10:30:32.077118,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),0.036199999999999996,0.1538,0.1176
 2024-11-09 01:49:46.632890,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.03420000000000001,0.2564,0.2222
-2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Watford,0.033300000000000024,0.2,0.1667
 2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,0.033300000000000024,0.2,0.1667
+2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Watford,0.033300000000000024,0.2,0.1667
 2024-11-09 09:25:52.294175,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.033299999999999996,0.5455,0.5122
 2024-11-09 10:30:31.960453,West Group C - West Group C Winner - West Group C Winner,Memphis Grizzlies,0.031,0.1739,0.1429
 2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.030299999999999994,0.3636,0.3333
 2024-11-09 10:30:31.960453,West Group C - West Group C Winner - West Group C Winner,Golden State Warriors,0.029299999999999993,0.2857,0.2564
-2024-11-09 01:49:46.128566,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,0.025499999999999967,0.4255,0.4
 2024-11-09 11:22:27.489171,MLS - USA MLS 2024 - Futures - To Reach the Final,Los Angeles FC,0.025499999999999967,0.4255,0.4
+2024-11-09 01:49:46.128566,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,0.025499999999999967,0.4255,0.4
 2024-11-09 11:22:27.662800,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,0.024999999999999994,0.125,0.1
 2024-11-09 07:25:26.967924,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Marshall,0.0242,0.0909,0.0667
 2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Bari,0.0232,0.0667,0.0435
@@ -44,8 +44,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Burnley,0.01880000000000004,0.6552,0.6364
 2024-11-09 01:49:46.121983,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,0.018099999999999998,0.0769,0.0588
 2024-11-09 09:25:52.271058,Western Conference - Conference Seeding  - To Be #1 Seed,Phoenix Suns,0.0179,0.1429,0.125
-2024-11-09 01:49:47.280024,Charles Schwab Cup - Charles Schwab Cup - Winner,Vijay Singh,0.0179,0.0278,0.0099
 2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.0179,0.1429,0.125
+2024-11-09 01:49:47.280024,Charles Schwab Cup - Charles Schwab Cup - Winner,Vijay Singh,0.0179,0.0278,0.0099
 2024-11-09 09:25:52.239249,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Northwest Division,0.017799999999999983,0.3077,0.2899
 2024-11-09 01:49:46.128566,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.017600000000000005,0.3509,0.3333
 2024-11-09 01:49:46.128566,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.016700000000000048,0.75,0.7333
@@ -53,67 +53,72 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-09 05:29:14.949963,BKFC: Stewart vs Rivera - Julian Lane vs Alfredo Angulo - To Win the Bout,Julian Lane,0.016699999999999993,0.4167,0.4
 2024-11-09 12:46:18.740969,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Palmeiras,0.016699999999999993,0.2667,0.25
 2024-11-09 09:25:52.284938,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.015199999999999991,0.7826,0.7674
-2024-11-09 01:49:46.689850,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),0.01469999999999999,0.25,0.2353
 2024-11-09 09:25:52.419205,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.01469999999999999,0.25,0.2353
+2024-11-09 01:49:46.689850,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),0.01469999999999999,0.25,0.2353
 2024-11-09 09:25:52.266837,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Southwest,0.01469999999999999,0.25,0.2353
+2024-11-09 13:28:20.032191,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),UAB,0.014600000000000002,0.2778,0.2632
 2024-11-09 01:49:46.125416,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.012899999999999912,0.8462,0.8333
 2024-11-09 09:25:52.289549,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.012700000000000003,0.0323,0.0196
+2024-11-09 13:28:20.004217,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Dayton,0.011700000000000016,0.2222,0.2105
 2024-11-09 09:25:52.254333,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Central,0.011700000000000016,0.2222,0.2105
 2024-11-09 07:25:27.253796,BKFC: Stewart vs Rivera - Robert Armas vs Louie Lopez - To Win the Bout,Robert Armas,0.0116,0.4878,0.4762
 2024-11-09 01:49:46.125416,Championship - England Championship 2024/25 - To Be Promoted,Watford,0.011199999999999995,0.0588,0.0476
 2024-11-09 09:25:52.245802,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Texas (TX),0.011099999999999999,0.1111,0.1
+2024-11-09 13:28:20.032191,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Florida Atlantic,0.011099999999999999,0.0667,0.0556
 2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,0.010899999999999993,0.1538,0.1429
 2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.010899999999999993,0.1538,0.1429
 2024-11-09 06:34:17.152983,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,0.010699999999999987,0.3333,0.3226
 2024-11-09 09:25:52.258503,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Philadelphia 76ers,0.010600000000000002,0.0323,0.0217
 2024-11-09 09:25:52.860630,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,0.010599999999999998,0.4651,0.4545
-2024-11-09 09:25:52.275675,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.010499999999999982,0.2105,0.2
 2024-11-09 01:49:46.650719,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.010499999999999982,0.2105,0.2
+2024-11-09 09:25:52.275675,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.010499999999999982,0.2105,0.2
 2024-11-09 07:25:27.433794,LOTTE Championship - LOTTE Championship - Winner,Ryann O'Toole,0.0102,0.0769,0.0667
 2024-11-09 09:25:52.271058,Western Conference - Conference Seeding  - To Be #1 Seed,Memphis Grizzlies,0.010100000000000001,0.0345,0.0244
-2024-11-09 10:30:32.065776,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),-0.010099999999999998,0.0952,0.1053
-2024-11-09 12:46:19.921093,BKFC: Stewart vs Rivera - Kai Stewart vs Jimmie Rivera - To Win the Bout,Jimmie Rivera,-0.010099999999999998,0.3125,0.3226
 2024-11-09 09:25:52.419205,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Malik Monk (SAC),-0.010099999999999998,0.0952,0.1053
+2024-11-09 12:46:19.921093,BKFC: Stewart vs Rivera - Kai Stewart vs Jimmie Rivera - To Win the Bout,Jimmie Rivera,-0.010099999999999998,0.3125,0.3226
+2024-11-09 10:30:32.065776,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),-0.010099999999999998,0.0952,0.1053
 2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,-0.0102,0.0667,0.0769
 2024-11-09 01:49:46.632890,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,-0.010299999999999976,0.2564,0.2667
-2024-11-09 10:30:32.065776,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,OG Anunoby (NYK),-0.010700000000000001,0.0278,0.0385
 2024-11-09 10:30:31.951161,West Group A - West Group A Winner - West Group A Winner,Portland Trail Blazers,-0.010700000000000001,0.0278,0.0385
+2024-11-09 10:30:32.065776,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,OG Anunoby (NYK),-0.010700000000000001,0.0278,0.0385
 2024-11-09 07:25:27.433794,LOTTE Championship - LOTTE Championship - Winner,Ayaka Furue,-0.0108,0.0044,0.0152
-2024-11-09 09:25:52.263297,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,-0.010899999999999993,0.1429,0.1538
 2024-11-09 01:49:47.145721,Boxing Lines - Ernesto Mercado vs Jesus Saracho - To Win the Bout,Jesus Saracho,-0.010899999999999993,0.1429,0.1538
+2024-11-09 09:25:52.263297,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,-0.010899999999999993,0.1429,0.1538
+2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,-0.011099999999999999,0.1,0.1111
 2024-11-09 11:22:27.662800,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,-0.011099999999999999,0.1,0.1111
 2024-11-09 09:25:52.298794,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,-0.011099999999999999,0.0556,0.0667
-2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,-0.011099999999999999,0.1,0.1111
 2024-11-09 01:49:46.125416,Championship - England Championship 2024/25 - To Be Promoted,Luton Town,-0.011199999999999995,0.0476,0.0588
 2024-11-09 09:25:52.880218,BKFC: Stewart vs Rivera - Dallas Davison vs Christian Torres - To Win the Bout,Dallas Davison,-0.011499999999999955,0.6552,0.6667
 2024-11-09 07:25:26.955995,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Western Kentucky,-0.011600000000000055,0.5122,0.5238
 2024-11-09 09:25:52.263297,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,-0.011900000000000008,0.0833,0.0952
 2024-11-09 12:46:19.917045,BKFC: Stewart vs Rivera - Julian Lane vs Alfredo Angulo - To Win the Bout,Alfredo Angulo,-0.012700000000000045,0.6364,0.6491
 2024-11-09 11:22:27.662800,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,-0.013999999999999999,0.0769,0.0909
+2024-11-09 13:28:20.008303,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Wake Forest,-0.013999999999999999,0.0769,0.0909
 2024-11-09 11:22:27.672618,Serie B - Italy Serie B 2024/25 - Winner,Salernitana,-0.0145,0.0099,0.0244
 2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sampdoria,-0.015100000000000002,0.1667,0.1818
 2024-11-09 01:49:47.280024,Charles Schwab Cup - Charles Schwab Cup - Winner,Darren Clarke,-0.0156,0.004,0.0196
 2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Mantova,-0.0157,0.0278,0.0435
-2024-11-09 01:49:46.632890,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,-0.015700000000000006,0.1176,0.1333
 2024-11-09 10:30:32.077118,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Edwards (MIN),-0.015700000000000006,0.1176,0.1333
+2024-11-09 01:49:46.632890,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,-0.015700000000000006,0.1176,0.1333
 2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cittadella,-0.017099999999999997,0.0123,0.0294
 2024-11-09 07:25:27.253796,BKFC: Stewart vs Rivera - Robert Armas vs Louie Lopez - To Win the Bout,Louie Lopez,-0.017299999999999982,0.5744,0.5917
 2024-11-09 05:29:14.949963,BKFC: Stewart vs Rivera - Julian Lane vs Alfredo Angulo - To Win the Bout,Alfredo Angulo,-0.01759999999999995,0.6491,0.6667
 2024-11-09 01:49:47.280024,Charles Schwab Cup - Charles Schwab Cup - Winner,Timothy ONeal,-0.017599999999999998,0.002,0.0196
+2024-11-09 13:28:20.012308,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.0179,0.125,0.1429
 2024-11-09 07:25:26.967924,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Coastal Carolina,-0.0179,0.0099,0.0278
-2024-11-09 01:49:46.128566,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.0179,0.125,0.1429
 2024-11-09 10:30:32.062190,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Steve Kerr,-0.0179,0.125,0.1429
+2024-11-09 01:49:46.128566,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.0179,0.125,0.1429
 2024-11-09 01:49:46.128566,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,-0.018099999999999998,0.0588,0.0769
 2024-11-09 07:25:27.433794,LOTTE Championship - LOTTE Championship - Winner,Perrine Delacour,-0.0182,0.0014,0.0196
 2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.01820000000000002,0.1818,0.2
 2024-11-09 01:49:46.131700,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,-0.01880000000000004,0.5556,0.5744
-2024-11-09 10:30:32.069640,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Victor Wembanyama (SAS),-0.0189,0.0196,0.0385
 2024-11-09 01:49:46.054623,A-League - Australia A-League 2024/25 - Grand Final Winner,Newcastle United Jets,-0.0189,0.0196,0.0385
+2024-11-09 10:30:32.069640,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Victor Wembanyama (SAS),-0.0189,0.0196,0.0385
 2024-11-09 01:49:47.280024,Charles Schwab Cup - Charles Schwab Cup - Winner,Retief Goosen,-0.0194,0.005,0.0244
 2024-11-09 11:22:27.672618,Serie B - Italy Serie B 2024/25 - Winner,Brescia,-0.019600000000000003,0.0149,0.0345
 2024-11-09 09:25:52.294175,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.02020000000000001,0.0909,0.1111
-2024-11-09 01:49:47.280024,Charles Schwab Cup - Charles Schwab Cup - Winner,Jerry Kelly,-0.0203,0.0323,0.0526
 2024-11-09 10:30:32.058596,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Donovan Mitchell (CLE),-0.0203,0.0385,0.0588
+2024-11-09 01:49:47.280024,Charles Schwab Cup - Charles Schwab Cup - Winner,Jerry Kelly,-0.0203,0.0323,0.0526
 2024-11-09 01:49:47.280024,Charles Schwab Cup - Charles Schwab Cup - Winner,Thongchai Jaidee,-0.0204,0.004,0.0244
 2024-11-09 07:25:26.955995,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Sam Houston State,-0.02049999999999999,0.1333,0.1538
 2024-11-09 01:49:47.280024,Charles Schwab Cup - Charles Schwab Cup - Winner,Joe Durant,-0.0211,0.0033,0.0244
@@ -127,8 +132,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Frosinone,-0.0262,0.0123,0.0385
 2024-11-09 09:25:52.289549,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.0267,0.1333,0.16
 2024-11-09 01:49:46.636110,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,-0.02679999999999999,0.2857,0.3125
-2024-11-09 01:49:46.125416,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,-0.02779999999999999,0.2222,0.25
 2024-11-09 10:30:32.077118,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Luka Doncic (DAL),-0.02779999999999999,0.25,0.2778
+2024-11-09 01:49:46.125416,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,-0.02779999999999999,0.2222,0.25
 2024-11-09 10:30:31.951161,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,-0.03059999999999999,0.2326,0.2632
 2024-11-09 09:25:52.271058,Western Conference - Conference Seeding  - To Be #1 Seed,Dallas Mavericks,-0.0321,0.0588,0.0909
 2024-11-09 01:49:46.125416,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.033299999999999996,0.5122,0.5455
