@@ -1,44 +1,29 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Donald Trump,0.5,0.8333,0.3333
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,0.15150000000000008,0.8182,0.6667
-2024-11-09 11:22:27.672618,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.1491,0.5,0.3509
 2024-11-09 16:31:45.331800,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),0.13640000000000002,0.5,0.3636
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,0.11110000000000003,0.4444,0.3333
 2024-11-09 14:28:14.488671,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,Please Please Please - Sabrina Carpenter,0.11109999999999998,0.3333,0.2222
 2024-11-09 17:29:23.176790,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,0.09230000000000005,0.4,0.3077
-2024-11-09 10:30:31.951161,West Group A - West Group A Winner - West Group A Winner,Sacramento Kings,0.08980000000000002,0.3279,0.2381
 2024-11-09 17:29:22.991379,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 39.5,0.06970000000000004,0.5348,0.4651
 2024-11-09 17:29:23.025275,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 22.5,0.06929999999999997,0.5455,0.4762
-2024-11-09 10:30:31.951161,West Group A - West Group A Winner - West Group A Winner,Minnesota Timberwolves,0.06340000000000001,0.4082,0.3448
 2024-11-09 14:28:14.488671,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,"Good Luck, Babe! - Chappell Roan",0.0629,0.1538,0.0909
 2024-11-09 22:28:42.685700,BKFC: Stewart vs Rivera - Dallas Davison vs Christian Torres - To Win the Bout,Dallas Davison,0.05910000000000004,0.7143,0.6552
 2024-11-09 17:29:23.180681,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Boise State,0.057699999999999974,0.75,0.6923
 2024-11-09 17:29:22.952618,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 28.5,0.05300000000000005,0.5652,0.5122
 2024-11-09 14:28:14.488671,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,Texas Hold 'Em - Beyonce,0.052000000000000005,0.1429,0.0909
-2024-11-09 11:22:27.672618,Serie B - Italy Serie B 2024/25 - Winner,Spezia,0.04909999999999999,0.1667,0.1176
 2024-11-09 22:28:42.697486,BKFC: Stewart vs Rivera - Leo Bercier vs Drew Nolan - To Win the Bout,Leo Bercier,0.047599999999999976,0.8571,0.8095
 2024-11-09 17:29:23.010766,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 45.5,0.03959999999999997,0.5744,0.5348
-2024-11-09 10:30:32.077118,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),0.036199999999999996,0.1538,0.1176
+2024-11-09 23:26:42.556020,BKFC: Stewart vs Rivera - Brandon Allen vs Timmy Mason - To Win the Bout,Brandon Allen (SF),0.035699999999999954,0.75,0.7143
 2024-11-09 17:29:22.957436,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 27.5,0.03480000000000005,0.5348,0.5
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,0.033300000000000024,0.2,0.1667
 2024-11-09 16:31:45.331800,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,MiLaysia Fulwiley (South Carolina),0.032900000000000006,0.0714,0.0385
 2024-11-09 22:28:42.677855,BKFC: Stewart vs Rivera - Bryant Acheson vs Scott Roberts - To Win the Bout,Bryant Acheson,0.032399999999999984,0.8261,0.7937
-2024-11-09 10:30:31.960453,West Group C - West Group C Winner - West Group C Winner,Memphis Grizzlies,0.031,0.1739,0.1429
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.030299999999999994,0.3636,0.3333
-2024-11-09 10:30:31.960453,West Group C - West Group C Winner - West Group C Winner,Golden State Warriors,0.029299999999999993,0.2857,0.2564
 2024-11-09 22:28:42.681767,BKFC: Stewart vs Rivera - Carlos Trinidad vs Zach Juusola - To Win the Bout,Carlos Trinidad,0.02739999999999998,0.7333,0.7059
 2024-11-09 22:28:42.693556,BKFC: Stewart vs Rivera - Kai Stewart vs Jimmie Rivera - To Win the Bout,Kai Stewart,0.026499999999999968,0.7826,0.7561
-2024-11-09 11:22:27.489171,MLS - USA MLS 2024 - Futures - To Reach the Final,Los Angeles FC,0.025499999999999967,0.4255,0.4
 2024-11-09 17:29:23.176790,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Toledo,0.024999999999999994,0.125,0.1
-2024-11-09 11:22:27.662800,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,0.024999999999999994,0.125,0.1
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Bari,0.0232,0.0667,0.0435
 2024-11-09 15:28:25.204001,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Kevin Gonzalez,0.022800000000000042,0.7561,0.7333
-2024-11-09 11:22:27.486341,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,0.022199999999999998,0.2222,0.2
-2024-11-09 10:30:32.441969,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Pedro Campa,0.021999999999999964,0.3077,0.2857
+2024-11-09 23:26:42.575685,BKFC: Stewart vs Rivera - Kai Stewart vs Jimmie Rivera - To Win the Bout,Jimmie Rivera,0.021299999999999986,0.303,0.2817
 2024-11-09 17:29:23.001082,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 45.5,0.01970000000000005,0.5652,0.5455
 2024-11-09 17:29:23.335077,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,0.019600000000000006,0.3226,0.303
-2024-11-09 10:30:31.960453,West Group C - West Group C Winner - West Group C Winner,Denver Nuggets,0.019299999999999984,0.2632,0.2439
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Modena,0.019099999999999992,0.0667,0.0476
+2024-11-09 23:26:42.567716,BKFC: Stewart vs Rivera - Dallas Davison vs Christian Torres - To Win the Bout,Dallas Davison,0.018999999999999906,0.7333,0.7143
 2024-11-09 22:28:42.701440,BKFC: Stewart vs Rivera - Natalie Gage vs Gabrielle Roman - To Win the Bout,Gabrielle Roman,0.018900000000000028,0.4444,0.4255
 2024-11-09 14:28:14.918009,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Washington State,0.0189,0.0385,0.0196
 2024-11-09 16:31:45.327633,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),0.01820000000000002,0.2,0.1818
@@ -46,8 +31,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-09 16:31:45.327633,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame (W),0.0179,0.1429,0.125
 2024-11-09 12:46:18.740969,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Palmeiras,0.016699999999999993,0.2667,0.25
 2024-11-09 16:31:45.327633,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,LSU (W),0.014899999999999997,0.0625,0.0476
-2024-11-09 22:28:42.669962,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Aj Craig,0.014800000000000035,0.6226,0.6078
 2024-11-09 16:31:45.857951,BKFC: Stewart vs Rivera - Natalie Gage vs Gabrielle Roman - To Win the Bout,Natalie Gage,0.014800000000000035,0.6226,0.6078
+2024-11-09 22:28:42.669962,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Aj Craig,0.014800000000000035,0.6226,0.6078
 2024-11-09 13:28:20.032191,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),UAB,0.014600000000000002,0.2778,0.2632
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Ron DeSantis,0.0145,0.0244,0.0099
 2024-11-09 16:31:45.327633,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,UCLA (W),0.014399999999999996,0.0769,0.0625
@@ -56,62 +41,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-09 22:28:42.705381,BKFC: Stewart vs Rivera - Robert Armas vs Louie Lopez - To Win the Bout,Robert Armas,0.012199999999999989,0.5,0.4878
 2024-11-09 13:28:20.004217,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Dayton,0.011700000000000016,0.2222,0.2105
 2024-11-09 17:29:22.986521,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 44.5,0.011600000000000055,0.5238,0.5122
+2024-11-09 23:26:42.563826,BKFC: Stewart vs Rivera - Carlos Trinidad vs Zach Juusola - To Win the Bout,Zach Juusola,0.01150000000000001,0.3448,0.3333
+2024-11-09 23:26:42.548246,BKFC: Stewart vs Rivera - Cory Willis vs Brady Meister - To Win the Bout,Cory Willis,0.01150000000000001,0.3448,0.3333
 2024-11-09 16:31:45.331800,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Rori Harmom (Texas),0.011200000000000002,0.0244,0.0132
 2024-11-09 17:29:23.370319,Boxing Lines - Khalil Coe vs Manuel Gallegos - To Win the Bout,Manuel Gallegos,0.011099999999999999,0.1111,0.1
 2024-11-09 13:28:20.032191,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Florida Atlantic,0.011099999999999999,0.0667,0.0556
+2024-11-09 16:31:45.826165,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,0.011099999999999999,0.4762,0.4651
+2024-11-09 22:28:42.666013,BKFC: Stewart vs Rivera - Cory Willis vs Brady Meister - To Win the Bout,Brady Meister,0.011099999999999999,0.7333,0.7222
 2024-11-09 13:28:20.016293,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Baylor,0.011099999999999999,0.1111,0.1
 2024-11-09 14:28:14.773282,West Group A - West Group A Winner - West Group A Winner,L.A. Clippers,0.011099999999999999,0.1111,0.1
-2024-11-09 22:28:42.666013,BKFC: Stewart vs Rivera - Cory Willis vs Brady Meister - To Win the Bout,Brady Meister,0.011099999999999999,0.7333,0.7222
-2024-11-09 16:31:45.826165,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,0.011099999999999999,0.4762,0.4651
 2024-11-09 22:28:42.625963,Boxing Lines - Jaron Ennis vs Karen Chukhadzhian - To Win the Bout,Karen Chukhadzhian,0.011099999999999999,0.0667,0.0556
-2024-11-09 17:29:22.942918,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,0.01100000000000001,0.5348,0.5238
 2024-11-09 17:29:22.962257,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 49.5,0.01100000000000001,0.5348,0.5238
+2024-11-09 17:29:22.942918,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,0.01100000000000001,0.5348,0.5238
 2024-11-09 14:28:14.488671,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,Not Like Us - Kenrick Lamar,0.010899999999999993,0.1538,0.1429
 2024-11-09 21:26:53.056713,Boxing Lines - Jeyvier Cintron Ocasio vs Rashib Martinez Valadez - To Win the Bout,Jeyvier Cintron Ocasio,0.010199999999999987,0.9333,0.9231
 2024-11-09 17:29:23.005933,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 43.5,0.010099999999999998,0.5556,0.5455
-2024-11-09 19:21:09.676632,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,-0.010099999999999998,0.3125,0.3226
-2024-11-09 22:28:42.669962,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.010099999999999998,0.4444,0.4545
-2024-11-09 17:29:22.986521,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 44.5,-0.010099999999999998,0.5455,0.5556
 2024-11-09 12:46:19.921093,BKFC: Stewart vs Rivera - Kai Stewart vs Jimmie Rivera - To Win the Bout,Jimmie Rivera,-0.010099999999999998,0.3125,0.3226
-2024-11-09 10:30:32.065776,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),-0.010099999999999998,0.0952,0.1053
+2024-11-09 19:21:09.676632,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,-0.010099999999999998,0.3125,0.3226
+2024-11-09 17:29:22.986521,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 44.5,-0.010099999999999998,0.5455,0.5556
+2024-11-09 22:28:42.669962,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.010099999999999998,0.4444,0.4545
 2024-11-09 16:31:45.857951,BKFC: Stewart vs Rivera - Natalie Gage vs Gabrielle Roman - To Win the Bout,Gabrielle Roman,-0.010099999999999998,0.4444,0.4545
 2024-11-09 20:26:40.243456,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.010599999999999998,0.4545,0.4651
-2024-11-09 17:29:22.942918,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 59.5,-0.010699999999999932,0.5348,0.5455
 2024-11-09 17:29:22.962257,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,-0.010699999999999932,0.5348,0.5455
-2024-11-09 16:31:45.327633,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,NC State (W),-0.010700000000000001,0.0278,0.0385
-2024-11-09 10:30:31.951161,West Group A - West Group A Winner - West Group A Winner,Portland Trail Blazers,-0.010700000000000001,0.0278,0.0385
-2024-11-09 10:30:32.065776,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,OG Anunoby (NYK),-0.010700000000000001,0.0278,0.0385
+2024-11-09 17:29:22.942918,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 59.5,-0.010699999999999932,0.5348,0.5455
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,MrBeast,-0.010700000000000001,0.0278,0.0385
+2024-11-09 16:31:45.327633,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,NC State (W),-0.010700000000000001,0.0278,0.0385
 2024-11-09 17:29:23.176790,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Ball State,-0.0108,0.0033,0.0141
-2024-11-09 11:22:27.662800,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,-0.011099999999999999,0.1,0.1111
-2024-11-09 19:21:09.752216,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.011099999999999999,0.4651,0.4762
+2024-11-09 23:26:42.548246,BKFC: Stewart vs Rivera - Cory Willis vs Brady Meister - To Win the Bout,Brady Meister,-0.011099999999999999,0.7222,0.7333
 2024-11-09 15:28:25.232119,Boxing Lines - Khalil Coe vs Manuel Gallegos - To Win the Bout,Manuel Gallegos,-0.011099999999999999,0.1,0.1111
+2024-11-09 23:26:42.563826,BKFC: Stewart vs Rivera - Carlos Trinidad vs Zach Juusola - To Win the Bout,Carlos Trinidad,-0.011099999999999999,0.7222,0.7333
+2024-11-09 19:21:09.752216,BKFC: Stewart vs Rivera - Aj Craig vs Elijah Jamerson - To Win the Bout,Elijah Jamerson,-0.011099999999999999,0.4651,0.4762
 2024-11-09 22:28:42.666013,BKFC: Stewart vs Rivera - Cory Willis vs Brady Meister - To Win the Bout,Cory Willis,-0.01150000000000001,0.3333,0.3448
 2024-11-09 12:46:19.917045,BKFC: Stewart vs Rivera - Julian Lane vs Alfredo Angulo - To Win the Bout,Alfredo Angulo,-0.012700000000000045,0.6364,0.6491
 2024-11-09 22:28:42.701440,BKFC: Stewart vs Rivera - Natalie Gage vs Gabrielle Roman - To Win the Bout,Natalie Gage,-0.013799999999999923,0.6226,0.6364
 2024-11-09 14:28:14.488671,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,Fortnight - Taylor Swift ft. Post Malone,-0.013899999999999996,0.1111,0.125
 2024-11-09 17:29:23.510660,Finishes Parlayable - Rory McIlroy - Rory McIlroy,Top 20 Finish,-0.013900000000000023,0.875,0.8889
 2024-11-09 13:28:20.008303,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Wake Forest,-0.013999999999999999,0.0769,0.0909
-2024-11-09 11:22:27.662800,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,-0.013999999999999999,0.0769,0.0909
 2024-11-09 16:31:45.331800,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Flau'jae Johnson (LSU),-0.014099999999999998,0.0244,0.0385
-2024-11-09 11:22:27.672618,Serie B - Italy Serie B 2024/25 - Winner,Salernitana,-0.0145,0.0099,0.0244
 2024-11-09 16:31:45.331800,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Audi Crooks (Iowa State),-0.0145,0.0099,0.0244
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Volodymyr Zelenskyy,-0.014899999999999997,0.0476,0.0625
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sampdoria,-0.015100000000000002,0.1667,0.1818
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Mantova,-0.0157,0.0278,0.0435
-2024-11-09 10:30:32.077118,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Edwards (MIN),-0.015700000000000006,0.1176,0.1333
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Vladimir Putin,-0.0159,0.0164,0.0323
 2024-11-09 17:29:23.176790,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Eastern Michigan,-0.0163,0.0033,0.0196
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cittadella,-0.017099999999999997,0.0123,0.0294
+2024-11-09 23:26:42.567716,BKFC: Stewart vs Rivera - Dallas Davison vs Christian Torres - To Win the Bout,Christian Torres,-0.017600000000000005,0.3333,0.3509
+2024-11-09 23:26:42.575685,BKFC: Stewart vs Rivera - Kai Stewart vs Jimmie Rivera - To Win the Bout,Kai Stewart,-0.017899999999999916,0.7647,0.7826
 2024-11-09 13:28:20.012308,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.0179,0.125,0.1429
-2024-11-09 10:30:32.062190,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Steve Kerr,-0.0179,0.125,0.1429
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Black Lives Matter,-0.0189,0.0196,0.0385
-2024-11-09 10:30:32.069640,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Victor Wembanyama (SAS),-0.0189,0.0196,0.0385
-2024-11-09 11:22:27.672618,Serie B - Italy Serie B 2024/25 - Winner,Brescia,-0.019600000000000003,0.0149,0.0345
-2024-11-09 10:30:32.058596,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Donovan Mitchell (CLE),-0.0203,0.0385,0.0588
 2024-11-09 14:28:14.918009,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,-0.020500000000000074,0.8462,0.8667
 2024-11-09 17:29:23.180681,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,San Jose State,-0.021300000000000003,0.0132,0.0345
-2024-11-09 10:30:32.441969,Boxing Lines - Alfredo Santiago Alvarez vs Pedro Campa - To Win the Bout,Alfredo Santiago Alvarez,-0.021700000000000053,0.7561,0.7778
 2024-11-09 12:46:18.740969,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,-0.022199999999999998,0.7778,0.8
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Taylor Swift,-0.02310000000000001,0.0769,0.1
 2024-11-09 22:28:42.681767,BKFC: Stewart vs Rivera - Carlos Trinidad vs Zach Juusola - To Win the Bout,Zach Juusola,-0.023799999999999988,0.3333,0.3571
@@ -119,38 +95,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-09 17:29:23.335077,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Kevin Gonzalez,-0.02440000000000009,0.7403,0.7647
 2024-11-09 15:28:25.204001,Boxing Lines - Abimael Ortiz vs Kevin Gonzalez - To Win the Bout,Abimael Ortiz,-0.02560000000000001,0.3077,0.3333
 2024-11-09 22:28:42.693556,BKFC: Stewart vs Rivera - Kai Stewart vs Jimmie Rivera - To Win the Bout,Jimmie Rivera,-0.025999999999999968,0.2817,0.3077
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Frosinone,-0.0262,0.0123,0.0385
-2024-11-09 10:30:32.077118,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Luka Doncic (DAL),-0.02779999999999999,0.25,0.2778
 2024-11-09 17:29:23.176790,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Buffalo,-0.028000000000000004,0.0196,0.0476
-2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Robert F Kennedy Jr,-0.028399999999999995,0.0625,0.0909
 2024-11-09 14:28:14.488671,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,A Bar Song (Tipsy) - Shaboozey,-0.028399999999999995,0.0625,0.0909
+2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Robert F Kennedy Jr,-0.028399999999999995,0.0625,0.0909
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Climate Activists,-0.029299999999999993,0.0476,0.0769
 2024-11-09 17:29:22.957436,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 27.5,-0.030399999999999983,0.5348,0.5652
-2024-11-09 10:30:31.951161,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,-0.03059999999999999,0.2326,0.2632
 2024-11-09 14:28:14.488671,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,Die With A Smile - Lady Gaga and Bruno Mars,-0.031799999999999995,0.1111,0.1429
 2024-11-09 16:31:45.331800,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Aneesah Morrow (LSU),-0.033,0.0196,0.0526
 2024-11-09 22:28:42.677855,BKFC: Stewart vs Rivera - Bryant Acheson vs Scott Roberts - To Win the Bout,Scott Roberts,-0.03300000000000003,0.241,0.274
 2024-11-09 17:29:23.010766,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 45.5,-0.03480000000000005,0.5,0.5348
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,-0.03959999999999997,0.5348,0.5744
+2024-11-09 23:26:42.556020,BKFC: Stewart vs Rivera - Brandon Allen vs Timmy Mason - To Win the Bout,Timmy Mason,-0.03839999999999999,0.3125,0.3509
 2024-11-09 17:29:22.952618,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 28.5,-0.045499999999999985,0.5,0.5455
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Yulia Navalnaya,-0.048100000000000004,0.0769,0.125
-2024-11-09 10:30:31.960453,West Group C - West Group C Winner - West Group C Winner,Dallas Mavericks,-0.04910000000000003,0.2899,0.339
 2024-11-09 22:28:42.697486,BKFC: Stewart vs Rivera - Leo Bercier vs Drew Nolan - To Win the Bout,Drew Nolan,-0.049199999999999994,0.2105,0.2597
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Brescia,-0.05,0.0833,0.1333
 2024-11-09 16:31:45.331800,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Hannah Hidalgo (Notre Dame),-0.0509,0.0667,0.1176
 2024-11-09 17:29:23.176790,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Northern Illinois,-0.0555,0.0033,0.0588
 2024-11-09 22:28:42.685700,BKFC: Stewart vs Rivera - Dallas Davison vs Christian Torres - To Win the Bout,Christian Torres,-0.05730000000000002,0.3509,0.4082
-2024-11-09 11:22:27.672618,Serie B - Italy Serie B 2024/25 - Winner,Pisa,-0.057699999999999974,0.25,0.3077
 2024-11-09 17:29:23.025275,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 22.5,-0.0595,0.5238,0.5833
 2024-11-09 17:29:23.180681,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,UNLV,-0.0635,0.2222,0.2857
 2024-11-09 17:29:22.991379,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 39.5,-0.06519999999999992,0.5348,0.6
-2024-11-09 10:30:32.062190,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,JJ Redick,-0.0666,0.0667,0.1333
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Salernitana,-0.07239999999999999,0.0526,0.125
-2024-11-09 11:22:27.672618,Serie B - Italy Serie B 2024/25 - Winner,Palermo,-0.07450000000000001,0.0588,0.1333
 2024-11-09 17:29:23.176790,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Western Michigan,-0.1129,0.1538,0.2667
-2024-11-09 10:30:31.951161,West Group A - West Group A Winner - West Group A Winner,L.A. Clippers,-0.1222,0.1,0.2222
 2024-11-09 14:28:14.488671,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,Birds Of A Feather - Billie Eilish,-0.14289999999999992,0.5238,0.6667
-2024-11-09 11:22:27.675958,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.1587,0.2857,0.4444
 2024-11-09 17:29:23.510660,Finishes Parlayable - Rory McIlroy - Rory McIlroy,Top 10 Finish,-0.16809999999999992,0.5652,0.7333
 2024-11-09 17:29:23.510660,Finishes Parlayable - Rory McIlroy - Rory McIlroy,Top 5 Finish,-0.23190000000000005,0.3333,0.5652
 2024-11-09 14:28:14.574443,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Kamala Harris,-0.33330000000000004,0.1111,0.4444
