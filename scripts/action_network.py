@@ -359,8 +359,10 @@ for league_id in range(3):
       d1['date_scraped'] = date_scraped
       d=pd.concat([d,d1])
     print(f'League {league_id} succeeded')
-  except:
+  except Exception as e:
     print(f'League {league_id} failed:')
+    # Code to handle the exception
+    print("An error occurred:", e)
 
 d = d.reset_index(drop=True)
 d.loc[d.player_name.notnull(), 'bet_outcome'] = d['player_name']
