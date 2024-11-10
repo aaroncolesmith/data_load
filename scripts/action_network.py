@@ -622,8 +622,8 @@ def update_merged_data(df_cbb, df_trank):
                                                                                         score_away=('boxscore_total_away_points','last'),
                                                                                         score_home=('boxscore_total_home_points','last'),
                                                                                         attendance=('attendance','max'),
-                                                                                        spread_home_public=('spread_home_public','max'),
-                                                                                        spread_away_public=('spread_away_public','max'),
+                                                                                        spread_home_public=('spread_home_public','last'),
+                                                                                        spread_away_public=('spread_away_public','last'),
                                                                                         num_bets=('num_bets','max'),
                                                                                         rec_count=('inserted','size')
                                                                                         ).reset_index()
