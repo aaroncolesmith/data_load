@@ -33,12 +33,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 14:27:33.645240,West Group C - West Group C Winner - West Group C Winner,Denver Nuggets,0.0701,0.3333,0.2632
 2024-11-10 09:25:56.198664,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.06820000000000004,0.8182,0.75
 2024-11-10 05:28:52.998389,League One - England League One 2024/25 - Top 6 Finish,Exeter City,0.06669999999999998,0.1667,0.1
-2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.06659999999999999,0.3333,0.2667
 2024-11-10 09:25:56.196002,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Palmeiras,0.06659999999999999,0.3333,0.2667
+2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.06659999999999999,0.3333,0.2667
 2024-11-10 09:25:56.914292,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 32.5,0.06220000000000003,0.5744,0.5122
 2024-11-10 09:25:56.358207,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,0.057699999999999974,0.3077,0.25
-2024-11-10 10:30:31.520388,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.055900000000000005,0.3636,0.3077
 2024-11-10 10:30:31.327541,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.055900000000000005,0.3636,0.3077
+2024-11-10 10:30:31.520388,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.055900000000000005,0.3636,0.3077
 2024-11-10 14:27:33.640477,West Group B - West Group B Winner - West Group B Winner,Oklahoma City Thunder,0.05559999999999998,0.5556,0.5
 2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Oregon,0.05550000000000002,0.2222,0.1667
 2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Mississippi,0.0555,0.0833,0.0278
@@ -46,13 +46,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 09:25:56.766480,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,0.05289999999999995,0.6825,0.6296
 2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.04999999999999999,0.25,0.2
 2024-11-10 09:25:56.934039,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 27.5,0.04849999999999999,0.5833,0.5348
-2024-11-10 06:34:09.208555,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,0.047599999999999976,0.3333,0.2857
 2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,0.047599999999999976,0.3333,0.2857
+2024-11-10 06:34:09.208555,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,0.047599999999999976,0.3333,0.2857
 2024-11-10 09:25:56.803638,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,0.04730000000000001,0.1852,0.1379
 2024-11-10 14:27:33.640477,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,0.044499999999999984,0.2667,0.2222
 2024-11-10 09:25:56.770645,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,Yes,0.044399999999999995,0.6,0.5556
-2024-11-10 14:27:33.645240,West Group C - West Group C Winner - West Group C Winner,Dallas Mavericks,0.043399999999999994,0.3333,0.2899
 2024-11-10 09:25:57.017783,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 47.5,0.043399999999999994,0.5556,0.5122
+2024-11-10 14:27:33.645240,West Group C - West Group C Winner - West Group C Winner,Dallas Mavericks,0.043399999999999994,0.3333,0.2899
 2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Alabama,0.04329999999999999,0.0909,0.0476
 2024-11-10 10:30:31.505709,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,0.043200000000000016,0.3509,0.3077
 2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Barnsley,0.04240000000000001,0.1333,0.0909
@@ -62,8 +62,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 10:30:31.327541,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Fluminense,0.03889999999999999,0.1818,0.1429
 2024-11-10 07:24:42.955661,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),0.038099999999999995,0.2381,0.2
 2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,0.03670000000000001,0.1905,0.1538
-2024-11-10 05:28:52.998389,League One - England League One 2024/25 - Top 6 Finish,Peterborough United,0.0353,0.2353,0.2
 2024-11-10 08:36:16.610701,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),0.0353,0.2353,0.2
+2024-11-10 05:28:52.998389,League One - England League One 2024/25 - Top 6 Finish,Peterborough United,0.0353,0.2353,0.2
+2024-11-10 17:26:26.721165,"Daily Specials - NBA Daily Specials  - Sunday, November 10th - Late Games","Timberwolves, Nuggets and Lakers Each 49+ Points in Each Half",0.03480000000000005,0.5348,0.5
 2024-11-10 09:25:56.201360,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,São Paulo,0.034499999999999975,0.996,0.9615
 2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,Atlanta United,0.0335,0.0385,0.005
 2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,New York Red Bulls,0.03330000000000001,0.1,0.0667
@@ -92,8 +93,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 09:25:56.762376,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,Yes,0.021999999999999964,0.3077,0.2857
 2024-11-10 09:25:56.983136,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 46.5,0.02169999999999994,0.5455,0.5238
 2024-11-10 09:25:56.924185,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 21.5,0.02079999999999993,0.5556,0.5348
-2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,0.0203,0.0526,0.0323
 2024-11-10 09:25:56.811841,To Make the Playoffs - Portland Trail Blazers 2024-25 - To Make the Playoffs,Yes,0.0203,0.0526,0.0323
+2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,0.0203,0.0526,0.0323
 2024-11-10 06:34:09.211715,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,0.02020000000000001,0.1111,0.0909
 2024-11-10 05:28:54.107620,Charles Schwab Cup - Charles Schwab Cup - Winner,Rod Pampling,0.02,0.0244,0.0044
 2024-11-10 08:36:16.219468,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.019299999999999984,0.2632,0.2439
@@ -116,23 +117,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 08:36:16.310834,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kevin Durant (PHX),0.015700000000000006,0.1333,0.1176
 2024-11-10 06:34:09.208555,League Two - England League Two 2024/25 - To Be Promoted,Notts County,0.015400000000000025,0.4,0.3846
 2024-11-10 08:36:16.321528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Ivica Zubac (LAC),0.015300000000000001,0.0476,0.0323
-2024-11-10 10:30:31.496074,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hannover 96,0.015100000000000002,0.1818,0.1667
 2024-11-10 06:34:09.208555,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,0.015100000000000002,0.1818,0.1667
+2024-11-10 10:30:31.496074,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hannover 96,0.015100000000000002,0.1818,0.1667
 2024-11-10 10:30:31.500926,Super League - Greece Super League 2024/25 - Winner,Panathinaikos,0.015100000000000002,0.1818,0.1667
 2024-11-10 08:36:16.610701,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Kurtis Rourke (IND),0.014899999999999997,0.0625,0.0476
 2024-11-10 09:25:56.741844,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,No,0.014300000000000007,0.2469,0.2326
 2024-11-10 06:34:09.214769,League Two - England League Two 2024/25 - To Finish Bottom,Swindon Town,0.014100000000000001,0.0526,0.0385
-2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Indiana,0.014099999999999998,0.0435,0.0294
 2024-11-10 08:36:16.314354,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Gregg Popovich,0.014099999999999998,0.0385,0.0244
-2024-11-10 06:34:09.217862,League Two - England League Two 2024/25 - Top 3 Finish,Gillingham,0.013999999999999999,0.0909,0.0769
-2024-11-10 10:30:31.496074,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,0.013999999999999999,0.0909,0.0769
-2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,Seattle Sounders,0.013999999999999999,0.0909,0.0769
+2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Indiana,0.014099999999999998,0.0435,0.0294
 2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.013999999999999999,0.0909,0.0769
-2024-11-10 06:34:09.214769,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.013899999999999996,0.125,0.1111
+2024-11-10 10:30:31.496074,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,0.013999999999999999,0.0909,0.0769
+2024-11-10 06:34:09.217862,League Two - England League Two 2024/25 - Top 3 Finish,Gillingham,0.013999999999999999,0.0909,0.0769
+2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,Seattle Sounders,0.013999999999999999,0.0909,0.0769
 2024-11-10 08:36:16.321528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),0.013899999999999996,0.125,0.1111
-2024-11-10 06:34:09.214769,League Two - England League Two 2024/25 - To Finish Bottom,Colchester United,0.0131,0.0476,0.0345
+2024-11-10 06:34:09.214769,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.013899999999999996,0.125,0.1111
 2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,0.0131,0.2353,0.2222
 2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.0131,0.2353,0.2222
+2024-11-10 06:34:09.214769,League Two - England League Two 2024/25 - To Finish Bottom,Colchester United,0.0131,0.0476,0.0345
 2024-11-10 10:30:31.520388,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,0.012899999999999998,0.0278,0.0149
 2024-11-10 07:24:42.944961,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),0.012199999999999989,0.5,0.4878
 2024-11-10 08:36:16.321528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Dennis Schroder (BKN),0.012100000000000001,0.0244,0.0123
@@ -141,17 +142,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 08:36:16.764750,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.011099999999999999,0.4762,0.4651
 2024-11-10 09:25:56.968426,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 44.5,0.01100000000000001,0.5348,0.5238
 2024-11-10 08:36:16.314354,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Mike Budenholzer,0.010899999999999993,0.1538,0.1429
-2024-11-10 09:25:56.973336,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 39.5,0.010699999999999932,0.5455,0.5348
 2024-11-10 09:25:56.958607,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 50.5,0.010699999999999932,0.5455,0.5348
+2024-11-10 09:25:56.973336,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 39.5,0.010699999999999932,0.5455,0.5348
 2024-11-10 11:22:01.484934,Premiership - Scotland Premiership 2024/25 - Winner,Aberdeen,0.0102,0.0769,0.0667
-2024-11-10 09:25:56.745953,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,0.010199999999999987,0.9333,0.9231
 2024-11-10 09:25:56.820012,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,No,0.010199999999999987,0.9333,0.9231
+2024-11-10 09:25:56.745953,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,0.010199999999999987,0.9333,0.9231
 2024-11-10 08:36:16.610701,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Garrett Nussmeier (LSU),-0.0101,0.004,0.0141
 2024-11-10 09:25:56.968426,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 44.5,-0.010699999999999932,0.5348,0.5455
 2024-11-10 08:36:16.310834,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Donovan Mitchell (CLE),-0.010700000000000001,0.0278,0.0385
 2024-11-10 08:36:16.310834,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Anthony Edwards (MIN),-0.0109,0.0417,0.0526
-2024-11-10 09:25:56.958607,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Over 50.5,-0.01100000000000001,0.5238,0.5348
 2024-11-10 09:25:56.973336,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 39.5,-0.01100000000000001,0.5238,0.5348
+2024-11-10 09:25:56.958607,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Over 50.5,-0.01100000000000001,0.5238,0.5348
+2024-11-10 17:26:27.280750,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.011099999999999999,0.4651,0.4762
 2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,-0.011099999999999999,0.1,0.1111
 2024-11-10 08:36:16.610701,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jaxson Dart (MISS),-0.011199999999999995,0.0476,0.0588
 2024-11-10 05:28:54.107620,Charles Schwab Cup - Charles Schwab Cup - Winner,Paul Broadhurst,-0.0112,0.002,0.0132
@@ -169,8 +171,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 06:34:09.217862,League Two - England League Two 2024/25 - Top 3 Finish,Swindon Town,-0.013400000000000002,0.011,0.0244
 2024-11-10 09:25:56.741844,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,Yes,-0.013600000000000056,0.8197,0.8333
 2024-11-10 08:36:16.314354,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Steve Kerr,-0.013899999999999996,0.1111,0.125
-2024-11-10 06:34:09.211715,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,-0.013999999999999999,0.0769,0.0909
 2024-11-10 11:22:01.484934,Premiership - Scotland Premiership 2024/25 - Winner,Rangers,-0.013999999999999999,0.0769,0.0909
+2024-11-10 06:34:09.211715,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,-0.013999999999999999,0.0769,0.0909
 2024-11-10 08:36:16.307141,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Naz Reid (MIN),-0.013999999999999999,0.0769,0.0909
 2024-11-10 08:36:16.310834,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,James Harden (LAC),-0.013999999999999999,0.0769,0.0909
 2024-11-10 09:25:56.828252,To Make the Playoffs - Utah Jazz 2024-25 - To Make the Playoffs,Yes,-0.014099999999999994,0.0526,0.0667
@@ -183,14 +185,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 08:36:16.310834,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kyrie Irving (DAL),-0.0145,0.0099,0.0244
 2024-11-10 08:36:16.610701,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Dillon Gabriel (ORE),-0.01469999999999999,0.2353,0.25
 2024-11-10 08:36:16.321528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jaden Ivey (DET),-0.014899999999999997,0.0476,0.0625
-2024-11-10 08:36:16.321528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),-0.014899999999999997,0.0476,0.0625
 2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Tennessee,-0.014899999999999997,0.0476,0.0625
+2024-11-10 08:36:16.321528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),-0.014899999999999997,0.0476,0.0625
 2024-11-10 10:30:31.496074,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,-0.015100000000000002,0.1667,0.1818
-2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,-0.015100000000000002,0.8182,0.8333
 2024-11-10 08:36:16.196262,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,-0.015100000000000002,0.8182,0.8333
+2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,-0.015100000000000002,0.8182,0.8333
+2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Mansfield Town,-0.015300000000000001,0.0323,0.0476
 2024-11-10 05:28:52.998389,League One - England League One 2024/25 - Top 6 Finish,Wigan Athletic,-0.015300000000000001,0.0435,0.0588
 2024-11-10 08:36:16.314354,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Ime Udoka,-0.015300000000000001,0.0323,0.0476
-2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Mansfield Town,-0.015300000000000001,0.0323,0.0476
 2024-11-10 08:36:16.307141,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.015899999999999997,0.0952,0.1111
 2024-11-10 08:36:16.307141,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jaime Jaquez Jr. (MIA),-0.0159,0.0164,0.0323
 2024-11-10 09:25:56.721330,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,Yes,-0.016600000000000004,0.0667,0.0833
@@ -201,8 +203,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 07:24:42.955661,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Alexandre Sarr (WAS),-0.0179,0.125,0.1429
 2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,-0.018099999999999998,0.0588,0.0769
 2024-11-10 08:36:16.307141,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Malik Monk (SAC),-0.01830000000000001,0.0769,0.0952
-2024-11-10 08:36:16.321528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Josh Giddey (CHI),-0.0189,0.0196,0.0385
 2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Rotherham Utd,-0.0189,0.0196,0.0385
+2024-11-10 08:36:16.321528,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Josh Giddey (CHI),-0.0189,0.0196,0.0385
 2024-11-10 08:36:16.214831,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.01949999999999999,0.0714,0.0909
 2024-11-10 10:30:31.534739,J1 League - Japan J1 League 2024 - Winner,Machida Zelvia,-0.019499999999999997,0.0099,0.0294
 2024-11-10 05:28:54.107620,Charles Schwab Cup - Charles Schwab Cup - Winner,Vijay Singh,-0.019899999999999998,0.0079,0.0278
@@ -227,9 +229,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 10:30:31.500926,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,-0.02560000000000001,0.3077,0.3333
 2024-11-10 05:28:54.107620,Charles Schwab Cup - Charles Schwab Cup - Winner,Ernie Els,-0.025799999999999997,0.002,0.0278
 2024-11-10 08:36:16.314354,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tom Thibodeau,-0.025900000000000003,0.0217,0.0476
+2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.026499999999999968,0.6226,0.6491
 2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,-0.026499999999999968,0.6226,0.6491
 2024-11-10 09:25:56.762376,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,No,-0.026499999999999968,0.7561,0.7826
-2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.026499999999999968,0.6226,0.6491
 2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Blackpool,-0.026499999999999996,0.0323,0.0588
 2024-11-10 08:36:16.219468,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,-0.0278,0.0278,0.0556
 2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,-0.027800000000000047,0.75,0.7778
@@ -241,8 +243,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 05:28:52.998389,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,-0.03090000000000004,0.5917,0.6226
 2024-11-10 09:25:56.725433,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,No,-0.03180000000000005,0.8571,0.8889
 2024-11-10 09:25:57.007785,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 42.5,-0.033299999999999996,0.5122,0.5455
-2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,-0.033300000000000024,0.1667,0.2
 2024-11-10 06:34:09.211715,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.033300000000000024,0.1667,0.2
+2024-11-10 05:28:52.995251,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,-0.033300000000000024,0.1667,0.2
 2024-11-10 10:30:31.496074,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hertha BSC,-0.034100000000000005,0.0909,0.125
 2024-11-10 05:28:52.998389,League One - England League One 2024/25 - Top 6 Finish,Stevenage,-0.0343,0.0833,0.1176
 2024-11-10 09:25:56.815925,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,-0.034499999999999975,0.6429,0.6774
@@ -265,11 +267,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 09:25:56.766480,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,-0.05020000000000002,0.3846,0.4348
 2024-11-10 06:34:09.208555,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.05520000000000003,0.3448,0.4
 2024-11-10 10:30:31.386872,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Club América,-0.05559999999999998,0.1111,0.1667
-2024-11-10 09:25:56.358207,National League - English National League 2024/25 - English National League Winner,Gateshead,-0.05559999999999998,0.1111,0.1667
-2024-11-10 09:25:56.953687,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 27.5,-0.05559999999999998,0.5,0.5556
 2024-11-10 06:34:09.220968,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,-0.05559999999999998,0.5,0.5556
-2024-11-10 09:25:56.914292,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 32.5,-0.057699999999999974,0.4878,0.5455
+2024-11-10 09:25:56.953687,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 27.5,-0.05559999999999998,0.5,0.5556
+2024-11-10 09:25:56.358207,National League - English National League 2024/25 - English National League Winner,Gateshead,-0.05559999999999998,0.1111,0.1667
 2024-11-10 09:25:56.198664,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.057699999999999974,0.6923,0.75
+2024-11-10 09:25:56.914292,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 32.5,-0.057699999999999974,0.4878,0.5455
 2024-11-10 09:25:56.934039,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 27.5,-0.05860000000000004,0.4762,0.5348
 2024-11-10 07:24:43.230849,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Miami Florida,-0.058899999999999994,0.0244,0.0833
 2024-11-10 10:30:31.327541,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Corinthians,-0.060099999999999994,0.0066,0.0667
