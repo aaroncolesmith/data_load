@@ -826,12 +826,20 @@ def refresh_fbref_data(df):
   # df_all.to_csv('/content/drive/MyDrive/Analytics/fbref_match_data.csv',index=False)
 
   df_all['date_scraped'] = df_all['date_scraped'].astype(str)
+
+  try:
+    df_all['Wk'] = pd.to_numeric(df_all['Wk'], errors='coerce')
+    df_all['Wk'].fillna(0, inplace=True)  # Or drop the rows: df.dropna(subset=['Wk'], inplace=True)
+  except Exception as e:
+    print(f'fb ref failure {e}')
+  
   table = pa.Table.from_pandas(df_all)
   pq.write_table(table, './data/fb_ref_data.parquet',compression='BROTLI')
 
 ## to do -- update this to only run once or a few times per day
 
 # if datetime.now().hour in (2,12,20):
+print('refreshing fb ref')
 refresh_fbref_data(df_soccer)
 
 
