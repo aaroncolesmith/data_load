@@ -5,13 +5,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-11 05:31:44.002324,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,0.2143,0.5,0.2857
 2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Saint-Étienne,0.18779999999999997,0.7333,0.5455
 2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Angers,0.14289999999999992,0.6667,0.5238
+2024-11-11 08:33:24.448038,East Group C - East Group C Winner - East Group C Winner,Boston Celtics,0.12419999999999998,0.6364,0.5122
 2024-11-11 03:33:50.853401,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.1154,0.5,0.3846
+2024-11-11 08:33:24.418546,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,0.11249999999999999,0.3125,0.2
 2024-11-11 06:36:37.734739,NFC East - NFC East 2024/25 - NFC East Winner,Philadelphia Eagles,0.10149999999999992,0.6667,0.5652
-2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,0.09230000000000005,0.4,0.3077
+2024-11-11 08:33:24.428286,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.09549999999999997,0.5122,0.4167
 2024-11-11 01:55:08.061089,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,0.09230000000000005,0.4,0.3077
+2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,0.09230000000000005,0.4,0.3077
 2024-11-11 02:57:46.873550,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Liverpool,0.0917,0.7143,0.6226
 2024-11-11 03:33:50.853401,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.0857,0.2857,0.2
 2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Nantes,0.0857,0.2857,0.2
+2024-11-11 08:33:24.438142,East Group A - East Group A Winner - East Group A Winner,Philadelphia 76ers,0.08549999999999996,0.3077,0.2222
 2024-11-11 04:32:17.533827,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lyon,0.0815,0.125,0.0435
 2024-11-11 05:31:43.999606,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Bayer Leverkusen,0.08079999999999998,0.6552,0.5744
 2024-11-11 03:33:50.853401,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,0.07929999999999993,0.8571,0.7778
@@ -20,18 +24,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-11 04:32:18.227269,Political Specials - Who will Trump nominate for HUD Secretary? - Who will Trump nominate for HUD Secretary?,Ben Carson,0.06930000000000003,0.5238,0.4545
 2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,0.06820000000000001,0.25,0.1818
 2024-11-11 01:55:08.061089,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,0.06670000000000001,0.2,0.1333
+2024-11-11 08:33:24.433227,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.06619999999999998,0.3226,0.2564
 2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Atlético Madrid,0.06600000000000006,0.9231,0.8571
+2024-11-11 08:33:24.418546,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,0.06139999999999998,0.1667,0.1053
+2024-11-11 08:33:24.413698,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.059699999999999975,0.9,0.8403
 2024-11-11 04:32:18.231619,Political Specials - Who will Trump nominate for Homeland Security Secretary? - Who will Trump nominate for Homeland Security Secretary?,Thomas Homan,0.05889999999999995,0.6667,0.6078
 2024-11-11 03:33:51.319800,Political Specials - Who will Trump nominate for Energy Secretary? - Who will Trump nominate for Energy Secretary?,Dan Brouillette,0.058599999999999985,0.3571,0.2985
 2024-11-11 03:33:50.847094,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Liverpool,0.057699999999999974,0.75,0.6923
 2024-11-11 03:33:50.850278,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,0.05710000000000001,0.2,0.1429
 2024-11-11 06:36:37.720127,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,0.0567,0.2105,0.1538
+2024-11-11 08:33:24.458044,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,0.055900000000000005,0.3226,0.2667
 2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Mohamed Salah (Liverpool),0.055800000000000016,0.2857,0.2299
 2024-11-11 03:33:50.853401,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,0.055499999999999994,0.8333,0.7778
 2024-11-11 04:32:17.511039,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,0.0509,0.1176,0.0667
 2024-11-11 06:36:37.739441,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.05080000000000007,0.8182,0.7674
+2024-11-11 08:33:24.423398,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.04830000000000001,0.2222,0.1739
 2024-11-11 04:32:17.511039,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,0.044500000000000095,0.7778,0.7333
 2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Brighton & Hove Albion,0.044499999999999984,0.2667,0.2222
+2024-11-11 08:33:24.458044,West Group B - West Group B Winner - West Group B Winner,Phoenix Suns,0.043800000000000006,0.2105,0.1667
 2024-11-11 03:33:50.850278,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.04270000000000007,0.8889,0.8462
 2024-11-11 04:32:17.507998,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,0.04269999999999999,0.1538,0.1111
 2024-11-11 04:32:17.526204,Serie A - Italy Serie A 2024/25 - Winner,Juventus,0.04169999999999999,0.1667,0.125
@@ -41,18 +51,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-11 03:33:51.319800,Political Specials - Who will Trump nominate for Energy Secretary? - Who will Trump nominate for Energy Secretary?,Doug Burgum,0.03639999999999999,0.6364,0.6
 2024-11-11 01:55:08.069335,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),0.03570000000000001,0.2857,0.25
 2024-11-11 05:31:43.999606,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Eintracht Frankfurt,0.035699999999999996,0.0833,0.0476
+2024-11-11 08:33:24.448038,East Group C - East Group C Winner - East Group C Winner,Chicago Bulls,0.0353,0.0909,0.0556
+2024-11-11 08:33:24.423398,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.033399999999999985,0.1667,0.1333
 2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Brest,0.03330000000000001,0.1,0.0667
+2024-11-11 08:33:24.458044,West Group B - West Group B Winner - West Group B Winner,Utah Jazz,0.033,0.0526,0.0196
 2024-11-11 04:32:17.507998,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Sociedad,0.0321,0.0909,0.0588
 2024-11-11 01:55:08.064686,NBL - Australia NBL 2024/25 - To Make Grand Final,Melbourne United,0.031799999999999995,0.4762,0.4444
 2024-11-11 05:31:44.690132,Political Specials - Who will Trump nominate for Commerce Secretary? - Who will Trump nominate for Commerce Secretary?,Linda McMahon,0.029899999999999927,0.8077,0.7778
+2024-11-11 08:33:24.579580,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),0.029799999999999993,0.125,0.0952
 2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Fulham,0.0294,0.0588,0.0294
 2024-11-11 02:57:46.867137,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.029000000000000026,0.4545,0.4255
 2024-11-11 01:55:08.057926,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,0.028799999999999992,0.1538,0.125
 2024-11-10 21:24:03.350440,Political Specials - Who will Trump nominate for Defense Secretary? - Who will Trump nominate for Defense Secretary?,Robert O'Brien,0.028399999999999995,0.0909,0.0625
+2024-11-11 08:33:24.408925,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.027999999999999914,0.8462,0.8182
 2024-11-11 04:32:17.507998,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.025600000000000067,0.6923,0.6667
 2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.02560000000000001,0.3333,0.3077
 2024-11-11 07:28:22.542462,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,0.025599999999999956,0.6,0.5744
 2024-11-11 03:33:50.850278,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,0.025300000000000003,0.1429,0.1176
+2024-11-11 08:33:24.442985,East Group B - East Group B Winner - East Group B Winner,Indiana Pacers,0.0252,0.303,0.2778
 2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Strasbourg,0.0245,0.0833,0.0588
 2024-11-11 05:31:44.002324,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.023799999999999988,0.1667,0.1429
 2024-11-11 04:32:17.511039,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,0.023200000000000002,0.0526,0.0294
@@ -62,10 +78,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-11 01:55:07.975774,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Evan Mobley (CLE),0.019899999999999998,0.0278,0.0079
 2024-11-11 07:28:22.565834,Western Conference - Western Conference 2024-25 - Western Conference Winner,Memphis Grizzlies,0.01949999999999999,0.0909,0.0714
 2024-11-11 04:32:17.533827,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Reims,0.0194,0.0244,0.005
-2024-11-11 06:36:37.715337,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Baltimore Ravens,0.019000000000000017,0.2857,0.2667
 2024-11-11 01:55:08.057926,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.019000000000000017,0.2857,0.2667
+2024-11-11 06:36:37.715337,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Baltimore Ravens,0.019000000000000017,0.2857,0.2667
 2024-11-11 03:33:50.850278,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Liverpool,0.01849999999999996,0.9709,0.9524
 2024-11-11 03:33:50.843955,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,0.018100000000000005,0.5833,0.5652
+2024-11-11 08:33:24.423398,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.017600000000000005,0.3509,0.3333
+2024-11-11 08:33:24.458044,West Group B - West Group B Winner - West Group B Winner,San Antonio Spurs,0.01759999999999999,0.1176,0.1
 2024-11-11 03:33:50.850278,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,0.01759999999999999,0.1176,0.1
 2024-11-11 03:33:50.843955,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Manchester City,0.016700000000000007,0.1,0.0833
 2024-11-11 06:36:37.715337,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Pittsburgh Steelers,0.016600000000000004,0.0833,0.0667
@@ -73,95 +91,114 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-11 07:28:22.557266,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.015100000000000002,0.1818,0.1667
 2024-11-11 04:32:17.526204,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.01469999999999999,0.25,0.2353
 2024-11-11 01:55:08.057926,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,0.014499999999999999,0.0294,0.0149
+2024-11-11 08:33:24.442985,East Group B - East Group B Winner - East Group B Winner,Detroit Pistons,0.013999999999999999,0.0909,0.0769
 2024-11-11 06:36:37.710472,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Philadelphia Eagles,0.013999999999999999,0.0909,0.0769
 2024-11-11 01:55:07.975774,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Darius Garland (CLE),0.0138,0.0217,0.0079
 2024-11-11 07:28:22.569363,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Southwest,0.01319999999999999,0.2632,0.25
-2024-11-11 06:36:37.720127,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.012899999999999995,0.1667,0.1538
 2024-11-11 01:55:08.069335,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.012899999999999995,0.1667,0.1538
+2024-11-11 06:36:37.720127,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.012899999999999995,0.1667,0.1538
 2024-11-11 04:32:18.218780,Political Specials - Who will Trump nominate for Energy Secretary? - Who will Trump nominate for Energy Secretary?,Doug Burgum,0.012700000000000045,0.6491,0.6364
 2024-11-11 07:28:22.538868,NBA Championship - NBA Championship 2024-25 - NBA Champion,Memphis Grizzlies,0.012700000000000003,0.0323,0.0196
 2024-11-11 04:32:17.526204,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,0.012299999999999991,0.1176,0.1053
 2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Yoan Wissa (Brentford),0.012100000000000001,0.0244,0.0123
 2024-11-11 07:28:22.557266,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Orlando Magic,0.011899999999999994,0.0833,0.0714
+2024-11-11 08:33:24.408925,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.011700000000000016,0.2222,0.2105
+2024-11-11 08:33:24.579580,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.011699999999999988,0.2857,0.274
+2024-11-11 08:33:24.462988,West Group C - West Group C Winner - West Group C Winner,Denver Nuggets,0.01150000000000001,0.3448,0.3333
 2024-11-11 06:36:37.720127,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Seattle Seahawks,0.011200000000000002,0.0244,0.0132
+2024-11-11 08:33:24.428286,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Charlotte Hornets,0.011199999999999995,0.0435,0.0323
 2024-11-11 05:31:43.996871,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.011199999999999988,0.9524,0.9412
 2024-11-11 04:32:17.530881,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,0.011199999999999988,0.9524,0.9412
 2024-11-11 06:36:37.720127,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Minnesota Vikings,0.011099999999999999,0.1111,0.1
 2024-11-11 07:28:22.565834,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,0.010899999999999993,0.1538,0.1429
+2024-11-11 08:33:24.433227,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,0.010700000000000001,0.0385,0.0278
 2024-11-11 04:32:18.401318,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,0.010699999999999987,0.3333,0.3226
 2024-11-11 01:55:08.064686,NBL - Australia NBL 2024/25 - To Make Grand Final,Tasmania JackJumpers,0.0102,0.0769,0.0667
 2024-11-11 04:32:18.389120,Boxing Lines - Mario Barrios vs Abel Ramos - To Win the Bout,Mario Barrios,0.010199999999999987,0.9333,0.9231
 2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Rennes,0.010100000000000001,0.0345,0.0244
 2024-11-11 04:32:17.533827,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Toulouse,0.0101,0.0123,0.0022
 2024-11-11 05:31:44.874562,Boxing Lines - Mario Barrios vs Abel Ramos - To Win the Bout,Mario Barrios,-0.010199999999999987,0.9231,0.9333
-2024-11-11 05:31:44.002324,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Union Berlin,-0.0102,0.0667,0.0769
 2024-11-11 06:36:37.720127,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,-0.0102,0.0667,0.0769
-2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Nicolas Jackson (Chelsea),-0.0102,0.0667,0.0769
 2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Ollie Watkins (Aston Villa),-0.0102,0.0667,0.0769
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Nicolas Jackson (Chelsea),-0.0102,0.0667,0.0769
+2024-11-11 05:31:44.002324,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Union Berlin,-0.0102,0.0667,0.0769
+2024-11-11 08:33:24.453097,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,-0.010399999999999993,0.2222,0.2326
 2024-11-11 05:31:44.878512,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,-0.010699999999999987,0.3226,0.3333
-2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,AJ Auxerre,-0.011099999999999999,0.1,0.1111
-2024-11-11 04:32:17.507998,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,-0.011099999999999999,0.1,0.1111
 2024-11-11 03:33:50.847094,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,-0.011099999999999999,0.1,0.1111
+2024-11-11 04:32:17.507998,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,-0.011099999999999999,0.1,0.1111
+2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,AJ Auxerre,-0.011099999999999999,0.1,0.1111
 2024-11-11 06:36:37.372747,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.011099999999999999,0.2667,0.2778
-2024-11-11 02:57:46.867137,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Chelsea,-0.011199999999999995,0.0476,0.0588
 2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Dominic Solanke (Tottenham),-0.011199999999999995,0.0476,0.0588
+2024-11-11 08:33:24.579580,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Dereck Lively II (DAL),-0.011199999999999995,0.0476,0.0588
+2024-11-11 02:57:46.867137,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Chelsea,-0.011199999999999995,0.0476,0.0588
 2024-11-11 06:36:37.715337,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Houston Texans,-0.011900000000000008,0.0833,0.0952
 2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Alavés,-0.012100000000000001,0.0123,0.0244
+2024-11-11 08:33:24.433227,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.012199999999999989,0.5,0.5122
 2024-11-11 07:28:22.569363,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Northwest,-0.012199999999999989,0.5,0.5122
+2024-11-11 08:33:24.448038,East Group C - East Group C Winner - East Group C Winner,Atlanta Hawks,-0.012499999999999997,0.05,0.0625
 2024-11-11 06:36:37.744140,AFC East - AFC East 2024/25 - AFC East Winner,Miami Dolphins,-0.013,0.0066,0.0196
-2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Rayo Vallecano,-0.0131,0.0345,0.0476
 2024-11-11 04:32:17.511039,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.0131,0.0345,0.0476
 2024-11-11 02:57:46.867137,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.0131,0.2222,0.2353
+2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Rayo Vallecano,-0.0131,0.0345,0.0476
 2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,-0.014099999999999994,0.0526,0.0667
 2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Bukayo Saka (Arsenal),-0.014100000000000001,0.0385,0.0526
 2024-11-11 07:28:22.545749,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,-0.01419999999999999,0.3704,0.3846
 2024-11-11 03:33:50.853401,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Leicester City,-0.014499999999999999,0.0149,0.0294
 2024-11-11 04:32:17.507998,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Celta de Vigo,-0.014499999999999999,0.0149,0.0294
+2024-11-11 08:33:24.438142,East Group A - East Group A Winner - East Group A Winner,Brooklyn Nets,-0.014899999999999997,0.0476,0.0625
 2024-11-11 06:36:37.720127,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Tampa Bay Buccaneers,-0.014900000000000004,0.0196,0.0345
 2024-11-11 06:36:37.753604,AFC West - AFC West 2024/25 - AFC West Winner,Los Angeles Chargers,-0.015300000000000001,0.0435,0.0588
+2024-11-11 08:33:24.442985,East Group B - East Group B Winner - East Group B Winner,Milwaukee Bucks,-0.016000000000000014,0.3922,0.4082
 2024-11-11 02:57:46.867137,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Tottenham Hotspur,-0.017099999999999997,0.0123,0.0294
 2024-11-11 03:33:50.850278,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,-0.018200000000000004,0.0294,0.0476
 2024-11-11 07:28:22.565834,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.018400000000000027,0.2941,0.3125
-2024-11-11 04:32:18.223038,Political Specials - Who will Trump nominate for HHS Secretary? - Who will Trump nominate for HHS Secretary?,Bobby Jindal,-0.019000000000000017,0.2667,0.2857
 2024-11-11 04:32:17.511039,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.019000000000000017,0.2667,0.2857
+2024-11-11 04:32:18.223038,Political Specials - Who will Trump nominate for HHS Secretary? - Who will Trump nominate for HHS Secretary?,Bobby Jindal,-0.019000000000000017,0.2667,0.2857
 2024-11-11 05:31:43.999606,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,VfB Stuttgart,-0.019099999999999992,0.0476,0.0667
 2024-11-11 06:36:37.753604,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,-0.0194,0.005,0.0244
 2024-11-11 03:33:50.853401,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Newcastle United,-0.020199999999999996,0.8889,0.9091
+2024-11-11 08:33:24.413698,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.02020000000000001,0.0909,0.1111
 2024-11-11 05:31:44.690132,Political Specials - Who will Trump nominate for Commerce Secretary? - Who will Trump nominate for Commerce Secretary?,Bill Hagerty,-0.02049999999999999,0.1333,0.1538
+2024-11-11 08:33:24.462988,West Group C - West Group C Winner - West Group C Winner,Dallas Mavericks,-0.020799999999999985,0.3125,0.3333
 2024-11-11 06:36:37.739441,NFC North - NFC North 2024/25 - NFC North Winner,Chicago Bears,-0.021199999999999997,0.0066,0.0278
 2024-11-11 03:33:50.847094,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,-0.02169999999999994,0.5238,0.5455
-2024-11-11 03:33:50.843955,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,-0.021999999999999964,0.2857,0.3077
 2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,-0.021999999999999964,0.2857,0.3077
+2024-11-11 03:33:50.843955,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,-0.021999999999999964,0.2857,0.3077
+2024-11-11 08:33:24.438142,East Group A - East Group A Winner - East Group A Winner,Charlotte Hornets,-0.022000000000000006,0.0833,0.1053
 2024-11-11 03:33:50.847094,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,-0.02200000000000002,0.6923,0.7143
+2024-11-11 07:28:22.560807,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Central,-0.022199999999999998,0.2,0.2222
 2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,-0.022199999999999998,0.1111,0.1333
 2024-11-11 06:36:37.710472,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Kansas City Chiefs,-0.022199999999999998,0.2,0.2222
-2024-11-11 07:28:22.560807,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Central,-0.022199999999999998,0.2,0.2222
 2024-11-11 07:28:22.542462,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,-0.022699999999999998,0.4651,0.4878
-2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Reims,-0.023200000000000002,0.0294,0.0526
 2024-11-11 03:33:50.847094,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Tottenham Hotspur,-0.023200000000000002,0.0244,0.0476
+2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Reims,-0.023200000000000002,0.0294,0.0526
 2024-11-11 06:36:37.710472,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Detroit Lions,-0.023800000000000016,0.1667,0.1905
+2024-11-11 08:33:24.438142,East Group A - East Group A Winner - East Group A Winner,Orlando Magic,-0.023800000000000016,0.1667,0.1905
 2024-11-11 06:36:37.739441,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,-0.0242,0.0667,0.0909
+2024-11-11 08:33:24.442985,East Group B - East Group B Winner - East Group B Winner,Toronto Raptors,-0.024299999999999995,0.0526,0.0769
 2024-11-11 06:36:37.744140,AFC East - AFC East 2024/25 - AFC East Winner,New York Jets,-0.024600000000000004,0.0099,0.0345
 2024-11-11 06:36:37.758319,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,-0.024999999999999994,0.1,0.125
 2024-11-11 04:32:17.526204,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.027700000000000058,0.5556,0.5833
-2024-11-11 03:33:50.850278,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,-0.027999999999999997,0.1538,0.1818
 2024-11-11 07:28:22.557266,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.027999999999999997,0.1053,0.1333
 2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Cole Palmer (Chelsea),-0.027999999999999997,0.1538,0.1818
+2024-11-11 03:33:50.850278,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,-0.027999999999999997,0.1538,0.1818
 2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Bryan Mbeumo (Brentford),-0.029299999999999993,0.0476,0.0769
 2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Heung-Min Son (Tottenham),-0.0294,0.0294,0.0588
 2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Celta de Vigo,-0.030699999999999998,0.0526,0.0833
 2024-11-11 03:33:50.853401,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Nottingham Forest,-0.031799999999999995,0.4444,0.4762
 2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Bournemouth,-0.0321,0.0588,0.0909
 2024-11-11 04:32:17.513943,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,-0.03270000000000001,0.0149,0.0476
+2024-11-11 08:33:24.428286,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.033299999999999996,0.5122,0.5455
 2024-11-11 05:31:43.999606,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Borussia Dortmund,-0.034100000000000005,0.0909,0.125
 2024-11-11 03:33:51.319800,Political Specials - Who will Trump nominate for Energy Secretary? - Who will Trump nominate for Energy Secretary?,Paul Dabbar,-0.035699999999999996,0.0476,0.0833
 2024-11-11 03:33:51.319800,Political Specials - Who will Trump nominate for Energy Secretary? - Who will Trump nominate for Energy Secretary?,Mark Menezes,-0.035699999999999996,0.0476,0.0833
+2024-11-11 08:33:24.438142,East Group A - East Group A Winner - East Group A Winner,New York Knicks,-0.03600000000000003,0.4878,0.5238
 2024-11-11 06:36:37.730059,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,-0.0394000000000001,0.7333,0.7727
 2024-11-11 06:36:37.763011,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,-0.042899999999999994,0.1,0.1429
 2024-11-11 05:31:44.690132,Political Specials - Who will Trump nominate for Commerce Secretary? - Who will Trump nominate for Commerce Secretary?,Robert Lighthizer,-0.044499999999999984,0.2222,0.2667
 2024-11-11 06:36:37.763011,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,-0.045499999999999985,0.4545,0.5
-2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Toulouse,-0.0474,0.0435,0.0909
 2024-11-11 06:36:37.748841,AFC South - AFC South 2024/25 - AFC South Winner,Houston Texans,-0.0474,0.9091,0.9565
+2024-11-11 04:32:17.536592,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Toulouse,-0.0474,0.0435,0.0909
 2024-11-10 21:24:03.350440,Political Specials - Who will Trump nominate for Defense Secretary? - Who will Trump nominate for Defense Secretary?,Christopher Miller,-0.04849999999999999,0.1053,0.1538
 2024-11-11 05:31:44.002324,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,-0.050000000000000044,0.75,0.8
 2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.05130000000000001,0.3333,0.3846
@@ -171,6 +208,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 21:24:03.350440,Political Specials - Who will Trump nominate for Defense Secretary? - Who will Trump nominate for Defense Secretary?,Tom Cotton,-0.056400000000000006,0.0769,0.1333
 2024-11-11 05:31:43.999606,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,-0.057699999999999974,0.25,0.3077
 2024-11-11 04:32:17.533827,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,-0.0635,0.2222,0.2857
+2024-11-11 08:33:24.423398,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.06440000000000001,0.3704,0.4348
 2024-11-11 03:33:50.853401,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.066,0.0769,0.1429
 2024-11-11 02:57:46.873550,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.06670000000000004,0.3333,0.4
 2024-11-11 05:31:44.002324,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.06929999999999997,0.4762,0.5455
@@ -183,5 +221,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-11 03:33:50.843955,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,-0.0917,0.6226,0.7143
 2024-11-11 03:33:50.853401,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.11109999999999998,0.2222,0.3333
 2024-11-11 06:36:37.734739,NFC East - NFC East 2024/25 - NFC East Winner,Washington Commanders,-0.11219999999999997,0.4,0.5122
+2024-11-11 08:33:24.418546,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,-0.12159999999999993,0.661,0.7826
 2024-11-11 04:32:17.511039,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,-0.12380000000000002,0.4,0.5238
 2024-11-11 04:32:18.223038,Political Specials - Who will Trump nominate for HHS Secretary? - Who will Trump nominate for HHS Secretary?,Brian Blase,-0.13130000000000003,0.0909,0.2222
+2024-11-11 08:33:24.458044,West Group B - West Group B Winner - West Group B Winner,Oklahoma City Thunder,-0.14739999999999998,0.4082,0.5556
+2024-11-11 08:33:24.448038,East Group C - East Group C Winner - East Group C Winner,Cleveland Cavaliers,-0.1526,0.3125,0.4651
