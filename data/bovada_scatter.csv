@@ -7,24 +7,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,0.14139999999999997,0.3636,0.2222
 2024-11-10 16:31:27.334173,MLS - USA MLS 2024 - Futures - To Reach the Final,Atlanta United,0.10769999999999999,0.1176,0.0099
 2024-11-11 01:55:08.061089,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,0.09230000000000005,0.4,0.3077
+2024-11-11 02:57:46.873550,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Liverpool,0.0917,0.7143,0.6226
 2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,New York City FC,0.0882,0.1176,0.0294
 2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,0.0849,0.2667,0.1818
 2024-11-11 01:55:08.061089,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,0.07500000000000001,0.2,0.125
 2024-11-10 16:31:27.334173,MLS - USA MLS 2024 - Futures - To Reach the Final,Los Angeles FC,0.07450000000000001,0.5,0.4255
-2024-11-10 14:27:33.645240,West Group C - West Group C Winner - West Group C Winner,Denver Nuggets,0.0701,0.3333,0.2632
 2024-11-11 01:55:08.061089,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,0.06670000000000001,0.2,0.1333
-2024-11-10 14:27:33.640477,West Group B - West Group B Winner - West Group B Winner,Oklahoma City Thunder,0.05559999999999998,0.5556,0.5
-2024-11-10 14:27:33.640477,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,0.044499999999999984,0.2667,0.2222
-2024-11-10 14:27:33.645240,West Group C - West Group C Winner - West Group C Winner,Dallas Mavericks,0.043399999999999994,0.3333,0.2899
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Mohamed Salah (Liverpool),0.055800000000000016,0.2857,0.2299
+2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Brighton & Hove Albion,0.044499999999999984,0.2667,0.2222
 2024-11-11 01:55:08.069335,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),0.03570000000000001,0.2857,0.25
 2024-11-10 17:26:26.721165,"Daily Specials - NBA Daily Specials  - Sunday, November 10th - Late Games","Timberwolves, Nuggets and Lakers Each 49+ Points in Each Half",0.03480000000000005,0.5348,0.5
 2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,Atlanta United,0.0335,0.0385,0.005
 2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,New York Red Bulls,0.03330000000000001,0.1,0.0667
 2024-11-11 01:55:08.064686,NBL - Australia NBL 2024/25 - To Make Grand Final,Melbourne United,0.031799999999999995,0.4762,0.4444
+2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Fulham,0.0294,0.0588,0.0294
+2024-11-11 02:57:46.867137,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.029000000000000026,0.4545,0.4255
 2024-11-11 01:55:08.057926,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,0.028799999999999992,0.1538,0.125
 2024-11-10 21:24:03.350440,Political Specials - Who will Trump nominate for Defense Secretary? - Who will Trump nominate for Defense Secretary?,Robert O'Brien,0.028399999999999995,0.0909,0.0625
-2024-11-10 14:27:33.645240,West Group C - West Group C Winner - West Group C Winner,Golden State Warriors,0.02679999999999999,0.3125,0.2857
-2024-11-10 14:27:33.640477,West Group B - West Group B Winner - West Group B Winner,San Antonio Spurs,0.02310000000000001,0.1,0.0769
+2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.02560000000000001,0.3333,0.3077
 2024-11-11 01:55:07.975774,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Evan Mobley (CLE),0.019899999999999998,0.0278,0.0079
 2024-11-11 01:55:08.057926,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.019000000000000017,0.2857,0.2667
 2024-11-10 16:31:27.334173,MLS - USA MLS 2024 - Futures - To Reach the Final,Minnesota United,0.01759999999999999,0.1176,0.1
@@ -32,14 +32,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-10 16:31:27.331939,MLS - USA MLS 2024 - Futures - Winner,Seattle Sounders,0.013999999999999999,0.0909,0.0769
 2024-11-11 01:55:07.975774,In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament MVP,Darius Garland (CLE),0.0138,0.0217,0.0079
 2024-11-11 01:55:08.069335,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.012899999999999995,0.1667,0.1538
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Yoan Wissa (Brentford),0.012100000000000001,0.0244,0.0123
 2024-11-10 18:32:36.603953,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.011099999999999999,0.4762,0.4651
 2024-11-11 01:55:08.064686,NBL - Australia NBL 2024/25 - To Make Grand Final,Tasmania JackJumpers,0.0102,0.0769,0.0667
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Nicolas Jackson (Chelsea),-0.0102,0.0667,0.0769
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Ollie Watkins (Aston Villa),-0.0102,0.0667,0.0769
 2024-11-10 18:32:36.619435,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,-0.010699999999999987,0.3226,0.3333
 2024-11-10 17:26:27.280750,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.011099999999999999,0.4651,0.4762
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Dominic Solanke (Tottenham),-0.011199999999999995,0.0476,0.0588
+2024-11-11 02:57:46.867137,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Chelsea,-0.011199999999999995,0.0476,0.0588
 2024-11-10 16:31:27.334173,MLS - USA MLS 2024 - Futures - To Reach the Final,Seattle Sounders,-0.012899999999999995,0.1538,0.1667
+2024-11-11 02:57:46.867137,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.0131,0.2222,0.2353
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Bukayo Saka (Arsenal),-0.014100000000000001,0.0385,0.0526
+2024-11-11 02:57:46.867137,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Tottenham Hotspur,-0.017099999999999997,0.0123,0.0294
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Cole Palmer (Chelsea),-0.027999999999999997,0.1538,0.1818
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Bryan Mbeumo (Brentford),-0.029299999999999993,0.0476,0.0769
+2024-11-11 02:57:46.881005,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Heung-Min Son (Tottenham),-0.0294,0.0294,0.0588
+2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Bournemouth,-0.0321,0.0588,0.0909
 2024-11-10 16:31:27.334173,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,-0.04089999999999999,0.3846,0.4255
 2024-11-10 21:24:03.350440,Political Specials - Who will Trump nominate for Defense Secretary? - Who will Trump nominate for Defense Secretary?,Christopher Miller,-0.04849999999999999,0.1053,0.1538
+2024-11-11 02:57:46.870282,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.05130000000000001,0.3333,0.3846
 2024-11-10 21:24:03.350440,Political Specials - Who will Trump nominate for Defense Secretary? - Who will Trump nominate for Defense Secretary?,Tom Cotton,-0.056400000000000006,0.0769,0.1333
-2024-11-10 14:27:33.645240,West Group C - West Group C Winner - West Group C Winner,New Orleans Pelicans,-0.06999999999999999,0.0476,0.1176
-2024-11-10 14:27:33.645240,West Group C - West Group C Winner - West Group C Winner,Memphis Grizzlies,-0.0906,0.0833,0.1739
-2024-11-10 14:27:33.640477,West Group B - West Group B Winner - West Group B Winner,Phoenix Suns,-0.11900000000000002,0.1667,0.2857
+2024-11-11 02:57:46.873550,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.06670000000000004,0.3333,0.4
