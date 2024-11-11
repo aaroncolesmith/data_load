@@ -831,8 +831,8 @@ def refresh_fbref_data(df):
 
 ## to do -- update this to only run once or a few times per day
 
-if datetime.now().hour in (2,12,20):
-  refresh_fbref_data(df_soccer)
+# if datetime.now().hour in (2,12,20):
+refresh_fbref_data(df_soccer)
 
 
 
