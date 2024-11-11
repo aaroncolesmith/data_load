@@ -584,6 +584,9 @@ def update_trank(df_cbb):
   df = df.loc[df.keep_record == 1]
 
   df['ttq'] = df['ttq'].astype(str)
+  print('saving trank_db')
+  print(df.columns)
+  
   table = pa.Table.from_pandas(df)
   pq.write_table(table, './data/trank_db.parquet',compression='BROTLI')
 
@@ -734,7 +737,9 @@ def update_merged_data(df_cbb, df_trank):
   df3.loc[(df3.bet_advice=='bet_favorite')&(df3.fav_result=='dog_wins'), 'bet_advice_result'] = 'loss'
   df3.loc[(df3.bet_advice=='bet_dog')&(df3.fav_result=='fav_wins'), 'bet_advice_result'] = 'loss'
 
-
+  print('saving merged trank data')
+  print(df3.columns)
+  
   table = pa.Table.from_pandas(df3)
   pq.write_table(table, './data/trank_db_merged.parquet',compression='BROTLI')
 
