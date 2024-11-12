@@ -12,8 +12,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-12 10:33:22.017375,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.05740000000000001,0.4348,0.3774
 2024-11-12 12:51:28.672956,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,0.03950000000000001,0.2062,0.1667
 2024-11-12 09:29:07.760978,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.03640000000000004,0.4,0.3636
-2024-11-12 12:51:28.855754,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),0.034100000000000005,0.125,0.0909
 2024-11-12 01:51:38.554500,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Luciano Neves (Sao Paulo),0.034100000000000005,0.125,0.0909
+2024-11-12 12:51:28.855754,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),0.034100000000000005,0.125,0.0909
 2024-11-12 05:30:51.457180,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,0.033299999999999996,0.4878,0.4545
 2024-11-12 09:29:07.760978,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Racing Club,0.0294,0.0588,0.0294
 2024-11-12 12:51:28.249380,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,0.02779999999999999,0.25,0.2222
@@ -21,13 +21,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-12 09:29:07.760978,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,River Plate,0.023200000000000002,0.0476,0.0244
 2024-11-12 12:51:28.141714,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayern Munich,0.02169999999999994,0.5455,0.5238
 2024-11-12 08:33:22.419175,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Alabama,0.02020000000000001,0.1111,0.0909
+2024-11-12 13:32:39.704286,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.01970000000000005,0.5652,0.5455
 2024-11-12 12:51:28.852020,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.016700000000000007,0.1,0.0833
 2024-11-12 12:51:29.143471,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.016400000000000026,0.339,0.3226
 2024-11-12 12:51:28.103234,UEFA Champions League - UEFA Champions League 2024/25 - Winner,FC Barcelona,0.012899999999999995,0.1667,0.1538
 2024-11-12 12:51:28.677634,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.012699999999999989,0.3636,0.3509
+2024-11-12 13:32:39.700178,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,0.011099999999999999,0.4762,0.4651
 2024-11-12 12:51:28.852020,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),0.010700000000000043,0.6774,0.6667
-2024-11-12 05:30:51.403179,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,0.0102,0.0769,0.0667
 2024-11-12 12:51:28.233268,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,0.0102,0.0769,0.0667
+2024-11-12 05:30:51.403179,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,0.0102,0.0769,0.0667
 2024-11-12 12:51:28.103234,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayer Leverkusen,-0.010700000000000001,0.0278,0.0385
 2024-11-12 12:51:28.132213,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Liverpool,-0.01100000000000001,0.5238,0.5348
 2024-11-12 04:31:48.788500,Political Specials - Who will Trump nominate for Treasury Secretary? - Who will Trump nominate for Treasury Secretary?,Bill Hagerty,-0.014400000000000003,0.0179,0.0323
@@ -39,6 +41,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-12 12:51:28.863172,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Edwards (MIN),-0.02020000000000001,0.0909,0.1111
 2024-11-12 12:51:28.103234,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,-0.022199999999999998,0.2,0.2222
 2024-11-12 05:30:51.457180,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,-0.02310000000000001,0.0769,0.1
+2024-11-12 13:32:39.704286,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,-0.023800000000000043,0.5,0.5238
 2024-11-12 04:31:48.788500,Political Specials - Who will Trump nominate for Treasury Secretary? - Who will Trump nominate for Treasury Secretary?,Robert Lighthizer,-0.024,0.0385,0.0625
 2024-11-12 01:51:38.554500,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,de Castro Helinho (Bragantino),-0.028000000000000004,0.0196,0.0476
 2024-11-12 04:31:48.788500,Political Specials - Who will Trump nominate for Treasury Secretary? - Who will Trump nominate for Treasury Secretary?,Howard Lutnick,-0.0408,0.0217,0.0625
