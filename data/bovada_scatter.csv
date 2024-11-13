@@ -24,6 +24,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-13 12:51:15.524929,Boxing Lines - Oscar Duarte Jurado vs Batyr Akhmedov - To Win the Bout,Batyr Akhmedov,0.03600000000000003,0.5238,0.4878
 2024-11-13 15:29:52.883706,Political Specials - Who will Trump nominate for Energy Secretary? - Who will Trump nominate for Energy Secretary?,Mark Menezes,0.0334,0.0769,0.0435
 2024-11-13 08:34:24.185482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Buddy Hield (GSW),0.033300000000000024,0.2,0.1667
+2024-11-13 17:29:13.822094,Positions - Finishing Position - Seamus Power - Finishing Position,21st or worse,0.031799999999999995,0.4762,0.4444
 2024-11-13 10:33:52.434935,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Samford,0.030299999999999994,0.3333,0.303
 2024-11-13 14:31:02.546837,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - C. Hadley / J. Bramlett / K. Kraft - 1st Round 3 Balls,Joseph Bramlett,0.029600000000000015,0.4,0.3704
 2024-11-13 09:29:00.996135,West Group C - West Group C Winner - West Group C Winner,Memphis Grizzlies,0.027800000000000005,0.1111,0.0833
@@ -32,36 +33,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-13 10:33:52.430838,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Kentucky,0.0242,0.0909,0.0667
 2024-11-13 15:29:52.644683,West Group A - West Group A Winner - West Group A Winner,Portland Trail Blazers,0.02310000000000001,0.1,0.0769
 2024-11-13 09:29:01.001131,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Golden State Warriors,0.02310000000000001,0.1,0.0769
-2024-11-13 16:34:00.424059,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-13 17:29:13.764696,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
 2024-11-13 14:31:02.831376,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
-2024-11-13 12:51:15.936615,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
-2024-11-13 11:24:17.942491,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
 2024-11-13 15:29:53.583447,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-13 16:34:00.424059,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-13 12:51:15.936615,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
 2024-11-13 10:33:53.324835,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
-2024-11-13 07:26:58.164811,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
-2024-11-13 05:31:26.607201,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
-2024-11-13 06:36:16.867917,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-13 11:24:17.942491,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
 2024-11-13 09:29:01.566711,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
 2024-11-13 08:34:24.676925,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-13 07:26:58.164811,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-13 06:36:16.867917,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-13 05:31:26.607201,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
 2024-11-13 14:31:02.708111,Round Match-Ups - 1st Round Match-Up - T. Duncan vs T. Alexander - 1st Round Match-Up,Tyler Duncan,0.02169999999999994,0.5455,0.5238
 2024-11-13 12:51:15.529091,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.019699999999999995,0.4545,0.4348
 2024-11-13 15:29:52.606935,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,0.01949999999999999,0.0909,0.0714
 2024-11-13 08:34:24.189210,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Darius Garland (CLE),0.019099999999999995,0.0435,0.0244
-2024-11-13 08:34:24.710939,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
+2024-11-13 16:34:00.331924,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
+2024-11-13 15:29:53.495696,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-13 14:31:02.743905,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
+2024-11-13 17:29:13.671476,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-13 12:51:15.845249,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-13 11:24:17.854337,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-13 09:29:01.601013,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
-2024-11-13 06:36:16.902016,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
+2024-11-13 08:34:24.710939,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-13 07:26:58.200180,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
-2024-11-13 16:34:00.331924,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
-2024-11-13 15:29:53.495696,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
+2024-11-13 06:36:16.902016,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-13 05:31:26.641313,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-13 15:29:53.155500,Boxing Lines - Lucas Bahdi vs Armando Casamonica - To Win the Bout,Armando Casamonica,0.0179,0.1429,0.125
 2024-11-13 09:29:01.001131,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Cleveland Cavaliers,0.01759999999999999,0.1176,0.1
-2024-11-13 10:33:52.422572,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Bradley,0.016699999999999993,0.4167,0.4
 2024-11-13 09:29:00.996135,West Group C - West Group C Winner - West Group C Winner,New Orleans Pelicans,0.016699999999999993,0.0667,0.05
 2024-11-13 10:33:52.458409,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Paige Bueckers (UConn),0.016699999999999993,0.4167,0.4
+2024-11-13 10:33:52.422572,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Bradley,0.016699999999999993,0.4167,0.4
 2024-11-13 12:51:15.512453,Boxing Lines - Neeraj Goyat vs Whindersson Nunes - To Win the Bout,Neeraj Goyat,0.016599999999999948,0.8261,0.8095
 2024-11-13 10:33:52.422572,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Drake,0.015700000000000006,0.1333,0.1176
 2024-11-13 14:31:02.436685,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Jose Carlos Ramirez,0.014800000000000035,0.6226,0.6078
@@ -91,8 +94,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-13 10:33:52.426648,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,-0.010800000000000004,0.2273,0.2381
 2024-11-13 14:31:02.424605,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.01100000000000001,0.5238,0.5348
 2024-11-13 10:33:52.402166,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Ohio State,-0.011099999999999999,0.1,0.1111
-2024-11-13 08:34:24.513996,Boxing Lines - Neeraj Goyat vs Whindersson Nunes - To Win the Bout,Whindersson Nunes,-0.011099999999999999,0.2667,0.2778
 2024-11-13 08:34:24.538181,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Gilberto Ramirez,-0.011099999999999999,0.7222,0.7333
+2024-11-13 08:34:24.513996,Boxing Lines - Neeraj Goyat vs Whindersson Nunes - To Win the Bout,Whindersson Nunes,-0.011099999999999999,0.2667,0.2778
 2024-11-13 10:33:52.398018,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),North Carolina,-0.011200000000000015,0.2062,0.2174
 2024-11-13 10:33:52.393884,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Richmond,-0.011399999999999997,0.0164,0.0278
 2024-11-13 16:34:00.015682,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,-0.01150000000000001,0.3333,0.3448
@@ -103,8 +106,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-13 08:34:24.192771,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,-0.0131,0.0345,0.0476
 2024-11-13 10:33:52.414421,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Liberty,-0.01319999999999999,0.25,0.2632
 2024-11-13 08:34:24.196322,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),-0.013899999999999996,0.1111,0.125
-2024-11-13 10:33:52.448661,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),-0.013999999999999999,0.0769,0.0909
 2024-11-13 09:29:00.981756,East Group C - East Group C Winner - East Group C Winner,Chicago Bulls,-0.013999999999999999,0.0769,0.0909
+2024-11-13 10:33:52.448661,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),-0.013999999999999999,0.0769,0.0909
 2024-11-13 12:51:15.490777,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.014000000000000012,0.6875,0.7015
 2024-11-13 14:31:02.339189,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jalen Milroe (ALA),-0.014100000000000001,0.0385,0.0526
 2024-11-13 10:33:52.422572,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Southern Illinois,-0.014399999999999996,0.0625,0.0769
@@ -120,20 +123,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-13 14:31:02.339189,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Dillon Gabriel (ORE),-0.0179,0.2174,0.2353
 2024-11-13 08:34:24.185482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Dereck Lively II (DAL),-0.018200000000000004,0.0294,0.0476
 2024-11-13 12:51:15.512453,Boxing Lines - Neeraj Goyat vs Whindersson Nunes - To Win the Bout,Whindersson Nunes,-0.018699999999999994,0.241,0.2597
-2024-11-13 08:34:24.200042,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Suggs (ORL),-0.019000000000000003,0.0435,0.0625
 2024-11-13 09:29:01.001131,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Dallas Mavericks,-0.019000000000000003,0.0435,0.0625
-2024-11-13 09:29:01.566711,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-13 15:29:53.583447,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-13 10:33:52.439042,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),UAB,-0.019000000000000017,0.2667,0.2857
-2024-11-13 10:33:53.324835,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-13 11:24:17.942491,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-13 08:34:24.676925,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-13 05:31:26.607201,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-13 12:51:15.936615,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 08:34:24.200042,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Suggs (ORL),-0.019000000000000003,0.0435,0.0625
 2024-11-13 14:31:02.831376,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-13 06:36:16.867917,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
 2024-11-13 16:34:00.424059,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 05:31:26.607201,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 10:33:52.439042,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),UAB,-0.019000000000000017,0.2667,0.2857
+2024-11-13 06:36:16.867917,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
 2024-11-13 07:26:58.164811,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 17:29:13.764696,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 08:34:24.676925,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 12:51:15.936615,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 15:29:53.583447,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 11:24:17.942491,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 09:29:01.566711,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-13 10:33:53.324835,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
 2024-11-13 08:34:24.096112,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.01949999999999999,0.0714,0.0909
 2024-11-13 09:29:01.001131,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Philadelphia 76ers,-0.019800000000000005,0.0278,0.0476
 2024-11-13 08:34:24.189210,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,James Harden (LAC),-0.0203,0.0385,0.0588
@@ -141,23 +145,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-13 08:34:24.086695,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,-0.02049999999999999,0.1333,0.1538
 2024-11-13 14:31:02.166404,Political Specials - Who will Trump nominate for Treasury Secretary? - Who will Trump nominate for Treasury Secretary?,Scott Bessent,-0.02080000000000004,0.9167,0.9375
 2024-11-13 12:51:15.529091,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Jose Carlos Ramirez,-0.02180000000000004,0.6078,0.6296
-2024-11-13 10:33:52.454144,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.022199999999999998,0.2,0.2222
-2024-11-13 14:31:02.743905,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
-2024-11-13 07:26:58.200180,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
 2024-11-13 16:34:00.331924,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
+2024-11-13 17:29:13.671476,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
+2024-11-13 14:31:02.743905,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
 2024-11-13 11:24:17.854337,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
-2024-11-13 06:36:16.902016,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
-2024-11-13 08:34:24.710939,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
-2024-11-13 15:29:53.495696,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
 2024-11-13 12:51:15.845249,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
+2024-11-13 10:33:52.454144,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.022199999999999998,0.2,0.2222
+2024-11-13 15:29:53.495696,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
 2024-11-13 05:31:26.641313,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
 2024-11-13 09:29:01.601013,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
+2024-11-13 08:34:24.710939,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
+2024-11-13 07:26:58.200180,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
+2024-11-13 06:36:16.902016,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
 2024-11-13 10:33:52.430838,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,-0.022199999999999998,0.2,0.2222
+2024-11-13 17:29:13.822094,Positions - Finishing Position - Seamus Power - Finishing Position,20th or better,-0.022600000000000064,0.6,0.6226
 2024-11-13 08:34:24.081877,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.022699999999999998,0.4651,0.4878
 2024-11-13 08:34:24.200042,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Payton Pritchard (BOS),-0.023200000000000002,0.0244,0.0476
 2024-11-13 14:31:02.546837,Bermuda Championship - 2/3 Balls - 1st Round 3 Balls - C. Hadley / J. Bramlett / K. Kraft - 1st Round 3 Balls,Chesson Hadley,-0.02360000000000001,0.3846,0.4082
-2024-11-13 08:34:24.114926,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.023799999999999988,0.4762,0.5
 2024-11-13 10:33:52.388851,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,-0.023799999999999988,0.1429,0.1667
+2024-11-13 08:34:24.114926,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.023799999999999988,0.4762,0.5
 2024-11-13 10:33:52.410381,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,-0.023800000000000016,0.1667,0.1905
 2024-11-13 14:31:02.708111,Round Match-Ups - 1st Round Match-Up - T. Duncan vs T. Alexander - 1st Round Match-Up,Tyson Alexander,-0.023800000000000043,0.5,0.5238
 2024-11-13 08:34:24.185482,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Tre Mann (CHA),-0.0242,0.0667,0.0909
