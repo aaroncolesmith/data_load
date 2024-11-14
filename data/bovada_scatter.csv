@@ -13,8 +13,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 12:52:56.182998,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,0.0847,0.3704,0.2857
 2024-11-14 10:34:11.921531,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 29.5,0.07740000000000002,0.5652,0.4878
 2024-11-14 10:34:11.797844,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Houston Rockets,0.07739999999999997,0.5122,0.4348
-2024-11-14 09:29:23.858900,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Cleveland Cavaliers,0.0726,0.3226,0.25
 2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.0726,0.75,0.6774
+2024-11-14 09:29:23.858900,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Cleveland Cavaliers,0.0726,0.3226,0.25
 2024-11-14 10:34:11.797844,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Oklahoma City Thunder,0.0708,0.1333,0.0625
 2024-11-14 09:29:23.877151,Western Conference - Conference Seeding  - To Be #1 Seed,Golden State Warriors,0.0705,0.1538,0.0833
 2024-11-14 10:34:11.797844,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,L.A. Clippers,0.06840000000000002,0.4255,0.3571
@@ -25,8 +25,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 10:34:12.031430,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 34.5,0.057699999999999974,0.5455,0.4878
 2024-11-14 10:34:11.901452,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 32.5,0.057699999999999974,0.5455,0.4878
 2024-11-14 07:27:16.566921,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Quinn,0.0562,0.2667,0.2105
-2024-11-14 10:34:12.006523,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Over 43.5,0.05559999999999998,0.5556,0.5
 2024-11-14 10:34:12.001450,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 56.5,0.05559999999999998,0.5556,0.5
+2024-11-14 10:34:12.006523,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Over 43.5,0.05559999999999998,0.5556,0.5
 2024-11-14 10:34:11.793520,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Milwaukee Bucks,0.053100000000000036,0.4167,0.3636
 2024-11-14 10:34:11.797844,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Memphis Grizzlies,0.05299999999999999,0.4878,0.4348
 2024-11-14 09:29:23.877151,Western Conference - Conference Seeding  - To Be #1 Seed,Denver Nuggets,0.0509,0.1176,0.0667
@@ -35,8 +35,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 07:27:16.570386,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kyler Murray (ARI),0.048100000000000004,0.125,0.0769
 2024-11-14 12:52:56.220905,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Florida Atlantic,0.04619999999999999,0.1176,0.0714
 2024-11-14 10:34:11.936519,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 50.5,0.045499999999999985,0.5455,0.5
-2024-11-14 10:34:11.996489,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 52.5,0.045499999999999985,0.5455,0.5
 2024-11-14 08:34:18.548585,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.045499999999999985,0.5,0.4545
+2024-11-14 10:34:11.996489,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 52.5,0.045499999999999985,0.5455,0.5
 2024-11-14 10:34:11.797844,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Minnesota Timberwolves,0.04409999999999997,0.2941,0.25
 2024-11-14 09:29:23.897555,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,0.043800000000000006,0.25,0.2062
 2024-11-14 10:34:11.981508,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 44.5,0.043399999999999994,0.5556,0.5122
@@ -56,8 +56,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 07:27:16.573882,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),0.032099999999999906,0.6154,0.5833
 2024-11-14 10:34:11.741989,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,No,0.031,0.1739,0.1429
 2024-11-14 09:29:23.877151,Western Conference - Conference Seeding  - To Be #1 Seed,Sacramento Kings,0.030199999999999998,0.0625,0.0323
-2024-11-14 10:34:11.793520,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Charlotte Hornets,0.029000000000000026,0.4545,0.4255
 2024-11-14 10:34:11.797844,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,0.029000000000000026,0.4545,0.4255
+2024-11-14 10:34:11.793520,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Charlotte Hornets,0.029000000000000026,0.4545,0.4255
 2024-11-14 10:34:11.793520,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Brooklyn Nets,0.02850000000000001,0.0952,0.0667
 2024-11-14 07:27:16.584956,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),0.028399999999999995,0.0909,0.0625
 2024-11-14 14:31:41.070592,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,0.028199999999999996,0.0667,0.0385
@@ -79,12 +79,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 09:29:23.883906,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.023799999999999932,0.8571,0.8333
 2024-11-14 10:34:11.725058,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,0.023399999999999976,0.7059,0.6825
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Phoenix Suns,0.0232,0.0667,0.0435
-2024-11-14 08:34:19.140581,East Group C - East Group C Winner - East Group C Winner,Chicago Bulls,0.02310000000000001,0.1,0.0769
 2024-11-14 10:34:11.758807,To Make the Playoffs - Orlando Magic 2024-25 - To Make the Playoffs,Yes,0.02310000000000001,0.875,0.8519
-2024-11-14 07:27:17.089506,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
-2024-11-14 08:34:19.989794,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-14 08:34:19.140581,East Group C - East Group C Winner - East Group C Winner,Chicago Bulls,0.02310000000000001,0.1,0.0769
 2024-11-14 09:29:24.841759,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
-2024-11-14 06:37:27.013648,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-14 08:34:19.989794,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
+2024-11-14 07:27:17.089506,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
 2024-11-14 10:34:11.797844,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Denver Nuggets,0.022199999999999998,0.3448,0.3226
 2024-11-14 10:34:12.822536,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,0.022199999999999998,0.8,0.7778
 2024-11-14 10:34:12.041393,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 23.5,0.02079999999999993,0.5556,0.5348
@@ -94,10 +93,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 10:34:11.888970,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,0.02020000000000001,0.1111,0.0909
 2024-11-14 15:30:18.224989,Boxing Lines - Lucas Bahdi vs Armando Casamonica - To Win the Bout,Armando Casamonica,0.020100000000000007,0.1739,0.1538
 2024-11-14 09:29:23.847564,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,0.019699999999999995,0.125,0.1053
-2024-11-14 07:27:17.004189,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
-2024-11-14 08:34:19.905680,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-14 10:34:12.734926,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
-2024-11-14 06:37:26.926422,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
+2024-11-14 08:34:19.905680,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
+2024-11-14 07:27:17.004189,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-14 09:29:24.756078,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,0.019000000000000017,0.2857,0.2667
 2024-11-14 07:27:16.577412,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Lamar Jackson (BAL),0.019000000000000003,0.0625,0.0435
 2024-11-14 10:34:11.797844,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Sacramento Kings,0.018900000000000028,0.4444,0.4255
@@ -110,8 +108,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 09:29:23.904433,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.015400000000000025,0.4,0.3846
 2024-11-14 08:34:19.571727,Boxing Lines - Neeraj Goyat vs Whindersson Nunes - To Win the Bout,Whindersson Nunes,0.015400000000000025,0.2564,0.241
 2024-11-14 07:27:16.577412,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Derrick Henry (BAL),0.01539999999999997,0.6154,0.6
-2024-11-14 08:34:18.548585,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.015100000000000002,0.8333,0.8182
 2024-11-14 10:34:11.733486,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,0.015100000000000002,0.8333,0.8182
+2024-11-14 08:34:18.548585,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.015100000000000002,0.8333,0.8182
 2024-11-14 08:34:19.140581,East Group C - East Group C Winner - East Group C Winner,Atlanta Hawks,0.014900000000000024,0.3226,0.3077
 2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Dallas Turner (MIN),0.014900000000000004,0.0345,0.0196
 2024-11-14 13:34:14.962000,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Connecticut,0.01479999999999998,0.3922,0.3774
@@ -122,8 +120,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 09:29:24.419438,Boxing Lines - Neeraj Goyat vs Whindersson Nunes - To Win the Bout,Neeraj Goyat,0.0129999999999999,0.8261,0.8131
 2024-11-14 14:31:41.074094,MLB Specials - MLB Specials 2025 - Which MLB Team will Max Fried Play his First Regular Season Game for in the 2025 Season?,Dodgers,0.012899999999999995,0.1667,0.1538
 2024-11-14 14:31:40.528522,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Liam McNeely (UConn),0.012100000000000001,0.0244,0.0123
-2024-11-14 10:34:11.885358,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Norman Powell (LAC),0.0118,0.0217,0.0099
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Dallas Mavericks,0.0118,0.0217,0.0099
+2024-11-14 10:34:11.885358,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Norman Powell (LAC),0.0118,0.0217,0.0099
 2024-11-14 09:29:23.971764,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,Yes,0.011700000000000016,0.2222,0.2105
 2024-11-14 17:30:16.888017,Boxing Lines - Oscar Duarte Jurado vs Batyr Akhmedov - To Win the Bout,Batyr Akhmedov,0.0116,0.4878,0.4762
 2024-11-14 13:34:14.962000,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,0.01150000000000001,0.3448,0.3333
@@ -131,42 +129,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 12:52:56.182998,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Richmond,0.011399999999999997,0.0278,0.0164
 2024-11-14 09:29:23.975873,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,Yes,0.011300000000000004,0.1852,0.1739
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs LA Lakers,0.011199999999999995,0.0435,0.0323
-2024-11-14 08:34:19.603491,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Gilberto Ramirez,0.011099999999999999,0.7333,0.7222
 2024-11-14 09:29:23.847564,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.011099999999999999,0.4762,0.4651
 2024-11-14 09:29:23.831268,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.011099999999999999,0.4762,0.4651
+2024-11-14 08:34:19.603491,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Gilberto Ramirez,0.011099999999999999,0.7333,0.7222
 2024-11-14 13:34:15.438413,College Game Day Specials - Undefeated Regular Season - Which teams remain undefeated?,Army,0.011099999999999999,0.1111,0.1
 2024-11-14 15:30:17.265855,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Phoenix Suns,0.010700000000000001,0.0385,0.0278
-2024-11-14 15:30:18.265991,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,0.010699999999999987,0.3333,0.3226
 2024-11-14 09:29:23.917883,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.010699999999999987,0.3333,0.3226
+2024-11-14 15:30:18.265991,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,0.010699999999999987,0.3333,0.3226
+2024-11-14 19:23:03.395632,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Donovan Mitchell (CLE),0.010600000000000002,0.0323,0.0217
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Memphis Grizzlies,0.010600000000000002,0.0323,0.0217
 2024-11-14 18:36:57.262225,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.010599999999999998,0.4651,0.4545
-2024-11-14 09:29:23.847564,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Orlando Magic,0.0102,0.0769,0.0667
 2024-11-14 09:29:23.254788,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Pablo Vegetti (Vasco Da Gama),0.0102,0.0769,0.0667
+2024-11-14 09:29:23.847564,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Orlando Magic,0.0102,0.0769,0.0667
 2024-11-14 10:34:11.986585,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 51.5,0.010099999999999998,0.5556,0.5455
 2024-11-14 10:34:12.036405,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 28.5,0.010099999999999998,0.5556,0.5455
 2024-11-14 12:52:56.182998,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Loyola Chicago,-0.010099999999999998,0.0952,0.1053
 2024-11-14 07:27:16.573882,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Trey Hendrickson (CIN),-0.0102,0.0667,0.0769
 2024-11-14 07:27:16.563286,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Geno Smith (SEA),-0.0102,0.005,0.0152
-2024-11-14 12:52:56.182998,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),George Washington,-0.010300000000000002,0.0141,0.0244
 2024-11-14 07:27:16.577412,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Kyren Williams (LAR),-0.010300000000000002,0.0141,0.0244
 2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Javon Bullard (GB),-0.010300000000000002,0.0141,0.0244
+2024-11-14 12:52:56.182998,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),George Washington,-0.010300000000000002,0.0141,0.0244
 2024-11-14 12:52:56.225023,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Saint Mary's CA,-0.010499999999999982,0.2,0.2105
 2024-11-14 15:30:18.261922,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.010599999999999998,0.4545,0.4651
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Milwaukee Bucks vs Oklahoma City Thunder,-0.010600000000000002,0.0217,0.0323
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,New York Knicks vs Denver Nuggets,-0.010600000000000002,0.0217,0.0323
 2024-11-14 10:34:12.422146,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,-0.010699999999999987,0.3226,0.3333
-2024-11-14 15:30:17.265855,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Philadelphia 76ers to beat Oklahoma City Thunder,-0.010700000000000001,0.011,0.0217
 2024-11-14 13:34:14.962000,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Virginia Commonwealth,-0.010700000000000001,0.011,0.0217
+2024-11-14 15:30:17.265855,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Philadelphia 76ers to beat Oklahoma City Thunder,-0.010700000000000001,0.011,0.0217
 2024-11-14 10:34:12.394142,Boxing Lines - Bruce Carrington vs Dana Coolwell - To Win the Bout,Dana Coolwell,-0.010899999999999993,0.1429,0.1538
 2024-11-14 09:29:23.971764,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,No,-0.01090000000000002,0.8462,0.8571
 2024-11-14 10:34:11.888970,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Steve Kerr,-0.011099999999999999,0.1,0.1111
 2024-11-14 10:34:11.892625,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),-0.011099999999999999,0.1,0.1111
-2024-11-14 12:52:56.187574,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Louisville,-0.011199999999999995,0.0476,0.0588
 2024-11-14 14:31:40.528522,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Braden Smith (Purdue),-0.011199999999999995,0.0323,0.0435
+2024-11-14 12:52:56.187574,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Louisville,-0.011199999999999995,0.0476,0.0588
 2024-11-14 09:29:23.263768,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Mineiro,-0.0112,0.004,0.0152
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Philadelphia 76ers vs Dallas Mavericks,-0.011399999999999997,0.0164,0.0278
-2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tyler Nubin (NYG),-0.0115,0.0179,0.0294
 2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jonah Elliss (DEN),-0.0115,0.0179,0.0294
+2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tyler Nubin (NYG),-0.0115,0.0179,0.0294
 2024-11-14 08:34:19.603491,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,-0.01150000000000001,0.3333,0.3448
 2024-11-14 10:34:12.036405,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 28.5,-0.011600000000000055,0.5122,0.5238
 2024-11-14 07:27:16.577412,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Jayden Daniels (WAS),-0.0118,0.0099,0.0217
@@ -176,8 +175,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 09:29:23.975873,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,No,-0.012400000000000078,0.8824,0.8948
 2024-11-14 10:34:11.754621,To Make the Playoffs - Oklahoma City Thunder 2024-25 - To Make the Playoffs,Yes,-0.012599999999999945,0.9804,0.993
 2024-11-14 07:27:16.577412,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),-0.012700000000000003,0.0196,0.0323
-2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Nate Wiggins (BAL),-0.012700000000000003,0.0196,0.0323
 2024-11-14 12:52:56.220905,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Tulsa,-0.012700000000000003,0.0196,0.0323
+2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Nate Wiggins (BAL),-0.012700000000000003,0.0196,0.0323
 2024-11-14 12:52:56.225023,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,-0.012899999999999912,0.8333,0.8462
 2024-11-14 09:29:24.423437,Boxing Lines - Bruce Carrington vs Dana Coolwell - To Win the Bout,Dana Coolwell,-0.012899999999999995,0.1538,0.1667
 2024-11-14 07:27:16.563286,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Baker Mayfield (TB),-0.012899999999999998,0.005,0.0179
@@ -190,39 +189,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 09:29:23.967608,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,Yes,-0.014099999999999994,0.0526,0.0667
 2024-11-14 07:27:16.584956,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Caleb Williams (CHI),-0.014099999999999998,0.0244,0.0385
 2024-11-14 12:52:56.212774,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Arkansas,-0.014399999999999996,0.0625,0.0769
-2024-11-14 16:36:08.652018,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Milano,-0.0145,0.0099,0.0244
 2024-11-14 16:36:08.652018,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Maccabi Tel-Aviv,-0.0145,0.0099,0.0244
+2024-11-14 16:36:08.652018,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Milano,-0.0145,0.0099,0.0244
 2024-11-14 09:29:23.858900,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Boston Celtics,-0.014800000000000035,0.6078,0.6226
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Milwaukee Bucks vs Minnesota Timberwolves,-0.0151,0.0066,0.0217
 2024-11-14 07:27:16.566921,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,-0.015100000000000002,0.1667,0.1818
-2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Cooper DeJean (PHI),-0.015300000000000001,0.0435,0.0588
 2024-11-14 09:29:24.067826,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Miles McBride (NYK),-0.015300000000000001,0.0323,0.0476
+2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Cooper DeJean (PHI),-0.015300000000000001,0.0435,0.0588
 2024-11-14 07:27:16.563286,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Kyler Murray (ARI),-0.015300000000000001,0.0435,0.0588
 2024-11-14 09:29:24.419438,Boxing Lines - Neeraj Goyat vs Whindersson Nunes - To Win the Bout,Whindersson Nunes,-0.015400000000000025,0.241,0.2564
 2024-11-14 13:34:15.438413,College Game Day Specials - Undefeated Regular Season - Which teams remain undefeated?,Byu,-0.016699999999999993,0.25,0.2667
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Philadelphia 76ers vs Minnesota Timberwolves,-0.017099999999999997,0.0123,0.0294
-2024-11-14 17:30:16.888017,Boxing Lines - Oscar Duarte Jurado vs Batyr Akhmedov - To Win the Bout,Oscar Duarte Jurado,-0.017299999999999982,0.5744,0.5917
 2024-11-14 09:29:23.834641,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Northwest Division,-0.017299999999999982,0.2857,0.303
+2024-11-14 17:30:16.888017,Boxing Lines - Oscar Duarte Jurado vs Batyr Akhmedov - To Win the Bout,Oscar Duarte Jurado,-0.017299999999999982,0.5744,0.5917
 2024-11-14 10:34:11.733486,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,No,-0.0174,0.2326,0.25
-2024-11-14 09:29:23.254788,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Hulk (Atletico MG),-0.0179,0.125,0.1429
 2024-11-14 12:52:56.191910,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.0179,0.125,0.1429
+2024-11-14 09:29:23.254788,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Hulk (Atletico MG),-0.0179,0.125,0.1429
 2024-11-14 09:29:23.890733,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,-0.0179,0.125,0.1429
 2024-11-14 09:29:24.067826,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Trey Murphy (NOP),-0.0179,0.0099,0.0278
 2024-11-14 09:29:23.263768,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.018200000000000004,0.0294,0.0476
 2024-11-14 10:34:12.046392,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 21.5,-0.01880000000000004,0.5556,0.5744
-2024-11-14 12:52:56.182998,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),St. Bonaventure,-0.0189,0.0196,0.0385
 2024-11-14 13:34:14.962000,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Oklahoma,-0.0189,0.0196,0.0385
 2024-11-14 13:34:14.962000,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Pittsburgh,-0.0189,0.0196,0.0385
+2024-11-14 12:52:56.182998,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),St. Bonaventure,-0.0189,0.0196,0.0385
 2024-11-14 13:34:14.962000,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Cincinnati,-0.019000000000000003,0.0435,0.0625
-2024-11-14 10:34:12.822536,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-14 09:29:24.841759,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-14 08:34:19.989794,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
 2024-11-14 07:27:17.089506,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
-2024-11-14 06:37:27.013648,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-14 08:34:19.989794,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-14 09:29:24.841759,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
+2024-11-14 10:34:12.822536,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Miss,-0.019000000000000017,0.2667,0.2857
 2024-11-14 09:29:23.858900,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Philadelphia 76ers,-0.019100000000000002,0.0132,0.0323
 2024-11-14 10:34:11.699562,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,No,-0.019600000000000006,0.2273,0.2469
-2024-11-14 09:29:23.852817,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Southeast,-0.019699999999999995,0.1053,0.125
 2024-11-14 14:31:40.528522,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,RJ Davis (North Carolina),-0.019699999999999995,0.1053,0.125
+2024-11-14 09:29:23.852817,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Southeast,-0.019699999999999995,0.1053,0.125
 2024-11-14 10:34:11.941493,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 27.5,-0.01970000000000005,0.5455,0.5652
 2024-11-14 07:27:16.563286,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Sam Darnold (MIN),-0.020000000000000004,0.0123,0.0323
 2024-11-14 15:30:18.224989,Boxing Lines - Lucas Bahdi vs Armando Casamonica - To Win the Bout,Lucas Bahdi,-0.020199999999999996,0.8889,0.9091
@@ -231,28 +229,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,New York Knicks vs Minnesota Timberwolves,-0.0206,0.0179,0.0385
 2024-11-14 10:34:11.725058,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,-0.02100000000000002,0.3636,0.3846
 2024-11-14 08:34:18.545704,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,-0.02200000000000002,0.6923,0.7143
-2024-11-14 16:36:08.664943,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,-0.022199999999999998,0.2,0.2222
-2024-11-14 06:37:26.926422,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
-2024-11-14 07:27:17.004189,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
-2024-11-14 16:36:08.664943,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,-0.022199999999999998,0.2,0.2222
-2024-11-14 08:34:19.905680,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
-2024-11-14 09:29:24.756078,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
 2024-11-14 10:34:12.734926,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
+2024-11-14 09:29:24.756078,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
 2024-11-14 12:52:56.191910,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,-0.022199999999999998,0.1111,0.1333
+2024-11-14 08:34:19.905680,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
+2024-11-14 07:27:17.004189,Cut Lines - Jhonattan Vegas - Make Cut / Miss Cut - Jhonattan Vegas,Make,-0.022199999999999998,0.7778,0.8
+2024-11-14 16:36:08.664943,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,-0.022199999999999998,0.2,0.2222
+2024-11-14 16:36:08.664943,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,-0.022199999999999998,0.2,0.2222
 2024-11-14 13:34:14.962000,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Clemson,-0.022200000000000004,0.0278,0.05
+2024-11-14 10:34:12.041393,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 23.5,-0.022600000000000064,0.5122,0.5348
 2024-11-14 10:34:11.956489,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 44.5,-0.022600000000000064,0.5122,0.5348
 2024-11-14 10:34:12.418167,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Jose Carlos Ramirez,-0.022600000000000064,0.6,0.6226
-2024-11-14 10:34:12.041393,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 23.5,-0.022600000000000064,0.5122,0.5348
 2024-11-14 09:29:23.834641,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Southwest Division,-0.02310000000000001,0.125,0.1481
 2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Calen Bullock (HOU),-0.0232,0.0435,0.0667
 2024-11-14 07:27:16.573882,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Brian Branch (DET),-0.023200000000000002,0.0244,0.0476
-2024-11-14 14:31:40.528522,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Mark Sears (Alabama),-0.023799999999999988,0.1429,0.1667
 2024-11-14 08:34:19.145275,West Group A - West Group A Winner - West Group A Winner,Minnesota Timberwolves,-0.023799999999999988,0.2703,0.2941
+2024-11-14 14:31:40.528522,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Mark Sears (Alabama),-0.023799999999999988,0.1429,0.1667
 2024-11-14 15:30:17.261646,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Minnesota Timberwolves,-0.0238,0.0476,0.0714
 2024-11-14 07:27:16.573882,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Xavier McKinney (GB),-0.024,0.0385,0.0625
 2024-11-14 07:27:16.570386,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),-0.0242,0.0667,0.0909
-2024-11-14 13:34:14.962000,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,-0.0242,0.0667,0.0909
 2024-11-14 09:29:23.890733,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.0242,0.0667,0.0909
+2024-11-14 13:34:14.962000,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,-0.0242,0.0667,0.0909
 2024-11-14 14:31:41.070592,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Giants,-0.024299999999999995,0.0526,0.0769
 2024-11-14 09:29:23.865929,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.024999999999999994,0.1,0.125
 2024-11-14 09:29:23.871072,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Southwest,-0.025099999999999983,0.2381,0.2632
@@ -282,29 +279,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-14 09:29:23.897555,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.03950000000000001,0.2105,0.25
 2024-11-14 10:34:11.729289,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,No,-0.039600000000000024,0.4255,0.4651
 2024-11-14 07:27:16.577412,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),-0.04099999999999998,0.2667,0.3077
-2024-11-14 10:34:11.936519,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 50.5,-0.04139999999999999,0.5238,0.5652
 2024-11-14 10:34:11.996489,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 52.5,-0.04139999999999999,0.5238,0.5652
-2024-11-14 09:29:23.858900,Eastern Conference - Conference Seeding  - To Be #1 Seed ,New York Knicks,-0.04169999999999999,0.125,0.1667
+2024-11-14 10:34:11.936519,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 50.5,-0.04139999999999999,0.5238,0.5652
 2024-11-14 07:27:16.566921,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jonathan Gannon,-0.04169999999999999,0.125,0.1667
+2024-11-14 09:29:23.858900,Eastern Conference - Conference Seeding  - To Be #1 Seed ,New York Knicks,-0.04169999999999999,0.125,0.1667
 2024-11-14 07:27:16.573882,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Chris Jones (USM),-0.042899999999999994,0.1,0.1429
-2024-11-14 07:27:16.573882,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),-0.04329999999999999,0.0476,0.0909
 2024-11-14 07:27:16.581484,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell (PHI),-0.04329999999999999,0.0476,0.0909
+2024-11-14 07:27:16.573882,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),-0.04329999999999999,0.0476,0.0909
 2024-11-14 07:27:16.570386,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Aaron Rodgers (NYJ),-0.04329999999999999,0.0476,0.0909
 2024-11-14 10:34:11.981508,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 44.5,-0.043399999999999994,0.5122,0.5556
-2024-11-14 09:29:23.911167,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.044399999999999995,0.4,0.4444
 2024-11-14 07:27:16.570386,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kirk Cousins (ATL),-0.044399999999999995,0.5556,0.6
+2024-11-14 09:29:23.911167,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.044399999999999995,0.4,0.4444
 2024-11-14 12:52:56.220905,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),South Florida,-0.044599999999999994,0.0323,0.0769
 2024-11-14 10:34:12.021454,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 22.5,-0.045499999999999985,0.5,0.5455
 2024-11-14 10:34:11.712295,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,No,-0.045499999999999985,0.4545,0.5
 2024-11-14 07:27:16.570386,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Nick Chubb (CLE),-0.0474,0.0435,0.0909
 2024-11-14 07:27:16.570386,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),-0.048100000000000004,0.0769,0.125
-2024-11-14 09:29:23.883906,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.04999999999999999,0.2,0.25
 2024-11-14 11:24:42.729659,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),-0.04999999999999999,0.2,0.25
+2024-11-14 09:29:23.883906,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.04999999999999999,0.2,0.25
 2024-11-14 10:34:12.031430,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 34.5,-0.05059999999999998,0.5238,0.5744
 2024-11-14 10:34:11.901452,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 32.5,-0.05059999999999998,0.5238,0.5744
 2024-11-14 12:52:56.182998,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Joseph's,-0.052000000000000005,0.0909,0.1429
-2024-11-14 10:34:12.001450,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 56.5,-0.05300000000000005,0.5122,0.5652
 2024-11-14 10:34:12.006523,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 43.5,-0.05300000000000005,0.5122,0.5652
+2024-11-14 10:34:12.001450,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 56.5,-0.05300000000000005,0.5122,0.5652
 2024-11-14 08:34:18.548585,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.05590000000000006,0.6364,0.6923
 2024-11-14 07:27:16.566921,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,-0.05710000000000001,0.1429,0.2
 2024-11-14 07:27:16.570386,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Jameis Winston (CLE),-0.0573,0.0196,0.0769
