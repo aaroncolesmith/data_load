@@ -17,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,0.033300000000000024,0.2,0.1667
 2024-11-15 05:31:36.996387,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.031799999999999995,0.4762,0.4444
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Jiwon Jeon,0.0303,0.0323,0.002
+2024-11-15 13:34:14.687352,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Jose Carlos Ramirez,0.02960000000000007,0.6296,0.6
 2024-11-15 05:31:36.900682,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,0.029299999999999993,0.0769,0.0476
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,0.02850000000000001,0.0952,0.0667
 2024-11-15 05:31:36.477376,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Stephen Curry (GSW),0.028399999999999995,0.0909,0.0625
@@ -26,8 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-15 05:31:36.996387,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes (KC),0.025300000000000003,0.1429,0.1176
 2024-11-15 07:27:53.254422,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,0.023799999999999988,0.3571,0.3333
 2024-11-15 04:34:25.402748,Boxing Lines - William Zepeda vs Farmer Tevin - To Win the Bout,Farmer Tevin,0.02310000000000001,0.1,0.0769
-2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Mi Hyang Lee,0.022799999999999997,0.0278,0.005
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Gemma Dryburgh,0.022799999999999997,0.0278,0.005
+2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Mi Hyang Lee,0.022799999999999997,0.0278,0.005
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Clemson,0.022200000000000004,0.05,0.0278
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Maja Stark,0.022099999999999998,0.0385,0.0164
 2024-11-15 05:31:36.996387,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy (SF),0.021099999999999994,0.0556,0.0345
@@ -42,8 +43,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Pittsburgh,0.0189,0.0385,0.0196
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Oklahoma,0.0189,0.0385,0.0196
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,St. John's,0.01830000000000001,0.0952,0.0769
-2024-11-15 05:31:36.999899,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jonathan Gannon,0.0179,0.1429,0.125
 2024-11-15 05:31:37.003360,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Justin Herbert (LAC),0.0179,0.0278,0.0099
+2024-11-15 05:31:36.999899,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jonathan Gannon,0.0179,0.1429,0.125
 2024-11-15 05:31:36.440650,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.017600000000000005,0.3509,0.3333
 2024-11-15 03:40:27.104292,Boxing Lines - Shadasia Green vs Watpool Melinda - To Win the Bout,Watpool Melinda,0.017600000000000005,0.3509,0.3333
 2024-11-15 06:40:57.124069,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Ryan Kalkbrenner (Creighton),0.016600000000000004,0.0833,0.0667
@@ -54,12 +55,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-15 06:40:57.114137,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.014399999999999996,0.0769,0.0625
 2024-11-15 07:27:52.671219,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Arkansas,0.014399999999999996,0.0769,0.0625
 2024-11-15 07:27:52.634703,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,0.01419999999999999,0.3846,0.3704
-2024-11-15 05:31:37.003360,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),0.013999999999999999,0.0909,0.0769
 2024-11-15 05:31:36.477376,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Nikola Jokic (DEN),0.013999999999999999,0.0909,0.0769
+2024-11-15 05:31:37.003360,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),0.013999999999999999,0.0909,0.0769
 2024-11-15 07:27:52.650986,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,0.013899999999999996,0.125,0.1111
 2024-11-15 05:31:37.128299,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.013300000000000034,0.3704,0.3571
-2024-11-15 06:40:57.114137,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Oklahoma State,0.0131,0.0164,0.0033
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Rose Zhang,0.0131,0.0476,0.0345
+2024-11-15 06:40:57.114137,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Oklahoma State,0.0131,0.0164,0.0033
 2024-11-15 07:27:52.683381,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,0.012899999999999912,0.8462,0.8333
 2024-11-15 05:31:36.477376,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Darius Garland (CLE),0.012800000000000002,0.0345,0.0217
 2024-11-15 06:40:57.167390,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kevin Durant (PHX),0.012600000000000007,0.0714,0.0588
@@ -68,8 +69,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Carlota Ciganda,0.0118,0.0217,0.0099
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Cheyenne Knight,0.0113,0.0179,0.0066
 2024-11-15 03:04:44.642481,Boxing Lines - Shadasia Green vs Watpool Melinda - To Win the Bout,Shadasia Green,0.011099999999999999,0.7333,0.7222
-2024-11-15 04:34:25.390784,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.011099999999999999,0.4762,0.4651
 2024-11-15 03:04:44.661993,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.011099999999999999,0.4762,0.4651
+2024-11-15 04:34:25.390784,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.011099999999999999,0.4762,0.4651
 2024-11-15 10:34:46.652976,Boxing Lines - Shadasia Green vs Watpool Melinda - To Win the Bout,Shadasia Green,0.011099999999999999,0.7333,0.7222
 2024-11-15 08:34:22.777045,Round Match-Ups - 2nd Round Match-Up - J. Lower vs P. Rodgers - Outright,Justin Lower,0.01100000000000001,0.5348,0.5238
 2024-11-15 06:40:57.171082,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,0.010999999999999996,0.0455,0.0345
@@ -77,27 +78,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,0.010899999999999993,0.1538,0.1429
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Virginia Commonwealth,0.010700000000000001,0.0217,0.011
 2024-11-15 02:00:42.804250,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Chris Billam-Smith,0.010699999999999987,0.3333,0.3226
+2024-11-15 07:27:52.683381,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Saint Mary's CA,0.010499999999999982,0.2105,0.2
 2024-11-15 07:27:52.671219,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,0.010499999999999982,0.2105,0.2
 2024-11-15 05:31:36.900682,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.010499999999999982,0.2105,0.2
-2024-11-15 07:27:52.683381,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Saint Mary's CA,0.010499999999999982,0.2105,0.2
 2024-11-15 02:00:41.441119,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Denmark,0.0102,0.0769,0.0667
 2024-11-15 02:00:42.781044,Boxing Lines - Mario Barrios vs Abel Ramos - To Win the Bout,Mario Barrios,0.010199999999999987,0.9333,0.9231
 2024-11-15 02:00:42.800378,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.010099999999999998,0.4444,0.4545
+2024-11-15 13:34:13.984440,Euroleague - Euroleague 2024/25 - Outright,Crvena Zvezda,-0.010100000000000001,0.0244,0.0345
 2024-11-15 05:31:37.003360,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Nick Chubb (CLE),-0.010199999999999994,0.0333,0.0435
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Lucy Li,-0.0103,0.002,0.0123
 2024-11-15 05:31:37.003360,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Aaron Rodgers (NYJ),-0.010600000000000005,0.037,0.0476
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Allisen Corpuz,-0.010700000000000001,0.011,0.0217
-2024-11-15 02:00:42.784937,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.011099999999999999,0.4651,0.4762
 2024-11-15 06:40:57.167390,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,DeMar DeRozan (SAC),-0.011099999999999999,0.1,0.1111
+2024-11-15 02:00:42.784937,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.011099999999999999,0.4651,0.4762
 2024-11-15 03:40:27.123628,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.011099999999999999,0.4651,0.4762
 2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Cooper DeJean (PHI),-0.011199999999999995,0.0323,0.0435
 2024-11-15 05:31:37.017747,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Keon Coleman (BUF),-0.0112,0.004,0.0152
-2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),-0.011200000000000002,0.0132,0.0244
 2024-11-15 05:31:37.017747,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Drake Maye (NE),-0.011200000000000002,0.0132,0.0244
+2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),-0.011200000000000002,0.0132,0.0244
 2024-11-15 05:31:36.477376,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Mikal Bridges (NYK),-0.0113,0.0066,0.0179
-2024-11-15 03:04:44.642481,Boxing Lines - Shadasia Green vs Watpool Melinda - To Win the Bout,Watpool Melinda,-0.01150000000000001,0.3333,0.3448
 2024-11-15 10:34:46.652976,Boxing Lines - Shadasia Green vs Watpool Melinda - To Win the Bout,Watpool Melinda,-0.01150000000000001,0.3333,0.3448
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,-0.01150000000000001,0.3333,0.3448
+2024-11-15 03:04:44.642481,Boxing Lines - Shadasia Green vs Watpool Melinda - To Win the Bout,Watpool Melinda,-0.01150000000000001,0.3333,0.3448
 2024-11-15 08:34:22.777045,Round Match-Ups - 2nd Round Match-Up - J. Lower vs P. Rodgers - Outright,Patrick Rodgers,-0.011600000000000055,0.5122,0.5238
 2024-11-15 05:31:36.891171,Super Bowl LIX - Super Bowl 59 - Winner,Kansas City Chiefs,-0.011700000000000016,0.2105,0.2222
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Angel Yin,-0.0118,0.0099,0.0217
@@ -108,8 +110,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-15 05:31:36.891171,Super Bowl LIX - Super Bowl 59 - Winner,Washington Commanders,-0.014099999999999998,0.0244,0.0385
 2024-11-15 07:27:52.638773,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Clemson,-0.014399999999999996,0.0625,0.0769
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Lilia Vu,-0.014400000000000003,0.0179,0.0323
-2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Yuka Saso,-0.014599999999999998,0.005,0.0196
 2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Chop Robinson (MIA),-0.014599999999999998,0.0132,0.0278
+2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Yuka Saso,-0.014599999999999998,0.005,0.0196
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Connecticut,-0.01479999999999998,0.3774,0.3922
 2024-11-15 05:31:36.900682,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,-0.015100000000000002,0.1667,0.1818
 2024-11-15 05:31:36.996387,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Joe Burrow (CIN),-0.015300000000000001,0.0323,0.0476
@@ -119,8 +121,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-15 07:27:52.671219,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,-0.017299999999999982,0.2857,0.303
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Lauren Coughlin,-0.017599999999999998,0.002,0.0196
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Lexi Thompson,-0.017800000000000003,0.0066,0.0244
-2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Edgerrin Cooper (GB),-0.018099999999999998,0.0345,0.0526
 2024-11-15 05:31:36.477376,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Anthony Edwards (MIN),-0.018099999999999998,0.0588,0.0769
+2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Edgerrin Cooper (GB),-0.018099999999999998,0.0345,0.0526
 2024-11-15 04:34:25.394767,Boxing Lines - Oscar Collazo vs Thammanoon Niyomtrong - To Win the Bout,Oscar Collazo,-0.018100000000000005,0.9231,0.9412
 2024-11-15 05:31:36.891171,Super Bowl LIX - Super Bowl 59 - Winner,Detroit Lions,-0.01820000000000002,0.1818,0.2
 2024-11-15 04:34:25.402748,Boxing Lines - William Zepeda vs Farmer Tevin - To Win the Bout,William Zepeda,-0.01849999999999996,0.9524,0.9709
@@ -131,16 +133,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-15 09:29:44.162446,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Jose Carlos Ramirez,-0.022600000000000064,0.6,0.6226
 2024-11-15 05:31:37.003360,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),-0.0232,0.0435,0.0667
 2024-11-15 05:31:36.999899,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,-0.023799999999999988,0.1429,0.1667
-2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Ruoning Yin,-0.0242,0.0667,0.0909
 2024-11-15 05:31:37.017747,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),-0.0242,0.0667,0.0909
+2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Ruoning Yin,-0.0242,0.0667,0.0909
 2024-11-15 06:40:57.178777,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),-0.024999999999999994,0.1,0.125
 2024-11-15 10:34:46.945698,The ANNIKA - The ANNIKA - Winner,Hye Jin Choi,-0.024999999999999998,0.0028,0.0278
 2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),T'Vondre Sweat (TEN),-0.0253,0.0132,0.0385
 2024-11-15 05:31:36.477376,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jaylen Brown (BOS),-0.026499999999999996,0.0323,0.0588
 2024-11-15 07:27:53.254422,Boxing Lines - Gilberto Ramirez vs Chris Billam-Smith - To Win the Bout,Gilberto Ramirez,-0.02739999999999998,0.7059,0.7333
 2024-11-15 05:31:36.477376,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Luka Doncic (DAL),-0.028199999999999996,0.0385,0.0667
-2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Calen Bullock (HOU),-0.030299999999999997,0.0132,0.0435
+2024-11-15 13:34:14.687352,Boxing Lines - Jose Carlos Ramirez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.030299999999999994,0.4348,0.4651
 2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Byron Murphy (SEA),-0.030299999999999997,0.0132,0.0435
+2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Calen Bullock (HOU),-0.030299999999999997,0.0132,0.0435
 2024-11-15 05:31:36.900682,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,-0.0321,0.0588,0.0909
 2024-11-15 06:40:57.118551,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,North Carolina,-0.033300000000000024,0.1667,0.2
 2024-11-15 05:31:37.014331,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),-0.035699999999999954,0.7143,0.75
