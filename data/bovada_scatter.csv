@@ -12,8 +12,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 16:34:29.582821,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Jared McCain (PHI),0.05940000000000001,0.3226,0.2632
 2024-11-16 10:32:19.132595,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 20.5,0.05559999999999998,0.5556,0.5
 2024-11-16 16:34:29.561315,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),0.05379999999999999,0.1538,0.1
-2024-11-16 07:26:52.716005,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,0.04780000000000001,0.3704,0.3226
+2024-11-16 17:28:14.456888,67th Grammy Awards - Grammys: Album Of The Year - Album Of The Year,Billie Eilish - Hit Me Hard And Soft,0.04999999999999999,0.25,0.2
 2024-11-16 07:26:52.706549,East Group C - East Group C Winner - East Group C Winner,Atlanta Hawks,0.04780000000000001,0.3704,0.3226
+2024-11-16 07:26:52.716005,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,0.04780000000000001,0.3704,0.3226
 2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Minnesota Timberwolves,0.047400000000000005,0.1,0.0526
 2024-11-16 07:26:52.701808,East Group B - East Group B Winner - East Group B Winner,Miami Heat,0.04620000000000002,0.2,0.1538
 2024-11-16 07:26:52.697037,East Group A - East Group A Winner - East Group A Winner,New York Knicks,0.04390000000000005,0.8,0.7561
@@ -24,12 +25,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 09:27:38.298060,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,No,0.040899999999999936,0.95,0.9091
 2024-11-16 14:29:17.854802,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Liberty,0.0407,0.1176,0.0769
 2024-11-16 09:27:38.473938,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 59.5,0.03959999999999997,0.5744,0.5348
+2024-11-16 17:28:14.953348,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Dyson Daniels (ATL),0.0384,0.0769,0.0385
 2024-11-16 08:32:20.136343,Western Conference - Conference Seeding  - To Be #1 Seed,Oklahoma City Thunder,0.0378,0.4082,0.3704
 2024-11-16 08:32:20.207747,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Indiana Pacers,0.03640000000000004,0.4,0.3636
 2024-11-16 08:32:20.271006,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,North Carolina,0.033300000000000024,0.2,0.1667
-2024-11-16 10:32:19.062959,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,0.033299999999999996,0.5455,0.5122
+2024-11-16 17:28:14.956943,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Johnson (ATL),0.033300000000000024,0.2,0.1667
 2024-11-16 10:32:19.088174,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 56.5,0.033299999999999996,0.5455,0.5122
 2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Oklahoma City Thunder,0.033299999999999996,0.1333,0.1
+2024-11-16 10:32:19.062959,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,0.033299999999999996,0.5455,0.5122
 2024-11-16 10:32:19.042966,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 44.5,0.033299999999999996,0.5455,0.5122
 2024-11-16 08:32:20.212044,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Sacramento Kings,0.031799999999999995,0.4762,0.4444
 2024-11-16 10:32:19.022965,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 50.5,0.03179999999999994,0.5556,0.5238
@@ -48,10 +51,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 08:32:20.207747,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,0.025599999999999956,0.6,0.5744
 2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Cleveland Cavaliers,0.025300000000000003,0.1429,0.1176
 2024-11-16 09:27:38.285683,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,No,0.02529999999999999,0.2105,0.1852
+2024-11-16 17:28:14.953348,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.024999999999999994,0.125,0.1
+2024-11-16 10:32:19.017999,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 48.5,0.024399999999999977,0.5122,0.4878
 2024-11-16 10:32:19.067905,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 44.5,0.024399999999999977,0.5122,0.4878
 2024-11-16 10:32:18.991993,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,0.024399999999999977,0.5122,0.4878
 2024-11-16 08:32:20.207747,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Philadelphia 76ers,0.024399999999999977,0.5122,0.4878
-2024-11-16 10:32:19.017999,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 48.5,0.024399999999999977,0.5122,0.4878
+2024-11-16 17:28:14.956943,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Norman Powell (LAC),0.0242,0.0909,0.0667
 2024-11-16 08:32:20.212044,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Dallas Mavericks,0.02360000000000001,0.4082,0.3846
 2024-11-16 16:34:29.582821,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Donovan Clingan (POR),0.023200000000000002,0.0476,0.0244
 2024-11-16 10:32:19.112830,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 47.5,0.022600000000000064,0.5348,0.5122
@@ -61,16 +66,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 08:32:20.746771,Round Match-Ups - 3rd Round Match-Up - A. Novak vs G. Sigg - 3rd Round Match-Up,Greyson Sigg,0.02169999999999994,0.5455,0.5238
 2024-11-16 08:32:20.212044,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Phoenix Suns,0.020799999999999985,0.3333,0.3125
 2024-11-16 14:29:17.841963,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Tulane,0.02079999999999993,0.5556,0.5348
-2024-11-16 08:32:20.136343,Western Conference - Conference Seeding  - To Be #1 Seed,Minnesota Timberwolves,0.02049999999999999,0.1538,0.1333
 2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,New York Knicks,0.02049999999999999,0.1538,0.1333
+2024-11-16 08:32:20.136343,Western Conference - Conference Seeding  - To Be #1 Seed,Minnesota Timberwolves,0.02049999999999999,0.1538,0.1333
 2024-11-16 09:27:38.227631,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,Yes,0.020299999999999985,0.8824,0.8621
 2024-11-16 08:32:20.103992,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.01999999999999999,0.2105,0.1905
 2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Orlando Magic,0.019800000000000005,0.0476,0.0278
 2024-11-16 09:27:38.488738,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 44.5,0.01880000000000004,0.5744,0.5556
 2024-11-16 08:32:20.212044,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,New Orleans Pelicans,0.0184,0.1923,0.1739
 2024-11-16 09:27:37.447245,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Portugal,0.01820000000000002,0.2,0.1818
-2024-11-16 09:27:38.402781,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Toledo,0.01820000000000002,0.2,0.1818
 2024-11-16 09:27:38.386724,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.01820000000000002,0.2,0.1818
+2024-11-16 09:27:38.402781,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Toledo,0.01820000000000002,0.2,0.1818
+2024-11-16 17:28:14.956943,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),0.01820000000000002,0.2,0.1818
 2024-11-16 09:27:38.478872,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 29.5,0.018100000000000005,0.5833,0.5652
 2024-11-16 09:27:38.215234,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,No,0.018100000000000005,0.2778,0.2597
 2024-11-16 09:27:38.410795,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Boise State,0.01780000000000001,0.2083,0.1905
@@ -91,24 +97,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 08:32:20.271006,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Duke,0.013800000000000034,0.3774,0.3636
 2024-11-16 09:27:38.219378,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,No,0.01369999999999999,0.241,0.2273
 2024-11-16 08:32:20.132079,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Pacific,0.013300000000000034,0.3704,0.3571
+2024-11-16 17:28:14.956943,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.0131,0.0476,0.0345
 2024-11-16 08:32:20.136343,Western Conference - Conference Seeding  - To Be #1 Seed,Golden State Warriors,0.012899999999999995,0.1667,0.1538
 2024-11-16 08:32:20.119302,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Southeast,0.012299999999999991,0.1176,0.1053
 2024-11-16 08:32:20.212044,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Denver Nuggets,0.012299999999999978,0.3571,0.3448
-2024-11-16 10:32:19.107909,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 22.5,0.012199999999999989,0.5,0.4878
-2024-11-16 09:27:38.836748,Boxing Lines - Oscar Duarte Jurado vs Batyr Akhmedov - To Win the Bout,Batyr Akhmedov,0.012199999999999989,0.5,0.4878
-2024-11-16 10:32:19.102932,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 50.5,0.012199999999999989,0.5122,0.5
 2024-11-16 08:32:20.212044,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Memphis Grizzlies,0.012199999999999989,0.5,0.4878
+2024-11-16 10:32:19.107909,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 22.5,0.012199999999999989,0.5,0.4878
+2024-11-16 10:32:19.102932,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 50.5,0.012199999999999989,0.5122,0.5
+2024-11-16 09:27:38.836748,Boxing Lines - Oscar Duarte Jurado vs Batyr Akhmedov - To Win the Bout,Batyr Akhmedov,0.012199999999999989,0.5,0.4878
 2024-11-16 13:30:41.949985,Boxing Lines - Oscar Duarte Jurado vs Batyr Akhmedov - To Win the Bout,Batyr Akhmedov,0.012199999999999989,0.5122,0.5
-2024-11-16 10:32:18.970115,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kevin Durant (PHX),0.011899999999999994,0.0833,0.0714
 2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Los Angeles Lakers,0.011899999999999994,0.0833,0.0714
+2024-11-16 10:32:18.970115,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kevin Durant (PHX),0.011899999999999994,0.0833,0.0714
 2024-11-16 08:32:20.115735,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.0116,0.4878,0.4762
 2024-11-16 10:32:19.002302,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 29.5,0.0116,0.4878,0.4762
-2024-11-16 09:27:38.115664,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Cleveland Cavaliers,0.01150000000000001,0.3448,0.3333
 2024-11-16 08:32:20.271006,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,0.01150000000000001,0.3448,0.3333
+2024-11-16 09:27:38.115664,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Cleveland Cavaliers,0.01150000000000001,0.3448,0.3333
 2024-11-16 08:32:20.150473,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.011499999999999955,0.6667,0.6552
+2024-11-16 17:28:14.953348,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Bam Adebayo (MIA),0.011199999999999995,0.0588,0.0476
 2024-11-16 09:27:38.386724,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Ohio State,0.011099999999999999,0.1111,0.1
-2024-11-16 10:32:19.083195,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 52.5,0.01100000000000001,0.5348,0.5238
 2024-11-16 10:32:19.073119,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 52.5,0.01100000000000001,0.5348,0.5238
+2024-11-16 10:32:19.083195,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 52.5,0.01100000000000001,0.5348,0.5238
 2024-11-16 10:32:19.047945,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 39.5,0.01100000000000001,0.5348,0.5238
 2024-11-16 14:29:18.060095,Boxing Lines - Rafal Wolczecki vs Przemyslaw Zysk - To Win the Bout,Rafal Wolczecki,0.01090000000000002,0.8571,0.8462
 2024-11-16 08:32:20.107253,NBA Championship - NBA Championship 2024-25 - First Time Winner,No,0.010700000000000043,0.8857,0.875
@@ -116,24 +124,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 10:32:18.997137,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 22.5,0.010699999999999932,0.5455,0.5348
 2024-11-16 10:32:19.098007,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 42.5,0.010699999999999932,0.5455,0.5348
 2024-11-16 08:32:20.141038,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.010499999999999982,0.2105,0.2
-2024-11-16 09:27:38.281549,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,0.010399999999999993,0.2326,0.2222
 2024-11-16 09:27:38.378616,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Dayton,0.010399999999999993,0.2326,0.2222
+2024-11-16 09:27:38.281549,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,0.010399999999999993,0.2326,0.2222
+2024-11-16 17:28:14.953348,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),0.0102,0.0769,0.0667
+2024-11-16 17:28:14.956943,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),0.0102,0.0769,0.0667
 2024-11-16 10:32:18.981416,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.010100000000000001,0.0345,0.0244
 2024-11-16 08:32:20.207747,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Detroit Pistons,0.010099999999999998,0.3226,0.3125
 2024-11-16 10:32:19.058022,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 46.5,0.010099999999999998,0.5556,0.5455
 2024-11-16 09:27:37.447245,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Denmark,-0.0102,0.0667,0.0769
 2024-11-16 08:32:20.119302,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Central,-0.010399999999999993,0.2222,0.2326
 2024-11-16 14:29:17.841963,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Army,-0.010599999999999998,0.4545,0.4651
-2024-11-16 10:32:19.047945,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 39.5,-0.010699999999999932,0.5348,0.5455
 2024-11-16 10:32:19.083195,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 52.5,-0.010699999999999932,0.5348,0.5455
+2024-11-16 10:32:19.047945,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 39.5,-0.010699999999999932,0.5348,0.5455
 2024-11-16 10:32:19.073119,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 52.5,-0.010699999999999932,0.5348,0.5455
 2024-11-16 09:27:38.418796,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Samford,-0.010699999999999987,0.3226,0.3333
 2024-11-16 08:32:20.271006,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,-0.010899999999999993,0.1429,0.1538
-2024-11-16 10:32:19.098007,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 42.5,-0.01100000000000001,0.5238,0.5348
 2024-11-16 10:32:18.997137,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 22.5,-0.01100000000000001,0.5238,0.5348
+2024-11-16 10:32:19.098007,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 42.5,-0.01100000000000001,0.5238,0.5348
 2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Boston Celtics,-0.011099999999999999,0.1,0.1111
-2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Milwaukee Bucks,-0.011199999999999995,0.0476,0.0588
+2024-11-16 17:28:14.456888,67th Grammy Awards - Grammys: Album Of The Year - Album Of The Year,Brat - Charli XCX,-0.011099999999999999,0.1,0.1111
 2024-11-16 09:27:38.402781,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Miami Ohio,-0.011199999999999995,0.0476,0.0588
+2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Milwaukee Bucks,-0.011199999999999995,0.0476,0.0588
 2024-11-16 08:32:20.266650,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Oklahoma State,-0.0114,0.005,0.0164
 2024-11-16 10:32:19.058022,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 46.5,-0.011600000000000055,0.5122,0.5238
 2024-11-16 14:29:18.060095,Boxing Lines - Rafal Wolczecki vs Przemyslaw Zysk - To Win the Bout,Przemyslaw Zysk,-0.011700000000000016,0.2105,0.2222
@@ -142,12 +153,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 08:32:20.132079,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Northwest,-0.012199999999999989,0.4878,0.5
 2024-11-16 09:27:38.386724,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Indiana,-0.012299999999999991,0.1053,0.1176
 2024-11-16 07:26:52.678053,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.012600000000000007,0.0588,0.0714
+2024-11-16 16:34:29.582821,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Yves Missi (NO),-0.012700000000000003,0.0196,0.0323
 2024-11-16 07:26:52.701808,East Group B - East Group B Winner - East Group B Winner,Toronto Raptors,-0.012700000000000003,0.0196,0.0323
 2024-11-16 07:26:52.697037,East Group A - East Group A Winner - East Group A Winner,Charlotte Hornets,-0.012800000000000002,0.0217,0.0345
 2024-11-16 09:27:38.281549,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,Yes,-0.012899999999999912,0.8333,0.8462
 2024-11-16 09:27:38.386724,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.013899999999999996,0.1111,0.125
 2024-11-16 08:32:20.115735,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.013899999999999996,0.16,0.1739
 2024-11-16 09:27:38.382669,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Wake Forest,-0.013999999999999999,0.0769,0.0909
+2024-11-16 16:34:29.582821,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),-0.013999999999999999,0.0769,0.0909
 2024-11-16 16:34:29.582821,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Ryan Dunn (PHX),-0.014099999999999998,0.0244,0.0385
 2024-11-16 09:27:38.265062,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,No,-0.014100000000000001,0.9474,0.9615
 2024-11-16 14:29:17.846034,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,BYU,-0.01419999999999999,0.3704,0.3846
@@ -167,11 +180,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 08:32:20.271006,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,-0.01830000000000001,0.0769,0.0952
 2024-11-16 09:27:38.289835,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,-0.018399999999999972,0.6875,0.7059
 2024-11-16 10:32:19.067905,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 44.5,-0.01880000000000004,0.5556,0.5744
-2024-11-16 10:32:19.102932,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,-0.01880000000000004,0.5556,0.5744
 2024-11-16 10:32:19.017999,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 48.5,-0.01880000000000004,0.5556,0.5744
+2024-11-16 10:32:19.102932,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,-0.01880000000000004,0.5556,0.5744
 2024-11-16 10:32:18.991993,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 59.5,-0.01880000000000004,0.5556,0.5744
 2024-11-16 09:27:38.394797,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Villanova,-0.0189,0.0196,0.0385
 2024-11-16 08:32:20.136343,Western Conference - Conference Seeding  - To Be #1 Seed,Sacramento Kings,-0.019000000000000003,0.0435,0.0625
+2024-11-16 17:28:14.956943,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Suggs (ORL),-0.019099999999999995,0.0244,0.0435
+2024-11-16 17:28:14.956943,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jaden Ivey (DET),-0.019800000000000005,0.0278,0.0476
 2024-11-16 08:32:20.150473,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.01999999999999999,0.1905,0.2105
 2024-11-16 09:27:38.215234,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,Yes,-0.020299999999999985,0.7874,0.8077
 2024-11-16 07:26:52.720895,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Phoenix Suns,-0.0206,0.0179,0.0385
@@ -204,11 +219,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 08:32:20.207747,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Miami Heat,-0.030299999999999994,0.4348,0.4651
 2024-11-16 08:32:20.155163,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.030299999999999994,0.303,0.3333
 2024-11-16 09:27:38.260930,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,No,-0.031,0.1429,0.1739
+2024-11-16 10:32:19.062959,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 43.5,-0.03179999999999994,0.5238,0.5556
 2024-11-16 10:32:19.088174,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 56.5,-0.03179999999999994,0.5238,0.5556
 2024-11-16 10:32:19.042966,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 44.5,-0.03179999999999994,0.5238,0.5556
-2024-11-16 10:32:19.062959,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 43.5,-0.03179999999999994,0.5238,0.5556
-2024-11-16 09:27:38.378616,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Joseph's,-0.033299999999999996,0.1,0.1333
 2024-11-16 10:32:19.022965,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 50.5,-0.033299999999999996,0.5122,0.5455
+2024-11-16 09:27:38.378616,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Joseph's,-0.033299999999999996,0.1,0.1333
 2024-11-16 10:32:19.117766,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 34.5,-0.033299999999999996,0.5122,0.5455
 2024-11-16 16:34:29.582821,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),-0.033300000000000024,0.1667,0.2
 2024-11-16 08:32:20.271006,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,-0.033300000000000024,0.1667,0.2
@@ -217,9 +232,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 08:32:20.212044,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Golden State Warriors,-0.03470000000000001,0.2778,0.3125
 2024-11-16 14:29:17.867404,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Georgia Southern,-0.0353,0.2,0.2353
 2024-11-16 09:27:38.244195,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,-0.035699999999999954,0.3279,0.3636
+2024-11-16 07:26:52.697037,East Group A - East Group A Winner - East Group A Winner,Philadelphia 76ers,-0.036199999999999996,0.0164,0.0526
 2024-11-16 07:26:52.697037,East Group A - East Group A Winner - East Group A Winner,Brooklyn Nets,-0.036199999999999996,0.0164,0.0526
 2024-11-16 09:27:38.298060,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,Yes,-0.036199999999999996,0.1176,0.1538
-2024-11-16 07:26:52.697037,East Group A - East Group A Winner - East Group A Winner,Philadelphia 76ers,-0.036199999999999996,0.0164,0.0526
 2024-11-16 08:32:20.212044,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Minnesota Timberwolves,-0.037699999999999956,0.2564,0.2941
 2024-11-16 08:32:20.207747,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Toronto Raptors,-0.03920000000000001,0.2941,0.3333
 2024-11-16 09:27:38.422811,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),UAB,-0.03939999999999999,0.2273,0.2667
