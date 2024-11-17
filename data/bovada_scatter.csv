@@ -29,7 +29,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 16:34:29.561315,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Donte DiVincenzo (MIN),0.014099999999999998,0.0385,0.0244
 2024-11-16 17:28:14.956943,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.0131,0.0476,0.0345
 2024-11-16 18:34:07.450062,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.012899999999999912,0.8462,0.8333
-2024-11-16 13:30:41.949985,Boxing Lines - Oscar Duarte Jurado vs Batyr Akhmedov - To Win the Bout,Batyr Akhmedov,0.012199999999999989,0.5122,0.5
 2024-11-16 18:34:07.459527,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,0.011700000000000016,0.2222,0.2105
 2024-11-16 17:28:14.953348,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Bam Adebayo (MIA),0.011199999999999995,0.0588,0.0476
 2024-11-16 18:34:07.716637,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Steve Kerr,0.011099999999999999,0.1111,0.1
@@ -49,6 +48,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-16 18:34:08.218498,Boxing Lines - Oscar Collazo vs Thammanoon Niyomtrong - To Win the Bout,Oscar Collazo,-0.014000000000000012,0.9091,0.9231
 2024-11-16 16:34:29.582821,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Ryan Dunn (PHX),-0.014099999999999998,0.0244,0.0385
 2024-11-16 14:29:17.846034,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,BYU,-0.01419999999999999,0.3704,0.3846
+2024-11-17 02:05:03.536412,Bermuda Championship - 2/3 Balls - Final Round 3 Balls - C. Tarren / F. Molinari / L. Griffin - Final Round 3 Balls,Francesco Molinari,-0.01419999999999999,0.3704,0.3846
 2024-11-16 18:34:07.716637,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,JJ Redick,-0.015300000000000001,0.0435,0.0588
 2024-11-16 22:30:36.187575,DP World Tour Championship - 2/3 Balls - Final Round 2 Ball - T. Olesen vs T. Fleetwood - Final Round 2 Ball ,Thorbjorn Olesen,-0.015400000000000025,0.3846,0.4
 2024-11-16 18:34:07.716637,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tyronn Lue,-0.0189,0.0196,0.0385
