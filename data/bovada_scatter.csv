@@ -1,4 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-11-17 12:48:54.740427,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - New York Jets,No,0.5064,0.9231,0.4167
+2024-11-17 12:48:54.709627,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Atlanta Falcons,Yes,0.3347,0.9091,0.5744
+2024-11-17 12:48:54.737017,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,Yes,0.30069999999999997,0.8462,0.5455
+2024-11-17 12:48:54.726732,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Los Angeles Chargers,Yes,0.2834,0.8182,0.5348
+2024-11-17 12:48:54.716468,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Denver Broncos,Yes,0.2774,0.3774,0.1
+2024-11-17 12:48:54.719956,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Green Bay Packers,Yes,0.2754,0.7299,0.4545
+2024-11-17 12:48:54.706207,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Arizona Cardinals,Yes,0.21080000000000004,0.5744,0.3636
+2024-11-17 12:48:54.733539,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Miami Dolphins,No,0.13330000000000009,0.8,0.6667
+2024-11-17 12:48:54.723342,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Houston Texans,Yes,0.11909999999999998,0.9524,0.8333
 2024-11-17 10:33:40.863250,National League - English National League 2024/25 - To Be Promoted,Barnet,0.11259999999999992,0.6364,0.5238
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Weiwei Zhang,0.1071,0.1111,0.004
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Nelly Korda,0.09889999999999999,0.3846,0.2857
@@ -25,6 +34,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 07:28:07.921810,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 40.5,0.04700000000000004,0.5348,0.4878
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,0.04409999999999997,0.2941,0.25
 2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Shai Gilgeous-Alexander (OKC),0.0417,0.125,0.0833
+2024-11-17 12:48:54.713074,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,Yes,0.040999999999999925,0.6154,0.5744
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,0.04040000000000002,0.2222,0.1818
 2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Donovan Mitchell (CLE),0.037500000000000006,0.1,0.0625
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Walsall,0.03639999999999999,0.6364,0.6
@@ -32,16 +42,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 09:29:23.506888,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 48.5,0.03480000000000005,0.5348,0.5
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Stevenage,0.0343,0.1176,0.0833
 2024-11-17 10:33:40.863250,National League - English National League 2024/25 - To Be Promoted,Oldham Athletic,0.033300000000000024,0.2,0.1667
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Anthony Edwards (MIN),0.0321,0.0909,0.0588
 2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,0.0321,0.0909,0.0588
-2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,0.031799999999999995,0.1429,0.1111
+2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Anthony Edwards (MIN),0.0321,0.0909,0.0588
 2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.031799999999999995,0.1429,0.1111
+2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,0.031799999999999995,0.1429,0.1111
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.030299999999999994,0.3636,0.3333
 2024-11-17 09:29:22.601478,League One - England League One 2024/25 - To Be Relegated,Cambridge United,0.027800000000000047,0.7778,0.75
 2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,Andy Cook,0.02779999999999999,0.25,0.2222
 2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Stephen Curry (GSW),0.0267,0.1176,0.0909
-2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.02560000000000001,0.3333,0.3077
 2024-11-17 10:33:40.859559,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,0.02560000000000001,0.3333,0.3077
+2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.02560000000000001,0.3333,0.3077
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.025599999999999956,0.6,0.5744
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.025499999999999967,0.4255,0.4
 2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.024999999999999994,0.125,0.1
@@ -49,8 +59,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 09:29:23.455291,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 29.5,0.024399999999999977,0.5122,0.4878
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.023799999999999988,0.5,0.4762
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,0.02310000000000001,0.1,0.0769
-2024-11-17 09:29:23.444927,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,0.022600000000000064,0.5348,0.5122
 2024-11-17 09:29:23.578721,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 27.5,0.022600000000000064,0.5348,0.5122
+2024-11-17 09:29:23.444927,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,0.022600000000000064,0.5348,0.5122
 2024-11-17 03:07:48.205072,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Olympiacos,0.021999999999999964,0.3077,0.2857
 2024-11-17 09:29:23.470637,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,0.02079999999999993,0.5556,0.5348
 2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.02020000000000001,0.1111,0.0909
@@ -89,12 +99,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jayson Tatum (BOS),-0.0102,0.0667,0.0769
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Carlota Ciganda,-0.010700000000000001,0.0057,0.0164
 2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Jordan Rhodes,-0.0109,0.004,0.0149
-2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Lincoln City,-0.011099999999999999,0.1,0.1111
 2024-11-17 08:32:01.673361,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Sacramento Kings,-0.011099999999999999,0.4651,0.4762
-2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Jonson Clarke-Harris,-0.011199999999999995,0.0476,0.0588
-2024-11-17 07:28:07.699398,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Denver Nuggets,-0.011199999999999995,0.0323,0.0435
+2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Lincoln City,-0.011099999999999999,0.1,0.1111
 2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Exeter City,-0.011199999999999995,0.0476,0.0588
+2024-11-17 07:28:07.699398,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Denver Nuggets,-0.011199999999999995,0.0323,0.0435
 2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,-0.011199999999999995,0.0476,0.0588
+2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Jonson Clarke-Harris,-0.011199999999999995,0.0476,0.0588
 2024-11-17 09:29:23.573377,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 34.5,-0.012199999999999989,0.5,0.5122
 2024-11-17 08:32:01.651832,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,Yes,-0.012299999999999991,0.1053,0.1176
 2024-11-17 08:32:01.655956,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,No,-0.012499999999999956,0.9375,0.95
@@ -106,8 +116,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 10:33:40.863250,National League - English National League 2024/25 - To Be Promoted,Dagenham & Redbridge,-0.014099999999999998,0.0244,0.0385
 2024-11-17 02:05:03.536412,Bermuda Championship - 2/3 Balls - Final Round 3 Balls - C. Tarren / F. Molinari / L. Griffin - Final Round 3 Balls,Francesco Molinari,-0.01419999999999999,0.3704,0.3846
 2024-11-17 08:32:01.573358,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,No,-0.014600000000000002,0.2632,0.2778
-2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.015100000000000002,0.1667,0.1818
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.015100000000000002,0.1667,0.1818
+2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.015100000000000002,0.1667,0.1818
 2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.015100000000000002,0.1667,0.1818
 2024-11-17 08:32:01.602284,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,-0.015400000000000025,0.3125,0.3279
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Rose Zhang,-0.0157,0.0278,0.0435
@@ -116,19 +126,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.016600000000000004,0.0667,0.0833
 2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,-0.016699999999999993,0.25,0.2667
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,-0.016699999999999993,0.25,0.2667
-2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Colchester United,-0.016700000000000007,0.0833,0.1
-2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Notts County,-0.016700000000000007,0.0833,0.1
-2024-11-17 07:28:07.699398,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Minnesota Timberwolves,-0.016700000000000007,0.0833,0.1
 2024-11-17 03:07:48.205072,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Real Madrid,-0.016700000000000007,0.0833,0.1
+2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Colchester United,-0.016700000000000007,0.0833,0.1
+2024-11-17 07:28:07.699398,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Minnesota Timberwolves,-0.016700000000000007,0.0833,0.1
+2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Notts County,-0.016700000000000007,0.0833,0.1
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,-0.016700000000000048,0.7333,0.75
 2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Paul Mullin,-0.017099999999999997,0.0123,0.0294
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,-0.017299999999999982,0.5744,0.5917
-2024-11-17 09:29:22.604636,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,-0.017600000000000005,0.3333,0.3509
 2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Wrexham,-0.017600000000000005,0.3333,0.3509
+2024-11-17 09:29:22.604636,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,-0.017600000000000005,0.3333,0.3509
 2024-11-17 07:28:08.303073,Boxing Lines - Cameron Vuong vs Gavin Gwynne - To Win the Bout,Cameron Vuong,-0.017900000000000027,0.8571,0.875
-2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Accrington Stanley,-0.018099999999999998,0.0588,0.0769
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Swindon Town,-0.018099999999999998,0.0588,0.0769
 2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Blackpool,-0.018099999999999998,0.0588,0.0769
+2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Accrington Stanley,-0.018099999999999998,0.0588,0.0769
 2024-11-17 10:33:40.863250,National League - English National League 2024/25 - To Be Promoted,Southend Utd,-0.018200000000000004,0.0294,0.0476
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Blackpool,-0.01820000000000002,0.1818,0.2
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,-0.01880000000000004,0.5556,0.5744
@@ -139,8 +149,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,-0.020100000000000007,0.2299,0.25
 2024-11-17 10:33:40.859559,National League - English National League 2024/25 - English National League Winner,Gateshead,-0.02020000000000001,0.0909,0.1111
 2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,-0.02049999999999999,0.1333,0.1538
-2024-11-17 09:29:23.578721,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 27.5,-0.02079999999999993,0.5348,0.5556
 2024-11-17 09:29:23.444927,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 59.5,-0.02079999999999993,0.5348,0.5556
+2024-11-17 09:29:23.578721,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 27.5,-0.02079999999999993,0.5348,0.5556
 2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Joel Embiid (PHI),-0.022400000000000003,0.002,0.0244
 2024-11-17 09:29:23.470637,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 49.5,-0.022600000000000064,0.5122,0.5348
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,-0.023200000000000002,0.0244,0.0476
@@ -150,13 +160,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.0242,0.0667,0.0909
 2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,James Harden (LAC),-0.0244,0.0079,0.0323
 2024-11-17 09:29:22.595064,League One - England League One 2024/25 - Winner,Wrexham,-0.0245,0.0588,0.0833
-2024-11-17 08:32:01.673361,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,New Orleans Pelicans,-0.02560000000000001,0.1667,0.1923
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,-0.02560000000000001,0.3077,0.3333
+2024-11-17 08:32:01.673361,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,New Orleans Pelicans,-0.02560000000000001,0.1667,0.1923
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.027999999999999997,0.1538,0.1818
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Minjee Lee,-0.0286,0.0099,0.0385
 2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Chesterfield,-0.029299999999999993,0.0476,0.0769
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.0294,0.0294,0.0588
 2024-11-17 09:29:23.506888,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 48.5,-0.030399999999999983,0.5348,0.5652
+2024-11-17 12:48:54.713074,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,No,-0.031799999999999995,0.4444,0.4762
 2024-11-17 10:33:40.750548,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,-0.0321,0.0588,0.0909
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,-0.034100000000000005,0.0909,0.125
 2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Wrexham,-0.0353,0.2,0.2353
@@ -179,3 +190,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,-0.08340000000000003,0.3333,0.4167
 2024-11-17 10:33:40.863250,National League - English National League 2024/25 - To Be Promoted,York City,-0.09160000000000001,0.3846,0.4762
 2024-11-17 10:33:40.859559,National League - English National League 2024/25 - English National League Winner,York City,-0.10339999999999999,0.2299,0.3333
+2024-11-17 12:48:54.723342,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Houston Texans,No,-0.13130000000000003,0.0909,0.2222
+2024-11-17 12:48:54.733539,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Miami Dolphins,Yes,-0.1422,0.25,0.3922
+2024-11-17 12:48:54.706207,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Arizona Cardinals,No,-0.20450000000000002,0.4878,0.6923
+2024-11-17 12:48:54.719956,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Green Bay Packers,No,-0.2584,0.3333,0.5917
+2024-11-17 12:48:54.716468,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Denver Broncos,No,-0.275,0.6774,0.9524
+2024-11-17 12:48:54.726732,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Los Angeles Chargers,No,-0.2769,0.2353,0.5122
+2024-11-17 12:48:54.737017,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,No,-0.30169999999999997,0.2105,0.5122
+2024-11-17 12:48:54.709627,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Atlanta Falcons,No,-0.33330000000000004,0.1429,0.4762
+2024-11-17 12:48:54.740427,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - New York Jets,Yes,-0.5031,0.1333,0.6364
