@@ -8,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter (COL),0.22220000000000006,0.7778,0.5556
 2024-11-17 12:48:54.706207,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Arizona Cardinals,Yes,0.21080000000000004,0.5744,0.3636
 2024-11-17 19:24:02.088186,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Alabama,0.19560000000000002,0.3774,0.1818
+2024-11-17 20:28:54.379191,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Tulane,0.18120000000000003,0.7368,0.5556
 2024-11-17 19:24:02.088186,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Georgia,0.15910000000000002,0.25,0.0909
 2024-11-17 19:24:02.076213,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Arizona State,0.15550000000000003,0.2222,0.0667
 2024-11-17 12:48:54.733539,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Miami Dolphins,No,0.13330000000000009,0.8,0.6667
@@ -27,23 +28,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 18:34:52.917211,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Georgia,0.0686,0.1739,0.1053
 2024-11-17 10:33:40.863250,National League - English National League 2024/25 - To Be Promoted,Forest Green Rovers,0.06779999999999997,0.5122,0.4444
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,0.06670000000000004,0.4,0.3333
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jalen Brunson (NYK),0.066,0.1429,0.0769
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.06520000000000004,0.7143,0.6491
 2024-11-17 19:24:02.084145,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,0.06509999999999999,0.4651,0.4
 2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Wycombe,0.06190000000000001,0.4255,0.3636
 2024-11-17 09:29:22.601478,League One - England League One 2024/25 - To Be Relegated,Shrewsbury Town,0.05709999999999993,0.8571,0.8
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Grimsby Town,0.05650000000000001,0.1,0.0435
-2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Stockport County,0.05550000000000002,0.2222,0.1667
 2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Louie Barry,0.05550000000000002,0.2222,0.1667
+2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Stockport County,0.05550000000000002,0.2222,0.1667
 2024-11-17 10:33:40.859559,National League - English National League 2024/25 - English National League Winner,Barnet,0.05520000000000003,0.4,0.3448
-2024-11-17 08:32:01.735154,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Joseph's,0.05379999999999999,0.1538,0.1
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Mansfield Town,0.04999999999999999,0.25,0.2
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,0.04910000000000003,0.6491,0.6
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,0.04409999999999997,0.2941,0.25
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Shai Gilgeous-Alexander (OKC),0.0417,0.125,0.0833
 2024-11-17 12:48:54.713074,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,Yes,0.040999999999999925,0.6154,0.5744
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,0.04040000000000002,0.2222,0.1818
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Donovan Mitchell (CLE),0.037500000000000006,0.1,0.0625
 2024-11-17 18:34:52.384328,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.03710000000000002,0.6923,0.6552
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Walsall,0.03639999999999999,0.6364,0.6
 2024-11-17 19:24:02.080155,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Ohio State,0.03600000000000003,0.5238,0.4878
@@ -51,130 +48,107 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 09:29:23.506888,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 48.5,0.03480000000000005,0.5348,0.5
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Stevenage,0.0343,0.1176,0.0833
 2024-11-17 10:33:40.863250,National League - English National League 2024/25 - To Be Promoted,Oldham Athletic,0.033300000000000024,0.2,0.1667
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Anthony Edwards (MIN),0.0321,0.0909,0.0588
 2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,0.0321,0.0909,0.0588
-2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.031799999999999995,0.1429,0.1111
 2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,0.031799999999999995,0.1429,0.1111
+2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.031799999999999995,0.1429,0.1111
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.030299999999999994,0.3636,0.3333
 2024-11-17 09:29:22.601478,League One - England League One 2024/25 - To Be Relegated,Cambridge United,0.027800000000000047,0.7778,0.75
 2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,Andy Cook,0.02779999999999999,0.25,0.2222
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Stephen Curry (GSW),0.0267,0.1176,0.0909
 2024-11-17 10:33:40.859559,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,0.02560000000000001,0.3333,0.3077
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.02560000000000001,0.3333,0.3077
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.025599999999999956,0.6,0.5744
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.025499999999999967,0.4255,0.4
 2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.024999999999999994,0.125,0.1
-2024-11-17 08:32:01.614615,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,No,0.024400000000000005,0.2062,0.1818
 2024-11-17 09:29:23.455291,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 29.5,0.024399999999999977,0.5122,0.4878
 2024-11-17 20:28:54.107435,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Draymond Green (GSW),0.024299999999999995,0.0769,0.0526
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.023799999999999988,0.5,0.4762
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,0.02310000000000001,0.1,0.0769
-2024-11-17 09:29:23.444927,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,0.022600000000000064,0.5348,0.5122
 2024-11-17 09:29:23.578721,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 27.5,0.022600000000000064,0.5348,0.5122
+2024-11-17 09:29:23.444927,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 59.5,0.022600000000000064,0.5348,0.5122
 2024-11-17 16:32:24.991187,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),0.022000000000000006,0.1053,0.0833
 2024-11-17 09:29:23.470637,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 49.5,0.02079999999999993,0.5556,0.5348
 2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.02020000000000001,0.1111,0.0909
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.020100000000000007,0.7701,0.75
 2024-11-17 20:28:54.107435,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.019699999999999995,0.125,0.1053
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Trae Young (ATL),0.0194,0.0244,0.005
 2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Port Vale,0.019000000000000017,0.2857,0.2667
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Northampton Town,0.0189,0.0385,0.0196
 2024-11-17 18:34:52.389125,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.01820000000000002,0.2,0.1818
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Walsall,0.018199999999999994,0.8182,0.8
 2024-11-17 11:24:14.821015,Bermuda Championship - 2/3 Balls - Final Round 3 Balls - B. Kohles / M. Hughes / M. Schmid - Final Round 3 Balls,Mackenzie Hughes,0.018100000000000005,0.4348,0.4167
 2024-11-17 10:33:40.750548,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.0179,0.1429,0.125
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Franz Wagner (ORL),0.0177,0.05,0.0323
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Olivia Cowan,0.0171,0.0196,0.0025
 2024-11-17 19:24:02.072215,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,SMU,0.016699999999999993,0.4167,0.4
-2024-11-17 08:32:01.573358,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,Yes,0.01649999999999996,0.8039,0.7874
 2024-11-17 19:24:02.084145,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Buffalo,0.016100000000000003,0.0357,0.0196
 2024-11-17 09:29:22.601478,League One - England League One 2024/25 - To Be Relegated,Leyton Orient,0.015700000000000006,0.1333,0.1176
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Alperen Sengun (HOU),0.015499999999999998,0.0278,0.0123
 2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,0.015100000000000002,0.1818,0.1667
-2024-11-17 08:32:01.622935,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,No,0.014100000000000001,0.9615,0.9474
 2024-11-17 18:34:52.379568,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.014000000000000012,0.9231,0.9091
+2024-11-17 13:31:19.325077,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),0.013999999999999999,0.0909,0.0769
 2024-11-17 20:28:54.107435,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),0.013999999999999999,0.0909,0.0769
 2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,0.013999999999999999,0.0909,0.0769
-2024-11-17 13:31:19.325077,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),0.013999999999999999,0.0909,0.0769
 2024-11-17 19:24:02.076213,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Iowa State,0.013899999999999996,0.125,0.1111
-2024-11-17 08:32:01.602284,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,0.01319999999999999,0.75,0.7368
-2024-11-17 09:29:22.604636,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.012899999999999995,0.1667,0.1538
 2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Cheltenham Town,0.012899999999999995,0.1667,0.1538
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jalen Green (HOU),0.012700000000000003,0.0323,0.0196
-2024-11-17 08:32:01.673361,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Oklahoma City Thunder,0.012299999999999991,0.1176,0.1053
+2024-11-17 09:29:22.604636,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.012899999999999995,0.1667,0.1538
 2024-11-17 19:24:02.072215,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Clemson,0.011700000000000016,0.2222,0.2105
-2024-11-17 08:32:01.673361,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Houston Rockets,0.011600000000000055,0.5238,0.5122
-2024-11-17 08:32:01.651832,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,No,0.011500000000000066,0.9615,0.95
-2024-11-17 08:32:01.655956,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,Yes,0.011400000000000007,0.129,0.1176
 2024-11-17 16:32:24.991187,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),0.011300000000000004,0.2,0.1887
 2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Mansfield Town,0.011199999999999995,0.0435,0.0323
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Wichanee Meechai,0.010700000000000001,0.0385,0.0278
-2024-11-17 13:31:19.328779,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),0.010699999999999987,0.3333,0.3226
 2024-11-17 13:31:19.332394,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Jared McCain (PHI),0.010699999999999987,0.3333,0.3226
+2024-11-17 13:31:19.328779,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),0.010699999999999987,0.3333,0.3226
 2024-11-17 18:34:52.398692,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.010299999999999976,0.2667,0.2564
 2024-11-17 10:33:40.515159,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Netherlands,0.0102,0.0769,0.0667
 2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Reading,0.0102,0.0769,0.0667
-2024-11-17 08:32:01.673361,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,-0.010099999999999998,0.4444,0.4545
 2024-11-17 09:29:22.601478,League One - England League One 2024/25 - To Be Relegated,Rotherham Utd,-0.010100000000000001,0.0244,0.0345
+2024-11-17 18:34:52.379568,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.0102,0.0667,0.0769
 2024-11-17 13:31:19.310197,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Naz Reid (MIN),-0.0102,0.0667,0.0769
 2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,-0.0102,0.0667,0.0769
-2024-11-17 18:34:52.379568,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.0102,0.0667,0.0769
 2024-11-17 13:31:19.332394,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Alexandre Sarr (WAS),-0.0102,0.0667,0.0769
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jayson Tatum (BOS),-0.0102,0.0667,0.0769
 2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),-0.010399999999999993,0.2222,0.2326
 2024-11-17 16:32:24.991187,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Jared McCain (PHI),-0.010699999999999987,0.3226,0.3333
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Carlota Ciganda,-0.010700000000000001,0.0057,0.0164
 2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Jordan Rhodes,-0.0109,0.004,0.0149
 2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Lincoln City,-0.011099999999999999,0.1,0.1111
 2024-11-17 13:31:19.328779,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.011099999999999999,0.2667,0.2778
-2024-11-17 08:32:01.673361,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Sacramento Kings,-0.011099999999999999,0.4651,0.4762
-2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,-0.011199999999999995,0.0476,0.0588
-2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Exeter City,-0.011199999999999995,0.0476,0.0588
 2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Jonson Clarke-Harris,-0.011199999999999995,0.0476,0.0588
+2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Exeter City,-0.011199999999999995,0.0476,0.0588
+2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Lincoln City,-0.011199999999999995,0.0476,0.0588
 2024-11-17 13:31:19.332394,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),-0.011300000000000004,0.1887,0.2
 2024-11-17 18:34:52.384328,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,-0.011700000000000016,0.2105,0.2222
 2024-11-17 09:29:23.573377,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 34.5,-0.012199999999999989,0.5,0.5122
-2024-11-17 08:32:01.651832,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,Yes,-0.012299999999999991,0.1053,0.1176
-2024-11-17 08:32:01.655956,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,No,-0.012499999999999956,0.9375,0.95
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Gaby Lopez,-0.012700000000000003,0.0196,0.0323
 2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Exeter City,-0.012899999999999998,0.0149,0.0278
 2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Shedeur Sanders (COL),-0.013,0.0066,0.0196
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Tyrese Haliburton (IND),-0.013400000000000002,0.011,0.0244
-2024-11-17 13:31:19.332394,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),-0.013899999999999996,0.1111,0.125
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,-0.013899999999999996,0.1111,0.125
+2024-11-17 13:31:19.332394,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),-0.013899999999999996,0.1111,0.125
 2024-11-17 13:31:19.317560,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,-0.013999999999999999,0.0769,0.0909
-2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Dion Charles,-0.014099999999999994,0.0526,0.0667
 2024-11-17 13:31:19.321249,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Draymond Green (GSW),-0.014099999999999994,0.0526,0.0667
+2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Dion Charles,-0.014099999999999994,0.0526,0.0667
 2024-11-17 10:33:40.863250,National League - English National League 2024/25 - To Be Promoted,Dagenham & Redbridge,-0.014099999999999998,0.0244,0.0385
-2024-11-17 08:32:01.573358,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,No,-0.014600000000000002,0.2632,0.2778
-2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.015100000000000002,0.1667,0.1818
-2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.015100000000000002,0.1667,0.1818
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.015100000000000002,0.1667,0.1818
-2024-11-17 08:32:01.602284,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,-0.015400000000000025,0.3125,0.3279
+2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.015100000000000002,0.1667,0.1818
+2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.015100000000000002,0.1667,0.1818
 2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers (TEX),-0.0156,0.004,0.0196
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Rose Zhang,-0.0157,0.0278,0.0435
-2024-11-17 08:32:01.622935,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,Yes,-0.015899999999999997,0.1053,0.1212
 2024-11-17 09:29:22.629143,League Two - England League Two 2024/25 - Top 3 Finish,Barrow FC,-0.016600000000000004,0.0667,0.0833
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.016600000000000004,0.0667,0.0833
 2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,-0.016699999999999993,0.25,0.2667
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,-0.016699999999999993,0.25,0.2667
+2024-11-17 13:31:19.325077,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),-0.016700000000000007,0.0833,0.1
 2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Colchester United,-0.016700000000000007,0.0833,0.1
 2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Notts County,-0.016700000000000007,0.0833,0.1
-2024-11-17 13:31:19.325077,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),-0.016700000000000007,0.0833,0.1
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,-0.016700000000000048,0.7333,0.75
 2024-11-17 10:33:40.716872,League One - England League One 2024/25 - Top Goalscorer,Paul Mullin,-0.017099999999999997,0.0123,0.0294
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,-0.017299999999999982,0.5744,0.5917
-2024-11-17 13:31:19.310197,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.01759999999999999,0.1,0.1176
 2024-11-17 13:31:19.328779,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Luka Doncic (DAL),-0.01759999999999999,0.1,0.1176
+2024-11-17 13:31:19.310197,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.01759999999999999,0.1,0.1176
 2024-11-17 09:29:22.604636,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,-0.017600000000000005,0.3333,0.3509
 2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Wrexham,-0.017600000000000005,0.3333,0.3509
-2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Blackpool,-0.018099999999999998,0.0588,0.0769
-2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Swindon Town,-0.018099999999999998,0.0588,0.0769
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Accrington Stanley,-0.018099999999999998,0.0588,0.0769
+2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Swindon Town,-0.018099999999999998,0.0588,0.0769
+2024-11-17 09:29:22.598275,League One - England League One 2024/25 - To Be Promoted,Blackpool,-0.018099999999999998,0.0588,0.0769
 2024-11-17 10:33:40.863250,National League - English National League 2024/25 - To Be Promoted,Southend Utd,-0.018200000000000004,0.0294,0.0476
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Blackpool,-0.01820000000000002,0.1818,0.2
-2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,-0.01880000000000004,0.5556,0.5744
 2024-11-17 09:29:23.455291,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 29.5,-0.01880000000000004,0.5556,0.5744
+2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,-0.01880000000000004,0.5556,0.5744
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,-0.019000000000000017,0.2667,0.2857
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.019099999999999992,0.0476,0.0667
 2024-11-17 13:31:19.321249,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),-0.019699999999999995,0.1053,0.125
@@ -182,28 +156,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,-0.020100000000000007,0.2299,0.25
 2024-11-17 10:33:40.859559,National League - English National League 2024/25 - English National League Winner,Gateshead,-0.02020000000000001,0.0909,0.1111
 2024-11-17 09:29:22.607811,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,-0.02049999999999999,0.1333,0.1538
-2024-11-17 09:29:23.578721,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 27.5,-0.02079999999999993,0.5348,0.5556
 2024-11-17 09:29:23.444927,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 59.5,-0.02079999999999993,0.5348,0.5556
+2024-11-17 09:29:23.578721,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 27.5,-0.02079999999999993,0.5348,0.5556
 2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jaxson Dart (MISS),-0.022099999999999998,0.0164,0.0385
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Joel Embiid (PHI),-0.022400000000000003,0.002,0.0244
 2024-11-17 09:29:23.470637,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 49.5,-0.022600000000000064,0.5122,0.5348
-2024-11-17 18:34:52.917211,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Tennessee,-0.023200000000000002,0.0244,0.0476
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,-0.023200000000000002,0.0244,0.0476
-2024-11-17 08:32:01.614615,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,Yes,-0.023600000000000065,0.8621,0.8857
+2024-11-17 18:34:52.917211,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Tennessee,-0.023200000000000002,0.0244,0.0476
 2024-11-17 18:34:52.917211,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,-0.023800000000000016,0.1667,0.1905
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Barnsley,-0.023800000000000043,0.5,0.5238
 2024-11-17 09:29:22.619159,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.0242,0.0667,0.0909
 2024-11-17 13:31:19.325077,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),-0.024299999999999995,0.0526,0.0769
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,James Harden (LAC),-0.0244,0.0079,0.0323
 2024-11-17 09:29:22.595064,League One - England League One 2024/25 - Winner,Wrexham,-0.0245,0.0588,0.0833
-2024-11-17 08:32:01.673361,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,New Orleans Pelicans,-0.02560000000000001,0.1667,0.1923
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,-0.02560000000000001,0.3077,0.3333
 2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.027999999999999997,0.1538,0.1818
 2024-11-17 19:24:02.084145,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Ohio,-0.027999999999999997,0.1538,0.1818
 2024-11-17 10:33:42.206738,The ANNIKA - The ANNIKA - Winner,Minjee Lee,-0.0286,0.0099,0.0385
 2024-11-17 09:29:22.615904,League Two - England League Two 2024/25 - Winner,Chesterfield,-0.029299999999999993,0.0476,0.0769
-2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.0294,0.0294,0.0588
 2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jalen Milroe (ALA),-0.0294,0.0294,0.0588
+2024-11-17 09:29:22.632371,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.0294,0.0294,0.0588
 2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Kurtis Rourke (IND),-0.030199999999999998,0.0323,0.0625
 2024-11-17 09:29:23.506888,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 48.5,-0.030399999999999983,0.5348,0.5652
 2024-11-17 18:34:52.917211,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Oregon,-0.031700000000000006,0.1905,0.2222
@@ -224,7 +194,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 09:29:22.601478,League One - England League One 2024/25 - To Be Relegated,Northampton Town,-0.047599999999999976,0.2857,0.3333
 2024-11-17 10:33:40.750548,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,-0.05350000000000002,0.1818,0.2353
 2024-11-17 09:29:22.625968,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.05559999999999998,0.1111,0.1667
-2024-11-17 08:32:01.547539,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Nikola Jokic (DEN),-0.05859999999999999,0.0323,0.0909
 2024-11-17 19:24:02.080155,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Oregon,-0.05870000000000003,0.4651,0.5238
 2024-11-17 09:29:22.622777,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.059099999999999986,0.2857,0.3448
 2024-11-17 09:29:22.610999,League One - England League One 2024/25 - Top 6 Finish,Wrexham,-0.06659999999999999,0.6667,0.7333
@@ -239,6 +208,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-17 19:24:02.088186,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Mississippi,-0.1238,0.0141,0.1379
 2024-11-17 19:24:02.084145,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Western Michigan,-0.126,0.0278,0.1538
 2024-11-17 12:48:54.723342,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Houston Texans,No,-0.13130000000000003,0.0909,0.2222
+2024-11-17 20:28:54.379191,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Army,-0.14200000000000002,0.3125,0.4545
 2024-11-17 12:48:54.733539,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Miami Dolphins,Yes,-0.1422,0.25,0.3922
 2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Dillon Gabriel (ORE),-0.1862,0.0385,0.2247
 2024-11-17 12:48:54.706207,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Arizona Cardinals,No,-0.20450000000000002,0.4878,0.6923
