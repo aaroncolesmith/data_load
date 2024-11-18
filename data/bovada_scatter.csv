@@ -1,34 +1,27 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-18 06:39:01.505647,AFC North - AFC North 2024/25 - AFC North Winner,Pittsburgh Steelers,0.3748,0.6923,0.3175
-2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter (COL),0.22220000000000006,0.7778,0.5556
-2024-11-17 19:24:02.088186,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Alabama,0.19560000000000002,0.3774,0.1818
 2024-11-17 20:28:54.379191,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Tulane,0.18120000000000003,0.7368,0.5556
-2024-11-17 19:24:02.088186,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Georgia,0.15910000000000002,0.25,0.0909
-2024-11-17 19:24:02.076213,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Arizona State,0.15550000000000003,0.2222,0.0667
 2024-11-18 06:39:01.538330,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,0.09529999999999998,0.1667,0.0714
 2024-11-18 03:07:26.639928,NBL - Australia NBL 2024/25 - To Make Grand Final,Illawarra Hawks,0.09160000000000001,0.4762,0.3846
-2024-11-17 19:24:02.076213,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Colorado,0.08039999999999997,0.5455,0.4651
 2024-11-18 03:07:26.639928,NBL - Australia NBL 2024/25 - To Make Grand Final,Melbourne United,0.07939999999999997,0.5556,0.4762
-2024-11-17 19:24:02.084145,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Toledo,0.07500000000000001,0.2,0.125
 2024-11-18 06:39:01.528956,AFC West - AFC West 2024/25 - AFC West Winner,Los Angeles Chargers,0.06760000000000001,0.1111,0.0435
-2024-11-17 19:24:02.084145,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,0.06509999999999999,0.4651,0.4
 2024-11-18 03:07:26.636258,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,0.05449999999999999,0.4545,0.4
 2024-11-18 06:39:01.538330,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.045499999999999985,0.1667,0.1212
 2024-11-18 06:39:01.538330,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,0.04139999999999999,0.4762,0.4348
 2024-11-18 03:07:26.633098,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.03950000000000001,0.25,0.2105
 2024-11-18 06:39:01.533610,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,0.03889999999999999,0.1818,0.1429
-2024-11-17 19:24:02.080155,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Ohio State,0.03600000000000003,0.5238,0.4878
-2024-11-18 03:07:26.639928,NBL - Australia NBL 2024/25 - To Make Grand Final,Tasmania JackJumpers,0.03420000000000001,0.1111,0.0769
 2024-11-18 06:39:01.524290,AFC South - AFC South 2024/25 - AFC South Winner,Indianapolis Colts,0.03420000000000001,0.1111,0.0769
+2024-11-18 03:07:26.639928,NBL - Australia NBL 2024/25 - To Make Grand Final,Tasmania JackJumpers,0.03420000000000001,0.1111,0.0769
 2024-11-18 06:39:01.533610,NFC South - NFC South 2024/25 - NFC South Winner,New Orleans Saints,0.0335,0.0476,0.0141
+2024-11-18 07:28:49.307583,Euro Cup - Euro Cup 2024/25 - Outright,Hapoel Tel Aviv,0.033300000000000024,0.2,0.1667
 2024-11-18 06:39:01.514970,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,0.033300000000000024,0.2,0.1667
 2024-11-18 06:39:01.486405,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,0.031399999999999983,0.2667,0.2353
 2024-11-17 23:27:46.611473,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Texas To Make the 2024-2025 College Football Playoff,Yes,0.028000000000000025,0.9804,0.9524
 2024-11-18 03:07:26.649589,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),0.02560000000000001,0.3333,0.3077
 2024-11-18 06:39:01.528956,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,0.024399999999999998,0.0294,0.005
 2024-11-17 20:28:54.107435,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Draymond Green (GSW),0.024299999999999995,0.0769,0.0526
-2024-11-18 03:07:26.636258,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,0.022199999999999998,0.2222,0.2
 2024-11-18 03:07:26.636258,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,0.022199999999999998,0.2222,0.2
+2024-11-18 03:07:26.636258,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,0.022199999999999998,0.2222,0.2
 2024-11-18 03:07:26.639928,NBL - Australia NBL 2024/25 - To Make Grand Final,Sydney Kings,0.021699999999999997,0.4762,0.4545
 2024-11-17 20:28:54.107435,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.019699999999999995,0.125,0.1053
 2024-11-18 06:39:01.486405,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Denver Broncos,0.019100000000000002,0.0323,0.0132
@@ -36,65 +29,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-18 05:32:43.824750,Super Bowl LIX - Super Bowl 59 - Winner,Philadelphia Eagles,0.01759999999999999,0.1176,0.1
 2024-11-18 03:07:26.929816,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Sunny Edwards,0.017299999999999982,0.5917,0.5744
 2024-11-18 06:39:01.486405,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Pittsburgh Steelers,0.016700000000000007,0.1,0.0833
-2024-11-17 19:24:02.072215,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,SMU,0.016699999999999993,0.4167,0.4
-2024-11-17 19:24:02.084145,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Buffalo,0.016100000000000003,0.0357,0.0196
-2024-11-18 03:07:26.649589,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.015100000000000002,0.1818,0.1667
 2024-11-18 03:07:26.649589,WNBL - Australia WNBL 2024/25 - Outright,Southside Flyers (W),0.015100000000000002,0.1818,0.1667
+2024-11-18 03:07:26.649589,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.015100000000000002,0.1818,0.1667
 2024-11-18 03:07:26.633098,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.014000000000000012,0.3125,0.2985
 2024-11-17 20:28:54.107435,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),0.013999999999999999,0.0909,0.0769
-2024-11-17 19:24:02.076213,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Iowa State,0.013899999999999996,0.125,0.1111
-2024-11-17 19:24:02.072215,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Clemson,0.011700000000000016,0.2222,0.2105
+2024-11-18 07:28:49.222978,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.013599999999999945,0.7059,0.6923
 2024-11-18 06:39:01.491128,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.011700000000000016,0.2222,0.2105
 2024-11-17 22:30:57.511012,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,0.0116,0.4878,0.4762
 2024-11-18 06:39:01.486405,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Los Angeles Chargers,0.011099999999999999,0.0667,0.0556
 2024-11-18 03:07:26.636258,NBL - Australia NBL 2024/25 - Regular Season League Winner,Tasmania JackJumpers,0.0101,0.0141,0.004
-2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),-0.010399999999999993,0.2222,0.2326
+2024-11-18 07:28:49.222978,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,-0.010499999999999982,0.2,0.2105
+2024-11-18 07:28:49.232504,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Charlotte Hornets,-0.011199999999999995,0.0323,0.0435
 2024-11-18 03:07:26.929816,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,-0.0116,0.4762,0.4878
 2024-11-18 06:39:01.491128,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,-0.012899999999999995,0.1538,0.1667
-2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Shedeur Sanders (COL),-0.013,0.0066,0.0196
 2024-11-18 06:39:01.240192,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.0131,0.2222,0.2353
 2024-11-18 06:39:01.235543,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.013600000000000001,0.2941,0.3077
 2024-11-18 05:32:43.824750,Super Bowl LIX - Super Bowl 59 - Winner,San Francisco 49ers,-0.013999999999999999,0.0769,0.0909
 2024-11-18 06:39:01.486405,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Cincinnati Bengals,-0.014099999999999998,0.0294,0.0435
-2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers (TEX),-0.0156,0.004,0.0196
 2024-11-18 03:07:26.639928,NBL - Australia NBL 2024/25 - To Make Grand Final,Adelaide 36ers,-0.016699999999999993,0.25,0.2667
 2024-11-17 22:30:57.511012,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Sunny Edwards,-0.017299999999999982,0.5744,0.5917
 2024-11-18 03:07:26.639928,NBL - Australia NBL 2024/25 - To Make Grand Final,Perth Wildcats,-0.0179,0.125,0.1429
 2024-11-18 05:32:43.824750,Super Bowl LIX - Super Bowl 59 - Winner,Kansas City Chiefs,-0.01999999999999999,0.1905,0.2105
-2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jaxson Dart (MISS),-0.022099999999999998,0.0164,0.0385
-2024-11-18 03:07:26.633098,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,-0.025300000000000003,0.1176,0.1429
 2024-11-18 05:32:43.824750,Super Bowl LIX - Super Bowl 59 - Winner,Baltimore Ravens,-0.025300000000000003,0.1176,0.1429
+2024-11-18 03:07:26.633098,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,-0.025300000000000003,0.1176,0.1429
 2024-11-18 06:39:01.230801,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.0267,0.0909,0.1176
 2024-11-18 03:07:26.633098,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.02739999999999998,0.2667,0.2941
 2024-11-17 23:27:46.611473,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Texas To Make the 2024-2025 College Football Playoff,No,-0.027800000000000005,0.0833,0.1111
-2024-11-17 19:24:02.084145,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Ohio,-0.027999999999999997,0.1538,0.1818
 2024-11-18 03:07:26.649589,WNBL - Australia WNBL 2024/25 - Outright,Sydney Uni Flames (W),-0.028399999999999995,0.0625,0.0909
-2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jalen Milroe (ALA),-0.0294,0.0294,0.0588
-2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Kurtis Rourke (IND),-0.030199999999999998,0.0323,0.0625
 2024-11-18 06:39:01.230801,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.033299999999999996,0.4545,0.4878
 2024-11-18 06:39:01.491128,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Atlanta Falcons,-0.0334,0.0435,0.0769
+2024-11-18 07:28:49.218235,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,-0.03420000000000001,0.0769,0.1111
 2024-11-18 06:39:01.524290,AFC South - AFC South 2024/25 - AFC South Winner,Houston Texans,-0.03479999999999994,0.9333,0.9681
-2024-11-17 19:24:02.072215,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Miami Florida,-0.03600000000000003,0.4878,0.5238
+2024-11-18 07:28:49.307583,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,-0.03710000000000002,0.3333,0.3704
 2024-11-18 03:07:26.639928,NBL - Australia NBL 2024/25 - To Make Grand Final,SE Melbourne Phoenix,-0.037500000000000006,0.0625,0.1
 2024-11-18 03:07:26.649589,WNBL - Australia WNBL 2024/25 - Outright,Adelaide Lightning (W),-0.037500000000000006,0.0625,0.1
 2024-11-18 06:39:01.528956,AFC West - AFC West 2024/25 - AFC West Winner,Kansas City Chiefs,-0.037699999999999956,0.9524,0.9901
-2024-11-17 19:24:02.088186,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Texas A&M,-0.03860000000000001,0.0667,0.1053
 2024-11-18 03:07:26.639928,NBL - Australia NBL 2024/25 - To Make Grand Final,New Zealand Breakers,-0.04040000000000002,0.1818,0.2222
 2024-11-18 03:07:26.649589,WNBL - Australia WNBL 2024/25 - Outright,Townsville Fire (W),-0.04099999999999998,0.2667,0.3077
 2024-11-18 06:39:01.486405,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,-0.04410000000000003,0.3333,0.3774
-2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cam Ward (MIA),-0.04440000000000001,0.0667,0.1111
 2024-11-18 03:07:26.636258,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,-0.04620000000000002,0.1538,0.2
 2024-11-18 06:39:01.486405,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Baltimore Ravens,-0.0504,0.2353,0.2857
-2024-11-17 19:24:02.080155,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Oregon,-0.05870000000000003,0.4651,0.5238
 2024-11-18 06:39:01.533610,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,-0.07579999999999998,0.8333,0.9091
-2024-11-17 19:24:02.088186,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Texas,-0.0796,0.4082,0.4878
 2024-11-18 03:07:26.636258,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,-0.08240000000000001,0.1176,0.2
-2024-11-17 19:24:02.076213,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Kansas State,-0.1032,0.0079,0.1111
-2024-11-17 19:24:02.076213,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,BYU,-0.12040000000000001,0.25,0.3704
-2024-11-17 19:24:02.088186,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Tennessee,-0.121,0.004,0.125
-2024-11-17 19:24:02.088186,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Mississippi,-0.1238,0.0141,0.1379
-2024-11-17 19:24:02.084145,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Western Michigan,-0.126,0.0278,0.1538
 2024-11-17 20:28:54.379191,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Army,-0.14200000000000002,0.3125,0.4545
-2024-11-17 19:24:02.092431,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Dillon Gabriel (ORE),-0.1862,0.0385,0.2247
 2024-11-18 06:39:01.538330,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,-0.1905,0.2857,0.4762
 2024-11-18 06:39:01.505647,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,-0.35309999999999997,0.4,0.7531
