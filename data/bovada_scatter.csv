@@ -1,28 +1,16 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-18 23:27:55.187592,NFL Christmas Game - Beyonce Set: Colour Of First Outfit - Colour First Outfit,Red,0.06670000000000004,0.4,0.3333
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Peter Uihlein,0.047099999999999996,0.0667,0.0196
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Patrick Reed,0.04229999999999999,0.0667,0.0244
 2024-11-18 18:37:51.012009,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Jared McCain (PHI),0.034499999999999975,0.3571,0.3226
 2024-11-18 23:27:55.187592,NFL Christmas Game - Beyonce Set: Colour Of First Outfit - Colour First Outfit,Silver/Gray,0.034100000000000005,0.125,0.0909
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Scott Vincent,0.028300000000000002,0.0323,0.004
 2024-11-18 18:37:50.751103,East Group A - East Group A Winner - East Group A Winner,New York Knicks,0.027800000000000047,0.7778,0.75
 2024-11-19 02:00:24.863291,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.024399999999999977,0.5122,0.4878
+2024-11-19 03:04:06.501313,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.022600000000000064,0.6226,0.6
 2024-11-18 18:37:50.751103,East Group A - East Group A Winner - East Group A Winner,Orlando Magic,0.02250000000000002,0.2857,0.2632
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Miguel Tabuena,0.021199999999999997,0.0278,0.0066
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Gunn Charoenkul,0.0211,0.0244,0.0033
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Jazz Janewattananond,0.0207,0.0217,0.001
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Kieran Vincent,0.0194,0.0244,0.005
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Danthai Boonma,0.0192,0.0196,0.0004
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Taichi Kho,0.0191,0.0196,0.0005
 2024-11-18 18:37:50.996553,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Ime Udoka,0.019099999999999992,0.0667,0.0476
 2024-11-18 18:37:51.209977,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,0.01820000000000002,0.2,0.1818
 2024-11-19 02:00:24.854842,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Emanuel Navarrete,0.018100000000000005,0.7403,0.7222
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Suteepat Prateeptienchai,0.0145,0.0244,0.0099
 2024-11-18 18:37:51.000442,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Dyson Daniels (ATL),0.013999999999999999,0.0909,0.0769
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Bjorn Hellgren,0.0131,0.0164,0.0033
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Gaganjeet Bhullar,0.012100000000000001,0.0244,0.0123
 2024-11-18 18:37:50.996553,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Kenny Atkinson,0.011600000000000055,0.5238,0.5122
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Richard T Lee,0.010700000000000001,0.0385,0.0278
 2024-11-18 17:31:01.408414,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Texas Tech,0.010300000000000002,0.0244,0.0141
 2024-11-18 18:37:50.996553,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,-0.0102,0.0667,0.0769
 2024-11-18 22:32:11.341420,Boxing Lines - Cameron Vuong vs Gavin Gwynne - To Win the Bout,Gavin Gwynne,-0.010499999999999982,0.2,0.2105
@@ -32,14 +20,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-18 18:37:51.209977,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,-0.015100000000000002,0.8182,0.8333
 2024-11-18 18:37:51.209977,NFC South - NFC South 2024/25 - NFC South Winner,New Orleans Saints,-0.015300000000000001,0.0323,0.0476
 2024-11-19 02:00:24.863291,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.01880000000000004,0.5556,0.5744
+2024-11-19 03:04:06.501313,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,-0.020699999999999996,0.4444,0.4651
 2024-11-19 02:00:24.854842,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Oscar Valdez,-0.022199999999999998,0.3226,0.3448
-2024-11-18 23:27:55.187592,NFL Christmas Game - Beyonce Set: Colour Of First Outfit - Colour First Outfit,Black,-0.023799999999999988,0.1429,0.1667
 2024-11-18 18:37:51.012009,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),-0.023799999999999988,0.1429,0.1667
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Sadom Kaewkanjana,-0.026499999999999996,0.0323,0.0588
+2024-11-18 23:27:55.187592,NFL Christmas Game - Beyonce Set: Colour Of First Outfit - Colour First Outfit,Black,-0.023799999999999988,0.1429,0.1667
 2024-11-18 23:27:55.187592,NFL Christmas Game - Beyonce Set: Colour Of First Outfit - Colour First Outfit,Gold,-0.033300000000000024,0.1667,0.2
 2024-11-18 22:32:10.996568,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bogdan Bogdanovic (ATL),-0.0336,0.0099,0.0435
 2024-11-18 23:27:55.187592,NFL Christmas Game - Beyonce Set: Colour Of First Outfit - Colour First Outfit,White/Cream,-0.04169999999999999,0.125,0.1667
 2024-11-18 23:27:55.187592,NFL Christmas Game - Beyonce Set: Colour Of First Outfit - Colour First Outfit,Green,-0.048600000000000004,0.0625,0.1111
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Lee Chieh-Po,-0.0524,0.0476,0.1
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Ben Campbell,-0.06999999999999999,0.0476,0.1176
-2024-11-18 14:33:01.061607,Hong Kong Open - Hong Kong Open - Winner,Phachara Khongwatmai,-0.2579,0.0278,0.2857
