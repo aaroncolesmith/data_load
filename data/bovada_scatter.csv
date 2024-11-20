@@ -4,10 +4,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 19:23:35.711555,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),0.1453,0.2222,0.0769
 2024-11-20 19:23:35.708072,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell (PHI),0.1428,0.2857,0.1429
 2024-11-20 08:35:55.354570,West Group B - West Group B Winner - West Group B Winner,Phoenix Suns,0.1222,0.2222,0.1
+2024-11-20 20:30:56.414544,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Cleveland Cavaliers,0.0922,0.4255,0.3333
 2024-11-20 08:35:55.345217,East Group C - East Group C Winner - East Group C Winner,Boston Celtics,0.06149999999999997,0.2941,0.2326
+2024-11-20 20:30:57.064914,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Katsuya Yasuda,0.05449999999999999,0.6,0.5455
 2024-11-20 11:25:08.536450,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.053100000000000036,0.4167,0.3636
 2024-11-20 08:35:55.331065,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,0.05299999999999999,0.4878,0.4348
 2024-11-20 14:32:22.239873,Boxing Lines - Tina Rupprecht vs Eri Matsuda - To Win the Bout,Tina Rupprecht,0.05009999999999992,0.7222,0.6721
+2024-11-20 20:30:56.423251,Western Conference - Conference Seeding  - To Be #1 Seed,Denver Nuggets,0.05,0.1333,0.0833
 2024-11-20 16:36:50.085724,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),0.047599999999999976,0.3333,0.2857
 2024-11-20 08:35:55.354570,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,0.044399999999999995,0.4444,0.4
 2024-11-20 09:30:33.067084,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.0417,0.125,0.0833
@@ -18,32 +21,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 08:35:55.359248,West Group C - West Group C Winner - West Group C Winner,Dallas Mavericks,0.0339,0.1053,0.0714
 2024-11-20 10:35:12.987247,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Katsuya Yasuda,0.033399999999999985,0.6078,0.5744
 2024-11-20 18:37:32.497513,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Donovan Mitchell (CLE),0.03330000000000001,0.1,0.0667
+2024-11-20 11:25:09.576003,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,0.033299999999999996,0.4878,0.4545
 2024-11-20 14:32:22.714226,Positions - Finishing Position - Davis Thompson - Finishing Position,26th or worse,0.033299999999999996,0.4878,0.4545
 2024-11-20 14:32:22.727963,Positions - Finishing Position - Denny McCarthy - Finishing Position,38th or worse,0.033299999999999996,0.4878,0.4545
-2024-11-20 11:25:09.576003,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,0.033299999999999996,0.4878,0.4545
 2024-11-20 08:35:55.335778,East Group A - East Group A Winner - East Group A Winner,New York Knicks,0.029899999999999927,0.8077,0.7778
 2024-11-20 08:35:55.364113,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Dallas Mavericks,0.029299999999999993,0.0769,0.0476
-2024-11-20 10:35:13.470915,Tournament Match-Ups - Tournament Match-Up - A. Novak vs L. Clanton - Tournament Match-Up,Luke Clanton,0.027700000000000002,0.4444,0.4167
 2024-11-20 14:32:23.022949,Hong Kong Open - 2/3 Balls - 1st Round 3 Balls - P. Reed / J. Rose / T. Kho - 1st Round 3 Balls,Patrick Reed,0.027700000000000002,0.4444,0.4167
+2024-11-20 20:30:56.423251,Western Conference - Conference Seeding  - To Be #1 Seed,Los Angeles Lakers,0.027700000000000002,0.0833,0.0556
+2024-11-20 10:35:13.470915,Tournament Match-Ups - Tournament Match-Up - A. Novak vs L. Clanton - Tournament Match-Up,Luke Clanton,0.027700000000000002,0.4444,0.4167
 2024-11-20 19:23:35.134170,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Boston Celtics,0.025599999999999956,0.6552,0.6296
 2024-11-20 14:32:23.002014,Hong Kong Open - 2/3 Balls - 1st Round 3 Balls - S. Kaewkanjana / J. Morgan / C. Jung - 1st Round 3 Balls,Chanmin Jung,0.024800000000000016,0.2353,0.2105
-2024-11-20 14:32:22.755189,Positions - Finishing Position - Andrew Novak - Finishing Position,38th or worse,0.024399999999999977,0.5122,0.4878
 2024-11-20 14:32:23.010478,Hong Kong Open - 2/3 Balls - 1st Round 3 Balls - T. Kim / P. Uihlein / B. Campbell - 1st Round 3 Balls,Tom Kim,0.024399999999999977,0.5122,0.4878
+2024-11-20 14:32:22.755189,Positions - Finishing Position - Andrew Novak - Finishing Position,38th or worse,0.024399999999999977,0.5122,0.4878
 2024-11-20 08:35:55.574790,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,0.0242,0.0909,0.0667
-2024-11-20 14:32:22.750697,Positions - Finishing Position - Seamus Power - Finishing Position,34th or worse,0.023800000000000043,0.5238,0.5
 2024-11-20 19:23:35.809242,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,0.023800000000000043,0.5238,0.5
-2024-11-20 14:32:22.737109,Positions - Finishing Position - Austin Eckroat - Finishing Position ,34th or worse,0.023799999999999988,0.5,0.4762
+2024-11-20 14:32:22.750697,Positions - Finishing Position - Seamus Power - Finishing Position,34th or worse,0.023800000000000043,0.5238,0.5
+2024-11-20 08:35:55.471040,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Kansas,0.023799999999999988,0.3571,0.3333
 2024-11-20 14:32:22.723248,Positions - Finishing Position - Ben Griffin - Finishing Position,35th or worse,0.023799999999999988,0.5,0.4762
+2024-11-20 14:32:22.709641,Positions - Finishing Position - Ludvig Aberg - Finishing Position,16th or worse,0.023799999999999988,0.5,0.4762
 2024-11-20 14:32:22.746147,Positions - Finishing Position - J.T. Poston - Finishing Position,36th or worse,0.023799999999999988,0.5,0.4762
 2024-11-20 14:32:22.741642,Positions - Finishing Position - Harris English - Finishing Position,36th or worse,0.023799999999999988,0.5,0.4762
-2024-11-20 08:35:55.471040,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Kansas,0.023799999999999988,0.3571,0.3333
-2024-11-20 14:32:22.709641,Positions - Finishing Position - Ludvig Aberg - Finishing Position,16th or worse,0.023799999999999988,0.5,0.4762
+2024-11-20 14:32:22.737109,Positions - Finishing Position - Austin Eckroat - Finishing Position ,34th or worse,0.023799999999999988,0.5,0.4762
 2024-11-20 08:35:55.345217,East Group C - East Group C Winner - East Group C Winner,Atlanta Hawks,0.02260000000000001,0.4,0.3774
 2024-11-20 14:32:22.562787,Round Match-Ups - 1st Round Match-Ups - J. Lower vs G. Sigg - 1st Round Match-Ups,Greyson Sigg,0.02169999999999994,0.5455,0.5238
 2024-11-20 09:30:33.860616,Tournament Match-Ups - Tournament Match-Up - P. Rodgers vs S. Straka - Tournament Match-Up,Sepp Straka,0.02079999999999993,0.5556,0.5348
 2024-11-20 17:30:19.382021,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs D. Thompson - Tournament Match-Up,Davis Thompson,0.020699999999999996,0.4651,0.4444
 2024-11-20 19:23:35.142996,Western Conference - Conference Seeding  - To Be #1 Seed,Houston Rockets,0.0203,0.0588,0.0385
 2024-11-20 11:25:08.516793,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,0.02020000000000001,0.1111,0.0909
+2024-11-20 20:30:56.423251,Western Conference - Conference Seeding  - To Be #1 Seed,Oklahoma City Thunder,0.019699999999999995,0.4545,0.4348
 2024-11-20 08:35:55.475029,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Xavier,0.0179,0.1429,0.125
 2024-11-20 19:23:35.708072,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),0.0162,0.0294,0.0132
 2024-11-20 08:35:55.364113,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Boston Celtics,0.015899999999999997,0.1111,0.0952
@@ -55,9 +60,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 16:36:49.845219,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Golden State Warriors,0.013899999999999996,0.125,0.1111
 2024-11-20 14:32:22.662219,Tournament Match-Ups - Tournament Match-Up - A. Novak vs L. Clanton - Tournament Match-Up,Andrew Novak,0.013799999999999923,0.6364,0.6226
 2024-11-20 11:25:08.533254,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,0.013600000000000001,0.3077,0.2941
+2024-11-20 18:37:33.096992,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,0.012199999999999989,0.5,0.4878
 2024-11-20 14:32:22.759684,Positions - Finishing Position - Eric Cole - Finishing Position,38th or worse,0.012199999999999989,0.5,0.4878
 2024-11-20 14:32:22.732583,Positions - Finishing Position - Si Woo Kim - Finishing Position,32nd or worse,0.012199999999999989,0.5,0.4878
-2024-11-20 18:37:33.096992,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,0.012199999999999989,0.5,0.4878
 2024-11-20 11:25:08.533254,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,0.011099999999999999,0.1111,0.1
 2024-11-20 08:35:55.571186,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Stephen Curry (GSW),0.011099999999999999,0.1111,0.1
 2024-11-20 08:35:55.345217,East Group C - East Group C Winner - East Group C Winner,Chicago Bulls,0.010700000000000001,0.0385,0.0278
@@ -70,9 +75,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 18:37:32.497513,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Trae Young (ATL),-0.012100000000000001,0.0123,0.0244
 2024-11-20 11:25:08.536450,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,-0.012700000000000045,0.6364,0.6491
 2024-11-20 19:23:35.142996,Western Conference - Conference Seeding  - To Be #1 Seed,Memphis Grizzlies,-0.0131,0.0345,0.0476
-2024-11-20 09:30:33.074636,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),-0.013999999999999999,0.0769,0.0909
+2024-11-20 20:30:56.414544,Eastern Conference - Conference Seeding  - To Be #1 Seed ,New York Knicks,-0.013899999999999996,0.1111,0.125
 2024-11-20 08:35:55.578430,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),-0.013999999999999999,0.0769,0.0909
 2024-11-20 09:30:33.070901,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Davis (LAL),-0.013999999999999999,0.0769,0.0909
+2024-11-20 09:30:33.074636,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),-0.013999999999999999,0.0769,0.0909
 2024-11-20 08:35:55.514149,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,NC State (W),-0.014099999999999998,0.0244,0.0385
 2024-11-20 14:32:23.022949,Hong Kong Open - 2/3 Balls - 1st Round 3 Balls - P. Reed / J. Rose / T. Kho - 1st Round 3 Balls,Justin Rose,-0.01419999999999999,0.3704,0.3846
 2024-11-20 09:30:33.387988,Boxing Lines - Josh Wagner vs David Papot - To Win the Bout,Josh Wagner,-0.01419999999999999,0.3704,0.3846
@@ -80,13 +86,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 08:35:55.449666,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Kansas,-0.014399999999999996,0.0625,0.0769
 2024-11-20 14:32:23.010478,Hong Kong Open - 2/3 Balls - 1st Round 3 Balls - T. Kim / P. Uihlein / B. Campbell - 1st Round 3 Balls,Peter Uihlein,-0.014900000000000024,0.3077,0.3226
 2024-11-20 14:32:23.002014,Hong Kong Open - 2/3 Balls - 1st Round 3 Balls - S. Kaewkanjana / J. Morgan / C. Jung - 1st Round 3 Balls,Sadom Kaewkanjana,-0.016100000000000003,0.5917,0.6078
-2024-11-20 08:35:55.359248,West Group C - West Group C Winner - West Group C Winner,New Orleans Pelicans,-0.016700000000000007,0.0833,0.1
 2024-11-20 17:30:18.490544,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),-0.016700000000000007,0.0833,0.1
-2024-11-20 08:35:55.458856,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Louis,-0.0179,0.125,0.1429
+2024-11-20 08:35:55.359248,West Group C - West Group C Winner - West Group C Winner,New Orleans Pelicans,-0.016700000000000007,0.0833,0.1
 2024-11-20 08:35:55.514149,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame (W),-0.0179,0.125,0.1429
-2024-11-20 09:30:33.067084,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Johnson (ATL),-0.01820000000000002,0.1818,0.2
+2024-11-20 08:35:55.458856,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Louis,-0.0179,0.125,0.1429
 2024-11-20 11:25:08.282919,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Portugal,-0.01820000000000002,0.1818,0.2
+2024-11-20 09:30:33.067084,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Johnson (ATL),-0.01820000000000002,0.1818,0.2
 2024-11-20 14:32:22.755189,Positions - Finishing Position - Andrew Novak - Finishing Position,37th or better,-0.01880000000000004,0.5556,0.5744
+2024-11-20 20:30:56.423251,Western Conference - Conference Seeding  - To Be #1 Seed,Sacramento Kings,-0.0189,0.0196,0.0385
 2024-11-20 14:32:22.662219,Tournament Match-Ups - Tournament Match-Up - A. Novak vs L. Clanton - Tournament Match-Up,Luke Clanton,-0.018900000000000028,0.4255,0.4444
 2024-11-20 18:37:32.497513,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Karl Anthony-Towns (MIN),-0.019099999999999992,0.0476,0.0667
 2024-11-20 19:23:35.809242,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Katsuya Yasuda,-0.01970000000000005,0.5455,0.5652
@@ -105,21 +112,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 08:35:55.364113,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Cleveland Cavaliers,-0.025300000000000003,0.1176,0.1429
 2024-11-20 11:25:08.523591,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,-0.025499999999999967,0.4,0.4255
 2024-11-20 11:25:08.533254,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,-0.02560000000000001,0.3077,0.3333
-2024-11-20 14:32:22.746147,Positions - Finishing Position - J.T. Poston - Finishing Position,35th or better,-0.026499999999999968,0.5652,0.5917
 2024-11-20 14:32:22.723248,Positions - Finishing Position - Ben Griffin - Finishing Position,34th or better,-0.026499999999999968,0.5652,0.5917
 2024-11-20 10:35:13.470915,Tournament Match-Ups - Tournament Match-Up - A. Novak vs L. Clanton - Tournament Match-Up,Andrew Novak,-0.026499999999999968,0.6226,0.6491
 2024-11-20 14:32:22.737109,Positions - Finishing Position - Austin Eckroat - Finishing Position ,33rd or better,-0.026499999999999968,0.5652,0.5917
-2024-11-20 14:32:22.741642,Positions - Finishing Position - Harris English - Finishing Position,35th or better,-0.026499999999999968,0.5652,0.5917
 2024-11-20 14:32:22.709641,Positions - Finishing Position - Ludvig Aberg - Finishing Position,15th or better,-0.026499999999999968,0.5652,0.5917
+2024-11-20 14:32:22.746147,Positions - Finishing Position - J.T. Poston - Finishing Position,35th or better,-0.026499999999999968,0.5652,0.5917
+2024-11-20 14:32:22.741642,Positions - Finishing Position - Harris English - Finishing Position,35th or better,-0.026499999999999968,0.5652,0.5917
 2024-11-20 09:30:33.074636,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Alexandre Sarr (WAS),-0.028199999999999996,0.0385,0.0667
 2024-11-20 09:30:33.067084,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Green (HOU),-0.0286,0.0099,0.0385
 2024-11-20 08:35:55.578430,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Draymond Green (GSW),-0.029299999999999993,0.0476,0.0769
 2024-11-20 09:30:33.074636,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),-0.030699999999999998,0.0526,0.0833
 2024-11-20 09:30:33.067084,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Norman Powell (LAC),-0.0321,0.0588,0.0909
 2024-11-20 10:35:12.987247,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,-0.033299999999999996,0.4545,0.4878
+2024-11-20 14:32:22.714226,Positions - Finishing Position - Davis Thompson - Finishing Position,25th or better,-0.033399999999999985,0.5744,0.6078
 2024-11-20 11:25:09.576003,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Katsuya Yasuda,-0.033399999999999985,0.5744,0.6078
 2024-11-20 14:32:22.727963,Positions - Finishing Position - Denny McCarthy - Finishing Position,37th or better,-0.033399999999999985,0.5744,0.6078
-2024-11-20 14:32:22.714226,Positions - Finishing Position - Davis Thompson - Finishing Position,25th or better,-0.033399999999999985,0.5744,0.6078
 2024-11-20 08:35:55.578430,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),-0.034100000000000005,0.0909,0.125
 2024-11-20 14:32:22.718736,Positions - Finishing Position - Brian Harman - Finishing Position,31st or better,-0.03479999999999994,0.5652,0.6
 2024-11-20 08:35:55.453966,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Connecticut,-0.03510000000000002,0.3571,0.3922
@@ -131,6 +138,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 09:30:33.074636,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),-0.04849999999999999,0.1053,0.1538
 2024-11-20 19:23:35.142996,Western Conference - Conference Seeding  - To Be #1 Seed,Minnesota Timberwolves,-0.05559999999999998,0.1111,0.1667
 2024-11-20 08:35:55.364113,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Oklahoma City Thunder,-0.056400000000000006,0.0769,0.1333
+2024-11-20 20:30:57.064914,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,-0.05870000000000003,0.4651,0.5238
 2024-11-20 19:23:35.711555,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),-0.06290000000000007,0.8462,0.9091
 2024-11-20 08:35:55.345217,East Group C - East Group C Winner - East Group C Winner,Cleveland Cavaliers,-0.0796,0.4082,0.4878
 2024-11-20 09:30:33.074636,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),-0.12310000000000001,0.0769,0.2
