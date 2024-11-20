@@ -1,4 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Paris,0.25,0.4167,0.1667
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Zalgiris,0.2167,0.4167,0.2
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Bayern Munich,0.1587,0.4444,0.2857
 2024-11-19 20:30:52.568616,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,0.15559999999999996,0.5556,0.4
 2024-11-19 14:33:02.711169,Cut Lines - Doug Ghim - Make Cut / Miss Cut - Doug Ghim,Miss,0.1552,0.3774,0.2222
 2024-11-19 14:33:02.676839,Cut Lines - Mackenzie Hughes - Make Cut / Miss Cut - Mackenzie Hughes,Miss,0.15309999999999999,0.3636,0.2105
@@ -8,60 +11,86 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-19 15:31:29.778502,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Dodgers,0.1222,0.2222,0.1
 2024-11-19 14:33:02.668311,Cut Lines - Ben Griffin - Make Cut / Miss Cut - Ben Griffin,Miss,0.11109999999999998,0.3333,0.2222
 2024-11-19 14:33:02.698335,Cut Lines - Andrew Novak - Make Cut / Miss Cut - Andrew Novak,Miss,0.09689999999999999,0.3636,0.2667
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Anadolu Efes,0.0849,0.2667,0.1818
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Barcelona,0.08030000000000004,0.5348,0.4545
 2024-11-19 15:31:29.778502,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Blue Jays,0.07579999999999999,0.1667,0.0909
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Zalgiris,0.0585,0.1111,0.0526
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Paris,0.0585,0.1111,0.0526
 2024-11-19 15:31:29.778502,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,0.05559999999999998,0.1667,0.1111
 2024-11-19 20:30:52.568616,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Any Other Team,0.055099999999999996,0.1176,0.0625
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Anadolu Efes,0.053099999999999925,0.6364,0.5833
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Bayern Munich,0.052300000000000006,0.1111,0.0588
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Olympiacos,0.050000000000000044,0.8,0.75
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Panathinaikos,0.050000000000000044,0.8,0.75
 2024-11-19 16:35:15.527217,Western Conference - Conference Seeding  - To Be #1 Seed,Oklahoma City Thunder,0.044399999999999995,0.4444,0.4
 2024-11-19 14:33:02.588995,Tournament Match-Ups - Tournament Match-Up - A. Novak vs L. Clanton - Tournament Match-Up,Andrew Novak,0.04259999999999997,0.6078,0.5652
 2024-11-19 14:33:02.613068,Tournament Match-Ups - Tournament Match-Up - E. Cole vs J J Spaun - Tournament Match-Up,J J Spaun,0.03959999999999997,0.5744,0.5348
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Fenerbahce,0.03759999999999997,0.9709,0.9333
 2024-11-19 15:31:29.675548,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.0348,0.4348,0.4
 2024-11-19 17:30:38.617730,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,0.02779999999999999,0.25,0.2222
 2024-11-19 16:35:16.165618,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,0.02560000000000001,0.3333,0.3077
-2024-11-19 13:36:37.788181,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,0.024399999999999977,0.5122,0.4878
 2024-11-19 17:30:38.631400,LNB Pro A - France LNB Pro A 2024/25 - Winner,Paris,0.023799999999999988,0.1667,0.1429
 2024-11-19 15:31:30.064654,Cut Lines - Luke Clanton - Make Cut / Miss Cut - Luke Clanton,Miss,0.02260000000000001,0.4,0.3774
 2024-11-19 15:31:30.060335,Cut Lines - Doug Ghim - Make Cut / Miss Cut - Doug Ghim,Make,0.02200000000000002,0.7143,0.6923
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Crvena Zvezda,0.0179,0.1429,0.125
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Panathinaikos,0.01759999999999995,0.998,0.9804
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Olympiacos,0.01759999999999995,0.998,0.9804
 2024-11-19 16:35:16.214416,Boxing Lines - Curtis Scott vs Liam Messam - To Win the Bout,Curtis Scott,0.01759999999999995,0.6667,0.6491
-2024-11-19 13:36:37.496482,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.016600000000000004,0.0833,0.0667
 2024-11-19 21:27:29.636369,CME Group Tour Championship - CME Group Tour Championship - Winner,Nelly Korda,0.015100000000000002,0.1818,0.1667
 2024-11-19 16:35:16.319825,Tournament Match-Ups - Tournament Match-Up - A. Novak vs L. Clanton - Tournament Match-Up,Andrew Novak,0.014800000000000035,0.6226,0.6078
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Barcelona,0.014000000000000012,0.9231,0.9091
 2024-11-19 20:30:52.649554,Boxing Lines - Paulo Aokuso vs Clay AJ Waterman - To Win the Bout,Paulo Aokuso,0.0131,0.7778,0.7647
 2024-11-19 18:37:27.607631,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Los Angeles Dodgers,0.011700000000000016,0.2222,0.2105
 2024-11-19 22:32:03.589184,Boxing Lines - Paulo Aokuso vs Clay AJ Waterman - To Win the Bout,Paulo Aokuso,0.011699999999999933,0.7895,0.7778
-2024-11-19 13:36:37.812107,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.011600000000000055,0.5238,0.5122
+2024-11-20 01:59:11.589835,Boxing Lines - Curtis Scott vs Liam Messam - To Win the Bout,Curtis Scott,0.010700000000000043,0.6774,0.6667
 2024-11-19 20:30:52.984613,Hong Kong Open - Hong Kong Open - Winner,Patrick Reed,0.0102,0.0769,0.0667
 2024-11-19 15:31:29.764577,MLB Specials - MLB Specials 2025 - Juan Soto Contract Amount 2024 Off Season,Over 600.5 Million Dollars,0.010099999999999998,0.5556,0.5455
 2024-11-19 16:35:16.319825,Tournament Match-Ups - Tournament Match-Up - A. Novak vs L. Clanton - Tournament Match-Up,Luke Clanton,-0.010099999999999998,0.4444,0.4545
-2024-11-19 13:36:37.812107,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.010099999999999998,0.5455,0.5556
 2024-11-19 20:30:52.984613,Hong Kong Open - Hong Kong Open - Winner,Justin Rose,-0.0102,0.0667,0.0769
 2024-11-19 21:27:29.636369,CME Group Tour Championship - CME Group Tour Championship - Winner,Jeeno Thitikul,-0.011099999999999999,0.1,0.1111
 2024-11-19 15:31:29.764577,MLB Specials - MLB Specials 2025 - Juan Soto Contract Amount 2024 Off Season,Under 600.5 Million Dollars,-0.011600000000000055,0.5122,0.5238
 2024-11-19 23:27:54.224462,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,-0.012199999999999989,0.5,0.5122
 2024-11-19 15:31:30.060335,Cut Lines - Doug Ghim - Make Cut / Miss Cut - Doug Ghim,Miss,-0.013800000000000034,0.3636,0.3774
 2024-11-19 15:31:29.778502,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Cubs,-0.015300000000000001,0.0323,0.0476
+2024-11-20 01:59:11.589835,Boxing Lines - Curtis Scott vs Liam Messam - To Win the Bout,Liam Messam,-0.015400000000000025,0.3846,0.4
 2024-11-19 15:31:29.778502,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Nationals,-0.0157,0.0278,0.0435
 2024-11-19 17:30:38.614426,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.016699999999999993,0.25,0.2667
 2024-11-19 16:35:16.214416,Boxing Lines - Curtis Scott vs Liam Messam - To Win the Bout,Liam Messam,-0.016699999999999993,0.4,0.4167
 2024-11-19 20:30:52.649554,Boxing Lines - Paulo Aokuso vs Clay AJ Waterman - To Win the Bout,Clay AJ Waterman,-0.017299999999999982,0.2857,0.303
 2024-11-19 21:27:29.636369,CME Group Tour Championship - CME Group Tour Championship - Winner,Lydia Ko,-0.018099999999999998,0.0588,0.0769
-2024-11-19 13:36:37.788181,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Sunny Edwards,-0.01880000000000004,0.5556,0.5744
 2024-11-19 18:37:27.926128,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Jason Day,-0.02020000000000001,0.0909,0.1111
 2024-11-19 17:30:38.617730,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,-0.02049999999999999,0.1333,0.1538
 2024-11-19 15:31:30.064654,Cut Lines - Luke Clanton - Make Cut / Miss Cut - Luke Clanton,Make,-0.025600000000000067,0.6667,0.6923
 2024-11-19 17:30:38.617730,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,-0.0267,0.0909,0.1176
 2024-11-19 15:31:29.778502,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Any Other Team,-0.028399999999999995,0.0625,0.0909
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Alba Berlin,-0.03439999999999999,0.0323,0.0667
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Baskonia,-0.03439999999999999,0.0323,0.0667
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Maccabi Tel-Aviv,-0.03439999999999999,0.0323,0.0667
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,AS Monaco,-0.03480000000000005,0.5,0.5348
 2024-11-19 15:31:29.675548,AFC North - AFC North 2024/25 - AFC North Winner,Pittsburgh Steelers,-0.043200000000000016,0.6491,0.6923
-2024-11-19 15:31:29.778502,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,-0.045499999999999985,0.5,0.5455
 2024-11-19 14:33:02.588995,Tournament Match-Ups - Tournament Match-Up - A. Novak vs L. Clanton - Tournament Match-Up,Luke Clanton,-0.045499999999999985,0.4545,0.5
+2024-11-19 15:31:29.778502,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,-0.045499999999999985,0.5,0.5455
 2024-11-19 14:33:02.613068,Tournament Match-Ups - Tournament Match-Up - E. Cole vs J J Spaun - Tournament Match-Up,Eric Cole,-0.04700000000000004,0.4878,0.5348
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,ASVEL Lyon-Villeurbanne,-0.048600000000000004,0.0625,0.1111
 2024-11-19 20:30:52.568616,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Blue Jays,-0.04909999999999999,0.1176,0.1667
 2024-11-19 20:30:52.568616,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,-0.04909999999999999,0.1176,0.1667
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,AS Monaco,-0.052000000000000046,0.8571,0.9091
 2024-11-19 20:30:52.568616,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Dodgers,-0.05550000000000002,0.1667,0.2222
 2024-11-19 20:30:52.568616,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,-0.06519999999999998,0.4348,0.5
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Virtus Bologna,-0.06649999999999999,0.0244,0.0909
 2024-11-19 14:33:02.698335,Cut Lines - Andrew Novak - Make Cut / Miss Cut - Andrew Novak,Make,-0.0857,0.7143,0.8
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Partizan,-0.1106,0.0323,0.1429
 2024-11-19 14:33:02.668311,Cut Lines - Ben Griffin - Make Cut / Miss Cut - Ben Griffin,Make,-0.1129,0.7333,0.8462
 2024-11-19 14:33:02.685438,Cut Lines - Maverick McNealy - Make Cut / Miss Cut - Maverick McNealy,Make,-0.119,0.7143,0.8333
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Milano,-0.11909999999999998,0.0476,0.1667
 2024-11-19 14:33:02.646855,Cut Lines - Seamus Power - Make Cut / Miss Cut - Seamus Power,Make,-0.12380000000000002,0.7333,0.8571
 2024-11-19 14:33:02.702633,Cut Lines - Lucas Glover - Make Cut / Miss Cut - Lucas Glover,Make,-0.1259,0.6923,0.8182
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Real Madrid,-0.14229999999999998,0.8333,0.9756
 2024-11-19 14:33:02.676839,Cut Lines - Mackenzie Hughes - Make Cut / Miss Cut - Mackenzie Hughes,Make,-0.14279999999999993,0.7143,0.8571
 2024-11-19 14:33:02.711169,Cut Lines - Doug Ghim - Make Cut / Miss Cut - Doug Ghim,Make,-0.15389999999999993,0.6923,0.8462
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Maccabi Tel-Aviv,-0.22160000000000002,0.0909,0.3125
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Baskonia,-0.22160000000000002,0.0909,0.3125
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Real Madrid,-0.22219999999999995,0.5,0.7222
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Virtus Bologna,-0.2649,0.0476,0.3125
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Milano,-0.3095,0.1667,0.4762
+2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Partizan,-0.4546,0.0909,0.5455
