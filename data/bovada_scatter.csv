@@ -8,8 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Anadolu Efes,0.0849,0.2667,0.1818
 2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Barcelona,0.08030000000000004,0.5348,0.4545
 2024-11-20 08:35:55.345217,East Group C - East Group C Winner - East Group C Winner,Boston Celtics,0.06149999999999997,0.2941,0.2326
-2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Paris,0.0585,0.1111,0.0526
 2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Zalgiris,0.0585,0.1111,0.0526
+2024-11-20 01:59:11.096659,Euroleague - Euroleague 2024/25 - To Make Final Four,Paris,0.0585,0.1111,0.0526
 2024-11-20 11:25:08.536450,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.053100000000000036,0.4167,0.3636
 2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Anadolu Efes,0.053099999999999925,0.6364,0.5833
 2024-11-20 08:35:55.331065,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,0.05299999999999999,0.4878,0.4348
@@ -19,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 08:35:55.354570,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,0.044399999999999995,0.4444,0.4
 2024-11-20 09:30:33.067084,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.0417,0.125,0.0833
 2024-11-20 11:25:08.523591,League Two - England League Two 2024/25 - To Be Promoted,Crewe Alexandra,0.04169999999999999,0.1667,0.125
-2024-11-20 08:35:55.354570,West Group B - West Group B Winner - West Group B Winner,San Antonio Spurs,0.038099999999999995,0.0625,0.0244
 2024-11-20 08:35:55.364113,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Denver Nuggets,0.038099999999999995,0.0625,0.0244
+2024-11-20 08:35:55.354570,West Group B - West Group B Winner - West Group B Winner,San Antonio Spurs,0.038099999999999995,0.0625,0.0244
 2024-11-20 01:59:11.100808,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Fenerbahce,0.03759999999999997,0.9709,0.9333
 2024-11-20 08:35:55.359248,West Group C - West Group C Winner - West Group C Winner,Dallas Mavericks,0.0339,0.1053,0.0714
 2024-11-20 10:35:12.987247,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Katsuya Yasuda,0.033399999999999985,0.6078,0.5744
@@ -46,26 +46,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-20 11:25:08.533254,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,0.013600000000000001,0.3077,0.2941
 2024-11-20 06:38:19.027124,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,0.012199999999999989,0.5122,0.5
 2024-11-20 06:38:18.992552,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,0.0116,0.4878,0.4762
-2024-11-20 08:35:55.571186,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Stephen Curry (GSW),0.011099999999999999,0.1111,0.1
 2024-11-20 11:25:08.533254,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,0.011099999999999999,0.1111,0.1
+2024-11-20 08:35:55.571186,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Stephen Curry (GSW),0.011099999999999999,0.1111,0.1
 2024-11-20 01:59:11.589835,Boxing Lines - Curtis Scott vs Liam Messam - To Win the Bout,Curtis Scott,0.010700000000000043,0.6774,0.6667
 2024-11-20 08:35:55.345217,East Group C - East Group C Winner - East Group C Winner,Chicago Bulls,0.010700000000000001,0.0385,0.0278
 2024-11-20 03:40:23.674402,Boxing Lines - Paulo Aokuso vs Clay AJ Waterman - To Win the Bout,Paulo Aokuso,0.010500000000000065,0.8,0.7895
+2024-11-20 12:53:44.988453,Boxing Lines - Brandon Adams  vs Andreas Katzourakis - To Win the Bout,Andreas Katzourakis,-0.010099999999999998,0.3125,0.3226
 2024-11-20 06:38:19.001177,Boxing Lines - Josh Wagner vs David Papot - To Win the Bout,David Papot,-0.010099999999999998,0.6774,0.6875
 2024-11-20 08:35:55.364113,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,New York Knicks,-0.010899999999999993,0.1429,0.1538
-2024-11-20 11:25:08.526819,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.011099999999999999,0.1,0.1111
 2024-11-20 03:40:23.674402,Boxing Lines - Paulo Aokuso vs Clay AJ Waterman - To Win the Bout,Clay AJ Waterman,-0.011099999999999999,0.2667,0.2778
+2024-11-20 11:25:08.526819,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.011099999999999999,0.1,0.1111
 2024-11-20 05:31:50.900060,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,-0.0116,0.4762,0.4878
 2024-11-20 09:30:33.067084,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),-0.011899999999999994,0.0714,0.0833
-2024-11-19 23:27:54.224462,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,-0.012199999999999989,0.5,0.5122
 2024-11-20 11:25:08.536450,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,-0.012700000000000045,0.6364,0.6491
 2024-11-20 08:35:55.578430,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),-0.013999999999999999,0.0769,0.0909
 2024-11-20 09:30:33.070901,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Davis (LAL),-0.013999999999999999,0.0769,0.0909
 2024-11-20 09:30:33.074636,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),-0.013999999999999999,0.0769,0.0909
 2024-11-20 08:35:55.514149,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,NC State (W),-0.014099999999999998,0.0244,0.0385
 2024-11-20 09:30:33.387988,Boxing Lines - Josh Wagner vs David Papot - To Win the Bout,Josh Wagner,-0.01419999999999999,0.3704,0.3846
-2024-11-20 08:35:55.462943,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Wake Forest,-0.014399999999999996,0.0625,0.0769
 2024-11-20 08:35:55.449666,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Kansas,-0.014399999999999996,0.0625,0.0769
+2024-11-20 08:35:55.462943,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Wake Forest,-0.014399999999999996,0.0625,0.0769
 2024-11-20 01:59:11.589835,Boxing Lines - Curtis Scott vs Liam Messam - To Win the Bout,Liam Messam,-0.015400000000000025,0.3846,0.4
 2024-11-20 08:35:55.359248,West Group C - West Group C Winner - West Group C Winner,New Orleans Pelicans,-0.016700000000000007,0.0833,0.1
 2024-11-20 06:38:18.992552,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Katsuya Yasuda,-0.017299999999999982,0.5744,0.5917
