@@ -21,9 +21,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Victor Perez,0.047400000000000005,0.1,0.0526
 2024-11-21 12:53:53.856019,Hong Kong Open - Hong Kong Open - Winner,Ben Campbell,0.0448,0.0833,0.0385
 2024-11-21 08:35:04.074725,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.04409999999999992,0.6667,0.6226
-2024-11-21 09:30:40.711747,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 50.5,0.043399999999999994,0.5556,0.5122
 2024-11-21 09:30:40.742199,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 46.5,0.043399999999999994,0.5556,0.5122
 2024-11-21 09:30:40.726864,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 46.5,0.043399999999999994,0.5556,0.5122
+2024-11-21 09:30:40.711747,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 50.5,0.043399999999999994,0.5556,0.5122
 2024-11-21 15:31:15.068557,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Jared McCain (PHI),0.04290000000000005,0.4,0.3571
 2024-11-21 09:30:40.534137,To Make the Playoffs - Toronto Raptors 2024-25 - To Make the Playoffs,No,0.04290000000000005,0.9804,0.9375
 2024-11-21 08:35:04.116703,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jalen Brunson (NYK),0.042899999999999994,0.1429,0.1
@@ -32,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Cameron Smith,0.04169999999999999,0.1667,0.125
 2024-11-21 08:35:04.022586,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,0.04139999999999999,0.5652,0.5238
 2024-11-21 09:30:40.469971,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,Yes,0.03980000000000006,0.6552,0.6154
+2024-11-21 17:30:48.581235,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.03950000000000001,0.25,0.2105
 2024-11-21 09:30:40.431782,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,0.03839999999999999,0.3509,0.3125
 2024-11-21 08:35:04.069943,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.0378,0.4545,0.4167
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Cristobal Del Solar,0.03559999999999999,0.0435,0.0079
@@ -45,23 +46,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 09:30:40.495433,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,Yes,0.03270000000000006,0.8948,0.8621
 2024-11-21 16:36:54.296075,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.03259999999999999,0.25,0.2174
 2024-11-21 12:53:53.856019,Hong Kong Open - Hong Kong Open - Winner,Kazuki Higa,0.031,0.0588,0.0278
-2024-11-21 09:30:40.478429,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,Yes,0.030299999999999994,0.3333,0.303
 2024-11-21 15:31:15.068557,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),0.030299999999999994,0.3636,0.3333
+2024-11-21 09:30:40.478429,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,Yes,0.030299999999999994,0.3333,0.303
 2024-11-21 08:35:04.025999,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.030200000000000005,0.2041,0.1739
 2024-11-21 08:35:04.060169,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.029299999999999993,0.9524,0.9231
 2024-11-21 08:35:04.055317,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.028800000000000048,0.875,0.8462
-2024-11-21 16:36:54.628749,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,De'Aaron Fox (SAC),0.028399999999999995,0.0909,0.0625
 2024-11-21 16:36:54.286619,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,0.028399999999999995,0.0909,0.0625
+2024-11-21 16:36:54.628749,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,De'Aaron Fox (SAC),0.028399999999999995,0.0909,0.0625
 2024-11-21 08:35:04.029294,NBA Championship - NBA Championship 2024-25 - First Time Winner,No,0.028100000000000014,0.8948,0.8667
 2024-11-21 08:35:04.025999,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Southwest Division,0.027999999999999997,0.1333,0.1053
 2024-11-21 16:36:54.636083,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.0267,0.1176,0.0909
 2024-11-21 12:53:53.856019,Hong Kong Open - Hong Kong Open - Winner,Miguel Tabuena,0.026499999999999996,0.0588,0.0323
 2024-11-21 09:30:40.461500,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,0.02479999999999999,0.1538,0.129
 2024-11-21 12:53:53.856019,Hong Kong Open - Hong Kong Open - Winner,Scott Vincent,0.024299999999999995,0.0588,0.0345
-2024-11-21 09:30:40.701652,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 29.5,0.023800000000000043,0.5238,0.5
-2024-11-21 10:35:19.292721,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.023800000000000043,0.5238,0.5
-2024-11-21 10:35:20.341412,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 34.5,0.023800000000000043,0.5238,0.5
 2024-11-21 09:30:40.696669,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 30.5,0.023800000000000043,0.5238,0.5
+2024-11-21 10:35:19.292721,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.023800000000000043,0.5238,0.5
+2024-11-21 09:30:40.701652,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 29.5,0.023800000000000043,0.5238,0.5
+2024-11-21 10:35:20.341412,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 34.5,0.023800000000000043,0.5238,0.5
 2024-11-21 09:30:40.691663,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 33.5,0.023800000000000043,0.5238,0.5
 2024-11-21 16:36:55.083735,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,"J. Allen MVP, S. Barkley OPOY & T.J. Watt DPOY",0.023799999999999988,0.1667,0.1429
 2024-11-21 09:30:40.486883,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,Yes,0.023799999999999932,0.6667,0.6429
@@ -69,12 +70,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 15:31:15.064522,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Davis (LAL),0.02310000000000001,0.1,0.0769
 2024-11-21 16:36:54.296075,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,0.022699999999999998,0.25,0.2273
 2024-11-21 09:30:40.752425,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 44.5,0.022600000000000064,0.5348,0.5122
+2024-11-21 17:30:49.514423,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.022600000000000064,0.5348,0.5122
+2024-11-21 17:30:48.576525,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.02260000000000001,0.4,0.3774
 2024-11-21 16:36:54.291364,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,0.022199999999999998,0.2222,0.2
 2024-11-21 07:27:59.295893,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Shu Utsuki,0.021699999999999997,0.4762,0.4545
 2024-11-21 08:35:04.025999,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,0.021199999999999997,0.1212,0.1
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Matias Sanchez,0.0211,0.0244,0.0033
-2024-11-21 09:30:40.757489,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 33.5,0.02079999999999993,0.5556,0.5348
 2024-11-21 09:30:40.731880,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 40.5,0.02079999999999993,0.5556,0.5348
+2024-11-21 09:30:40.757489,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 33.5,0.02079999999999993,0.5556,0.5348
+2024-11-21 17:30:48.571806,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.02049999999999999,0.1538,0.1333
 2024-11-21 16:36:54.632417,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,0.0203,0.0526,0.0323
 2024-11-21 11:25:50.383358,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,0.02020000000000001,0.1111,0.0909
 2024-11-21 15:31:15.060428,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Dyson Daniels (ATL),0.019699999999999995,0.125,0.1053
@@ -106,25 +110,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 08:35:04.098654,West Group A - West Group A Winner - West Group A Winner,Minnesota Timberwolves,0.011600000000000055,0.5238,0.5122
 2024-11-21 09:30:40.030037,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.01150000000000001,0.3448,0.3333
 2024-11-21 12:53:53.856019,Hong Kong Open - Hong Kong Open - Winner,Kevin Yuan,0.0112,0.0132,0.002
+2024-11-21 17:30:48.576525,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.011199999999999995,0.0588,0.0476
 2024-11-21 16:36:54.632417,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,JJ Redick,0.011199999999999995,0.0588,0.0476
 2024-11-21 15:31:15.037110,"Daily Specials - NBA Daily Specials - Thursday, November 21st","A.Davis, J.Poeltl & J.Duren 10+ Rebounds Each",0.011199999999999988,0.3922,0.381
 2024-11-21 16:36:54.632417,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Steve Kerr,0.011099999999999999,0.1111,0.1
 2024-11-21 09:30:40.768789,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 56.5,0.01100000000000001,0.5348,0.5238
-2024-11-21 09:30:40.679288,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Victor Wembanyama (SAS),0.010700000000000001,0.0303,0.0196
 2024-11-21 16:36:54.624880,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Amen Thompson (HOU),0.010700000000000001,0.0385,0.0278
+2024-11-21 09:30:40.679288,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Victor Wembanyama (SAS),0.010700000000000001,0.0303,0.0196
 2024-11-21 16:36:54.632417,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tyronn Lue,0.010600000000000002,0.0323,0.0217
 2024-11-21 10:35:19.289894,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Grêmio,0.0102,0.0769,0.0667
 2024-11-21 08:35:04.116703,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jayson Tatum (BOS),0.0102,0.0769,0.0667
+2024-11-21 10:35:20.336181,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 46.5,0.010099999999999998,0.5556,0.5455
 2024-11-21 09:30:40.747344,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,0.010099999999999998,0.5556,0.5455
 2024-11-21 09:30:40.716735,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 49.5,0.010099999999999998,0.5556,0.5455
 2024-11-21 10:35:20.351950,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 22.5,0.010099999999999998,0.5556,0.5455
-2024-11-21 10:35:20.336181,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 46.5,0.010099999999999998,0.5556,0.5455
 2024-11-21 16:36:54.296075,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.010099999999999998,0.4444,0.4545
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Nicolai Von Dellingshausen,-0.0101,0.004,0.0141
 2024-11-21 08:35:04.116703,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Shai Gilgeous-Alexander (OKC),-0.0102,0.0667,0.0769
 2024-11-21 12:53:53.856019,Hong Kong Open - Hong Kong Open - Winner,Suteepat Prateeptienchai,-0.010300000000000002,0.0141,0.0244
-2024-11-21 16:36:54.245069,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Minnesota Timberwolves to beat Boston Celtics,-0.010600000000000002,0.0217,0.0323
 2024-11-21 12:53:53.856019,Hong Kong Open - Hong Kong Open - Winner,Phachara Khongwatmai,-0.010600000000000002,0.0217,0.0323
+2024-11-21 16:36:54.245069,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Minnesota Timberwolves to beat Boston Celtics,-0.010600000000000002,0.0217,0.0323
 2024-11-21 09:30:40.768789,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 56.5,-0.010699999999999932,0.5348,0.5455
 2024-11-21 15:31:15.064522,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),-0.010699999999999987,0.3226,0.3333
 2024-11-21 16:36:54.286619,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,-0.011199999999999988,0.9412,0.9524
@@ -132,17 +137,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 08:35:04.055317,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Philadelphia 76ers,-0.011200000000000002,0.0132,0.0244
 2024-11-21 09:30:40.465710,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,No,-0.011300000000000004,0.1739,0.1852
 2024-11-21 09:30:40.444627,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,Yes,-0.011300000000000004,0.1739,0.1852
-2024-11-21 10:35:20.336181,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 46.5,-0.011600000000000055,0.5122,0.5238
-2024-11-21 09:30:40.716735,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 49.5,-0.011600000000000055,0.5122,0.5238
-2024-11-21 10:35:20.351950,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 22.5,-0.011600000000000055,0.5122,0.5238
 2024-11-21 09:30:40.747344,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 43.5,-0.011600000000000055,0.5122,0.5238
+2024-11-21 09:30:40.716735,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 49.5,-0.011600000000000055,0.5122,0.5238
+2024-11-21 10:35:20.336181,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 46.5,-0.011600000000000055,0.5122,0.5238
+2024-11-21 10:35:20.351950,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 22.5,-0.011600000000000055,0.5122,0.5238
 2024-11-21 08:35:04.098654,West Group A - West Group A Winner - West Group A Winner,Sacramento Kings,-0.011900000000000008,0.0833,0.0952
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Yannik Paul,-0.012100000000000001,0.0123,0.0244
 2024-11-21 15:31:15.060428,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),-0.012600000000000007,0.0588,0.0714
 2024-11-21 09:30:40.679288,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Bilal Coulibaly (WAS),-0.012800000000000002,0.0217,0.0345
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,David Law,-0.0137,0.0004,0.0141
-2024-11-21 08:35:04.032680,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),-0.013899999999999996,0.129,0.1429
 2024-11-21 11:25:50.383358,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.013899999999999996,0.1111,0.125
+2024-11-21 08:35:04.032680,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),-0.013899999999999996,0.129,0.1429
 2024-11-21 16:36:54.636083,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Dyson Daniels (ATL),-0.013999999999999999,0.0769,0.0909
 2024-11-21 09:30:40.508100,To Make the Playoffs - New York Knicks 2024-25 - To Make the Playoffs,No,-0.014099999999999994,0.0526,0.0667
 2024-11-21 08:35:04.032680,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Florida (FL),-0.014099999999999998,0.0294,0.0435
@@ -150,29 +155,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 08:35:04.098654,West Group A - West Group A Winner - West Group A Winner,L.A. Clippers,-0.014399999999999996,0.0625,0.0769
 2024-11-21 09:30:40.030037,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,-0.0145,0.0099,0.0244
 2024-11-21 10:35:19.283706,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,-0.014599999999999998,0.005,0.0196
+2024-11-21 17:30:48.571806,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.01469999999999999,0.2353,0.25
 2024-11-21 11:25:50.383358,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,-0.014899999999999997,0.0476,0.0625
-2024-11-21 08:35:04.069943,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.015100000000000002,0.1667,0.1818
 2024-11-21 15:31:15.060428,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Johnson (ATL),-0.015100000000000002,0.1667,0.1818
+2024-11-21 08:35:04.069943,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.015100000000000002,0.1667,0.1818
 2024-11-21 09:30:40.440254,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,Yes,-0.016000000000000014,0.2062,0.2222
 2024-11-21 07:27:59.295893,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Katsuya Yasuda,-0.016100000000000003,0.5917,0.6078
 2024-11-21 08:35:04.037807,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.016600000000000004,0.1739,0.1905
 2024-11-21 12:53:53.070502,Boxing Lines - Oshae Jones vs Femke Hermans - To Win the Bout,Femke Hermans,-0.017299999999999982,0.2857,0.303
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Todd Clements,-0.017599999999999998,0.002,0.0196
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Jason Scrivener,-0.017599999999999998,0.002,0.0196
-2024-11-21 08:35:04.060169,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,-0.018099999999999998,0.0588,0.0769
 2024-11-21 08:35:04.037807,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Miami Heat,-0.018099999999999998,0.0345,0.0526
 2024-11-21 16:36:54.628749,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,DeMar DeRozan (SAC),-0.018099999999999998,0.0588,0.0769
+2024-11-21 08:35:04.060169,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,-0.018099999999999998,0.0588,0.0769
 2024-11-21 09:30:40.512315,To Make the Playoffs - Oklahoma City Thunder 2024-25 - To Make the Playoffs,No,-0.018099999999999998,0.0588,0.0769
 2024-11-21 08:35:04.089022,East Group B - East Group B Winner - East Group B Winner,Miami Heat,-0.018199999999999994,0.1923,0.2105
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Robin Williams,-0.0184,0.0033,0.0217
 2024-11-21 08:35:04.103387,West Group B - West Group B Winner - West Group B Winner,Los Angeles Lakers,-0.018900000000000028,0.4255,0.4444
 2024-11-21 08:35:04.089022,East Group B - East Group B Winner - East Group B Winner,Detroit Pistons,-0.019699999999999995,0.4348,0.4545
+2024-11-21 17:30:48.581235,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.019699999999999995,0.4348,0.4545
 2024-11-21 09:30:41.804047,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Angel Ayora,-0.019700000000000002,0.002,0.0217
-2024-11-21 09:30:40.696669,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 30.5,-0.01970000000000005,0.5455,0.5652
+2024-11-21 09:30:40.691663,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 33.5,-0.01970000000000005,0.5455,0.5652
 2024-11-21 10:35:20.341412,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 34.5,-0.01970000000000005,0.5455,0.5652
 2024-11-21 09:30:40.701652,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 29.5,-0.01970000000000005,0.5455,0.5652
-2024-11-21 09:30:40.691663,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 33.5,-0.01970000000000005,0.5455,0.5652
+2024-11-21 09:30:40.696669,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 30.5,-0.01970000000000005,0.5455,0.5652
 2024-11-21 09:30:40.752425,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 44.5,-0.02079999999999993,0.5348,0.5556
+2024-11-21 17:30:49.514423,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.02079999999999993,0.5348,0.5556
 2024-11-21 16:36:54.291364,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,-0.02080000000000004,0.6667,0.6875
 2024-11-21 11:25:50.391446,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,-0.021699999999999997,0.4545,0.4762
 2024-11-21 08:35:04.074725,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.02260000000000001,0.3774,0.4
@@ -189,17 +197,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 11:25:50.411677,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,-0.02679999999999999,0.2857,0.3125
 2024-11-21 08:35:04.065018,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,-0.026800000000000046,0.6875,0.7143
 2024-11-21 08:35:04.093883,East Group C - East Group C Winner - East Group C Winner,Boston Celtics,-0.02739999999999998,0.2667,0.2941
-2024-11-21 11:25:50.383358,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,-0.02779999999999999,0.2222,0.25
 2024-11-21 11:25:50.379304,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),North Carolina,-0.02779999999999999,0.2222,0.25
+2024-11-21 11:25:50.383358,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,-0.02779999999999999,0.2222,0.25
 2024-11-21 08:35:04.098654,West Group A - West Group A Winner - West Group A Winner,Houston Rockets,-0.028299999999999992,0.3226,0.3509
 2024-11-21 09:30:40.461500,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,-0.02839999999999998,0.9091,0.9375
 2024-11-21 09:30:40.478429,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,No,-0.02860000000000007,0.7333,0.7619
 2024-11-21 08:35:04.041419,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Atlantic,-0.029299999999999993,0.7143,0.7436
-2024-11-21 10:35:19.286608,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Estevao Oliveira Goncalves (Palmieras),-0.03179999999999994,0.5238,0.5556
+2024-11-21 17:30:48.576525,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.030299999999999994,0.6364,0.6667
 2024-11-21 09:30:40.706720,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 56.5,-0.03179999999999994,0.5238,0.5556
+2024-11-21 10:35:19.286608,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Estevao Oliveira Goncalves (Palmieras),-0.03179999999999994,0.5238,0.5556
 2024-11-21 09:30:40.495433,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,No,-0.032299999999999995,0.1739,0.2062
-2024-11-21 08:35:04.079511,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.033299999999999996,0.4545,0.4878
 2024-11-21 10:35:19.292721,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,-0.033299999999999996,0.8,0.8333
+2024-11-21 08:35:04.079511,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.033299999999999996,0.4545,0.4878
 2024-11-21 16:36:54.296075,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.033399999999999985,0.1333,0.1667
 2024-11-21 09:30:40.431782,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,-0.035699999999999954,0.7143,0.75
 2024-11-21 08:35:04.238118,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kevin Durant (PHX),-0.035699999999999996,0.0476,0.0833
@@ -208,8 +217,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 09:30:40.474192,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,Yes,-0.04169999999999996,0.8333,0.875
 2024-11-21 09:30:40.626421,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Bradley,-0.04260000000000003,0.3922,0.4348
 2024-11-21 09:30:40.711747,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 50.5,-0.043399999999999994,0.5122,0.5556
-2024-11-21 09:30:40.726864,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 46.5,-0.043399999999999994,0.5122,0.5556
 2024-11-21 09:30:40.742199,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 46.5,-0.043399999999999994,0.5122,0.5556
+2024-11-21 09:30:40.726864,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 46.5,-0.043399999999999994,0.5122,0.5556
 2024-11-21 08:35:04.025999,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Northwest Division,-0.04409999999999997,0.25,0.2941
 2024-11-21 09:30:40.525364,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,-0.04459999999999997,0.6429,0.6875
 2024-11-21 12:53:53.856019,Hong Kong Open - Hong Kong Open - Winner,Peter Uihlein,-0.0447,0.0141,0.0588
@@ -218,8 +227,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 09:30:40.453045,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,No,-0.04579999999999998,0.2174,0.2632
 2024-11-21 08:35:04.577553,Boxing Lines - Katsuya Yasuda vs Shu Utsuki - To Win the Bout,Katsuya Yasuda,-0.04620000000000002,0.5455,0.5917
 2024-11-21 09:30:40.469971,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,No,-0.04630000000000001,0.4082,0.4545
-2024-11-21 10:35:20.129684,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Louisiana Tech,-0.047599999999999976,0.2857,0.3333
 2024-11-21 11:25:50.387424,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,-0.047599999999999976,0.2857,0.3333
+2024-11-21 10:35:20.129684,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Louisiana Tech,-0.047599999999999976,0.2857,0.3333
 2024-11-21 08:35:04.032680,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),-0.048100000000000004,0.0769,0.125
 2024-11-21 08:35:04.079511,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,-0.049199999999999994,0.2105,0.2597
 2024-11-21 12:53:53.856019,Hong Kong Open - Hong Kong Open - Winner,John Catlin,-0.0544,0.0123,0.0667
