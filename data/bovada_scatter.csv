@@ -3,10 +3,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 05:31:53.373316,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.18780000000000002,0.6226,0.4348
 2024-11-22 07:28:06.795464,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,0.1448,0.3774,0.2326
 2024-11-22 09:30:27.295427,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 49.5,0.13479999999999998,0.5122,0.3774
+2024-11-22 12:53:09.456078,UK General Election - Most Seats After Next General Election - Most Seats,Conservatives,0.11110000000000003,0.4444,0.3333
 2024-11-22 10:34:49.575342,MLB Specials - MLB Specials 2025 - Which MLB Team will Alex Bregman Play his First Regular Season Game for in the 2025 Season?,Nationals,0.11039999999999998,0.1818,0.0714
 2024-11-22 08:35:16.363789,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.0988,0.6226,0.5238
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Angel Yin,0.07859999999999999,0.0909,0.0123
+2024-11-22 12:53:09.456078,UK General Election - Most Seats After Next General Election - Most Seats,Reform,0.07500000000000001,0.2,0.125
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Na Rin An,0.061,0.0667,0.0057
+2024-11-22 12:53:09.451585,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2026,0.05550000000000002,0.2222,0.1667
 2024-11-22 08:35:17.207129,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),0.048100000000000004,0.125,0.0769
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Lydia Ko,0.04650000000000001,0.1053,0.0588
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Yongjun Bae,0.046,0.0526,0.0066
@@ -15,11 +18,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Allisen Corpuz,0.04239999999999999,0.0588,0.0164
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Kazuki Higa,0.04120000000000001,0.1,0.0588
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Linn Grant,0.0398,0.0833,0.0435
-2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Celine Boutier,0.0384,0.0769,0.0385
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Nitithorn Thippong,0.0384,0.0769,0.0385
+2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Celine Boutier,0.0384,0.0769,0.0385
 2024-11-22 08:35:17.653559,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),0.03489999999999999,0.5,0.4651
-2024-11-22 07:28:07.004773,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.033399999999999985,0.1667,0.1333
 2024-11-22 05:31:53.522547,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jonathan Gannon,0.033399999999999985,0.1667,0.1333
+2024-11-22 07:28:07.004773,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.033399999999999985,0.1667,0.1333
 2024-11-22 10:34:49.589611,MLB Specials - MLB Specials 2025 - Which MLB Team will Pete Alonso Play his First Regular Season Game for in the 2025 Season?,Mets,0.033300000000000024,0.2,0.1667
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Nasa Hataoka,0.03219999999999999,0.0667,0.0345
 2024-11-22 10:34:48.597982,NFL Christmas Game - Beyonce Set: To Perform With Beyonce - To Perform,Dolly Parton,0.031799999999999995,0.4762,0.4444
@@ -29,12 +32,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 09:30:27.275068,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 47.5,0.030399999999999983,0.5652,0.5348
 2024-11-22 10:34:48.597982,NFL Christmas Game - Beyonce Set: To Perform With Beyonce - To Perform,Shaboozey,0.030299999999999994,0.6667,0.6364
 2024-11-22 07:28:06.994023,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Franz Wagner (ORL),0.0286,0.0385,0.0099
+2024-11-22 10:34:48.593738,NFL Christmas Game - Beyonce Set: First Song - First Song,Irreplaceable,0.028399999999999995,0.0909,0.0625
 2024-11-22 07:28:06.937357,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),UNLV,0.028399999999999995,0.0909,0.0625
 2024-11-22 10:34:48.593738,NFL Christmas Game - Beyonce Set: First Song - First Song,Halo,0.028399999999999995,0.0909,0.0625
-2024-11-22 10:34:48.593738,NFL Christmas Game - Beyonce Set: First Song - First Song,Irreplaceable,0.028399999999999995,0.0909,0.0625
 2024-11-22 10:34:48.597982,NFL Christmas Game - Beyonce Set: To Perform With Beyonce - To Perform,Shania Twain,0.028000000000000004,0.0476,0.0196
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Ariya Jutanugarn,0.0262,0.0385,0.0123
+2024-11-22 12:53:09.820331,Boxing Lines - Terry Le Couviour vs Karim Guerfi - To Win the Bout,Terry Le Couviour,0.025599999999999956,0.6,0.5744
+2024-11-22 12:53:09.824691,Boxing Lines - Josh Wagner vs David Papot - To Win the Bout,David Papot,0.0252,0.7222,0.697
 2024-11-22 08:35:17.207129,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Kam Jones (Marquette),0.024999999999999994,0.125,0.1
+2024-11-22 12:53:09.451585,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2025,0.024800000000000016,0.2353,0.2105
 2024-11-22 05:31:53.522547,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,0.0242,0.0909,0.0667
 2024-11-22 07:28:07.639034,Round Match-Ups - 2nd Round Match-Ups - N. Echavarria vs D. Berger - 2nd Round Match-Ups,Daniel Berger,0.023800000000000043,0.5238,0.5
 2024-11-22 07:28:07.595385,Round Match-Ups - 2nd Round Match-Ups - H. English vs D. Thompson - 2nd Round Match-Ups,Harris English,0.023800000000000043,0.5238,0.5
@@ -43,14 +49,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Marina Alex,0.022400000000000003,0.0323,0.0099
 2024-11-22 05:31:53.522547,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.022199999999999998,0.2222,0.2
 2024-11-22 05:31:53.353765,Super Bowl LIX - Super Bowl 59 - Winner,Detroit Lions,0.022199999999999998,0.2222,0.2
-2024-11-22 11:25:47.125909,Round Match-Ups - 2nd Round Match-Ups - B. Harman vs J.T. Poston - 2nd Round Match-Ups,Brian Harman,0.02169999999999994,0.5455,0.5238
 2024-11-22 09:30:27.224619,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 30.5,0.02169999999999994,0.5455,0.5238
+2024-11-22 11:25:47.125909,Round Match-Ups - 2nd Round Match-Ups - B. Harman vs J.T. Poston - 2nd Round Match-Ups,Brian Harman,0.02169999999999994,0.5455,0.5238
 2024-11-22 07:28:06.990287,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.02100000000000002,0.3846,0.3636
 2024-11-22 06:37:51.691457,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.02080000000000004,0.6875,0.6667
 2024-11-22 07:28:06.895649,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,0.0208,0.0833,0.0625
 2024-11-22 07:28:06.933297,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Drake,0.02049999999999999,0.1538,0.1333
+2024-11-22 12:53:08.782771,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Donald Trump,0.0203,0.0526,0.0323
 2024-11-22 08:35:17.650005,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),0.0203,0.0588,0.0385
 2024-11-22 08:35:17.207129,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Ryan Nembhard (Gonzaga),0.020000000000000004,0.0323,0.0123
+2024-11-22 12:53:10.208490,The RSM Classic - 2/3 Balls - 2nd Round 3-Balls - M. McCarty / L. Aberg / L. Clanton - 2nd Round 3-Balls,Ludvig Aberg,0.019699999999999995,0.4545,0.4348
 2024-11-22 02:00:14.766039,Euroleague - Euroleague 2024/25 - To Make Final Four,Milano,0.019099999999999992,0.0667,0.0476
 2024-11-22 07:28:07.720142,The RSM Classic - 2/3 Balls - 2nd Round 3-Balls - J. Highsmith / P. Knowles / B. McShea - 2nd Round 3-Balls,Joe Highsmith,0.01880000000000004,0.5744,0.5556
 2024-11-22 02:00:14.759031,Euroleague - Euroleague 2024/25 - Outright,Paris,0.018200000000000004,0.0476,0.0294
@@ -65,34 +73,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 10:34:48.589557,NFL Christmas Game - Beyonce Set: Colour Of First Outfit - Colour First Outfit,Gold,0.015100000000000002,0.1818,0.1667
 2024-11-22 02:00:15.352768,Boxing Lines - Brandon Adams  vs Andreas Katzourakis - To Win the Bout,Brandon Adams,0.014700000000000046,0.7647,0.75
 2024-11-22 08:35:16.596243,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Talleres,0.014499999999999999,0.0294,0.0149
-2024-11-22 09:30:27.660203,NFL Weekly Specials - Week 12 - NFL Leaders - Highest Scoring Game (Sunday Only),TB Buccaneers @ NY Giants,0.014399999999999996,0.0769,0.0625
 2024-11-22 07:28:06.895649,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Kansas,0.014399999999999996,0.0769,0.0625
+2024-11-22 09:30:27.660203,NFL Weekly Specials - Week 12 - NFL Leaders - Highest Scoring Game (Sunday Only),TB Buccaneers @ NY Giants,0.014399999999999996,0.0769,0.0625
+2024-11-22 12:53:09.432123,Irish Politics - United Ireland - Year of Next United Ireland Referendum,2025,0.013999999999999999,0.0909,0.0769
 2024-11-22 02:00:14.826246,WNBL - Australia WNBL 2024/25 - Outright,Adelaide Lightning (W),0.013999999999999999,0.0909,0.0769
 2024-11-22 07:28:06.913047,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Indiana,0.013899999999999996,0.125,0.1111
+2024-11-22 04:33:55.073431,Boxing Lines - Brandon Adams  vs Andreas Katzourakis - To Win the Bout,Brandon Adams,0.0131,0.7778,0.7647
 2024-11-22 08:35:17.661054,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),0.0131,0.2353,0.2222
 2024-11-22 02:00:14.762315,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Paris,0.0131,0.0476,0.0345
-2024-11-22 04:33:55.073431,Boxing Lines - Brandon Adams  vs Andreas Katzourakis - To Win the Bout,Brandon Adams,0.0131,0.7778,0.7647
 2024-11-22 06:37:51.700936,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.012700000000000045,0.6491,0.6364
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Stefano Mazzoli,0.012100000000000001,0.0244,0.0123
 2024-11-22 05:31:53.353765,Super Bowl LIX - Super Bowl 59 - Winner,Houston Texans,0.0121,0.0556,0.0435
 2024-11-22 09:30:27.660203,NFL Weekly Specials - Week 12 - NFL Leaders - Highest Scoring Game (Sunday Only),PHI Eagles @ LA Rams,0.011700000000000016,0.2222,0.2105
 2024-11-22 11:25:47.101199,Round Match-Ups - 2nd Round Match-Ups - M. Kim vs P. Fishburn - 2nd Round Match-Ups,Patrick Fishburn,0.011600000000000055,0.5238,0.5122
 2024-11-22 08:35:17.661054,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),0.011199999999999995,0.0588,0.0476
-2024-11-22 07:28:06.895649,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Connecticut,0.011099999999999999,0.1111,0.1
 2024-11-22 08:35:17.788295,Boxing Lines - Tina Rupprecht vs Eri Matsuda - To Win the Bout,Tina Rupprecht,0.011099999999999999,0.7333,0.7222
+2024-11-22 07:28:06.895649,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Connecticut,0.011099999999999999,0.1111,0.1
+2024-11-22 12:53:09.914023,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.01100000000000001,0.5348,0.5238
+2024-11-22 12:53:09.465892,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Robert Jenrick,0.010899999999999993,0.1538,0.1429
 2024-11-22 08:35:17.657589,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell (PHI),0.010699999999999987,0.3333,0.3226
-2024-11-22 09:30:28.171123,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Joel Girrbach,0.010600000000000002,0.0323,0.0217
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Minjee Lee,0.010600000000000002,0.0323,0.0217
+2024-11-22 09:30:28.171123,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Joel Girrbach,0.010600000000000002,0.0323,0.0217
 2024-11-22 09:30:27.249818,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 29.5,0.010099999999999998,0.5556,0.5455
 2024-11-22 06:37:51.696213,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.010099999999999998,0.4545,0.4444
-2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Junghwan Lee,-0.0102,0.005,0.0152
 2024-11-22 07:28:06.895649,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.0102,0.0667,0.0769
+2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Junghwan Lee,-0.0102,0.005,0.0152
+2024-11-22 12:53:09.914023,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.010699999999999932,0.5348,0.5455
+2024-11-22 12:53:10.208490,The RSM Classic - 2/3 Balls - 2nd Round 3-Balls - M. McCarty / L. Aberg / L. Clanton - 2nd Round 3-Balls,Luke Clanton,-0.010699999999999987,0.3226,0.3333
+2024-11-22 12:53:10.208490,The RSM Classic - 2/3 Balls - 2nd Round 3-Balls - M. McCarty / L. Aberg / L. Clanton - 2nd Round 3-Balls,Matt McCarty,-0.010699999999999987,0.3226,0.3333
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Ayaka Furue,-0.010700000000000001,0.0278,0.0385
 2024-11-22 11:25:47.101199,Round Match-Ups - 2nd Round Match-Ups - M. Kim vs P. Fishburn - 2nd Round Match-Ups,Michael Kim,-0.01100000000000001,0.5238,0.5348
-2024-11-22 02:00:15.356827,Boxing Lines - Bakary Samake vs Wade Ryan - To Win the Bout,Bakary Samake,-0.011099999999999999,0.8889,0.9
-2024-11-22 07:28:07.001135,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.011099999999999999,0.0556,0.0667
-2024-11-22 11:25:47.064204,Round Match-Ups - 2nd Round Match-Ups - M. McNealy vs A. Putnam - 2nd Round Match-Ups,Andrew Putnam,-0.011099999999999999,0.4651,0.4762
 2024-11-22 10:34:48.593738,NFL Christmas Game - Beyonce Set: First Song - First Song,16 Carriages,-0.011099999999999999,0.1,0.1111
+2024-11-22 07:28:07.001135,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.011099999999999999,0.0556,0.0667
+2024-11-22 02:00:15.356827,Boxing Lines - Bakary Samake vs Wade Ryan - To Win the Bout,Bakary Samake,-0.011099999999999999,0.8889,0.9
+2024-11-22 11:25:47.064204,Round Match-Ups - 2nd Round Match-Ups - M. McNealy vs A. Putnam - 2nd Round Match-Ups,Andrew Putnam,-0.011099999999999999,0.4651,0.4762
 2024-11-22 07:28:07.004773,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Norman Powell (LAC),-0.011199999999999995,0.0476,0.0588
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Miguel Tabuena,-0.011199999999999995,0.0476,0.0588
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Tatsunori Shogenji,-0.0112,0.004,0.0152
@@ -107,10 +121,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 11:25:46.961018,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,-0.012199999999999989,0.4878,0.5
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Ally Ewing,-0.012199999999999999,0.0057,0.0179
 2024-11-22 07:28:06.908970,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Clemson,-0.012600000000000007,0.0588,0.0714
-2024-11-22 07:28:06.937357,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Utah State,-0.012899999999999995,0.1538,0.1667
-2024-11-22 07:28:07.004773,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Johnson (ATL),-0.012899999999999995,0.1538,0.1667
-2024-11-22 09:30:27.660203,NFL Weekly Specials - Week 12 - NFL Leaders - Highest Scoring Game (Sunday Only),SF 49ers @ GB Packers,-0.012899999999999995,0.1538,0.1667
 2024-11-22 09:30:27.660203,NFL Weekly Specials - Week 12 - NFL Leaders - Highest Scoring Game (Sunday Only),ARI Cardinals @ SEA Seahawks,-0.012899999999999995,0.1538,0.1667
+2024-11-22 07:28:06.937357,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Utah State,-0.012899999999999995,0.1538,0.1667
+2024-11-22 09:30:27.660203,NFL Weekly Specials - Week 12 - NFL Leaders - Highest Scoring Game (Sunday Only),SF 49ers @ GB Packers,-0.012899999999999995,0.1538,0.1667
+2024-11-22 07:28:07.004773,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Johnson (ATL),-0.012899999999999995,0.1538,0.1667
 2024-11-22 05:31:53.358593,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Baltimore Ravens,-0.0131,0.2222,0.2353
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Sadom Kaewkanjana,-0.013699999999999999,0.0141,0.0278
 2024-11-22 08:35:17.653559,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Alvin Kamara (NO),-0.0138,0.0079,0.0217
@@ -119,10 +133,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 05:31:53.353765,Super Bowl LIX - Super Bowl 59 - Winner,Pittsburgh Steelers,-0.014100000000000001,0.0385,0.0526
 2024-11-22 10:34:48.593738,NFL Christmas Game - Beyonce Set: First Song - First Song,Jolene,-0.014399999999999996,0.0625,0.0769
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Kieran Vincent,-0.0145,0.0099,0.0244
-2024-11-22 10:34:48.593738,NFL Christmas Game - Beyonce Set: First Song - First Song,Santa Claus Is Coming to Town,-0.014899999999999997,0.0476,0.0625
-2024-11-22 08:35:17.216761,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,MiLaysia Fulwiley (South Carolina),-0.014899999999999997,0.0476,0.0625
 2024-11-22 08:35:17.650005,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Nick Bosa (SF),-0.014899999999999997,0.0476,0.0625
 2024-11-22 07:28:06.908970,Men's Basketball Conferences - Atlantic Coast Conference Winner  - ACC Winner (Regular Season),Wake Forest,-0.014899999999999997,0.0476,0.0625
+2024-11-22 10:34:48.593738,NFL Christmas Game - Beyonce Set: First Song - First Song,Santa Claus Is Coming to Town,-0.014899999999999997,0.0476,0.0625
+2024-11-22 08:35:17.216761,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,MiLaysia Fulwiley (South Carolina),-0.014899999999999997,0.0476,0.0625
 2024-11-22 08:35:17.653559,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Derrick Henry (BAL),-0.015400000000000025,0.3846,0.4
 2024-11-22 06:37:51.700936,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.015400000000000025,0.3846,0.4
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Xiyu Lin,-0.015499999999999998,0.0123,0.0278
@@ -136,9 +150,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 10:34:49.676656,Boxing Lines - Kaine Fourie vs Wasiru Mohammed - To Win the Bout,Wasiru Mohammed,-0.01680000000000001,0.2105,0.2273
 2024-11-22 04:33:55.073431,Boxing Lines - Brandon Adams  vs Andreas Katzourakis - To Win the Bout,Andreas Katzourakis,-0.017299999999999982,0.2857,0.303
 2024-11-22 07:28:06.921185,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Xavier,-0.0179,0.125,0.1429
-2024-11-22 07:28:06.990287,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.0179,0.125,0.1429
 2024-11-22 09:30:28.171123,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Jason Day,-0.0179,0.125,0.1429
+2024-11-22 07:28:06.990287,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.0179,0.125,0.1429
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Phachara Khongwatmai,-0.0184,0.0033,0.0217
+2024-11-22 12:53:09.824691,Boxing Lines - Josh Wagner vs David Papot - To Win the Bout,Josh Wagner,-0.018799999999999983,0.3448,0.3636
 2024-11-22 07:28:06.895649,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,-0.019000000000000003,0.0435,0.0625
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Gaganjeet Bhullar,-0.019899999999999998,0.0079,0.0278
 2024-11-22 09:30:28.171123,BMW Australian PGA Championship - BMW Australian PGA Championship - Winner,Min Woo Lee,-0.02020000000000001,0.0909,0.1111
@@ -147,33 +162,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 07:28:06.941462,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,-0.020799999999999985,0.3125,0.3333
 2024-11-22 07:28:06.990287,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Naz Reid (MIN),-0.0208,0.0625,0.0833
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Jazz Janewattananond,-0.021300000000000003,0.011,0.0323
-2024-11-22 07:28:07.595385,Round Match-Ups - 2nd Round Match-Ups - H. English vs D. Thompson - 2nd Round Match-Ups,Davis Thompson,-0.02169999999999994,0.5238,0.5455
 2024-11-22 07:28:07.639034,Round Match-Ups - 2nd Round Match-Ups - N. Echavarria vs D. Berger - 2nd Round Match-Ups,Nico Echavarria,-0.02169999999999994,0.5238,0.5455
+2024-11-22 07:28:07.595385,Round Match-Ups - 2nd Round Match-Ups - H. English vs D. Thompson - 2nd Round Match-Ups,Davis Thompson,-0.02169999999999994,0.5238,0.5455
 2024-11-22 09:30:27.224619,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 30.5,-0.02169999999999994,0.5238,0.5455
 2024-11-22 06:37:51.691457,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.022199999999999998,0.2,0.2222
 2024-11-22 07:28:06.937357,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Boise State,-0.022199999999999998,0.2,0.2222
 2024-11-22 08:35:16.363789,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,-0.022199999999999998,0.7778,0.8
+2024-11-22 12:53:09.451585,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2029 or later,-0.02260000000000001,0.3774,0.4
+2024-11-22 12:53:09.820331,Boxing Lines - Terry Le Couviour vs Karim Guerfi - To Win the Bout,Karim Guerfi,-0.022699999999999998,0.4651,0.4878
 2024-11-22 07:28:07.004773,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Gradey Dick (TOR),-0.023200000000000002,0.0244,0.0476
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Lauren Coughlin,-0.023399999999999997,0.0044,0.0278
+2024-11-22 12:53:09.451585,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2028,-0.023799999999999988,0.1429,0.1667
 2024-11-22 05:31:53.353765,Super Bowl LIX - Super Bowl 59 - Winner,Kansas City Chiefs,-0.023800000000000016,0.1667,0.1905
 2024-11-22 11:25:47.125909,Round Match-Ups - 2nd Round Match-Ups - B. Harman vs J.T. Poston - 2nd Round Match-Ups,J.T. Poston,-0.023800000000000043,0.5,0.5238
 2024-11-22 07:28:06.895649,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.0242,0.0667,0.0909
 2024-11-22 05:31:53.353765,Super Bowl LIX - Super Bowl 59 - Winner,San Francisco 49ers,-0.024299999999999995,0.0526,0.0769
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Lilia Vu,-0.024499999999999997,0.0033,0.0278
 2024-11-22 07:28:07.001135,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),-0.0267,0.0909,0.1176
+2024-11-22 07:28:06.937357,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Nevada,-0.02779999999999999,0.2222,0.25
 2024-11-22 06:37:51.705691,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,-0.02779999999999999,0.2222,0.25
 2024-11-22 07:28:07.720142,The RSM Classic - 2/3 Balls - 2nd Round 3-Balls - J. Highsmith / P. Knowles / B. McShea - 2nd Round 3-Balls,Blake McShea,-0.02779999999999999,0.2222,0.25
 2024-11-22 07:28:06.933297,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Northern Iowa,-0.02779999999999999,0.2222,0.25
-2024-11-22 07:28:06.937357,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Nevada,-0.02779999999999999,0.2222,0.25
 2024-11-22 07:28:06.958699,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),-0.027999999999999997,0.1538,0.1818
 2024-11-22 07:28:06.945500,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Samford,-0.030299999999999994,0.303,0.3333
 2024-11-22 07:28:06.945500,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Chattanooga,-0.030299999999999994,0.303,0.3333
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Justin Rose,-0.031,0.0278,0.0588
+2024-11-22 12:53:09.417518,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,2024,-0.031200000000000002,0.0164,0.0476
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Sei Young Kim,-0.031700000000000006,0.0028,0.0345
+2024-11-22 12:53:09.417518,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,2025,-0.031799999999999995,0.1111,0.1429
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Rose Zhang,-0.0325,0.011,0.0435
 2024-11-22 07:28:07.004773,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Dyson Daniels (ATL),-0.034100000000000005,0.0909,0.125
 2024-11-22 09:30:27.275068,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 47.5,-0.03480000000000005,0.5,0.5348
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Haeran Ryu,-0.037099999999999994,0.0217,0.0588
+2024-11-22 12:53:09.451585,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2024,-0.0384,0.0385,0.0769
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Ruoning Yin,-0.04239999999999999,0.0345,0.0769
 2024-11-22 10:34:50.189874,Hong Kong Open - Hong Kong Open - Winner,Scott Vincent,-0.0447,0.0141,0.0588
 2024-11-22 05:31:53.525959,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),-0.04550000000000001,0.1818,0.2273
@@ -188,4 +209,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Nelly Korda,-0.13829999999999998,0.0435,0.1818
 2024-11-22 07:28:06.795464,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,Yes,-0.14580000000000004,0.6875,0.8333
 2024-11-22 10:34:48.593738,NFL Christmas Game - Beyonce Set: First Song - First Song,Texas Hold 'Em,-0.16660000000000008,0.6667,0.8333
+2024-11-22 12:53:09.456078,UK General Election - Most Seats After Next General Election - Most Seats,Labour,-0.19199999999999995,0.4444,0.6364
 2024-11-22 05:31:53.373316,AFC North - AFC North 2024/25 - AFC North Winner,Pittsburgh Steelers,-0.22360000000000002,0.4255,0.6491
