@@ -14,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 16:36:54.296075,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.03259999999999999,0.25,0.2174
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Nasa Hataoka,0.03219999999999999,0.0667,0.0345
 2024-11-21 15:31:15.068557,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),0.030299999999999994,0.3636,0.3333
-2024-11-21 16:36:54.286619,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,0.028399999999999995,0.0909,0.0625
 2024-11-21 16:36:54.628749,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,De'Aaron Fox (SAC),0.028399999999999995,0.0909,0.0625
+2024-11-21 16:36:54.286619,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,0.028399999999999995,0.0909,0.0625
 2024-11-21 16:36:54.636083,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.0267,0.1176,0.0909
 2024-11-22 02:00:15.708916,CME Group Tour Championship - CME Group Tour Championship - Winner,Ariya Jutanugarn,0.0262,0.0385,0.0123
 2024-11-22 02:00:14.766039,Euroleague - Euroleague 2024/25 - To Make Final Four,Real Madrid,0.023800000000000043,0.5238,0.5
@@ -32,23 +32,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-21 17:30:48.571806,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.02049999999999999,0.1538,0.1333
 2024-11-21 16:36:54.632417,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,0.0203,0.0526,0.0323
 2024-11-21 15:31:15.060428,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Dyson Daniels (ATL),0.019699999999999995,0.125,0.1053
-2024-11-21 16:36:54.628749,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jayson Tatum (BOS),0.01949999999999999,0.0909,0.0714
 2024-11-21 16:36:54.245069,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Oklahoma City Thunder,0.01949999999999999,0.0909,0.0714
+2024-11-21 16:36:54.628749,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jayson Tatum (BOS),0.01949999999999999,0.0909,0.0714
 2024-11-22 02:00:14.766039,Euroleague - Euroleague 2024/25 - To Make Final Four,Milano,0.019099999999999992,0.0667,0.0476
 2024-11-21 16:36:54.636083,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Draymond Green (GSW),0.019099999999999992,0.0667,0.0476
 2024-11-22 02:00:14.759031,Euroleague - Euroleague 2024/25 - Outright,Paris,0.018200000000000004,0.0476,0.0294
 2024-11-21 16:36:54.286619,Central Division - Central Division 2024-25 - Central Division Winner,Indiana Pacers,0.018099999999999998,0.0769,0.0588
 2024-11-22 02:00:14.762315,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,0.0179,0.1429,0.125
-2024-11-21 22:32:11.094565,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.017299999999999982,0.5917,0.5744
 2024-11-21 22:32:11.034149,Boxing Lines - Oshae Jones vs Femke Hermans - To Win the Bout,Femke Hermans,0.017299999999999982,0.303,0.2857
+2024-11-21 22:32:11.094565,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.017299999999999982,0.5917,0.5744
 2024-11-21 16:36:54.628749,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Anthony Edwards (MIN),0.017099999999999997,0.0588,0.0417
-2024-11-21 16:36:54.624880,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Naz Reid (MIN),0.016600000000000004,0.0833,0.0667
 2024-11-22 02:00:14.762315,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Real Madrid,0.016600000000000004,0.0833,0.0667
+2024-11-21 16:36:54.624880,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Naz Reid (MIN),0.016600000000000004,0.0833,0.0667
+2024-11-22 02:00:15.352768,Boxing Lines - Brandon Adams  vs Andreas Katzourakis - To Win the Bout,Brandon Adams,0.014700000000000046,0.7647,0.75
 2024-11-21 16:36:54.245069,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Golden State Warriors,0.014099999999999998,0.0385,0.0244
 2024-11-22 02:00:14.826246,WNBL - Australia WNBL 2024/25 - Outright,Adelaide Lightning (W),0.013999999999999999,0.0909,0.0769
 2024-11-22 02:00:14.762315,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Paris,0.0131,0.0476,0.0345
-2024-11-21 17:30:48.576525,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.011199999999999995,0.0588,0.0476
 2024-11-21 16:36:54.632417,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,JJ Redick,0.011199999999999995,0.0588,0.0476
+2024-11-21 17:30:48.576525,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.011199999999999995,0.0588,0.0476
 2024-11-21 15:31:15.037110,"Daily Specials - NBA Daily Specials - Thursday, November 21st","A.Davis, J.Poeltl & J.Duren 10+ Rebounds Each",0.011199999999999988,0.3922,0.381
 2024-11-21 21:27:45.363973,Boxing Lines - Bakary Samake vs Wade Ryan - To Win the Bout,Bakary Samake,0.011099999999999999,0.9,0.8889
 2024-11-21 16:36:54.632417,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Steve Kerr,0.011099999999999999,0.1111,0.1
