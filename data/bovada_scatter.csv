@@ -6,8 +6,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,UNLV,0.2385,0.2941,0.0556
 2024-11-25 02:02:22.838097,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Marshall,0.23809999999999998,0.3333,0.0952
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,South Carolina,0.20450000000000002,0.25,0.0455
-2024-11-25 02:02:22.814190,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Arizona State,0.20329999999999998,0.4255,0.2222
 2024-11-25 02:02:22.826093,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Ohio,0.20329999999999998,0.3571,0.1538
+2024-11-25 02:02:22.814190,NCAA Football Futures - 2024 Big 12 Conference Championship - Championship Game Winner,Arizona State,0.20329999999999998,0.4255,0.2222
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,Arizona State,0.2005,0.4444,0.2439
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,Indiana,0.1905,0.9524,0.7619
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,Iowa State,0.19039999999999999,0.3571,0.1667
@@ -19,6 +19,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 07:29:32.673295,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,0.11780000000000002,0.4255,0.3077
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.11680000000000001,0.339,0.2222
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),0.1098,0.125,0.0152
+2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,Tulane,0.0889,0.2222,0.1333
 2024-11-25 06:39:20.786243,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.0857,0.2857,0.2
 2024-11-25 06:39:20.776560,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),0.08240000000000001,0.2,0.1176
 2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.07710000000000006,0.6226,0.5455
@@ -36,8 +37,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 02:02:22.834039,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Texas A&M,0.0509,0.1176,0.0667
 2024-11-25 07:29:33.346783,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Giannis Antetokounmpo (MIL),0.048600000000000004,0.1111,0.0625
 2024-11-25 02:02:22.810204,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Tulane,0.04579999999999995,0.7826,0.7368
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,0.044499999999999984,0.2667,0.2222
 2024-11-25 07:29:32.667928,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.044499999999999984,0.2667,0.2222
+2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,0.044499999999999984,0.2667,0.2222
 2024-11-25 04:34:30.276812,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Hannah Hidalgo (Notre Dame),0.04269999999999999,0.1538,0.1111
 2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Atlético Madrid,0.04169999999999996,0.9167,0.875
 2024-11-25 06:39:21.217915,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Kenny Atkinson,0.04139999999999999,0.5652,0.5238
@@ -98,28 +99,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 06:39:20.783159,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Liverpool,0.014100000000000001,0.9756,0.9615
 2024-11-25 07:29:32.749371,Championship - England Championship 2024/25 - Winner,Burnley,0.013999999999999999,0.0909,0.0769
 2024-11-25 06:39:20.786243,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,0.013900000000000023,0.8889,0.875
-2024-11-25 07:29:32.749371,Championship - England Championship 2024/25 - Winner,Middlesbrough,0.013899999999999996,0.125,0.1111
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jared Goff (DET),0.013899999999999996,0.125,0.1111
+2024-11-25 07:29:32.749371,Championship - England Championship 2024/25 - Winner,Middlesbrough,0.013899999999999996,0.125,0.1111
 2024-11-25 06:39:20.780102,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,0.013799999999999923,0.6364,0.6226
 2024-11-25 06:39:21.217915,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,J.B. Bickerstaff,0.012700000000000003,0.0323,0.0196
 2024-11-25 08:37:07.250990,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.012199999999999989,0.5122,0.5
 2024-11-25 07:29:33.233411,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),0.01150000000000001,0.3448,0.3333
 2024-11-25 06:39:21.209979,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jaime Jaquez Jr. (MIA),0.011399999999999997,0.0278,0.0164
 2024-11-25 07:29:32.673295,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Inter Milan,0.011199999999999988,0.9524,0.9412
+2024-11-25 09:31:28.666214,Boxing Lines - Kieron Conway vs Ryan Kelly  - To Win the Bout,Kieron Conway,0.01090000000000002,0.8571,0.8462
 2024-11-25 07:29:33.346783,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),0.010699999999999987,0.3333,0.3226
 2024-11-25 02:02:22.822149,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Sam Houston State,-0.010099999999999998,0.0952,0.1053
 2024-11-25 05:32:25.689813,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Los Angeles Rams,-0.010100000000000001,0.0244,0.0345
 2024-11-25 06:39:20.776560,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Cole Palmer (Chelsea),-0.0102,0.0667,0.0769
 2024-11-25 02:02:22.818177,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Oregon,-0.010599999999999998,0.4545,0.4651
+2024-11-25 07:29:33.350398,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),-0.010700000000000001,0.0278,0.0385
 2024-11-25 06:39:21.214375,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,James Harden (LAC),-0.010700000000000001,0.0278,0.0385
 2024-11-25 06:39:21.214375,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jalen Green (HOU),-0.010700000000000001,0.0278,0.0385
-2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McDermott,-0.010700000000000001,0.0278,0.0385
 2024-11-25 06:39:21.225148,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Evan Mobley (CLE),-0.010700000000000001,0.0278,0.0385
-2024-11-25 07:29:33.350398,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),-0.010700000000000001,0.0278,0.0385
+2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McDermott,-0.010700000000000001,0.0278,0.0385
 2024-11-25 06:39:20.780102,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,-0.010899999999999993,0.1429,0.1538
-2024-11-25 06:39:21.217915,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Steve Kerr,-0.011099999999999999,0.1,0.1111
-2024-11-25 07:29:33.233411,WNBL - Australia WNBL 2024/25 - Outright,Geelong Supercats (W),-0.011099999999999999,0.1,0.1111
 2024-11-25 07:29:32.670608,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.011099999999999999,0.1,0.1111
+2024-11-25 07:29:33.233411,WNBL - Australia WNBL 2024/25 - Outright,Geelong Supercats (W),-0.011099999999999999,0.1,0.1111
+2024-11-25 06:39:21.217915,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Steve Kerr,-0.011099999999999999,0.1,0.1111
 2024-11-25 05:32:25.689813,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Arizona Cardinals,-0.011199999999999995,0.0476,0.0588
 2024-11-25 06:39:21.214375,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Anthony Edwards (MIN),-0.011199999999999995,0.0476,0.0588
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jayden Daniels (WAS),-0.011200000000000002,0.0132,0.0244
