@@ -781,7 +781,10 @@ def extract_date_and_league(url):
 
 def clean_team_name_fbref(team_name):
     # Define a list of substrings to remove
-    remove_list = [' dk', 'dk ', ' it', 'it ', ' at', 'at ',' eng','eng ','es ',' es','de ',' de',' rs','fr ',' fr','sct ',' sct','nl ',' nl','pt ',' pt', 'ua ','ua ','az ','az ','si ',' si','tr ',' tr','ad ','ad ','gr ',' gr','hu ','uh ','ua ','ua ','az ','az ','si ',' si','tr ',' tr','ad ','ad ','gr ',' gr','hu ','uh ',' se','se ','il ',' il','rs ',' rs','ba ',' ba','gi ',' gi','it ',' it',]
+    remove_list = [' dk', 'dk ', ' it', 'it ', ' at', 'at ',' eng','eng ','es ',' es','de ',' de',' rs','fr ',' fr','sct ',' sct',
+                   'nl ',' nl','pt ',' pt', 'ua ','ua ','az ','az ','si ',' si','tr ',' tr','ad ','ad ','gr ',' gr','hu ','uh ','ua ','ua ','az ','az ','si ',' si','tr ',' tr',
+                   'ge ',' ge','cy ',' cy','ch ',' ch','cz ',' cz','xk ',' xk','md ',' md','be ',' eb','by ',' by',
+                   'ad ','ad ','gr ',' gr','hu ','uh ',' se','se ','il ',' il','rs ',' rs','ba ',' ba','gi ',' gi','it ',' it','no ',' no']
 
 
     # Iterate through the list and remove each substring
