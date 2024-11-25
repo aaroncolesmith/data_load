@@ -11,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,Iowa State,0.19039999999999999,0.3571,0.1667
 2024-11-25 12:54:53.487408,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Randers,0.14479999999999993,0.7674,0.6226
 2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Aaron Rodgers (NYJ),0.14329999999999998,0.1818,0.0385
-2024-11-25 07:29:32.673295,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,0.11780000000000002,0.4255,0.3077
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.11680000000000001,0.339,0.2222
 2024-11-25 12:54:53.335503,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.11360000000000003,0.75,0.6364
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),0.1098,0.125,0.0152
@@ -24,95 +23,68 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 12:54:53.326715,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Palmeiras,0.08330000000000004,0.75,0.6667
 2024-11-25 13:36:55.967981,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.08040000000000003,0.9375,0.8571
 2024-11-25 12:54:53.764319,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2026,0.07939999999999997,0.5556,0.4762
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.07710000000000006,0.6226,0.5455
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,Missouri,0.07569999999999999,0.0909,0.0152
 2024-11-25 12:54:53.484389,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Randers,0.07500000000000001,0.2,0.125
 2024-11-25 18:37:32.456030,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,0.06580000000000003,0.4167,0.3509
 2024-11-25 12:54:54.337407,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),0.06580000000000001,0.0952,0.0294
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,0.0629,0.1538,0.0909
 2024-11-25 12:54:53.605713,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Timothee Chalamet - A Complete Unknown,0.0625,0.125,0.0625
-2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,0.06190000000000001,0.4255,0.3636
 2024-11-25 13:36:55.982791,Political Specials - Who will Trump pardon in first 100 days? - Who will Trump pardon in first 100 days?,Hunter Biden,0.0595,0.25,0.1905
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,0.05710000000000001,0.2,0.1429
 2024-11-25 12:54:53.299703,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,0.05709999999999993,0.8571,0.8
 2024-11-25 12:54:53.332680,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.05559999999999998,0.5,0.4444
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,0.055499999999999994,0.8333,0.7778
 2024-11-25 12:54:53.332680,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.05449999999999999,0.6,0.5455
 2024-11-25 17:30:55.384600,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.05300000000000005,0.5652,0.5122
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,Boise State,0.05300000000000005,0.75,0.697
 2024-11-25 17:30:55.116027,NFL Specials - Who will be the Next Full Time Head Coach of the Chicago Bears - Proposition,Kliff Kingsbury,0.052399999999999995,0.0909,0.0385
-2024-11-25 07:29:33.346783,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Giannis Antetokounmpo (MIL),0.048600000000000004,0.1111,0.0625
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,0.044499999999999984,0.2667,0.2222
-2024-11-25 07:29:32.667928,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.044499999999999984,0.2667,0.2222
 2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Shugo Imahira,0.04440000000000001,0.1111,0.0667
 2024-11-25 12:54:53.510751,Super League - Greece Super League 2024/25 - Winner,Olympiakos,0.044399999999999995,0.4444,0.4
 2024-11-25 12:54:53.478389,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,0.044399999999999995,0.4444,0.4
 2024-11-25 14:33:06.587113,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,0.044399999999999995,0.4444,0.4
 2024-11-25 18:37:32.432477,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,0.04169999999999999,0.1667,0.125
-2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Atlético Madrid,0.04169999999999996,0.9167,0.875
-2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,0.04099999999999998,0.3077,0.2667
 2024-11-25 11:25:12.660398,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.040999999999999925,0.7333,0.6923
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.04089999999999999,0.4255,0.3846
 2024-11-25 11:25:12.633898,Serie B - Italy Serie B 2024/25 - Winner,Spezia,0.04040000000000002,0.2222,0.1818
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes (KC),0.0397,0.1111,0.0714
 2024-11-25 14:33:06.683305,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.0393,0.4167,0.3774
 2024-11-25 12:54:53.484389,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Copenhagen,0.038899999999999935,0.8571,0.8182
 2024-11-25 12:54:54.345887,NFL Weekly Specials - Thanksgiving Specials - Biggest Margin of Victory (Thursday Only),CHI Bears @ DET Lions,0.03639999999999999,0.6364,0.6
-2024-11-25 07:29:32.749371,Championship - England Championship 2024/25 - Winner,Leeds United,0.03639999999999999,0.6364,0.6
 2024-11-25 12:54:54.326400,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Joe Burrow (CIN),0.0348,0.4348,0.4
 2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Myles Garrett (CLE),0.0347,0.0625,0.0278
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,Notre Dame,0.033399999999999985,0.8667,0.8333
 2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Keita Nakajima,0.033300000000000024,0.2,0.1667
-2024-11-25 07:29:32.673295,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.033299999999999996,0.8333,0.8
 2024-11-25 14:33:06.680168,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.03180000000000005,0.8889,0.8571
-2024-11-25 07:29:32.670608,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,0.031799999999999995,0.4762,0.4444
-2024-11-25 07:29:33.107967,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,0.031700000000000006,0.2222,0.1905
 2024-11-25 12:54:53.299703,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,St. Pauli,0.030299999999999994,0.3636,0.3333
-2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Danielle Hunter (HOU),0.030199999999999998,0.0625,0.0323
 2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Xavier McKinney (GB),0.030199999999999998,0.0625,0.0323
-2024-11-25 07:29:32.667928,Serie A - Italy Serie A 2024/25 - Winner,Lazio,0.0294,0.0588,0.0294
+2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Danielle Hunter (HOU),0.030199999999999998,0.0625,0.0323
 2024-11-25 10:36:05.268024,NFL Weekly Specials - Thanksgiving Specials - 28th Nov: Thanksgiving NFL Specials,"Cowboys -2.5, Lions -10.5 & Packers -3.5 all to Cover",0.028799999999999992,0.1667,0.1379
 2024-11-25 12:54:53.487408,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,FC Copenhagen,0.02859999999999996,0.9901,0.9615
-2024-11-25 14:33:06.680168,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.02779999999999999,0.25,0.2222
 2024-11-25 12:54:53.510751,Super League - Greece Super League 2024/25 - Winner,Panathinaikos,0.02779999999999999,0.25,0.2222
+2024-11-25 14:33:06.680168,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.02779999999999999,0.25,0.2222
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,SMU,0.025599999999999956,0.6,0.5744
 2024-11-25 17:30:55.231805,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.024599999999999955,0.3636,0.339
-2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,0.0245,0.0833,0.0588
 2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),0.0245,0.0833,0.0588
 2024-11-25 12:54:53.478389,Superligaen - Denmark Superligaen 2024/2025 - Winner,Randers,0.023899999999999998,0.0435,0.0196
 2024-11-25 12:54:54.326400,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kyler Murray (ARI),0.02310000000000001,0.1,0.0769
 2024-11-25 14:33:06.676737,Championship - England Championship 2024/25 - Top Goalscorer,Josh Maja,0.022199999999999998,0.2222,0.2
-2024-11-25 07:29:33.346783,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jayson Tatum (BOS),0.022199999999999998,0.2222,0.2
-2024-11-25 07:29:32.670608,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,0.022199999999999998,0.1333,0.1111
-2024-11-25 07:29:32.673295,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,0.021999999999999964,0.3077,0.2857
 2024-11-25 12:54:53.329560,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Estevao Oliveira Goncalves (Palmieras),0.02169999999999994,0.5455,0.5238
 2024-11-25 12:54:53.481417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Lyngby BK,0.02100000000000002,0.6364,0.6154
+2024-11-25 12:54:54.337407,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu (IND),0.0203,0.0588,0.0385
 2024-11-25 12:54:54.337407,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Cooper DeJean (PHI),0.0203,0.0588,0.0385
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Matt LaFleur,0.0203,0.0588,0.0385
-2024-11-25 12:54:54.337407,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu (IND),0.0203,0.0588,0.0385
 2024-11-25 12:54:53.487408,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,AGF Aarhus,0.020199999999999996,0.9091,0.8889
 2024-11-25 12:54:53.481417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,0.020199999999999996,0.9091,0.8889
 2024-11-25 11:25:12.637029,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,0.01970000000000005,0.5652,0.5455
 2024-11-25 17:30:55.246298,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Chop Robinson (MIA),0.019100000000000002,0.0323,0.0132
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Macdonald,0.019100000000000002,0.0323,0.0132
 2024-11-25 17:30:55.235241,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),0.019000000000000017,0.2857,0.2667
-2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Rayo Vallecano,0.0189,0.0385,0.0196
-2024-11-25 07:29:33.350398,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Jared McCain (PHI),0.01880000000000004,0.5744,0.5556
-2024-11-25 12:54:53.481417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,0.01820000000000002,0.2,0.1818
 2024-11-25 18:37:32.456030,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.01820000000000002,0.2,0.1818
-2024-11-25 07:29:32.677747,Ligue 1 - France Ligue 1 2024/25 - Winner,Lille,0.018200000000000004,0.0476,0.0294
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,0.018200000000000004,0.0476,0.0294
-2024-11-25 18:37:32.432477,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,0.018099999999999998,0.0769,0.0588
+2024-11-25 12:54:53.481417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,0.01820000000000002,0.2,0.1818
 2024-11-25 14:33:06.683305,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,0.018099999999999998,0.0769,0.0588
 2024-11-25 18:37:32.709340,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Cam Davis,0.018099999999999998,0.0769,0.0588
+2024-11-25 18:37:32.432477,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,0.018099999999999998,0.0769,0.0588
 2024-11-25 11:25:12.641727,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.017900000000000027,0.875,0.8571
-2024-11-25 07:29:33.094226,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,0.0179,0.1429,0.125
 2024-11-25 14:33:06.587113,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,0.01759999999999999,0.1176,0.1
-2024-11-25 07:29:33.117158,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.017300000000000093,0.7143,0.697
 2024-11-25 10:36:04.459372,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.016699999999999993,0.2667,0.25
-2024-11-25 07:29:33.098807,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.016699999999999937,0.9167,0.9
-2024-11-25 07:29:32.677747,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,0.01660000000000006,0.9333,0.9167
-2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Osasuna,0.016600000000000004,0.0833,0.0667
 2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Kerby Joseph (DET),0.015300000000000001,0.0476,0.0323
 2024-11-25 14:33:06.676737,Championship - England Championship 2024/25 - Top Goalscorer,Thomas Cannon,0.015300000000000001,0.0588,0.0435
 2024-11-25 14:33:06.580836,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,0.015100000000000002,0.1818,0.1667
@@ -122,36 +94,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Kensei Hirata,0.014100000000000001,0.0526,0.0385
 2024-11-25 17:30:55.427188,International Series Qatar - International Series Qatar - Winner,David Puig,0.013999999999999999,0.0909,0.0769
 2024-11-25 18:37:32.714882,International Series Qatar - International Series Qatar - Winner,Patrick Reed,0.013999999999999999,0.0909,0.0769
-2024-11-25 07:29:32.749371,Championship - England Championship 2024/25 - Winner,Burnley,0.013999999999999999,0.0909,0.0769
-2024-11-25 07:29:32.749371,Championship - England Championship 2024/25 - Winner,Middlesbrough,0.013899999999999996,0.125,0.1111
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jared Goff (DET),0.013899999999999996,0.125,0.1111
-2024-11-25 17:30:55.231805,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,0.012899999999999995,0.1667,0.1538
 2024-11-25 17:30:55.231805,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,0.012899999999999995,0.1667,0.1538
+2024-11-25 17:30:55.231805,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,0.012899999999999995,0.1667,0.1538
 2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Takashi Ogiso,0.012700000000000003,0.0323,0.0196
 2024-11-25 18:37:32.709340,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Min Woo Lee,0.012299999999999991,0.1176,0.1053
-2024-11-25 08:37:07.250990,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.012199999999999989,0.5122,0.5
 2024-11-25 18:37:32.667188,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.012199999999999989,0.5122,0.5
+2024-11-25 08:37:07.250990,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.012199999999999989,0.5122,0.5
+2024-11-25 20:31:12.643893,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.012199999999999989,0.5122,0.5
 2024-11-25 11:25:12.637029,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.01150000000000001,0.3448,0.3333
-2024-11-25 07:29:33.233411,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),0.01150000000000001,0.3448,0.3333
 2024-11-25 19:23:44.271920,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Jordan Smith,0.011199999999999995,0.0588,0.0476
-2024-11-25 07:29:32.673295,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Inter Milan,0.011199999999999988,0.9524,0.9412
-2024-11-25 11:25:12.637029,Serie B - Italy Serie B 2024/25 - To Be Promoted,Bari,0.011099999999999999,0.1111,0.1
 2024-11-25 11:25:12.641727,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Feyenoord,0.011099999999999999,0.1111,0.1
+2024-11-25 11:25:12.637029,Serie B - Italy Serie B 2024/25 - To Be Promoted,Bari,0.011099999999999999,0.1111,0.1
 2024-11-25 09:31:28.666214,Boxing Lines - Kieron Conway vs Ryan Kelly  - To Win the Bout,Kieron Conway,0.01090000000000002,0.8571,0.8462
-2024-11-25 07:29:33.346783,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),0.010699999999999987,0.3333,0.3226
 2024-11-25 14:33:06.680168,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.010099999999999998,0.4545,0.4444
 2024-11-25 14:33:06.680168,Championship - England Championship 2024/25 - To Be Promoted,Swansea City,-0.010100000000000001,0.0244,0.0345
 2024-11-25 12:54:54.326400,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),-0.010600000000000002,0.0217,0.0323
-2024-11-25 11:25:12.633898,Serie B - Italy Serie B 2024/25 - Winner,Palermo,-0.010700000000000001,0.0278,0.0385
-2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Joe Flacco (IND),-0.010700000000000001,0.0278,0.0385
-2024-11-25 07:29:33.350398,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Carlton Carrington (WAS),-0.010700000000000001,0.0278,0.0385
-2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Kenny Pickett (PHI),-0.010700000000000001,0.0278,0.0385
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McDermott,-0.010700000000000001,0.0278,0.0385
-2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Daniel Jones (NYG),-0.011099999999999999,0.1,0.1111
+2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Joe Flacco (IND),-0.010700000000000001,0.0278,0.0385
+2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Kenny Pickett (PHI),-0.010700000000000001,0.0278,0.0385
+2024-11-25 11:25:12.633898,Serie B - Italy Serie B 2024/25 - Winner,Palermo,-0.010700000000000001,0.0278,0.0385
 2024-11-25 11:25:12.641727,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Ajax,-0.011099999999999999,0.1,0.1111
-2024-11-25 07:29:32.670608,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.011099999999999999,0.1,0.1111
+2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Daniel Jones (NYG),-0.011099999999999999,0.1,0.1111
 2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Sam Darnold (MIN),-0.011099999999999999,0.1,0.1111
-2024-11-25 07:29:33.233411,WNBL - Australia WNBL 2024/25 - Outright,Geelong Supercats (W),-0.011099999999999999,0.1,0.1111
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jayden Daniels (WAS),-0.011200000000000002,0.0132,0.0244
 2024-11-25 12:54:54.340825,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Marvin Harrison Jr. (ARI),-0.011200000000000002,0.0132,0.0244
 2024-11-25 08:37:07.774392,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Team to Make CFB Playoff,Kansas State,-0.0113,0.0066,0.0179
@@ -159,70 +124,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 09:31:28.666214,Boxing Lines - Kieron Conway vs Ryan Kelly  - To Win the Bout,Ryan Kelly,-0.011700000000000016,0.2105,0.2222
 2024-11-25 17:30:55.116027,NFL Specials - Who will be the Next Full Time Head Coach of the Chicago Bears - Proposition,Mike Vrabel,-0.011900000000000008,0.0833,0.0952
 2024-11-25 17:30:55.116027,NFL Specials - Who will be the Next Full Time Head Coach of the Chicago Bears - Proposition,Josh McCown,-0.011900000000000008,0.0833,0.0952
-2024-11-25 11:25:12.619755,First Division A - Belgium First Division A 2024/25 - Outright,Gent,-0.012100000000000001,0.0123,0.0244
 2024-11-25 12:54:53.329560,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Everaldo (Bahia),-0.012100000000000001,0.0123,0.0244
+2024-11-25 11:25:12.619755,First Division A - Belgium First Division A 2024/25 - Outright,Gent,-0.012100000000000001,0.0123,0.0244
 2024-11-25 19:23:44.228159,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.012199999999999989,0.5,0.5122
-2024-11-25 07:29:32.673295,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,-0.012700000000000045,0.6364,0.6491
 2024-11-25 12:54:54.337407,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Edgerrin Cooper (GB),-0.012800000000000002,0.0217,0.0345
 2024-11-25 18:37:32.456030,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,-0.012899999999999995,0.1538,0.1667
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,-0.012899999999999995,0.1538,0.1667
-2024-11-25 07:29:32.667928,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.012899999999999995,0.1538,0.1667
 2024-11-25 08:37:07.795177,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Kyren Williams (LAR),-0.0131,0.0033,0.0164
-2024-11-25 17:30:55.116027,NFL Specials - Who will be the Next Full Time Head Coach of the Chicago Bears - Proposition,Liam Coen,-0.013899999999999996,0.1111,0.125
 2024-11-25 12:54:53.478389,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,-0.013899999999999996,0.1111,0.125
+2024-11-25 17:30:55.116027,NFL Specials - Who will be the Next Full Time Head Coach of the Chicago Bears - Proposition,Liam Coen,-0.013899999999999996,0.1111,0.125
 2024-11-25 17:30:55.116027,NFL Specials - Who will be the Next Full Time Head Coach of the Chicago Bears - Proposition,Aaron Glenn,-0.013899999999999996,0.1111,0.125
-2024-11-25 07:29:33.171690,Euroleague - Euroleague 2024/25 - Outright,Barcelona,-0.013899999999999996,0.1111,0.125
 2024-11-25 14:33:06.683305,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.013999999999999999,0.0769,0.0909
 2024-11-25 17:30:55.116027,NFL Specials - Who will be the Next Full Time Head Coach of the Chicago Bears - Proposition,Drew Petzing,-0.013999999999999999,0.0769,0.0909
 2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Ryo Ishikawa,-0.014099999999999994,0.0526,0.0667
 2024-11-25 12:54:53.487408,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Brøndby IF,-0.01429999999999998,0.8948,0.9091
-2024-11-25 07:29:33.346783,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Edwards (MIN),-0.014399999999999996,0.0625,0.0769
 2024-11-25 08:37:07.795177,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),-0.0145,0.0099,0.0244
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McVay,-0.014599999999999998,0.005,0.0196
 2024-11-25 14:33:06.683305,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.015100000000000002,0.1667,0.1818
-2024-11-25 07:29:33.233411,WNBL - Australia WNBL 2024/25 - Outright,Southside Flyers (W),-0.015100000000000002,0.1667,0.1818
-2024-11-25 07:29:33.174863,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Anadolu Efes,-0.015300000000000001,0.0435,0.0588
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Kyler Murray (ARI),-0.015499999999999998,0.0123,0.0278
-2024-11-25 07:29:33.233411,WNBL - Australia WNBL 2024/25 - Outright,Adelaide Lightning (W),-0.016600000000000004,0.0667,0.0833
 2024-11-25 11:25:12.633898,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,-0.016699999999999937,0.5833,0.6
 2024-11-25 12:54:54.345887,NFL Weekly Specials - Thanksgiving Specials - Biggest Margin of Victory (Thursday Only),MIA Dolphins @ GB Packers,-0.016699999999999993,0.25,0.2667
 2024-11-25 12:54:53.484389,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Midtjylland,-0.016700000000000048,0.7333,0.75
-2024-11-25 07:29:32.673295,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,-0.016700000000000048,0.7333,0.75
-2024-11-25 14:33:06.683305,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.01759999999999995,0.6491,0.6667
 2024-11-25 14:33:06.683305,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,-0.01759999999999995,0.6491,0.6667
+2024-11-25 14:33:06.683305,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.01759999999999995,0.6491,0.6667
 2024-11-25 17:30:55.116027,NFL Specials - Who will be the Next Full Time Head Coach of the Chicago Bears - Proposition,Thomas Brown,-0.0179,0.125,0.1429
-2024-11-25 07:29:33.121779,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.018100000000000005,0.4167,0.4348
 2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Nick Bosa (SF),-0.018200000000000004,0.0294,0.0476
 2024-11-25 10:36:04.261981,MLS - USA MLS 2024 - Futures - Winner,Seattle Sounders,-0.01820000000000002,0.1818,0.2
 2024-11-25 12:54:53.478389,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.018400000000000027,0.2941,0.3125
-2024-11-25 07:29:32.673295,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.018900000000000028,0.4255,0.4444
 2024-11-25 10:36:04.459372,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,-0.018999999999999906,0.7143,0.7333
 2024-11-25 12:54:54.345887,NFL Weekly Specials - Thanksgiving Specials - Biggest Margin of Victory (Thursday Only),NY Giants @ DAL Cowboys,-0.019000000000000017,0.2667,0.2857
 2024-11-25 14:33:06.676737,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.019099999999999992,0.0476,0.0667
 2024-11-25 12:54:53.299703,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Mainz,-0.019099999999999992,0.0476,0.0667
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,-0.019099999999999995,0.0244,0.0435
-2024-11-25 07:29:33.189125,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,-0.02020000000000001,0.0909,0.1111
 2024-11-25 12:54:53.764319,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2028,-0.02020000000000001,0.0909,0.1111
-2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Yuki Inamori,-0.0203,0.0323,0.0526
-2024-11-25 07:29:32.670608,Serie A - Italy Serie A 2024/25 - To Be Relegated,Torino,-0.0203,0.0385,0.0588
 2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Fred Warner (SF),-0.0203,0.0385,0.0588
+2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Yuki Inamori,-0.0203,0.0323,0.0526
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),-0.020699999999999996,0.4444,0.4651
-2024-11-25 07:29:33.350398,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zach Edey (MEM),-0.0208,0.0625,0.0833
-2024-11-25 07:29:33.171690,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,-0.021100000000000008,0.2353,0.2564
 2024-11-25 12:54:53.764319,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2030 or later,-0.02260000000000001,0.3774,0.4
 2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Mikumu Horikawa,-0.0232,0.0435,0.0667
 2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Dexter Lawrence (NYG),-0.023200000000000002,0.0294,0.0526
 2024-11-25 12:54:53.299703,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,-0.023799999999999932,0.8333,0.8571
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.0242,0.0667,0.0909
-2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Celta de Vigo,-0.024299999999999995,0.0526,0.0769
-2024-11-25 12:54:54.340825,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),-0.024299999999999995,0.0345,0.0588
 2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Chris Jones (USM),-0.024299999999999995,0.0526,0.0769
+2024-11-25 12:54:54.340825,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),-0.024299999999999995,0.0345,0.0588
 2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Taichi Nabetani,-0.024399999999999998,0.0141,0.0385
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,-0.024999999999999994,0.1,0.125
-2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Girona,-0.025300000000000003,0.1176,0.1429
-2024-11-25 07:29:33.174863,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Barcelona,-0.0267,0.0909,0.1176
 2024-11-25 08:37:07.795177,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Justin Jefferson (MIN),-0.027099999999999996,0.0164,0.0435
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.028000000000000004,0.0196,0.0476
 2024-11-25 12:54:53.329560,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Pablo Vegetti (Vasco Da Gama),-0.029299999999999993,0.0476,0.0769
 2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Russell Wilson (PIT),-0.02960000000000007,0.6,0.6296
 2024-11-25 11:25:12.637029,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.029899999999999982,0.2,0.2299
@@ -233,7 +177,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 12:54:53.332680,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,-0.03330000000000001,0.0667,0.1
 2024-11-25 11:25:12.637029,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sampdoria,-0.033399999999999985,0.1333,0.1667
 2024-11-25 08:37:07.791704,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,-0.033399999999999985,0.1333,0.1667
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,-0.03409999999999999,0.2326,0.2667
 2024-11-25 12:54:53.329560,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Hulk (Atletico MG),-0.034100000000000005,0.0909,0.125
 2024-11-25 08:37:07.795177,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Lamar Jackson (BAL),-0.0347,0.0278,0.0625
 2024-11-25 19:23:44.293082,Nippon Series JT Cup - Nippon Series JT Cup - Winner,Ren Yonezawa,-0.035300000000000005,0.0123,0.0476
@@ -242,32 +185,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-25 12:54:54.337407,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell (PHI),-0.03920000000000001,0.2941,0.3333
 2024-11-25 11:25:12.637029,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,-0.03959999999999997,0.5348,0.5744
 2024-11-25 11:25:12.633898,Serie B - Italy Serie B 2024/25 - Winner,Pisa,-0.04040000000000002,0.1818,0.2222
-2024-11-25 07:29:33.098807,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.04169999999999999,0.125,0.1667
 2024-11-25 08:37:07.795177,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),-0.04240000000000001,0.0909,0.1333
 2024-11-25 11:25:12.660398,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.043200000000000016,0.3077,0.3509
 2024-11-25 17:30:55.116027,NFL Specials - Who will be the Next Full Time Head Coach of the Chicago Bears - Proposition,Joe Brady,-0.044800000000000006,0.1905,0.2353
-2024-11-25 07:29:32.670608,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,-0.045499999999999985,0.4545,0.5
-2024-11-25 12:54:53.332680,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,-0.048100000000000004,0.0769,0.125
 2024-11-25 12:54:53.329560,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Luciano Neves (Sao Paulo),-0.048100000000000004,0.0769,0.125
+2024-11-25 12:54:53.332680,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,-0.048100000000000004,0.0769,0.125
 2024-11-25 12:54:53.484389,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Brøndby IF,-0.0484,0.4167,0.4651
 2024-11-25 14:33:06.680168,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.0484,0.4167,0.4651
 2024-11-25 12:54:53.487408,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Aalborg BK,-0.052300000000000006,0.0588,0.1111
 2024-11-25 12:54:53.335503,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.053099999999999925,0.5833,0.6364
-2024-11-25 07:29:32.656443,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,-0.05310000000000001,0.2326,0.2857
-2024-11-25 12:54:53.481417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,SønderjyskE,-0.05449999999999999,0.4,0.4545
 2024-11-25 10:36:04.264660,MLS - USA MLS 2024 - Futures - To Reach the Final,Seattle Sounders,-0.05449999999999999,0.4,0.4545
+2024-11-25 12:54:53.481417,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,SønderjyskE,-0.05449999999999999,0.4,0.4545
 2024-11-25 17:30:55.384600,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.05559999999999998,0.5,0.5556
-2024-11-25 07:29:32.667928,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.05559999999999998,0.5,0.5556
-2024-11-25 07:29:33.350398,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),-0.055900000000000005,0.3077,0.3636
 2024-11-25 17:30:55.111755,NFL Specials - Who will be Starting at QB For Game 1 of the 2025/2026 NFL Season for the Steelers - Proposition,Justin Fields (PIT),-0.05890000000000001,0.3333,0.3922
-2024-11-25 07:29:33.174863,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,-0.0625,0.25,0.3125
 2024-11-25 12:54:54.329916,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),-0.06520000000000004,0.5,0.5652
 2024-11-25 11:25:12.660398,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,-0.06649999999999999,0.0244,0.0909
 2024-11-25 12:54:53.335503,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,-0.06649999999999999,0.0244,0.0909
 2024-11-25 08:37:07.788016,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),-0.06659999999999999,0.2667,0.3333
-2024-11-25 07:29:32.659156,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,-0.06820000000000001,0.1818,0.25
 2024-11-25 12:54:53.326715,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,-0.07690000000000002,0.3077,0.3846
-2024-11-25 07:29:32.670608,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,-0.07710000000000006,0.5455,0.6226
 2024-11-25 12:54:54.337407,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),-0.07710000000000006,0.5455,0.6226
 2024-11-25 13:36:55.967981,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.08149999999999999,0.129,0.2105
 2024-11-25 12:54:53.510751,Super League - Greece Super League 2024/25 - Winner,AEK Athens,-0.0849,0.1818,0.2667
