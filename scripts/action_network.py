@@ -779,6 +779,17 @@ def extract_date_and_league(url):
         return pd.to_datetime(date_str), league_str
     return None, None
 
+def clean_team_name_fbref(team_name):
+    # Define a list of substrings to remove
+    remove_list = [' dk', 'dk ', ' it', 'it ', ' at', 'at ',' eng','eng ','es ',' es','de ',' de',' rs','fr ',' fr','sct ',' sct','nl ',' nl','pt ',' pt', 'ua ','ua ','az ','az ','si ',' si','tr ',' tr','ad ','ad ','gr ',' gr','hu ','uh ','ua ','ua ','az ','az ','si ',' si','tr ',' tr','ad ','ad ','gr ',' gr','hu ','uh ',' se','se ','il ',' il','rs ',' rs','ba ',' ba','gi ',' gi','it ',' it',]
+
+
+    # Iterate through the list and remove each substring
+    for substring in remove_list:
+        team_name = re.sub(re.escape(substring), '', team_name)
+
+    return team_name.strip()  # Remove any leading/trailing whitespace
+
 
 def refresh_fbref_data(df):
   df['start_time_pt'] = pd.to_datetime(df['start_time']).dt.tz_convert('US/Pacific')
@@ -830,6 +841,8 @@ def refresh_fbref_data(df):
   df_all = df_all.drop_duplicates(subset=['date','Home','Away','Venue','Score'], keep='last')
   # df_all.to_csv('/content/drive/MyDrive/Analytics/fbref_match_data.csv',index=False)
 
+  df_all['Home'] = df_all['Home'].apply(clean_team_name_fbref)
+  df_all['Away'] = df_all['Away'].apply(clean_team_name_fbref)
   df_all['date_scraped'] = df_all['date_scraped'].astype(str)
 
   try:
@@ -837,6 +850,7 @@ def refresh_fbref_data(df):
     df_all['Wk'].fillna(0, inplace=True)  # Or drop the rows: df.dropna(subset=['Wk'], inplace=True)
   except Exception as e:
     print(f'fb ref failure {e}')
+
   
   table = pa.Table.from_pandas(df_all)
   pq.write_table(table, './data/fb_ref_data.parquet',compression='BROTLI')
