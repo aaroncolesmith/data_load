@@ -26,12 +26,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-26 10:36:04.261735,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Casandra Alexander,0.0257,0.0323,0.0066
 2024-11-26 12:54:59.425691,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Liverpool,0.025600000000000067,0.6923,0.6667
 2024-11-26 12:54:59.422524,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Brighton & Hove Albion,0.02560000000000001,0.3333,0.3077
-2024-11-26 07:29:46.746613,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Southampton,0.02529999999999999,0.8824,0.8571
 2024-11-26 11:25:19.651877,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),UAB,0.023799999999999988,0.1667,0.1429
 2024-11-26 15:32:18.297469,NCAA Football Futures - 2024 Big Ten Conference Championship - Championship Game Winner,Ohio State,0.023699999999999943,0.6154,0.5917
 2024-11-26 09:31:52.877710,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.02250000000000002,0.2857,0.2632
 2024-11-26 14:33:41.948895,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Momoka Kobori,0.022200000000000004,0.0345,0.0123
-2024-11-26 07:29:46.746613,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,0.021999999999999964,0.3077,0.2857
 2024-11-26 14:33:41.948895,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Justice Bosio,0.021199999999999997,0.0278,0.0066
 2024-11-26 10:36:04.066572,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.02100000000000002,0.3846,0.3636
 2024-11-26 10:36:03.818897,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Kevin Durant (PHX),0.0208,0.0833,0.0625
@@ -41,8 +39,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-26 10:36:04.062686,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.019000000000000017,0.2857,0.2667
 2024-11-26 09:31:52.877710,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,0.018100000000000005,0.4348,0.4167
 2024-11-26 12:54:59.452048,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,0.017900000000000027,0.875,0.8571
-2024-11-26 17:31:17.119647,NCAA Football Specials - Who will be the Next Full Time Head Coach at North Carolina - Proposition,Jon Sumrall,0.0179,0.1429,0.125
 2024-11-26 17:31:17.119647,NCAA Football Specials - Who will be the Next Full Time Head Coach at North Carolina - Proposition,Barry Odom,0.0179,0.1429,0.125
+2024-11-26 17:31:17.119647,NCAA Football Specials - Who will be the Next Full Time Head Coach at North Carolina - Proposition,Jon Sumrall,0.0179,0.1429,0.125
 2024-11-26 10:36:03.798464,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Cooper Flagg (Duke),0.0174,0.25,0.2326
 2024-11-26 14:33:41.948895,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Cholcheva Wongras,0.0171,0.0196,0.0025
 2024-11-26 14:33:41.948895,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Caitlin Peirce,0.0168,0.0278,0.011
@@ -54,31 +52,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-26 14:33:41.948895,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Kelsey Bennett,0.0145,0.0244,0.0099
 2024-11-26 10:36:04.261735,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Emma Spitz,0.0145,0.0244,0.0099
 2024-11-26 14:33:41.948895,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Kathryn Norris,0.0142,0.0152,0.001
-2024-11-26 15:32:18.350739,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Chris Jones,0.014100000000000001,0.0526,0.0385
 2024-11-26 10:36:03.818897,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,LaMelo Ball (CHA),0.014100000000000001,0.0526,0.0385
-2024-11-26 16:41:56.101866,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Grace Kim,0.013899999999999996,0.125,0.1111
+2024-11-26 15:32:18.350739,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Chris Jones,0.014100000000000001,0.0526,0.0385
 2024-11-26 11:25:18.972058,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Moises Kean (Fiorentina),0.013899999999999996,0.125,0.1111
+2024-11-26 16:41:56.101866,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Grace Kim,0.013899999999999996,0.125,0.1111
 2024-11-26 10:36:04.261735,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Alessandra Fanali,0.0138,0.0217,0.0079
 2024-11-26 12:54:59.448913,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,0.013799999999999923,0.6364,0.6226
-2024-11-26 07:29:46.746613,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Crystal Palace,0.0131,0.2353,0.2222
 2024-11-26 10:36:04.261735,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Virginia Elena Carta,0.012899999999999998,0.0179,0.005
 2024-11-26 12:54:59.455219,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,0.012899999999999995,0.1667,0.1538
-2024-11-26 07:29:46.746613,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,0.012700000000000045,0.6491,0.6364
 2024-11-26 14:33:41.948895,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Claire Shin,0.012599999999999998,0.0278,0.0152
 2024-11-26 10:36:04.261735,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Johanna Gustavsson,0.0118,0.0217,0.0099
 2024-11-26 09:31:52.825174,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,0.011699999999999988,0.2857,0.274
 2024-11-26 11:25:18.978223,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,0.01150000000000001,0.3448,0.3333
 2024-11-26 12:54:59.458307,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,West Ham United,0.011199999999999988,0.9524,0.9412
-2024-11-26 10:36:03.792964,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,0.011099999999999999,0.1111,0.1
 2024-11-26 10:36:03.792964,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Indiana,0.011099999999999999,0.1111,0.1
-2024-11-26 07:29:46.752949,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,0.010899999999999993,0.1538,0.1429
+2024-11-26 10:36:03.792964,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,0.011099999999999999,0.1111,0.1
+2024-11-26 20:31:06.318464,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),0.010899999999999993,0.1538,0.1429
 2024-11-26 09:31:53.396118,Hero World Challenge - Hero World Challenge - Winner,Jason Day,0.010600000000000002,0.0323,0.0217
 2024-11-26 10:36:03.830122,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.010399999999999993,0.2326,0.2222
 2024-11-26 10:36:04.261735,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Hannah Burke,-0.0102,0.005,0.0152
+2024-11-26 09:31:52.858767,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.0102,0.0667,0.0769
 2024-11-26 09:31:53.396118,Hero World Challenge - Hero World Challenge - Winner,Wyndham Clark,-0.0102,0.0667,0.0769
 2024-11-26 09:31:53.396118,Hero World Challenge - Hero World Challenge - Winner,Tom Kim,-0.0102,0.0667,0.0769
 2024-11-26 09:31:53.396118,Hero World Challenge - Hero World Challenge - Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
-2024-11-26 09:31:52.858767,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.0102,0.0667,0.0769
 2024-11-26 10:36:03.792964,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,-0.010399999999999993,0.2222,0.2326
 2024-11-26 10:36:04.261735,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Gabriella Cowley,-0.010700000000000001,0.0057,0.0164
 2024-11-26 10:36:03.833873,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.011099999999999999,0.1,0.1111
@@ -88,7 +84,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-26 11:25:19.651877,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),North Texas,-0.012299999999999991,0.1053,0.1176
 2024-11-26 10:36:03.818897,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Tyrese Maxey (PHI),-0.012700000000000003,0.0196,0.0323
 2024-11-26 10:36:03.798464,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Ryan Kalkbrenner (Creighton),-0.013999999999999999,0.0769,0.0909
-2024-11-26 07:29:46.752949,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Liverpool,-0.014100000000000001,0.9615,0.9756
 2024-11-26 10:36:03.830122,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),-0.014100000000000001,0.0385,0.0526
 2024-11-26 10:36:03.792964,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Maryland,-0.014399999999999996,0.0625,0.0769
 2024-11-26 10:36:03.830122,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),-0.015100000000000002,0.1667,0.1818
@@ -97,16 +92,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-26 12:54:59.422524,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,-0.017600000000000005,0.3333,0.3509
 2024-11-26 11:25:18.978223,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,-0.0179,0.125,0.1429
 2024-11-26 12:54:59.458307,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,-0.01820000000000002,0.1818,0.2
-2024-11-26 10:36:04.062686,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),-0.01820000000000002,0.1818,0.2
 2024-11-26 09:31:52.844533,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.01820000000000002,0.1818,0.2
 2024-11-26 11:25:18.972058,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),-0.01820000000000002,0.1818,0.2
+2024-11-26 10:36:04.062686,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),-0.01820000000000002,0.1818,0.2
 2024-11-26 10:36:03.792964,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Wisconsin,-0.01830000000000001,0.0769,0.0952
-2024-11-26 07:29:46.746613,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.021999999999999964,0.2857,0.3077
 2024-11-26 10:36:03.833873,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jayson Tatum (BOS),-0.022199999999999998,0.2,0.2222
-2024-11-26 07:29:46.752949,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,-0.022199999999999998,0.7778,0.8
 2024-11-26 11:25:19.651877,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Florida Atlantic,-0.02310000000000001,0.0769,0.1
 2024-11-26 10:36:03.798464,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,RJ Davis (North Carolina),-0.02310000000000001,0.0769,0.1
-2024-11-26 07:29:46.746613,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,-0.02310000000000001,0.0769,0.1
 2024-11-26 10:36:04.261735,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Anne Van Dam,-0.0232,0.0435,0.0667
 2024-11-26 12:54:59.432796,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Joao Pedro (Brighton),-0.023200000000000002,0.0244,0.0476
 2024-11-26 17:31:17.119647,NCAA Football Specials - Who will be the Next Full Time Head Coach at North Carolina - Proposition,Alex Golesh,-0.0242,0.0667,0.0909
@@ -119,8 +111,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-26 09:31:53.025038,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jonathan Kuminga (GSW),-0.030199999999999998,0.0323,0.0625
 2024-11-26 12:54:59.432796,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Chris Wood (Nottm Forest),-0.0321,0.0588,0.0909
 2024-11-26 12:54:59.455219,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,-0.033299999999999996,0.8,0.8333
-2024-11-26 07:29:46.752949,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,-0.033300000000000024,0.1667,0.2
-2024-11-26 07:29:46.746613,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,-0.03370000000000006,0.6154,0.6491
 2024-11-26 09:31:52.868120,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.034100000000000005,0.0909,0.125
 2024-11-26 12:54:59.452048,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Newcastle United,-0.03410000000000002,0.875,0.9091
 2024-11-26 10:36:04.062686,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes (KC),-0.03420000000000001,0.0769,0.1111
