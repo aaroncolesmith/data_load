@@ -785,6 +785,7 @@ def clean_team_name_fbref(team_name):
                    'nl ', ' nl', 'pt ', ' pt', 'ua ', 'ua ', 'az ', 'az ', 'si ', ' si', 'tr ', ' tr', 'ad ', 'ad ', 'gr ', ' gr',
                    'hu ', 'uh ', 'ge ', ' ge', 'cy ', ' cy', 'ch ', ' ch', 'cz ', ' cz', 'xk ', ' xk', 'md ', ' md', 'be ', ' eb', 'by ', ' by',
                    'kz ', ' kz', 'az ', ' be', ' ua', 'is', ' is', ' hu', 'pl ', ' pl', 'wls ', ' wls', 'se ', 'se ', 'il ', ' il',
+                   ' ad',' az',' sk','sk ',' hr','hr ','bg ',' bg',
                    'rs ', ' rs', 'ba ', ' ba', 'gi ', ' gi', 'no ', ' no']
 
 
@@ -845,6 +846,8 @@ def refresh_fbref_data(df):
   df_all = df_all.drop_duplicates(subset=['date','Home','Away','Venue','Score'], keep='last')
   # df_all.to_csv('/content/drive/MyDrive/Analytics/fbref_match_data.csv',index=False)
 
+  df_all['Home'] = df_all['Home'].apply(clean_team_name_fbref)
+  df_all['Away'] = df_all['Away'].apply(clean_team_name_fbref)
   df_all['Home'] = df_all['Home'].apply(clean_team_name_fbref)
   df_all['Away'] = df_all['Away'].apply(clean_team_name_fbref)
   df_all['date_scraped'] = df_all['date_scraped'].astype(str)
