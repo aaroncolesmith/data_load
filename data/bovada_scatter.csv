@@ -1,29 +1,47 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Lucas Herbert,0.2088,0.2857,0.0769
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Liverpool,0.17780000000000007,0.7778,0.6
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Real Madrid,0.17559999999999998,0.9756,0.8
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Borussia Dortmund,0.16360000000000008,0.8,0.6364
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Lille,0.1353,0.2353,0.1
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Benfica,0.13419999999999999,0.9524,0.8182
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,PSV Eindhoven,0.13419999999999999,0.9524,0.8182
+2024-11-28 09:31:18.955768,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Slovan Bratislava,0.12870000000000004,0.7778,0.6491
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Cameron Smith,0.125,0.25,0.125
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Monaco,0.10909999999999997,0.9091,0.8
+2024-11-28 09:31:18.948776,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Charles De Ketelaere (Atalanta),0.10450000000000001,0.1111,0.0066
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Juventus,0.09530000000000005,0.9524,0.8571
+2024-11-28 09:31:18.955768,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Bologna,0.0713,0.0909,0.0196
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Aston Villa,0.06659999999999999,0.7333,0.6667
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Benfica,0.061500000000000006,0.1,0.0385
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Feyenoord,0.059700000000000086,0.8,0.7403
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Celtic,0.05830000000000002,0.9333,0.875
 2024-11-28 02:02:30.196249,NFL Weekly Specials - Thanksgiving Specials - Biggest Margin of Victory (Thursday Only),MIA Dolphins @ GB Packers,0.057699999999999974,0.3077,0.25
-2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.05710000000000001,0.2,0.1429
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Crvena Zvezda,0.0573,0.0769,0.0196
 2024-11-28 06:39:27.333080,NFL Weekly Specials - Thanksgiving Specials - Smallest Margin of Victory (Thursday Only),CHI Bears @ DET Lions,0.05710000000000001,0.2,0.1429
+2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.05710000000000001,0.2,0.1429
 2024-11-28 02:02:30.231838,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,Amon-Ra St. Brown (DET),0.05679999999999999,0.1818,0.125
+2024-11-28 09:31:19.143531,National League - English National League 2024/25 - English National League Winner,Barnet,0.05070000000000002,0.4762,0.4255
+2024-11-28 09:31:19.147185,National League - English National League 2024/25 - To Be Promoted,Barnet,0.04760000000000009,0.7143,0.6667
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Ryggs Johnston,0.0476,0.0526,0.005
 2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.04620000000000002,0.2,0.1538
 2024-11-28 02:02:29.432255,Championship - England Championship 2024/25 - Winner,Leeds United,0.04409999999999992,0.6667,0.6226
 2024-11-28 06:39:27.326483,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Game (Thursday Only),NY Giants @ DAL Cowboys,0.04290000000000005,0.6429,0.6
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sturm Graz,0.0427,0.0526,0.0099
 2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 350+ Receiving Yards",0.04089999999999999,0.4255,0.3846
 2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 400+ Receiving Yards",0.03900000000000001,0.2564,0.2174
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Kazuma Kobori,0.037099999999999994,0.0588,0.0217
+2024-11-28 09:31:18.933054,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,0.035699999999999954,0.75,0.7143
 2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 250+ Receiving Yards",0.035600000000000076,0.8182,0.7826
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Oliver Lindell,0.0344,0.0588,0.0244
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Manchester City,0.033299999999999996,0.8333,0.8
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Borussia Dortmund,0.0321,0.0909,0.0588
 2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 300+ Receiving Yards",0.03090000000000004,0.6226,0.5917
 2024-11-28 05:33:08.675523,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Chop Robinson (MIA),0.030699999999999998,0.0833,0.0526
 2024-11-28 08:36:18.414751,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,0.027999999999999914,0.8462,0.8182
-2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.02779999999999999,0.25,0.2222
+2024-11-28 09:31:18.955768,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Young Boys,0.02779999999999999,0.25,0.2222
 2024-11-28 08:36:18.414751,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,0.02779999999999999,0.25,0.2222
+2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.02779999999999999,0.25,0.2222
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.027799999999999936,0.9167,0.8889
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,0.025600000000000067,0.6923,0.6667
 2024-11-28 02:02:30.199579,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Game (Thursday Only),NY Giants @ DAL Cowboys,0.025300000000000003,0.1429,0.1176
@@ -31,55 +49,62 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 02:02:30.231838,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,Dontayvion Wicks (GB),0.024800000000000003,0.0526,0.0278
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Harry Higgs,0.024399999999999998,0.0385,0.0141
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Arsenal,0.023799999999999932,0.8571,0.8333
-2024-11-28 02:02:29.938896,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.022199999999999998,0.2222,0.2
 2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,0.022199999999999998,0.2222,0.2
+2024-11-28 02:02:29.938896,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.022199999999999998,0.2222,0.2
 2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 450+ Receiving Yards",0.022199999999999998,0.1333,0.1111
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Manchester City,0.021999999999999964,0.3077,0.2857
 2024-11-27 23:28:09.724972,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.02079999999999993,0.5556,0.5348
-2024-11-27 21:27:51.551891,Boxing Lines - Conah Walker vs Lewis Ritson - To Win the Bout,Lewis Ritson,0.02049999999999999,0.1538,0.1333
-2024-11-28 02:02:29.435322,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.0203,0.0588,0.0385
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,0.0203,0.0588,0.0385
+2024-11-28 02:02:29.435322,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.0203,0.0588,0.0385
 2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Burnley,0.020100000000000007,0.7701,0.75
 2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,0.020100000000000007,0.25,0.2299
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,PSV Eindhoven,0.019099999999999992,0.0667,0.0476
+2024-11-28 09:31:18.948776,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Jeremie Frimpong (Bayer Leverkusen),0.019099999999999992,0.0667,0.0476
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Atlético Madrid,0.018999999999999906,0.7333,0.7143
+2024-11-28 09:31:18.965532,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,0.01820000000000002,0.2,0.1818
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Marco Penge,0.017800000000000003,0.0244,0.0066
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Rintaro Nakano,0.017599999999999998,0.0196,0.002
-2024-11-27 21:27:51.543999,Boxing Lines - Kieron Conway vs Ryan Kelly  - To Win the Bout,Kieron Conway,0.017100000000000004,0.8462,0.8291
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,FC Barcelona,0.016699999999999993,0.2667,0.25
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Paris Saint-Germain,0.016699999999999937,0.6,0.5833
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Inter Milan,0.015699999999999936,0.8824,0.8667
+2024-11-28 09:31:19.147185,National League - English National League 2024/25 - To Be Promoted,Southend Utd,0.014499999999999999,0.0294,0.0149
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Borussia Dortmund,0.014100000000000001,0.0526,0.0385
+2024-11-28 09:31:18.952509,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),0.014099999999999998,0.0385,0.0244
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,MK Kim,0.0139,0.0196,0.0057
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.013800000000000034,0.3774,0.3636
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.013800000000000034,0.3774,0.3636
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Matthew Southgate,0.013400000000000002,0.0244,0.011
-2024-11-27 23:28:09.557487,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,0.012899999999999995,0.1667,0.1538
+2024-11-28 09:31:18.952509,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Jamie Bynoe-Gittens (Borussia Dortmund),0.013,0.0196,0.0066
 2024-11-27 23:28:09.557487,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Liverpool,0.012899999999999995,0.1667,0.1538
 2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,0.012899999999999995,0.1667,0.1538
+2024-11-27 23:28:09.557487,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,0.012899999999999995,0.1667,0.1538
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Atlético Madrid,0.012699999999999989,0.3636,0.3509
-2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Filippo Celli,0.0118,0.0217,0.0099
+2024-11-28 09:31:18.965532,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,0.012199999999999989,0.5,0.4878
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Stoke City,0.0118,0.0217,0.0099
+2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Filippo Celli,0.0118,0.0217,0.0099
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Daniel Hillier,0.011399999999999997,0.0278,0.0164
 2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 500+ Receiving Yards",0.011199999999999995,0.0588,0.0476
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Atlético Madrid,0.011199999999999995,0.0588,0.0476
 2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,0.011099999999999999,0.1111,0.1
+2024-11-28 09:31:18.933054,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.011099999999999999,0.1111,0.1
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Brest,0.011099999999999999,0.1111,0.1
-2024-11-27 21:27:51.571724,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.01100000000000001,0.5348,0.5238
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayer Leverkusen,0.01100000000000001,0.5348,0.5238
 2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Birmingham City,0.01090000000000002,0.8571,0.8462
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,AC Milan,0.010599999999999998,0.4651,0.4545
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Jordan Gumberg,0.0103,0.0123,0.002
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sparta Prague,0.0102,0.0769,0.0667
+2024-11-28 09:31:19.847102,Boxing Lines - Ibraheem Sulaimaan vs Marvin Solano - To Win the Bout,Marvin Solano,0.0102,0.0769,0.0667
 2024-11-27 22:32:22.042546,Boxing Lines - Ibraheem Sulaimaan vs Marvin Solano - To Win the Bout,Marvin Solano,0.0102,0.0769,0.0667
 2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.010099999999999998,0.4545,0.4444
-2024-11-27 21:27:51.540008,Boxing Lines - Ibraheem Sulaimaan vs Marvin Solano - To Win the Bout,Marvin Solano,-0.0102,0.0667,0.0769
 2024-11-28 07:29:51.683508,Boxing Lines - Ibraheem Sulaimaan vs Marvin Solano - To Win the Bout,Marvin Solano,-0.0102,0.0667,0.0769
 2024-11-27 22:32:21.996785,NFL Weekly Specials - Thanksgiving Specials - Most Passing Yards,Tua Tagovailoa (MIA),-0.010299999999999976,0.2564,0.2667
-2024-11-27 21:27:51.571724,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,-0.010699999999999932,0.5348,0.5455
-2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.010899999999999993,0.1429,0.1538
 2024-11-27 23:28:09.557487,UEFA Champions League - UEFA Champions League 2024/25 - Winner,FC Barcelona,-0.010899999999999993,0.1429,0.1538
 2024-11-28 04:35:32.690049,Boxing Lines - Conah Walker vs Lewis Ritson - To Win the Bout,Lewis Ritson,-0.010899999999999993,0.1429,0.1538
+2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.010899999999999993,0.1429,0.1538
 2024-11-28 02:02:29.435322,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,-0.011099999999999999,0.1,0.1111
-2024-11-28 05:33:08.675523,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu (IND),-0.011199999999999995,0.0476,0.0588
 2024-11-28 02:02:30.231838,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,Jonnu Smith (MIA),-0.011199999999999995,0.0476,0.0588
+2024-11-28 09:31:18.948776,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Jamal Musiala (Bayern Munich),-0.011199999999999995,0.0476,0.0588
+2024-11-28 05:33:08.675523,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu (IND),-0.011199999999999995,0.0476,0.0588
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Monaco,-0.0116,0.0033,0.0149
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Richie Ramsay,-0.011600000000000001,0.0007,0.0123
 2024-11-28 02:02:30.199579,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Game (Thursday Only),CHI Bears @ DET Lions,-0.011600000000000055,0.5122,0.5238
@@ -87,24 +112,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 02:02:30.199579,NFL Weekly Specials - Thanksgiving Specials - Highest Scoring Game (Thursday Only),MIA Dolphins @ GB Packers,-0.012199999999999989,0.5,0.5122
 2024-11-28 08:36:18.414751,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,-0.012699999999999989,0.3509,0.3636
 2024-11-28 02:02:30.231838,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,Tyreek Hill (MIA),-0.013899999999999996,0.1111,0.125
+2024-11-28 09:31:19.143531,National League - English National League 2024/25 - English National League Winner,Gateshead,-0.013999999999999999,0.0769,0.0909
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.013999999999999999,0.0769,0.0909
-2024-11-27 21:27:51.551891,Boxing Lines - Conah Walker vs Lewis Ritson - To Win the Bout,Conah Walker,-0.014000000000000012,0.9091,0.9231
-2024-11-28 02:02:30.231838,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,Christian Watson (GB),-0.014099999999999994,0.0526,0.0667
 2024-11-28 02:02:30.231838,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,Jaylen Waddle (MIA),-0.014099999999999994,0.0526,0.0667
+2024-11-28 02:02:30.231838,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,Christian Watson (GB),-0.014099999999999994,0.0526,0.0667
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Jason Scrivener,-0.0145,0.0007,0.0152
-2024-11-27 22:32:21.996785,NFL Weekly Specials - Thanksgiving Specials - Most Passing Yards,Jordan Love (GB),-0.01469999999999999,0.2353,0.25
 2024-11-28 02:02:29.938896,WNBL - Australia WNBL 2024/25 - Outright,Townsville Fire (W),-0.01469999999999999,0.2353,0.25
-2024-11-27 21:27:51.543999,Boxing Lines - Kieron Conway vs Ryan Kelly  - To Win the Bout,Ryan Kelly,-0.015899999999999997,0.2222,0.2381
+2024-11-27 22:32:21.996785,NFL Weekly Specials - Thanksgiving Specials - Most Passing Yards,Jordan Love (GB),-0.01469999999999999,0.2353,0.25
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Inter Milan,-0.015100000000000002,0.1667,0.1818
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Yannik Paul,-0.016,0.0004,0.0164
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Real Madrid,-0.016699999999999993,0.25,0.2667
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Wenyi Ding,-0.0167,0.005,0.0217
 2024-11-28 05:33:08.675523,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),-0.016700000000000007,0.0833,0.1
 2024-11-28 02:02:29.432255,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.016700000000000007,0.0833,0.1
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sporting CP,-0.01759999999999995,0.6491,0.6667
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,John Parry,-0.0177,0.004,0.0217
 2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,-0.017900000000000027,0.8571,0.875
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Marc Leishman,-0.018099999999999998,0.0588,0.0769
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Angel Ayora,-0.0182,0.0141,0.0323
 2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Cardiff City,-0.018200000000000004,0.0294,0.0476
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,FC Barcelona,-0.01820000000000002,0.1818,0.2
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Club Brugge,-0.01880000000000004,0.5556,0.5744
+2024-11-28 09:31:19.143531,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,-0.019000000000000017,0.2667,0.2857
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Atalanta,-0.019099999999999992,0.0476,0.0667
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Arsenal,-0.019099999999999992,0.0476,0.0667
 2024-11-28 02:02:29.432255,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,-0.019800000000000005,0.0278,0.0476
@@ -112,32 +141,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Bayer Leverkusen,-0.0206,0.0179,0.0385
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Elvis Smylie,-0.021199999999999997,0.0066,0.0278
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.02169999999999994,0.5238,0.5455
+2024-11-28 09:31:19.147185,National League - English National League 2024/25 - To Be Promoted,Forest Green Rovers,-0.021699999999999997,0.4545,0.4762
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Aston Villa,-0.0237,0.0057,0.0294
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,David Micheluzzi,-0.023899999999999998,0.0196,0.0435
 2024-11-28 06:39:27.333080,NFL Weekly Specials - Thanksgiving Specials - Smallest Margin of Victory (Thursday Only),MIA Dolphins @ GB Packers,-0.024399999999999977,0.4878,0.5122
 2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,-0.025599999999999956,0.5744,0.6
 2024-11-28 02:02:29.432255,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.026100000000000012,0.1739,0.2
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.02779999999999999,0.2222,0.25
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bayern Munich,-0.030299999999999994,0.3333,0.3636
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,FC Barcelona,-0.033300000000000024,0.1667,0.2
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Jordan Smith,-0.0344,0.0244,0.0588
+2024-11-28 09:31:18.965532,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,-0.0348,0.2985,0.3333
 2024-11-28 06:39:27.333080,NFL Weekly Specials - Thanksgiving Specials - Smallest Margin of Victory (Thursday Only),NY Giants @ DAL Cowboys,-0.03489999999999999,0.4651,0.5
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.03709999999999991,0.6296,0.6667
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,-0.0384,0.0385,0.0769
 2024-11-28 08:36:18.411730,Championship - England Championship 2024/25 - To Finish Bottom,Queens Park Rangers,-0.03889999999999999,0.1429,0.1818
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Rasmus Neergaard-Petersen,-0.0397,0.0079,0.0476
+2024-11-28 09:31:18.933054,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Grêmio,-0.04120000000000001,0.0588,0.1
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Victor Perez,-0.041499999999999995,0.002,0.0435
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bologna,-0.04229999999999999,0.0244,0.0667
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Juventus,-0.04240000000000001,0.0909,0.1333
 2024-11-28 06:39:27.326483,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Game (Thursday Only),CHI Bears @ DET Lions,-0.044499999999999984,0.2222,0.2667
 2024-11-28 08:36:18.414751,Championship - England Championship 2024/25 - Top 2 Finish,Middlesbrough,-0.047599999999999976,0.2857,0.3333
 2024-11-28 02:02:30.196249,NFL Weekly Specials - Thanksgiving Specials - Biggest Margin of Victory (Thursday Only),CHI Bears @ DET Lions,-0.053099999999999925,0.5833,0.6364
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Arsenal,-0.05350000000000002,0.1818,0.2353
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Lille,-0.05380000000000007,0.8462,0.9
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Aston Villa,-0.05520000000000003,0.3448,0.4
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,-0.05559999999999998,0.4444,0.5
 2024-11-28 08:36:18.417806,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.05709999999999993,0.8,0.8571
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Shakhtar Donetsk,-0.05710000000000001,0.1429,0.2
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Inter Milan,-0.05710000000000001,0.1429,0.2
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Celtic,-0.0585,0.0526,0.1111
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Liverpool,-0.058899999999999994,0.0244,0.0833
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Dinamo Zagreb,-0.06989999999999996,0.5455,0.6154
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Cam Davis,-0.0736,0.0033,0.0769
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,-0.07450000000000001,0.4255,0.5
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Girona,-0.07579999999999999,0.0909,0.1667
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Min Woo Lee,-0.08330000000000001,0.0278,0.1111
+2024-11-28 09:31:18.955768,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Sturm Graz,-0.1071,0.004,0.1111
+2024-11-28 09:31:18.955768,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Crvena Zvezda,-0.1184,0.0066,0.125
 2024-11-28 08:36:19.309060,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Joaquin Niemann,-0.1321,0.0217,0.1538
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Monaco,-0.13240000000000002,0.1176,0.25
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Borussia Dortmund,-0.1587,0.2857,0.4444
+2024-11-28 09:31:18.968947,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,VfB Stuttgart,-0.16660000000000008,0.6667,0.8333
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Real Madrid,-0.1912,0.0588,0.25
