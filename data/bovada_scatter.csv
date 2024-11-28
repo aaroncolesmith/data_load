@@ -5,9 +5,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Benfica,0.061500000000000006,0.1,0.0385
 2024-11-28 02:02:30.196249,NFL Weekly Specials - Thanksgiving Specials - Biggest Margin of Victory (Thursday Only),MIA Dolphins @ GB Packers,0.057699999999999974,0.3077,0.25
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.05710000000000001,0.2,0.1429
+2024-11-28 06:39:27.333080,NFL Weekly Specials - Thanksgiving Specials - Smallest Margin of Victory (Thursday Only),CHI Bears @ DET Lions,0.05710000000000001,0.2,0.1429
 2024-11-28 02:02:30.231838,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,Amon-Ra St. Brown (DET),0.05679999999999999,0.1818,0.125
 2024-11-28 02:02:29.432255,Championship - England Championship 2024/25 - Winner,Leeds United,0.04409999999999992,0.6667,0.6226
+2024-11-28 06:39:27.326483,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Game (Thursday Only),NY Giants @ DAL Cowboys,0.04290000000000005,0.6429,0.6
+2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 350+ Receiving Yards",0.04089999999999999,0.4255,0.3846
+2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 400+ Receiving Yards",0.03900000000000001,0.2564,0.2174
+2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 250+ Receiving Yards",0.035600000000000076,0.8182,0.7826
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Borussia Dortmund,0.0321,0.0909,0.0588
+2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 300+ Receiving Yards",0.03090000000000004,0.6226,0.5917
 2024-11-28 05:33:08.675523,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Chop Robinson (MIA),0.030699999999999998,0.0833,0.0526
 2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.02779999999999999,0.25,0.2222
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.027799999999999936,0.9167,0.8889
@@ -19,35 +25,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 02:02:30.231838,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,Dontayvion Wicks (GB),0.024800000000000003,0.0526,0.0278
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Arsenal,0.023799999999999932,0.8571,0.8333
 2024-11-28 02:02:29.938896,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.022199999999999998,0.2222,0.2
+2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 450+ Receiving Yards",0.022199999999999998,0.1333,0.1111
 2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,0.022199999999999998,0.2222,0.2
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Manchester City,0.021999999999999964,0.3077,0.2857
 2024-11-27 23:28:09.724972,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.02079999999999993,0.5556,0.5348
 2024-11-27 21:27:51.551891,Boxing Lines - Conah Walker vs Lewis Ritson - To Win the Bout,Lewis Ritson,0.02049999999999999,0.1538,0.1333
-2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,0.0203,0.0588,0.0385
 2024-11-28 02:02:29.435322,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.0203,0.0588,0.0385
+2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,0.0203,0.0588,0.0385
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,PSV Eindhoven,0.019099999999999992,0.0667,0.0476
 2024-11-27 21:27:51.543999,Boxing Lines - Kieron Conway vs Ryan Kelly  - To Win the Bout,Kieron Conway,0.017100000000000004,0.8462,0.8291
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,FC Barcelona,0.016699999999999993,0.2667,0.25
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Inter Milan,0.015699999999999936,0.8824,0.8667
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Borussia Dortmund,0.014100000000000001,0.0526,0.0385
-2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.013800000000000034,0.3774,0.3636
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.013800000000000034,0.3774,0.3636
+2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.013800000000000034,0.3774,0.3636
 2024-11-27 23:28:09.557487,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Liverpool,0.012899999999999995,0.1667,0.1538
 2024-11-27 23:28:09.557487,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,0.012899999999999995,0.1667,0.1538
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Atlético Madrid,0.012699999999999989,0.3636,0.3509
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Stoke City,0.0118,0.0217,0.0099
-2024-11-27 18:38:07.235417,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Amen Thompson (HOU),0.0116,0.0141,0.0025
 2024-11-27 19:23:50.885987,International Series Qatar - 2/3 Balls - 2nd Round 3 Balls - R. Lee / L. Oosthuizen / C. Schwartzel - 2nd Round 3 Balls,Louis Oosthuizen,0.0116,0.4878,0.4762
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Atlético Madrid,0.011199999999999995,0.0588,0.0476
+2024-11-28 06:39:27.344737,NFL Weekly Specials - Thanksgiving Specials - Combined Player Stat Specials,"CeeDee Lamb, Malik Nabers, Amon-Ra St. Brown, D.J. Moore and Tyreek Hill to Combine for 500+ Receiving Yards",0.011199999999999995,0.0588,0.0476
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Brest,0.011099999999999999,0.1111,0.1
-2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayer Leverkusen,0.01100000000000001,0.5348,0.5238
 2024-11-27 21:27:51.571724,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.01100000000000001,0.5348,0.5238
+2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayer Leverkusen,0.01100000000000001,0.5348,0.5238
 2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Birmingham City,0.01090000000000002,0.8571,0.8462
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,AC Milan,0.010599999999999998,0.4651,0.4545
-2024-11-27 18:38:07.574645,Boxing Lines - Ibraheem Sulaimaan vs Marvin Solano - To Win the Bout,Marvin Solano,0.0102,0.0769,0.0667
 2024-11-27 22:32:22.042546,Boxing Lines - Ibraheem Sulaimaan vs Marvin Solano - To Win the Bout,Marvin Solano,0.0102,0.0769,0.0667
-2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.010099999999999998,0.4545,0.4444
 2024-11-27 19:23:50.890466,International Series Qatar - 2/3 Balls - 2nd Round 3 Balls - S. Kaewkanjana / B. Steele / R. Chantananuwat - 2nd Round 3 Balls ,Brendan Steele,0.010099999999999998,0.4545,0.4444
+2024-11-28 05:33:07.937028,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.010099999999999998,0.4545,0.4444
 2024-11-27 21:27:51.540008,Boxing Lines - Ibraheem Sulaimaan vs Marvin Solano - To Win the Bout,Marvin Solano,-0.0102,0.0667,0.0769
 2024-11-27 22:32:21.996785,NFL Weekly Specials - Thanksgiving Specials - Most Passing Yards,Tua Tagovailoa (MIA),-0.010299999999999976,0.2564,0.2667
 2024-11-27 21:27:51.571724,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,-0.010699999999999932,0.5348,0.5455
@@ -72,20 +78,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Real Madrid,-0.016699999999999993,0.25,0.2667
 2024-11-28 02:02:29.432255,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.016700000000000007,0.0833,0.1
 2024-11-28 05:33:08.675523,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),-0.016700000000000007,0.0833,0.1
-2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Atalanta,-0.019099999999999992,0.0476,0.0667
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Arsenal,-0.019099999999999992,0.0476,0.0667
+2024-11-28 02:02:29.406366,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Atalanta,-0.019099999999999992,0.0476,0.0667
 2024-11-28 02:02:29.432255,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,-0.019800000000000005,0.0278,0.0476
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Bayer Leverkusen,-0.0206,0.0179,0.0385
 2024-11-28 02:02:29.438695,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.02169999999999994,0.5238,0.5455
 2024-11-27 19:23:50.899190,International Series Qatar - 2/3 Balls - 2nd Round 3 Balls - W. Ormsby / L. Chieh-Po / P. Uihlein - 2nd Round 3 Balls,Lee Chieh-Po,-0.02260000000000001,0.3774,0.4
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Aston Villa,-0.0237,0.0057,0.0294
+2024-11-28 06:39:27.333080,NFL Weekly Specials - Thanksgiving Specials - Smallest Margin of Victory (Thursday Only),MIA Dolphins @ GB Packers,-0.024399999999999977,0.4878,0.5122
 2024-11-28 02:02:29.432255,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.026100000000000012,0.1739,0.2
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.02779999999999999,0.2222,0.25
 2024-11-27 20:31:21.268544,Boxing Lines - Kieron Conway vs Ryan Kelly  - To Win the Bout,Kieron Conway,-0.028000000000000025,0.8291,0.8571
 2024-11-28 02:02:29.409897,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,FC Barcelona,-0.033300000000000024,0.1667,0.2
+2024-11-28 06:39:27.333080,NFL Weekly Specials - Thanksgiving Specials - Smallest Margin of Victory (Thursday Only),NY Giants @ DAL Cowboys,-0.03489999999999999,0.4651,0.5
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.03709999999999991,0.6296,0.6667
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,-0.0384,0.0385,0.0769
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Juventus,-0.04240000000000001,0.0909,0.1333
+2024-11-28 06:39:27.326483,NFL Weekly Specials - Thanksgiving Specials - Lowest Scoring Game (Thursday Only),CHI Bears @ DET Lions,-0.044499999999999984,0.2222,0.2667
 2024-11-28 02:02:30.196249,NFL Weekly Specials - Thanksgiving Specials - Biggest Margin of Victory (Thursday Only),CHI Bears @ DET Lions,-0.053099999999999925,0.5833,0.6364
 2024-11-28 02:02:29.412915,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Aston Villa,-0.05520000000000003,0.3448,0.4
 2024-11-28 02:02:29.441808,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,-0.05559999999999998,0.4444,0.5
