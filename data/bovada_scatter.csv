@@ -4,24 +4,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 18:37:06.038212,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,0.04000000000000001,0.2,0.16
 2024-11-29 03:07:32.621630,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,0.037500000000000006,0.1,0.0625
 2024-11-29 02:02:03.637017,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.03570000000000001,0.2857,0.25
-2024-11-28 16:36:25.470318,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,De'Andre Hunter (ATL),0.035300000000000005,0.0476,0.0123
 2024-11-28 19:23:36.490763,Boxing Lines - Nathaniel Bustamante vs Kenny Ojuederie - To Win the Bout,Nathaniel Bustamante,0.022600000000000064,0.6226,0.6
 2024-11-28 19:23:36.486815,Boxing Lines - Harrison Sullivan vs Moziah Pinder - To Win the Bout,Moziah Pinder,0.02049999999999999,0.1538,0.1333
 2024-11-29 03:07:31.803116,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Real Sociedad,0.02020000000000001,0.1111,0.0909
-2024-11-28 16:36:26.252061,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Hannah Green,0.019699999999999995,0.4545,0.4348
 2024-11-29 03:07:31.803116,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Eintracht Frankfurt,0.018099999999999998,0.0769,0.0588
-2024-11-28 16:36:26.142642,Boxing Lines - Henry Lebron vs Christopher Diaz - To Win the Bout,Henry Lebron,0.015699999999999936,0.8824,0.8667
 2024-11-29 03:42:31.202072,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Lauren Betts (UCLA),0.014099999999999998,0.0385,0.0244
-2024-11-28 17:30:08.195738,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Ryggs Johnston,0.014099999999999994,0.0667,0.0526
 2024-11-28 19:23:36.494725,Boxing Lines - Ali Eson Gib vs Sulieman Albaher - To Win the Bout,Sulieman Albaher,0.012199999999999989,0.5122,0.5
-2024-11-28 17:30:08.124389,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,0.012199999999999989,0.5,0.4878
+2024-11-29 05:32:47.556829,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,0.012199999999999989,0.5,0.4878
 2024-11-29 02:02:03.669165,Serie A - Italy Serie A 2024/25 - Outright,Aquila Trento,0.012100000000000001,0.0244,0.0123
 2024-11-28 19:23:36.016208,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Dyson Daniels (ATL),0.011899999999999994,0.0833,0.0714
 2024-11-28 20:30:30.799631,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Emanuel Navarrete,0.011099999999999999,0.7333,0.7222
 2024-11-28 20:30:30.795773,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.01100000000000001,0.5348,0.5238
-2024-11-28 16:36:26.126290,Boxing Lines - Lawrence Okolie vs Hussein Muhamed - To Win the Bout,Lawrence Okolie,0.010199999999999987,0.9333,0.9231
 2024-11-28 18:37:06.038212,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,-0.010099999999999998,0.5455,0.5556
-2024-11-28 16:36:26.101550,Boxing Lines - Ibraheem Sulaimaan vs Marvin Solano - To Win the Bout,Marvin Solano,-0.0102,0.0667,0.0769
 2024-11-29 02:02:03.669165,Serie A - Italy Serie A 2024/25 - Outright,Napoli,-0.010300000000000002,0.0141,0.0244
 2024-11-28 20:30:30.795773,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.010699999999999932,0.5348,0.5455
 2024-11-28 20:30:30.799631,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Oscar Valdez,-0.01150000000000001,0.3333,0.3448
@@ -29,12 +23,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-29 03:42:31.197983,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),-0.012899999999999995,0.1538,0.1667
 2024-11-29 03:07:32.621630,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Ime Udoka,-0.013899999999999996,0.1111,0.125
 2024-11-28 19:23:36.486815,Boxing Lines - Harrison Sullivan vs Moziah Pinder - To Win the Bout,Harrison Sullivan,-0.014000000000000012,0.9091,0.9231
-2024-11-28 17:30:08.195738,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Cameron Smith,-0.01469999999999999,0.2353,0.25
 2024-11-29 02:02:03.640188,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,-0.015700000000000006,0.1176,0.1333
 2024-11-29 02:02:03.637017,NBL - Australia NBL 2024/25 - Outright,New Zealand Breakers,-0.016600000000000004,0.0667,0.0833
 2024-11-29 03:42:31.197983,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.0174,0.2326,0.25
 2024-11-29 03:07:31.807180,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Real Betis,-0.0179,0.125,0.1429
-2024-11-28 16:36:26.142642,Boxing Lines - Henry Lebron vs Christopher Diaz - To Win the Bout,Christopher Diaz,-0.01820000000000002,0.1818,0.2
 2024-11-29 03:42:31.197983,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame (W),-0.01820000000000002,0.1818,0.2
 2024-11-29 03:07:31.803116,UEFA Europa League - UEFA Europa League 2024/25 - Winner,AS Roma,-0.019099999999999992,0.0476,0.0667
 2024-11-28 19:23:36.490763,Boxing Lines - Nathaniel Bustamante vs Kenny Ojuederie - To Win the Bout,Kenny Ojuederie,-0.020699999999999996,0.4444,0.4651
