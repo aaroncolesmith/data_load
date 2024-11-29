@@ -1,41 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Peter Uihlein,0.2551,0.3077,0.0526
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Hannah Green,0.2348,0.4348,0.2
-2024-11-28 12:55:18.455631,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 44.5,0.23299999999999998,0.5455,0.3125
-2024-11-28 12:55:18.149145,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,Yes,0.2122,0.5455,0.3333
-2024-11-28 12:55:18.198707,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,No,0.18989999999999996,0.6154,0.4255
-2024-11-28 12:55:18.169862,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,No,0.1482,0.3704,0.2222
-2024-11-28 12:55:18.140884,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,Yes,0.11219999999999997,0.7674,0.6552
-2024-11-28 12:55:18.500382,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Over 50.5,0.09999999999999998,0.5,0.4
-2024-11-28 12:55:18.153265,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,0.0797,0.3922,0.3125
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Su Oh,0.0745,0.0909,0.0164
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Zach Bauchou,0.061500000000000006,0.1,0.0385
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Justice Bosio,0.05249999999999999,0.0769,0.0244
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Charl Schwartzel,0.0489,0.0588,0.0099
-2024-11-28 12:55:18.202813,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,Yes,0.04849999999999999,0.1538,0.1053
-2024-11-28 12:55:18.124181,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,Yes,0.04810000000000003,0.9,0.8519
-2024-11-28 12:55:18.190419,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,0.048099999999999976,0.4255,0.3774
-2024-11-28 12:55:18.510344,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 49.5,0.04760000000000003,0.5238,0.4762
-2024-11-28 12:55:18.194556,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,Yes,0.04590000000000005,0.8333,0.7874
-2024-11-28 12:55:18.475507,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 45.5,0.045499999999999985,0.5455,0.5
-2024-11-28 12:55:18.165684,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,Yes,0.04269999999999996,0.9375,0.8948
+2024-11-29 02:02:03.640188,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,0.04409999999999997,0.2941,0.25
 2024-11-28 18:37:06.038212,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,0.04000000000000001,0.2,0.16
-2024-11-28 12:55:18.161525,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,0.03770000000000007,0.8948,0.8571
+2024-11-29 02:02:03.637017,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.03570000000000001,0.2857,0.25
 2024-11-28 16:36:25.470318,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,De'Andre Hunter (ATL),0.035300000000000005,0.0476,0.0123
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Stephanie Kyriacou,0.034100000000000005,0.125,0.0909
-2024-11-28 12:55:18.525319,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 36.5,0.033299999999999996,0.5455,0.5122
-2024-11-28 12:55:18.103411,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,0.029299999999999993,0.7436,0.7143
-2024-11-28 12:55:18.111766,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,No,0.028800000000000048,0.875,0.8462
-2024-11-28 12:55:18.173954,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,No,0.027599999999999958,0.9891,0.9615
-2024-11-28 12:55:18.186298,To Make the Playoffs - Orlando Magic 2024-25 - To Make the Playoffs,Yes,0.0262,0.9877,0.9615
-2024-11-28 12:55:18.115952,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,Yes,0.026100000000000012,0.2,0.1739
-2024-11-28 12:55:18.107595,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,Yes,0.0242,0.0909,0.0667
-2024-11-28 12:55:18.132634,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,0.0242,0.9333,0.9091
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Patrick Reed,0.0232,0.0667,0.0435
 2024-11-28 19:23:36.490763,Boxing Lines - Nathaniel Bustamante vs Kenny Ojuederie - To Win the Bout,Nathaniel Bustamante,0.022600000000000064,0.6226,0.6
-2024-11-28 12:55:18.440657,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 51.5,0.02169999999999994,0.5455,0.5238
-2024-11-28 12:55:18.415952,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 29.5,0.02169999999999994,0.5455,0.5238
-2024-11-28 12:55:18.515314,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 23.5,0.02169999999999994,0.5455,0.5238
 2024-11-28 19:23:36.486815,Boxing Lines - Harrison Sullivan vs Moziah Pinder - To Win the Bout,Moziah Pinder,0.02049999999999999,0.1538,0.1333
 2024-11-28 16:36:26.252061,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Hannah Green,0.019699999999999995,0.4545,0.4348
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Ian Snyman,0.019099999999999992,0.0667,0.0476
@@ -45,94 +17,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Yurav Premlall,0.012700000000000003,0.0323,0.0196
 2024-11-28 19:23:36.494725,Boxing Lines - Ali Eson Gib vs Sulieman Albaher - To Win the Bout,Sulieman Albaher,0.012199999999999989,0.5122,0.5
 2024-11-28 17:30:08.124389,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,0.012199999999999989,0.5,0.4878
+2024-11-29 02:02:03.669165,Serie A - Italy Serie A 2024/25 - Outright,Aquila Trento,0.012100000000000001,0.0244,0.0123
 2024-11-28 19:23:36.016208,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Dyson Daniels (ATL),0.011899999999999994,0.0833,0.0714
-2024-11-28 12:55:18.430814,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 49.5,0.011600000000000055,0.5238,0.5122
-2024-11-28 12:55:18.411027,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 29.5,0.011600000000000055,0.5238,0.5122
 2024-11-28 20:30:30.799631,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Emanuel Navarrete,0.011099999999999999,0.7333,0.7222
-2024-11-28 12:55:18.460562,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 46.5,0.01100000000000001,0.5348,0.5238
 2024-11-28 20:30:30.795773,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.01100000000000001,0.5348,0.5238
-2024-11-28 12:55:18.157381,To Make the Playoffs - Memphis Grizzlies 2024-25 - To Make the Playoffs,Yes,0.010700000000000043,0.6774,0.6667
 2024-11-28 15:31:07.266206,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.010699999999999932,0.5455,0.5348
-2024-11-28 12:55:18.495299,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 57.5,0.010699999999999932,0.5455,0.5348
-2024-11-28 12:55:18.465682,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 47.5,0.010699999999999932,0.5455,0.5348
-2024-11-28 12:55:18.490399,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 52.5,0.010699999999999932,0.5455,0.5348
 2024-11-28 16:36:26.126290,Boxing Lines - Lawrence Okolie vs Hussein Muhamed - To Win the Bout,Lawrence Okolie,0.010199999999999987,0.9333,0.9231
-2024-11-28 12:55:18.470604,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 44.5,0.010099999999999998,0.5556,0.5455
-2024-11-28 12:55:18.430814,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 49.5,-0.010099999999999998,0.5455,0.5556
 2024-11-28 18:37:06.038212,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,-0.010099999999999998,0.5455,0.5556
-2024-11-28 12:55:18.411027,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 29.5,-0.010099999999999998,0.5455,0.5556
 2024-11-28 16:36:26.101550,Boxing Lines - Ibraheem Sulaimaan vs Marvin Solano - To Win the Bout,Marvin Solano,-0.0102,0.0667,0.0769
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,John Catlin,-0.0103,0.002,0.0123
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Pakin Kawinpakorn,-0.0103,0.002,0.0123
+2024-11-29 02:02:03.669165,Serie A - Italy Serie A 2024/25 - Outright,Napoli,-0.010300000000000002,0.0141,0.0244
 2024-11-28 20:30:30.795773,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.010699999999999932,0.5348,0.5455
-2024-11-28 12:55:18.460562,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 46.5,-0.010699999999999932,0.5348,0.5455
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Eugenio Chacarra,-0.010700000000000001,0.0278,0.0385
-2024-11-28 12:55:18.490399,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 52.5,-0.01100000000000001,0.5238,0.5348
-2024-11-28 12:55:18.495299,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 57.5,-0.01100000000000001,0.5238,0.5348
 2024-11-28 15:31:07.266206,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,-0.01100000000000001,0.5238,0.5348
-2024-11-28 12:55:18.465682,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 47.5,-0.01100000000000001,0.5238,0.5348
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Ben Campbell,-0.011200000000000002,0.0132,0.0244
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Branden Grace,-0.011399999999999997,0.0164,0.0278
 2024-11-28 20:30:30.799631,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Oscar Valdez,-0.01150000000000001,0.3333,0.3448
-2024-11-28 12:55:18.470604,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 44.5,-0.011600000000000055,0.5122,0.5238
 2024-11-28 20:30:30.780340,Boxing Lines - Sunny Edwards vs Galal Yafai - To Win the Bout,Galal Yafai,-0.012199999999999989,0.4878,0.5
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Phachara Khongwatmai,-0.0127,0.0025,0.0152
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Tiffany Chan,-0.0132,0.002,0.0152
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Rachel Lee,-0.0132,0.002,0.0152
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Kelsey Bennett,-0.013400000000000002,0.011,0.0244
 2024-11-28 19:23:36.486815,Boxing Lines - Harrison Sullivan vs Moziah Pinder - To Win the Bout,Harrison Sullivan,-0.014000000000000012,0.9091,0.9231
-2024-11-28 12:55:18.120078,To Make the Playoffs - Cleveland Cavaliers 2024-25 - To Make the Playoffs,No,-0.014100000000000001,0.0385,0.0526
-2024-11-28 12:55:18.215225,To Make the Playoffs - Washington Wizards 2024-25 - To Make the Playoffs,Yes,-0.014100000000000001,0.0385,0.0526
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Kathryn Norris,-0.0142,0.001,0.0152
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Jinichiro Kozuma,-0.0142,0.001,0.0152
-2024-11-28 12:55:18.107595,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,No,-0.014499999999999957,0.9756,0.9901
 2024-11-28 17:30:08.195738,ISPS Handa Australian Open - ISPS Handa Australian Open - Winner,Cameron Smith,-0.01469999999999999,0.2353,0.25
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Hitaashee Bakshi,-0.0163,0.0033,0.0196
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Caitlin Peirce,-0.0168,0.011,0.0278
+2024-11-29 02:02:03.640188,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,-0.015700000000000006,0.1176,0.1333
+2024-11-29 02:02:03.637017,NBL - Australia NBL 2024/25 - Outright,New Zealand Breakers,-0.016600000000000004,0.0667,0.0833
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Tomoyo Ikemura,-0.0179,0.0099,0.0278
 2024-11-28 16:36:26.142642,Boxing Lines - Henry Lebron vs Christopher Diaz - To Win the Bout,Christopher Diaz,-0.01820000000000002,0.1818,0.2
-2024-11-28 12:55:18.132634,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,-0.02049999999999999,0.1333,0.1538
 2024-11-28 19:23:36.490763,Boxing Lines - Nathaniel Bustamante vs Kenny Ojuederie - To Win the Bout,Kenny Ojuederie,-0.020699999999999996,0.4444,0.4651
-2024-11-28 12:55:18.415952,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 29.5,-0.02169999999999994,0.5238,0.5455
-2024-11-28 12:55:18.515314,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 23.5,-0.02169999999999994,0.5238,0.5455
-2024-11-28 12:55:18.440657,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Over 51.5,-0.02169999999999994,0.5238,0.5455
 2024-11-28 18:37:06.038212,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,-0.021699999999999997,0.4545,0.4762
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Fiona Xu,-0.021900000000000003,0.0025,0.0244
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Cassie Porter,-0.022099999999999998,0.0164,0.0385
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Dean Burmester,-0.0242,0.0667,0.0909
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Anirban Lahiri,-0.024499999999999997,0.0033,0.0278
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Grace Kim,-0.024999999999999994,0.1,0.125
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Danielle Kang,-0.026600000000000002,0.0057,0.0323
-2024-11-28 12:55:18.115952,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,No,-0.028100000000000014,0.8667,0.8948
-2024-11-28 12:55:18.103411,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,-0.028299999999999992,0.3226,0.3509
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Momoka Kobori,-0.028800000000000003,0.0057,0.0345
+2024-11-29 02:02:03.640188,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,-0.028399999999999995,0.0625,0.0909
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Scott Vincent,-0.031200000000000002,0.0164,0.0476
-2024-11-28 12:55:18.111766,To Make the Playoffs - Charlotte Hornets 2024-25 - To Make the Playoffs,Yes,-0.031700000000000006,0.1905,0.2222
-2024-11-28 12:55:18.525319,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 36.5,-0.03179999999999994,0.5238,0.5556
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,David Puig,-0.033300000000000024,0.1667,0.2
-2024-11-28 12:55:18.161525,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,No,-0.036599999999999994,0.1739,0.2105
 2024-11-28 18:37:06.000634,NFL Weekly Specials - Thanksgiving Specials - Requested Wagers,"R.Dowdle & T.Tracy 40+ Rushing Yards Each, C.Lamb 50+ Receiving Yards",-0.04139999999999999,0.5238,0.5652
-2024-11-28 12:55:18.190419,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,Yes,-0.04459999999999997,0.6429,0.6875
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Jenny Shin,-0.044599999999999994,0.0323,0.0769
 2024-11-28 18:37:06.000634,NFL Weekly Specials - Thanksgiving Specials - Requested Wagers,"Rico Dowdle 60+ Rushing Yards, CeeDee Lamb 60+ Receiving Yards",-0.04460000000000003,0.3636,0.4082
-2024-11-28 12:55:18.165684,To Make the Playoffs - Milwaukee Bucks 2024-25 - To Make the Playoffs,No,-0.044899999999999995,0.129,0.1739
-2024-11-28 12:55:18.194556,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,No,-0.04519999999999999,0.2326,0.2778
-2024-11-28 12:55:18.510344,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 49.5,-0.04620000000000002,0.5455,0.5917
-2024-11-28 12:55:18.186298,To Make the Playoffs - Orlando Magic 2024-25 - To Make the Playoffs,No,-0.04650000000000001,0.0588,0.1053
 2024-11-28 18:37:06.000634,NFL Weekly Specials - Thanksgiving Specials - Requested Wagers,"Rico Dowdle 50+ Rushing Yards, CeeDee Lamb 50+ Receiving Yards",-0.04849999999999999,0.5348,0.5833
-2024-11-28 12:55:18.173954,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,Yes,-0.04970000000000001,0.0556,0.1053
-2024-11-28 12:55:18.475507,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 45.5,-0.05059999999999998,0.5238,0.5744
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Hee Jeong Lim,-0.0506,0.002,0.0526
-2024-11-28 12:55:18.124181,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,No,-0.05070000000000002,0.1667,0.2174
-2024-11-28 12:55:18.202813,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,No,-0.0524,0.9091,0.9615
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Sadom Kaewkanjana,-0.056799999999999996,0.0099,0.0667
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Ashleigh Buhai,-0.0668,0.0385,0.1053
-2024-11-28 12:55:18.153265,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,-0.0726,0.6774,0.75
 2024-11-28 15:31:07.376272,International Series Qatar - International Series Qatar - Winner,Louis Oosthuizen,-0.0769,0.0769,0.1538
-2024-11-28 12:55:18.500382,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 50.5,-0.10149999999999992,0.5652,0.6667
-2024-11-28 12:55:18.140884,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,No,-0.10970000000000002,0.2985,0.4082
-2024-11-28 12:55:18.169862,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,Yes,-0.1492,0.697,0.8462
-2024-11-28 12:55:19.049918,ISPS Handa Womens Australian Open - ISPS Handa Womens Australian Open - Winner,Minjee Lee,-0.172,0.0385,0.2105
-2024-11-28 12:55:18.198707,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,-0.1884,0.4545,0.6429
-2024-11-28 12:55:18.149145,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,No,-0.2094999999999999,0.5238,0.7333
-2024-11-28 12:55:18.455631,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 44.5,-0.22619999999999996,0.5238,0.75
