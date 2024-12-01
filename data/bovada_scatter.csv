@@ -3,81 +3,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-01 22:31:35.314303,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Miami FL To Make the 2024-2025 College Football Playoff,No,0.5678000000000001,0.9524,0.3846
 2024-12-01 20:29:55.023100,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,No,0.3564,0.5917,0.2353
 2024-12-01 22:31:35.317441,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Ole Miss To Make the 2024-2025 College Football Playoff,No,0.3438,0.999,0.6552
-2024-12-01 10:33:55.498282,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Cruz Azul,0.23079999999999998,0.3077,0.0769
-2024-12-01 10:33:55.727736,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Bukayo Saka,0.1744,0.5744,0.4
-2024-12-01 10:33:55.688048,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Racing Club,0.15389999999999998,0.3077,0.1538
-2024-12-01 10:33:55.647625,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,0.05679999999999999,0.1818,0.125
-2024-12-01 10:33:55.760994,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Bukayo Saka (Arsenal),0.042899999999999994,0.1429,0.1
-2024-12-01 10:33:55.760994,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Martin Odegaard (Arsenal),0.0384,0.0769,0.0385
-2024-12-01 20:29:55.019340,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Texas,0.03720000000000001,0.25,0.2128
 2024-12-01 20:29:55.019340,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Penn State,0.03720000000000001,0.25,0.2128
-2024-12-01 10:33:55.738180,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,0.0368,0.2667,0.2299
-2024-12-01 10:33:55.614868,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.03640000000000004,0.4,0.3636
-2024-12-01 10:33:55.498282,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Pumas UNAM,0.03420000000000001,0.1111,0.0769
-2024-12-01 10:33:55.498282,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Atlético San Luis,0.034100000000000005,0.125,0.0909
-2024-12-01 11:23:57.975754,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.033300000000000024,0.2,0.1667
-2024-12-01 10:33:55.754054,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester United,0.029899999999999982,0.2299,0.2
-2024-12-01 11:23:58.460767,NFL Weekly Specials - NFL Week 13 - Leaders - Most Receiving Yards (Sunday Only),Jordan Addison (MIN),0.029,0.0323,0.0033
-2024-12-01 10:33:55.731431,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Yoan Wissa (Brentford),0.028000000000000004,0.0476,0.0196
-2024-12-01 10:33:55.754054,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,0.027999999999999914,0.8462,0.8182
-2024-12-01 10:33:55.713987,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Bournemouth,0.019099999999999992,0.0667,0.0476
-2024-12-01 10:33:55.724075,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Matz Sels,0.019099999999999992,0.0667,0.0476
-2024-12-01 10:33:55.660165,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,0.01880000000000004,0.5744,0.5556
-2024-12-01 10:33:55.754054,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Aston Villa,0.01820000000000002,0.2,0.1818
-2024-12-01 10:33:55.652293,Super League - Greece Super League 2024/25 - Winner,AEK Athens,0.01820000000000002,0.2,0.1818
-2024-12-01 10:33:55.754054,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,0.01820000000000002,0.2,0.1818
-2024-12-01 10:33:55.498282,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,0.01820000000000002,0.2,0.1818
-2024-12-01 10:33:55.757155,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,0.01820000000000002,0.2,0.1818
-2024-12-01 10:33:55.731431,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Chris Wood (Nottm Forest),0.018099999999999998,0.0769,0.0588
-2024-12-01 10:33:55.757155,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Everton,0.016700000000000048,0.75,0.7333
-2024-12-01 10:33:55.757155,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Brentford,0.01429999999999998,0.9852,0.9709
+2024-12-01 20:29:55.019340,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Texas,0.03720000000000001,0.25,0.2128
 2024-12-01 12:51:14.528381,Boxing Lines - Aloys Youmbi vs Lewis Oakford - To Win the Bout,Aloys Youmbi,0.014100000000000001,0.9474,0.9333
-2024-12-01 10:33:55.664831,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.013900000000000023,0.8889,0.875
-2024-12-01 10:33:55.757155,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Crystal Palace,0.012899999999999912,0.8462,0.8333
-2024-12-01 10:33:55.660165,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.012699999999999989,0.3636,0.3509
 2024-12-01 14:30:12.977748,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,0.012199999999999989,0.5,0.4878
-2024-12-01 10:33:55.738180,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Wolverhampton Wanderers,0.011199999999999995,0.0588,0.0476
-2024-12-01 10:33:55.731431,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Bukayo Saka (Arsenal),0.011199999999999995,0.0588,0.0476
-2024-12-01 10:33:55.647625,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,0.011099999999999999,0.1111,0.1
 2024-12-01 15:28:49.985834,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Peter McGrail,0.010699999999999932,0.5455,0.5348
-2024-12-01 10:33:55.660165,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,0.010099999999999998,0.5556,0.5455
-2024-12-01 10:33:55.757155,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Ipswich Town,-0.010099999999999998,0.4444,0.4545
-2024-12-01 10:33:55.498282,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Tigres UANL,-0.0102,0.0667,0.0769
 2024-12-01 15:28:49.985834,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Dennis McCann,-0.01100000000000001,0.5238,0.5348
-2024-12-01 10:33:55.614868,First Division A - Belgium First Division A 2024/25 - Outright,Royal Antwerp,-0.011099999999999999,0.1,0.1111
-2024-12-01 10:33:55.727736,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Heung-min Son,-0.011199999999999995,0.0476,0.0588
-2024-12-01 10:33:55.647625,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Darmstadt,-0.011199999999999995,0.0476,0.0588
 2024-12-01 21:26:39.676498,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,-0.012199999999999989,0.4878,0.5
-2024-12-01 11:23:57.961689,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.013899999999999996,0.1111,0.125
 2024-12-01 12:51:14.528381,Boxing Lines - Aloys Youmbi vs Lewis Oakford - To Win the Bout,Lewis Oakford,-0.013899999999999996,0.1111,0.125
-2024-12-01 11:23:57.971052,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.013999999999999999,0.0769,0.0909
-2024-12-01 11:23:57.961689,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,-0.01660000000000006,0.9167,0.9333
-2024-12-01 10:33:55.660165,Serie B - Italy Serie B 2024/25 - To Be Promoted,Bari,-0.01759999999999999,0.1,0.1176
-2024-12-01 10:33:55.660165,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sampdoria,-0.0179,0.125,0.1429
-2024-12-01 10:33:55.731431,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Cole Palmer (Chelsea),-0.0179,0.125,0.1429
-2024-12-01 10:33:55.647625,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Elversberg,-0.018099999999999998,0.0588,0.0769
-2024-12-01 10:33:55.754054,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.01880000000000004,0.5556,0.5744
-2024-12-01 10:33:55.727736,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Mohamed Salah,-0.020100000000000007,0.2299,0.25
-2024-12-01 11:23:57.975754,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.02020000000000001,0.0909,0.1111
-2024-12-01 10:33:55.727736,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Cole Palmer,-0.02020000000000001,0.0909,0.1111
-2024-12-01 10:33:55.614868,First Division A - Belgium First Division A 2024/25 - Outright,Genk,-0.02169999999999994,0.5238,0.5455
-2024-12-01 10:33:55.754054,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Nottingham Forest,-0.022600000000000064,0.6,0.6226
-2024-12-01 10:33:55.647625,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.023799999999999988,0.1429,0.1667
-2024-12-01 10:33:55.738180,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Southampton,-0.023800000000000043,0.5,0.5238
-2024-12-01 11:23:57.966355,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,-0.0242,0.9091,0.9333
-2024-12-01 10:33:55.757155,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,-0.025499999999999967,0.4,0.4255
-2024-12-01 10:33:55.713987,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,-0.02560000000000001,0.3077,0.3333
-2024-12-01 10:33:55.498282,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Club América,-0.030299999999999994,0.3333,0.3636
-2024-12-01 11:23:57.985121,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.0348,0.4,0.4348
-2024-12-01 10:33:55.688048,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,-0.03639999999999999,0.6,0.6364
-2024-12-01 10:33:55.664831,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Feyenoord,-0.04440000000000001,0.0667,0.1111
-2024-12-01 10:33:55.757155,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,-0.044500000000000095,0.7333,0.7778
-2024-12-01 11:23:57.980465,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.04999999999999999,0.2,0.25
 2024-12-01 20:29:55.019340,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Oregon,-0.05479999999999996,0.6226,0.6774
-2024-12-01 10:33:55.688048,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,-0.05550000000000002,0.1667,0.2222
-2024-12-01 10:33:55.741498,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,-0.06230000000000002,0.5455,0.6078
-2024-12-01 11:23:57.975754,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.06990000000000002,0.3846,0.4545
-2024-12-01 10:33:55.754054,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.07929999999999993,0.7778,0.8571
 2024-12-01 20:29:55.023100,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,Yes,-0.35710000000000003,0.4762,0.8333
 2024-12-01 22:31:35.317441,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Ole Miss To Make the 2024-2025 College Football Playoff,Yes,-0.38380000000000003,0.0244,0.4082
 2024-12-01 22:31:35.314303,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Miami FL To Make the 2024-2025 College Football Playoff,Yes,-0.5663,0.1111,0.6774
