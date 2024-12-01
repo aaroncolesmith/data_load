@@ -10,7 +10,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-01 02:23:11.548053,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,0.05590000000000006,0.6923,0.6364
 2024-12-01 02:23:11.541851,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,0.055900000000000005,0.3636,0.3077
 2024-12-01 03:52:50.950884,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,0.055499999999999994,0.8333,0.7778
-2024-11-30 16:33:54.235560,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Boston Celtics,0.0552,0.0769,0.0217
 2024-12-01 03:52:50.931845,Championship - England Championship 2024/25 - Winner,Burnley,0.05379999999999999,0.1538,0.1
 2024-12-01 03:52:50.938343,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.05070000000000002,0.4762,0.4255
 2024-11-30 22:31:21.388491,Boxing Lines - Serhii Bohachuk vs Israil Madrimov - To Win the Bout,Israil Madrimov,0.04479999999999995,0.7222,0.6774
@@ -40,20 +39,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-01 03:52:51.049321,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,0.01759999999999995,0.6667,0.6491
 2024-12-01 03:52:50.947769,Championship - England Championship 2024/25 - Top 2 Finish,Middlesbrough,0.016699999999999993,0.2667,0.25
 2024-12-01 02:23:12.185998,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.015599999999999947,0.7299,0.7143
+2024-12-01 04:36:11.395589,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.015100000000000002,0.1818,0.1667
 2024-12-01 03:52:50.941423,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,0.013999999999999999,0.0909,0.0769
 2024-12-01 03:52:51.049321,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Manchester City,0.013999999999999999,0.0909,0.0769
 2024-12-01 02:23:11.548053,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester United,0.013800000000000034,0.3774,0.3636
 2024-12-01 03:52:51.049321,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.013799999999999923,0.6364,0.6226
 2024-12-01 03:52:50.941423,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,0.0131,0.0476,0.0345
 2024-12-01 03:52:50.938343,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,0.011199999999999995,0.0588,0.0476
+2024-12-01 04:36:12.100467,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.010699999999999932,0.5455,0.5348
 2024-12-01 03:52:50.947769,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,0.010099999999999998,0.4545,0.4444
 2024-12-01 02:23:11.551206,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,-0.010099999999999998,0.4444,0.4545
 2024-12-01 02:23:11.541851,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Chelsea,-0.0102,0.0667,0.0769
-2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Cara Gainer,-0.0106,0.0004,0.011
 2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Ursula Wikstrom,-0.0106,0.0004,0.011
+2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Cara Gainer,-0.0106,0.0004,0.011
 2024-12-01 02:23:11.544972,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,-0.010899999999999993,0.1429,0.1538
+2024-12-01 04:36:12.100467,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,-0.01100000000000001,0.5238,0.5348
 2024-12-01 03:52:50.934923,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.011199999999999995,0.0476,0.0588
 2024-12-01 03:52:50.934923,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,-0.011199999999999995,0.0476,0.0588
+2024-12-01 04:36:11.395589,League Two - England League Two 2024/25 - Winner,Crewe Alexandra,-0.011199999999999995,0.0476,0.0588
 2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Lee-Anne Pace,-0.0119,0.0004,0.0123
 2024-12-01 03:52:50.941423,Championship - England Championship 2024/25 - To Be Relegated,Blackburn Rovers,-0.012100000000000001,0.0123,0.0244
 2024-12-01 02:23:12.134737,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,-0.012199999999999989,0.4878,0.5
@@ -61,8 +64,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Annabel Dimmock,-0.013,0.0066,0.0196
 2024-12-01 02:23:11.548053,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,West Ham United,-0.0131,0.0345,0.0476
 2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Nicole Garcia,-0.0136,0.0005,0.0141
-2024-12-01 02:23:11.548053,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,-0.013999999999999999,0.0769,0.0909
 2024-12-01 03:52:50.947769,Championship - England Championship 2024/25 - Top 2 Finish,West Bromwich Albion,-0.013999999999999999,0.0769,0.0909
+2024-12-01 02:23:11.548053,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,-0.013999999999999999,0.0769,0.0909
 2024-12-01 03:52:51.049321,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,-0.014099999999999994,0.0526,0.0667
 2024-12-01 03:52:50.941423,Championship - England Championship 2024/25 - To Be Relegated,Bristol City,-0.014099999999999998,0.0244,0.0385
 2024-12-01 03:52:50.938343,Championship - England Championship 2024/25 - To Be Promoted,Luton Town,-0.0145,0.0099,0.0244
@@ -70,8 +73,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Sara Kouskova,-0.0148,0.0004,0.0152
 2024-12-01 03:52:50.934923,Championship - England Championship 2024/25 - Top Goalscorer,Josh Maja,-0.015100000000000002,0.1667,0.1818
 2024-11-30 18:35:23.922226,Boxing Lines - Conah Walker vs Lewis Ritson - To Win the Bout,Conah Walker,-0.015699999999999936,0.8667,0.8824
-2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Moa Folke,-0.016,0.0004,0.0164
 2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Chloe Williams,-0.016,0.0004,0.0164
+2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Moa Folke,-0.016,0.0004,0.0164
 2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Lauren Walsh,-0.0163,0.0033,0.0196
 2024-11-30 19:22:39.749262,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Virginia Elena Carta,-0.017499999999999998,0.0004,0.0179
 2024-12-01 03:52:50.938343,Championship - England Championship 2024/25 - To Be Promoted,Stoke City,-0.017800000000000003,0.0066,0.0244
