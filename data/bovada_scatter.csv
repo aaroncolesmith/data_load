@@ -39,22 +39,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-02 02:06:20.347664,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Cole Palmer (Chelsea),0.0179,0.1429,0.125
 2024-12-02 02:06:20.330789,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Brighton & Hove Albion,0.017600000000000005,0.3509,0.3333
 2024-12-02 02:06:20.340624,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Robert Sanchez,0.014099999999999998,0.0385,0.0244
-2024-12-02 02:06:20.363441,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,0.014099999999999994,0.0667,0.0526
 2024-12-02 03:12:14.179866,AFC West - AFC West 2024/25 - AFC West Winner,Los Angeles Chargers,0.014099999999999994,0.0667,0.0526
+2024-12-02 02:06:20.363441,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,0.014099999999999994,0.0667,0.0526
 2024-12-02 02:06:20.347664,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Nicolas Jackson (Chelsea),0.013899999999999996,0.125,0.1111
-2024-12-01 15:28:49.985834,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Peter McGrail,0.010699999999999932,0.5455,0.5348
 2024-12-02 03:12:14.165798,NFC East - NFC East 2024/25 - NFC East Winner,Philadelphia Eagles,0.010299999999999976,0.9859,0.9756
 2024-12-02 02:06:20.333862,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Chelsea,0.0102,0.0769,0.0667
 2024-12-02 02:06:20.340624,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,David Raya,0.010099999999999998,0.4545,0.4444
 2024-12-02 02:06:20.363441,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,-0.010100000000000001,0.0244,0.0345
-2024-12-01 15:28:49.985834,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Dennis McCann,-0.01100000000000001,0.5238,0.5348
 2024-12-02 02:06:20.360333,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,-0.011099999999999999,0.1,0.1111
 2024-12-01 21:26:39.676498,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,-0.012199999999999989,0.4878,0.5
 2024-12-02 03:12:14.184532,NFC South - NFC South 2024/25 - NFC South Winner,New Orleans Saints,-0.012700000000000003,0.0196,0.0323
 2024-12-02 03:12:14.179866,AFC West - AFC West 2024/25 - AFC West Winner,Kansas City Chiefs,-0.0131,0.9524,0.9655
 2024-12-02 02:06:20.360333,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,-0.013999999999999999,0.0769,0.0909
-2024-12-02 02:06:20.351076,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Brentford,-0.014099999999999998,0.0244,0.0385
 2024-12-02 02:06:20.347664,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Dominic Solanke (Tottenham),-0.014099999999999998,0.0244,0.0385
+2024-12-02 02:06:20.351076,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Brentford,-0.014099999999999998,0.0244,0.0385
 2024-12-02 02:06:20.333862,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Tottenham Hotspur,-0.014499999999999999,0.0149,0.0294
 2024-12-02 02:06:20.340624,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Alisson,-0.0179,0.125,0.1429
 2024-12-02 02:06:20.363441,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,-0.017900000000000027,0.8571,0.875
@@ -75,8 +73,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-01 20:29:55.019340,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Oregon,-0.05479999999999996,0.6226,0.6774
 2024-12-02 02:06:20.333862,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.055900000000000005,0.3077,0.3636
 2024-12-02 02:06:20.360333,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,-0.05590000000000006,0.6364,0.6923
-2024-12-02 02:06:20.337176,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),-0.057699999999999974,0.6923,0.75
 2024-12-02 02:06:20.357256,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.057699999999999974,0.25,0.3077
+2024-12-02 02:06:20.337176,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),-0.057699999999999974,0.6923,0.75
 2024-12-02 02:06:20.360333,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,-0.06659999999999999,0.2667,0.3333
 2024-12-02 02:06:20.327668,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,-0.0889,0.1111,0.2
 2024-12-02 02:06:20.354157,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,-0.12,0.4255,0.5455
