@@ -3,8 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,0.0857,0.8,0.7143
 2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,0.07779999999999998,0.7701,0.6923
 2024-12-03 11:26:03.903884,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),0.05889999999999995,0.6667,0.6078
-2024-12-03 08:35:44.337487,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.055900000000000005,0.3636,0.3077
 2024-12-03 08:35:44.310577,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.055900000000000005,0.3636,0.3077
+2024-12-03 08:35:44.337487,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.055900000000000005,0.3636,0.3077
 2024-12-03 08:35:44.310577,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,0.04169999999999999,0.1667,0.125
 2024-12-03 09:31:45.391111,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,0.040999999999999925,0.7333,0.6923
 2024-12-03 08:35:44.307290,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Ante Budimir (Osasuna),0.0384,0.0769,0.0385
@@ -26,8 +26,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 14:31:41.538528,Champions Tour Q School - Champions Tour Q School - Winner,Freddie Jacobson,0.018099999999999998,0.0769,0.0588
 2024-12-03 05:32:35.755800,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.016699999999999993,0.4167,0.4
 2024-12-03 09:31:45.386519,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,0.015400000000000025,0.4,0.3846
-2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,AS Roma,0.014099999999999998,0.0385,0.0244
 2024-12-03 08:35:44.313405,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Celta de Vigo,0.014099999999999998,0.0385,0.0244
+2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,AS Roma,0.014099999999999998,0.0385,0.0244
 2024-12-03 08:35:44.307290,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.013999999999999999,0.0909,0.0769
 2024-12-03 08:35:44.310577,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,0.012100000000000001,0.0244,0.0123
 2024-12-03 09:31:46.402824,Champions Tour Q School - Champions Tour Q School - Winner,Freddie Jacobson,0.011199999999999995,0.0588,0.0476
@@ -37,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 09:31:46.300184,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.010699999999999932,0.5455,0.5348
 2024-12-03 09:31:46.377235,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Thorbjorn Olesen,0.0102,0.0769,0.0667
 2024-12-03 09:31:46.427608,Victorian PGA Championship - Victorian PGA Championship - Winner,Cameron John,0.0102,0.0769,0.0667
+2024-12-03 15:31:50.248526,Elite Boxing - Oleksandr Usyk vs Tyson Fury - To Win the Bout,Tyson Fury,0.010099999999999998,0.4545,0.4444
 2024-12-03 10:37:33.062881,Boxing Lines - Kubrat Pulev vs Mahmoud Charr - To Win the Bout,Mahmoud Charr,-0.010099999999999998,0.3125,0.3226
 2024-12-03 08:35:44.307290,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.0102,0.0667,0.0769
 2024-12-03 08:35:44.313405,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Osasuna,-0.0102,0.0667,0.0769
@@ -68,10 +69,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,-0.0368,0.2299,0.2667
 2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Inter Milan,-0.03839999999999999,0.9231,0.9615
 2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,Udinese,-0.04329999999999999,0.0476,0.0909
-2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,-0.052000000000000046,0.8571,0.9091
 2024-12-03 08:35:44.307290,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Robert Lewandowski (FC Barcelona),-0.052000000000000046,0.8571,0.9091
-2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.05559999999999998,0.4444,0.5
+2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,-0.052000000000000046,0.8571,0.9091
 2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,-0.05559999999999998,0.4444,0.5
+2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.05559999999999998,0.4444,0.5
 2024-12-03 08:35:44.310577,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.057699999999999974,0.25,0.3077
 2024-12-03 11:26:03.903884,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),-0.07619999999999999,0.4,0.4762
 2024-12-03 08:35:44.310577,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,-0.09099999999999997,0.4545,0.5455
