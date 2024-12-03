@@ -861,6 +861,7 @@ def refresh_fbref_data(df):
   
   table = pa.Table.from_pandas(df_all)
   pq.write_table(table, './data/fb_ref_data.parquet',compression='BROTLI')
+  print('fb ref data written')
 
 ## to do -- update this to only run once or a few times per day
 
@@ -873,3 +874,4 @@ except:
 
 
 
+print('script done')
