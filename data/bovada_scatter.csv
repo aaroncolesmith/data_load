@@ -1,29 +1,20 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Aaron Taylor-Johnson,0.2444,0.4444,0.2
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Paul Mescal,0.19659999999999997,0.3077,0.1111
 2024-12-03 02:04:54.448311,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Randers,0.13329999999999997,0.3333,0.2
 2024-12-03 02:04:54.445255,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Lyngby BK,0.11769999999999992,0.7403,0.6226
-2024-12-02 16:38:03.707481,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,0.11219999999999997,0.5122,0.4
 2024-12-03 02:04:54.894955,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,0.11070000000000002,0.5652,0.4545
 2024-12-02 18:39:04.144793,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,Yes,0.10319999999999996,0.6154,0.5122
 2024-12-02 19:24:20.475543,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Blue Jays,0.08979999999999999,0.1667,0.0769
 2024-12-03 02:04:54.442191,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,0.07619999999999999,0.4762,0.4
 2024-12-02 21:28:21.209182,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Joe Burrow (CIN),0.07619999999999993,0.6,0.5238
 2024-12-03 02:04:54.898546,NBL - Australia NBL 2024/25 - To Make Grand Final,Perth Wildcats,0.06670000000000001,0.2,0.1333
-2024-12-02 16:38:03.710880,MLB Specials - MLB Specials 2025 - Which MLB Team will Pete Alonso Play his First Regular Season Game for in the 2025 Season?,Mets,0.06669999999999998,0.2667,0.2
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Jack Lowden,0.06620000000000001,0.125,0.0588
 2024-12-03 02:04:54.448311,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Copenhagen,0.06600000000000006,0.9231,0.8571
 2024-12-02 21:28:21.212621,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),0.06320000000000003,0.7299,0.6667
 2024-12-02 20:30:36.052791,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.05449999999999999,0.4545,0.4
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,0.052000000000000005,0.1429,0.0909
 2024-12-03 02:04:54.448311,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Midtjylland,0.04619999999999991,0.8462,0.8
 2024-12-02 22:33:07.501785,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,0.03600000000000003,0.5238,0.4878
-2024-12-02 16:38:03.707481,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,0.03600000000000003,0.5238,0.4878
 2024-12-02 21:28:21.212621,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Myles Garrett (CLE),0.0353,0.0909,0.0556
 2024-12-02 20:30:36.052791,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Quinn,0.034100000000000005,0.125,0.0909
-2024-12-02 17:30:49.935560,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,0.033299999999999996,0.5455,0.5122
 2024-12-03 02:04:54.445255,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,0.03210000000000002,0.9412,0.9091
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Dev Patel,0.030199999999999998,0.0625,0.0323
 2024-12-03 02:04:54.898546,NBL - Australia NBL 2024/25 - To Make Grand Final,SE Melbourne Phoenix,0.028399999999999995,0.0909,0.0625
 2024-12-03 02:04:54.894955,NBL - Australia NBL 2024/25 - Regular Season League Winner,Perth Wildcats,0.026499999999999996,0.0588,0.0323
 2024-12-02 21:28:21.297667,Boxing Lines - Brad Pauls vs Denzel Bentley - To Win the Bout,Denzel Bentley,0.025599999999999956,0.6,0.5744
@@ -36,87 +27,72 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 02:04:54.931876,WNBL - Australia WNBL 2024/25 - Outright,Sydney Uni Flames (W),0.0203,0.0588,0.0385
 2024-12-02 22:33:07.336012,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Oregon,0.020299999999999985,0.6429,0.6226
 2024-12-03 02:04:54.448311,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Brøndby IF,0.019699999999999995,0.4545,0.4348
+2024-12-03 05:32:35.741774,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,0.01949999999999999,0.0909,0.0714
+2024-12-02 21:28:20.158306,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
 2024-12-03 02:04:54.931876,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.019000000000000017,0.2857,0.2667
 2024-12-02 18:39:03.085527,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
-2024-12-02 21:28:20.158306,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
 2024-12-02 20:30:36.019377,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - SMU To Make the 2024-2025 College Football Playoff,No,0.018400000000000027,0.3125,0.2941
 2024-12-02 20:30:36.052791,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,0.0179,0.1429,0.125
-2024-12-02 16:38:03.710880,MLB Specials - MLB Specials 2025 - Which MLB Team will Pete Alonso Play his First Regular Season Game for in the 2025 Season?,Mariners,0.0179,0.1429,0.125
+2024-12-03 05:32:35.755800,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.016699999999999993,0.4167,0.4
 2024-12-03 02:04:54.251672,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,0.015100000000000002,0.1818,0.1667
 2024-12-02 20:30:36.022700,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - South Carolina To Make The 2024-2025 College Football Playoff,Yes,0.014800000000000008,0.2,0.1852
 2024-12-02 20:30:36.029315,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,Yes,0.014200000000000101,0.6296,0.6154
-2024-12-02 20:30:36.052791,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,0.014099999999999998,0.0435,0.0294
 2024-12-02 20:30:34.982599,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,0.014099999999999998,0.0385,0.0244
-2024-12-02 17:30:48.833408,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,0.014099999999999998,0.0385,0.0244
+2024-12-02 20:30:36.052791,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,0.014099999999999998,0.0435,0.0294
 2024-12-02 19:24:20.670467,Saudi International - Saudi International - Winner,Tyrrell Hatton,0.013899999999999996,0.125,0.1111
 2024-12-02 22:33:07.336012,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Penn State,0.01319999999999999,0.2632,0.25
 2024-12-02 20:30:36.170415,Boxing Lines - Lindolfo Delgado vs Jackson Marinez - To Win the Bout,Jackson Marinez,0.012899999999999995,0.1667,0.1538
-2024-12-02 16:38:03.659885,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,Yes,0.012199999999999989,0.5122,0.5
 2024-12-02 19:24:20.670467,Saudi International - Saudi International - Winner,Louis Oosthuizen,0.011199999999999995,0.0588,0.0476
 2024-12-02 21:28:21.209182,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kyler Murray (ARI),0.010899999999999993,0.1538,0.1429
 2024-12-02 18:39:04.134636,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - SMU To Make the 2024-2025 College Football Playoff,Yes,0.010800000000000032,0.7727,0.7619
 2024-12-02 20:30:36.052791,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McDermott,0.010700000000000001,0.0385,0.0278
 2024-12-02 18:39:04.383614,Hero World Challenge - Hero World Challenge - Winner,Brian Harman,0.010600000000000002,0.0323,0.0217
-2024-12-02 17:30:49.935560,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Blue Jays,0.0102,0.0769,0.0667
 2024-12-02 20:30:36.233842,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Peter McGrail,0.010099999999999998,0.5556,0.5455
 2024-12-02 20:30:36.029315,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,No,-0.010099999999999998,0.4444,0.4545
 2024-12-03 02:04:54.931876,WNBL - Australia WNBL 2024/25 - Outright,Canberra Capitals (W),-0.010100000000000001,0.0244,0.0345
-2024-12-02 17:30:49.140432,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Rege-Jean Page,-0.0102,0.0667,0.0769
-2024-12-02 16:38:03.707481,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Any Other Team,-0.0102,0.0667,0.0769
 2024-12-02 22:33:07.497914,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Oscar Valdez,-0.010699999999999987,0.3226,0.3333
 2024-12-02 21:28:21.212621,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Kerby Joseph (DET),-0.011199999999999995,0.0476,0.0588
 2024-12-02 20:30:36.233842,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Dennis McCann,-0.011600000000000055,0.5122,0.5238
 2024-12-03 02:04:54.891908,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,-0.011899999999999994,0.0714,0.0833
 2024-12-03 02:04:54.891908,NBL - Australia NBL 2024/25 - Outright,Melbourne United,-0.012299999999999978,0.3448,0.3571
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Lupita Nyong'o,-0.012700000000000003,0.0196,0.0323
 2024-12-03 02:04:54.445255,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,-0.0131,0.2222,0.2353
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,-0.013999999999999999,0.0769,0.0909
-2024-12-02 17:30:49.935560,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Any Other Team,-0.014099999999999994,0.0526,0.0667
 2024-12-03 02:04:54.445255,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Viborg FF,-0.014099999999999998,0.0244,0.0385
-2024-12-02 21:28:21.212621,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Andrew Van Ginkel,-0.014099999999999998,0.0244,0.0385
-2024-12-02 18:39:03.085527,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.014099999999999998,0.0244,0.0385
 2024-12-02 21:28:20.158306,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.014099999999999998,0.0244,0.0385
+2024-12-02 18:39:03.085527,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.014099999999999998,0.0244,0.0385
+2024-12-02 21:28:21.212621,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Andrew Van Ginkel,-0.014099999999999998,0.0244,0.0385
 2024-12-03 02:04:54.251672,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,-0.014100000000000001,0.0385,0.0526
 2024-12-02 20:30:36.049305,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jared Goff (DET),-0.014399999999999996,0.0625,0.0769
 2024-12-02 19:24:20.664519,Hero World Challenge - Hero World Challenge - Winner,Patrick Cantlay,-0.01440000000000001,0.0909,0.1053
 2024-12-03 02:04:54.891908,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.01469999999999999,0.2353,0.25
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Jamie Bell,-0.015300000000000001,0.0323,0.0476
+2024-12-03 05:32:35.746457,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.015400000000000025,0.3846,0.4
 2024-12-03 02:04:54.931876,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),-0.015400000000000025,0.3846,0.4
 2024-12-02 20:30:36.022700,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - South Carolina To Make The 2024-2025 College Football Playoff,No,-0.015699999999999936,0.8667,0.8824
-2024-12-02 16:38:03.707481,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Giants,-0.0168,0.0217,0.0385
-2024-12-02 17:30:49.935560,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,-0.017299999999999982,0.2857,0.303
 2024-12-03 02:04:54.442191,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.01759999999999999,0.1,0.1176
 2024-12-03 02:04:54.442191,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,-0.018099999999999998,0.0588,0.0769
+2024-12-03 05:32:35.741774,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,-0.01820000000000002,0.1818,0.2
 2024-12-02 20:30:34.982599,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.019000000000000017,0.2667,0.2857
-2024-12-02 17:30:48.833408,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.019000000000000017,0.2667,0.2857
 2024-12-03 02:04:54.891908,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,-0.019000000000000017,0.2667,0.2857
-2024-12-02 21:28:21.212621,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),-0.0213,0.0556,0.0769
 2024-12-02 21:28:21.212621,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Chris Jones,-0.0213,0.0556,0.0769
+2024-12-02 21:28:21.212621,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),-0.0213,0.0556,0.0769
+2024-12-03 05:32:35.755800,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,-0.021399999999999975,0.2564,0.2778
 2024-12-02 21:28:21.297667,Boxing Lines - Brad Pauls vs Denzel Bentley - To Win the Bout,Brad Pauls,-0.022699999999999998,0.4651,0.4878
 2024-12-02 20:30:36.019377,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - SMU To Make the 2024-2025 College Football Playoff,Yes,-0.022700000000000053,0.75,0.7727
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Chiwetel Ejiofor,-0.023200000000000002,0.0244,0.0476
 2024-12-03 02:04:54.931876,WNBL - Australia WNBL 2024/25 - Outright,Southside Flyers (W),-0.023799999999999988,0.1429,0.1667
 2024-12-02 19:24:20.475543,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,-0.023800000000000043,0.5,0.5238
 2024-12-03 02:04:54.448311,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Viborg FF,-0.023899999999999998,0.0196,0.0435
 2024-12-03 02:04:54.894955,NBL - Australia NBL 2024/25 - Regular Season League Winner,Adelaide 36ers,-0.024,0.0385,0.0625
-2024-12-02 16:38:03.707481,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Blue Jays,-0.0242,0.0667,0.0909
 2024-12-02 21:28:21.212621,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Trey Hendrickson (CIN),-0.026499999999999996,0.0323,0.0588
 2024-12-03 02:04:54.894955,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,-0.02739999999999998,0.2667,0.2941
 2024-12-02 22:33:07.336012,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Texas,-0.02779999999999999,0.2222,0.25
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Idris Elba,-0.028399999999999995,0.0625,0.0909
 2024-12-02 19:24:20.475543,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Dodgers,-0.02840000000000001,0.0769,0.1053
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Nicholas Hoult,-0.0286,0.0099,0.0385
 2024-12-02 22:33:07.501785,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,-0.028900000000000037,0.5455,0.5744
 2024-12-03 02:04:54.931876,WNBL - Australia WNBL 2024/25 - Outright,Geelong Supercats (W),-0.029299999999999993,0.0476,0.0769
 2024-12-03 02:04:54.442191,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.030299999999999994,0.3333,0.3636
 2024-12-02 19:24:20.475543,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,-0.033299999999999996,0.5122,0.5455
 2024-12-03 02:04:54.448311,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Silkeborg IF,-0.04169999999999999,0.125,0.1667
 2024-12-02 20:30:36.049305,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),-0.044499999999999984,0.2222,0.2667
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Tom Hardy,-0.048100000000000004,0.0769,0.125
 2024-12-03 02:04:54.448311,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,AGF Aarhus,-0.05130000000000001,0.3333,0.3846
 2024-12-03 02:04:54.894955,NBL - Australia NBL 2024/25 - Regular Season League Winner,New Zealand Breakers,-0.0524,0.0476,0.1
-2024-12-02 16:38:03.707481,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,-0.05409999999999998,0.303,0.3571
-2024-12-02 16:38:02.892749,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Michael Fassbender,-0.06309999999999999,0.0278,0.0909
 2024-12-03 02:04:54.894955,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,-0.06860000000000002,0.1667,0.2353
 2024-12-03 02:04:54.898546,NBL - Australia NBL 2024/25 - To Make Grand Final,New Zealand Breakers,-0.0909,0.0909,0.1818
 2024-12-02 18:39:04.144793,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,No,-0.10109999999999997,0.4545,0.5556
