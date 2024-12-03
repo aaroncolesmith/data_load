@@ -25,8 +25,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 18:38:31.147335,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Luka Doncic (DAL),0.029299999999999993,0.0769,0.0476
 2024-12-03 11:26:03.952382,Boxing Lines - Kubrat Pulev vs Mahmoud Charr - To Win the Bout,Kubrat Pulev,0.027800000000000047,0.7778,0.75
 2024-12-03 08:35:44.586473,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,FC Porto,0.02779999999999999,0.25,0.2222
-2024-12-03 17:34:17.386038,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),0.02779999999999999,0.25,0.2222
 2024-12-03 18:38:31.675722,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Texas,0.02779999999999999,0.25,0.2222
+2024-12-03 17:34:17.386038,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),0.02779999999999999,0.25,0.2222
 2024-12-03 17:34:17.396696,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Jalen Carter (PHI),0.0273,0.0323,0.005
 2024-12-03 18:38:31.301972,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.02679999999999999,0.3125,0.2857
 2024-12-03 18:38:31.147335,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Damian Lillard (MIL),0.0244,0.0323,0.0079
@@ -38,24 +38,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 08:35:44.310577,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,0.021999999999999964,0.3077,0.2857
 2024-12-03 18:38:31.147335,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Giannis Antetokounmpo (MIL),0.0213,0.0769,0.0556
 2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,Genoa,0.02100000000000002,0.3846,0.3636
-2024-12-03 17:34:17.400293,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),0.0208,0.0833,0.0625
 2024-12-03 18:38:31.147335,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Alperen Sengun (HOU),0.0208,0.0833,0.0625
+2024-12-03 17:34:17.400293,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),0.0208,0.0833,0.0625
 2024-12-03 08:35:44.586473,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,0.020100000000000007,0.25,0.2299
 2024-12-03 17:34:17.396696,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),0.020100000000000007,0.75,0.7299
 2024-12-03 08:35:44.304490,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.020100000000000007,0.7701,0.75
+2024-12-03 20:31:50.846941,NL Central - NL Central 2025 - NL Central Winner,Pittsburgh Pirates,0.019699999999999995,0.125,0.1053
 2024-12-03 18:38:31.273676,B League - Japan B-League 2024/25 - Outright,SeaHorses Mikawa,0.019099999999999992,0.0667,0.0476
 2024-12-03 08:35:44.310577,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,0.019000000000000017,0.2857,0.2667
+2024-12-03 20:31:50.846941,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.019000000000000017,0.2857,0.2667
 2024-12-03 17:34:17.400293,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Derrick Henry (BAL),0.01820000000000002,0.2,0.1818
 2024-12-03 18:38:31.716903,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Cooper DeJean (PHI),0.018099999999999998,0.0769,0.0588
 2024-12-03 14:31:41.538528,Champions Tour Q School - Champions Tour Q School - Winner,Freddie Jacobson,0.018099999999999998,0.0769,0.0588
 2024-12-03 18:38:31.147335,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Shai Gilgeous-Alexander (OKC),0.015700000000000006,0.1333,0.1176
 2024-12-03 09:31:45.386519,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,0.015400000000000025,0.4,0.3846
-2024-12-03 16:38:11.006327,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),0.014899999999999997,0.0625,0.0476
 2024-12-03 17:34:17.380992,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Alabama,0.014899999999999997,0.0625,0.0476
+2024-12-03 16:38:11.006327,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),0.014899999999999997,0.0625,0.0476
 2024-12-03 18:38:31.147335,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Trae Young (ATL),0.0145,0.0244,0.0099
+2024-12-03 17:34:17.400293,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),0.014099999999999998,0.0385,0.0244
 2024-12-03 08:35:44.313405,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Celta de Vigo,0.014099999999999998,0.0385,0.0244
 2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,AS Roma,0.014099999999999998,0.0385,0.0244
-2024-12-03 17:34:17.400293,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),0.014099999999999998,0.0385,0.0244
 2024-12-03 08:35:44.307290,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.013999999999999999,0.0909,0.0769
 2024-12-03 18:38:31.147335,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Victor Wembanyama (SAS),0.013,0.0196,0.0066
 2024-12-03 17:34:17.296870,Super Bowl LIX - Super Bowl 59 - Winner,Kansas City Chiefs,0.012899999999999995,0.1667,0.1538
@@ -64,24 +66,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 18:38:31.264184,Liga ACB - Spain Liga ACB 2024/25 - Outright,Real Madrid BC,0.011499999999999955,0.6667,0.6552
 2024-12-03 18:38:31.147335,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Devin Booker (PHX),0.011199999999999995,0.0435,0.0323
 2024-12-03 09:31:46.402824,Champions Tour Q School - Champions Tour Q School - Winner,Freddie Jacobson,0.011199999999999995,0.0588,0.0476
-2024-12-03 19:24:15.807923,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),0.011099999999999999,0.1111,0.1
-2024-12-03 17:34:17.386038,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.011099999999999999,0.1111,0.1
-2024-12-03 11:26:03.964025,Boxing Lines - Marc Castro vs Agustin Ezequiel Quintana - To Win the Bout,Marc Castro,0.011099999999999999,0.9,0.8889
 2024-12-03 11:26:03.967991,Boxing Lines - Yankiel Rivera vs Angel Gonzalez Jr - To Win the Bout,Yankiel Rivera,0.011099999999999999,0.9,0.8889
+2024-12-03 17:34:17.386038,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.011099999999999999,0.1111,0.1
+2024-12-03 19:24:15.807923,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),0.011099999999999999,0.1111,0.1
 2024-12-03 19:24:15.922653,Boxing Lines - Lindolfo Delgado vs Jackson Marinez - To Win the Bout,Lindolfo Delgado,0.011099999999999999,0.9,0.8889
+2024-12-03 11:26:03.964025,Boxing Lines - Marc Castro vs Agustin Ezequiel Quintana - To Win the Bout,Marc Castro,0.011099999999999999,0.9,0.8889
 2024-12-03 09:31:46.300184,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.010699999999999932,0.5455,0.5348
 2024-12-03 17:34:17.380992,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,0.01050000000000001,0.1923,0.1818
 2024-12-03 17:34:17.380992,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,0.010499999999999982,0.2105,0.2
 2024-12-03 09:31:46.427608,Victorian PGA Championship - Victorian PGA Championship - Winner,Cameron John,0.0102,0.0769,0.0667
 2024-12-03 09:31:46.377235,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Thorbjorn Olesen,0.0102,0.0769,0.0667
-2024-12-03 18:38:31.679074,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,No,0.010099999999999998,0.3226,0.3125
 2024-12-03 15:31:50.248526,Elite Boxing - Oleksandr Usyk vs Tyson Fury - To Win the Bout,Tyson Fury,0.010099999999999998,0.4545,0.4444
+2024-12-03 18:38:31.679074,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,No,0.010099999999999998,0.3226,0.3125
 2024-12-03 10:37:33.062881,Boxing Lines - Kubrat Pulev vs Mahmoud Charr - To Win the Bout,Mahmoud Charr,-0.010099999999999998,0.3125,0.3226
 2024-12-03 08:35:44.307290,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.0102,0.0667,0.0769
 2024-12-03 08:35:44.313405,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Osasuna,-0.0102,0.0667,0.0769
 2024-12-03 09:31:46.377235,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Christiaan Bezuidenhout,-0.0102,0.0667,0.0769
 2024-12-03 18:38:31.716903,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Evan Williams (GB),-0.010300000000000002,0.0141,0.0244
 2024-12-03 09:31:46.300184,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,-0.01100000000000001,0.5238,0.5348
+2024-12-03 20:31:50.898679,Boxing Lines - Lindolfo Delgado vs Jackson Marinez - To Win the Bout,Lindolfo Delgado,-0.011099999999999999,0.8889,0.9
 2024-12-03 18:38:31.273676,B League - Japan B-League 2024/25 - Outright,Ryukyu Golden Kings,-0.011099999999999999,0.1,0.1111
 2024-12-03 17:34:17.523501,Boxing Lines - Lindolfo Delgado vs Jackson Marinez - To Win the Bout,Lindolfo Delgado,-0.011099999999999999,0.8889,0.9
 2024-12-03 18:38:31.273676,B League - Japan B-League 2024/25 - Outright,Kawasaki Brave Thunders,-0.012100000000000001,0.0123,0.0244
@@ -109,6 +112,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 08:35:44.313405,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Atlético Madrid,-0.029299999999999993,0.9231,0.9524
 2024-12-03 08:35:44.586473,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Sporting CP,-0.030299999999999994,0.6364,0.6667
 2024-12-03 08:35:44.313405,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,-0.030299999999999994,0.3333,0.3636
+2024-12-03 20:31:50.846941,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,-0.031700000000000006,0.1905,0.2222
 2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,-0.03179999999999994,0.5238,0.5556
 2024-12-03 08:35:44.337487,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,-0.031799999999999995,0.4444,0.4762
 2024-12-03 08:35:44.304490,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,-0.033299999999999996,0.1,0.1333
@@ -121,8 +125,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,-0.0368,0.2299,0.2667
 2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Inter Milan,-0.03839999999999999,0.9231,0.9615
 2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,Udinese,-0.04329999999999999,0.0476,0.0909
-2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,-0.052000000000000046,0.8571,0.9091
 2024-12-03 08:35:44.307290,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Robert Lewandowski (FC Barcelona),-0.052000000000000046,0.8571,0.9091
+2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,-0.052000000000000046,0.8571,0.9091
 2024-12-03 08:35:44.349512,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.05559999999999998,0.4444,0.5
 2024-12-03 08:35:44.343687,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,-0.05559999999999998,0.4444,0.5
 2024-12-03 08:35:44.310577,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.057699999999999974,0.25,0.3077
