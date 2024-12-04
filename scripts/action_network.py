@@ -800,7 +800,7 @@ def refresh_fbref_data(df):
   df['start_time_pt'] = pd.to_datetime(df['start_time']).dt.tz_convert('US/Pacific')
   date_list=df.sort_values('start_time_pt',ascending=True)['start_time_pt'].dt.date.astype(str).unique().tolist()
   ## last 5 elements from date_list
-  date_list_recent = date_list[-10:]
+  date_list_recent = date_list[-70:]
 
   df_all = pd.read_parquet('./data/fb_ref_data.parquet', engine='pyarrow')
 
@@ -869,8 +869,8 @@ def refresh_fbref_data(df):
 print('refreshing fb ref')
 try:
   refresh_fbref_data(df_soccer)
-except:
-  print('fbref failed')
+except Exception as e:
+  print(f'fbref failed -- {e}')
 
 
 
