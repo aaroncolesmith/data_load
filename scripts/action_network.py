@@ -859,8 +859,12 @@ def refresh_fbref_data(df):
     print(f'fb ref failure {e}')
 
   
+  # Attempt to convert the 'Attendance' column to numeric, coercing errors
+  df_all['Attendance'] = pd.to_numeric(df_all['Attendance'], errors='coerce')
+  
+  # Now, you can proceed with creating a parquet table
   table = pa.Table.from_pandas(df_all)
-  pq.write_table(table, './data/fb_ref_data.parquet',compression='BROTLI')
+  pq.write_table(table, './data/fb_ref_data.parquet', compression='BROTLI')
   print('fb ref data written')
 
 ## to do -- update this to only run once or a few times per day
