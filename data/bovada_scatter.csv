@@ -1,81 +1,98 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-04 21:28:29.249549,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 39.5,0.20120000000000005,0.5238,0.3226
 2024-12-04 20:31:55.700210,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 52.5,0.12879999999999997,0.5455,0.4167
+2024-12-05 02:04:55.560689,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),0.09689999999999999,0.3636,0.2667
 2024-12-04 15:31:18.467524,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Over 69.5,0.0917,0.5917,0.5
+2024-12-05 02:04:55.323650,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.09099999999999997,0.5455,0.4545
 2024-12-04 22:33:25.765615,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,0.07619999999999993,0.6,0.5238
+2024-12-05 02:04:55.564138,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.05890000000000001,0.3922,0.3333
+2024-12-05 02:04:55.557298,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,0.057699999999999974,0.3077,0.25
 2024-12-04 15:31:18.408687,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 69.5,0.057699999999999974,0.5455,0.4878
 2024-12-04 21:28:29.549291,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,0.05559999999999998,0.5556,0.5
 2024-12-04 21:28:29.549291,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,0.047599999999999976,0.3333,0.2857
 2024-12-04 23:28:41.317418,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Olympiacos,0.04459999999999997,0.3571,0.3125
-2024-12-04 20:31:55.685497,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 27.5,0.043399999999999994,0.5556,0.5122
+2024-12-05 02:04:55.478511,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.043800000000000006,0.2105,0.1667
 2024-12-04 21:28:29.214597,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,0.043399999999999994,0.5556,0.5122
-2024-12-04 21:28:29.184514,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 45.5,0.04139999999999999,0.5652,0.5238
+2024-12-04 20:31:55.685497,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 27.5,0.043399999999999994,0.5556,0.5122
 2024-12-04 15:31:18.417036,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Under 69.5,0.04139999999999999,0.5652,0.5238
+2024-12-04 21:28:29.184514,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 45.5,0.04139999999999999,0.5652,0.5238
 2024-12-04 14:34:26.322341,Positions - Finishing Position - Sam Burns - Finishing Position,9th or worse,0.04139999999999999,0.5652,0.5238
 2024-12-04 15:31:18.450739,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 68.5,0.03610000000000002,0.5917,0.5556
+2024-12-05 02:04:55.567241,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.027800000000000047,0.7778,0.75
 2024-12-04 15:31:18.429647,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 68.5,0.026499999999999968,0.5917,0.5652
+2024-12-05 02:04:55.557298,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Chelsea,0.024299999999999995,0.0769,0.0526
 2024-12-04 15:31:18.598273,Nedbank Golf Challenge - 2/3 Balls - 1st Round 3 Balls - W. Zalatoris / T. McKibbin / E. Van Rooyen - 1st Round 3 Balls,Tom McKibbin,0.02360000000000001,0.4082,0.3846
+2024-12-05 02:04:55.323650,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.02310000000000001,0.1,0.0769
+2024-12-04 20:31:55.690376,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 30.5,0.022600000000000064,0.5348,0.5122
 2024-12-04 21:28:29.234591,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 50.5,0.022600000000000064,0.5348,0.5122
 2024-12-04 15:31:18.463354,Scores - 1st Round Score - Tom Kim - 1st Round Score,Under 69.5,0.022600000000000064,0.5348,0.5122
-2024-12-04 21:28:29.259486,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 18.5,0.022600000000000064,0.5348,0.5122
 2024-12-04 20:31:55.705220,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 28.5,0.022600000000000064,0.5348,0.5122
-2024-12-04 20:31:55.690376,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 30.5,0.022600000000000064,0.5348,0.5122
+2024-12-04 21:28:29.259486,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 18.5,0.022600000000000064,0.5348,0.5122
 2024-12-04 14:34:26.377584,Nedbank Golf Challenge - 2/3 Balls - 1st Round 3 Balls - M. Homa / T. Lawrence / N. Hojgaard - 1st Round 3 Balls,Thriston Lawrence,0.02260000000000001,0.4,0.3774
+2024-12-05 02:04:55.557298,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,0.022199999999999998,0.1333,0.1111
 2024-12-04 21:28:29.229592,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 37.5,0.02169999999999994,0.5455,0.5238
 2024-12-04 21:28:29.209602,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 29.5,0.02079999999999993,0.5556,0.5348
 2024-12-04 14:34:26.300750,Tournament Match-Ups - Tournament Match-Up - T. Kim vs W. Clark - Tournament Match-Up,Tom Kim,0.02079999999999993,0.5556,0.5348
 2024-12-04 14:34:26.056091,Boxing Lines - Lawrence Okolie vs Hussein Muhamed - To Win the Bout,Lawrence Okolie,0.019100000000000006,0.9524,0.9333
+2024-12-05 02:04:55.564138,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Southampton,0.017900000000000027,0.875,0.8571
 2024-12-04 23:28:41.314212,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.016699999999999993,0.2667,0.25
-2024-12-04 12:55:39.466276,Euro Cup - Euro Cup 2024/25 - Outright,Hapoel Jerusalem,0.016600000000000004,0.0833,0.0667
+2024-12-05 02:04:56.375637,Boxing Lines - Marc Castro vs Agustin Ezequiel Quintana - To Win the Bout,Marc Castro,0.016699999999999937,0.9167,0.9
 2024-12-04 14:34:26.288704,Tournament Match-Ups - Tournament Match-Up - S. Im vs S. Theegala - Tournament Match-Up,Sungjae Im,0.016100000000000003,0.6078,0.5917
-2024-12-04 12:55:39.466276,Euro Cup - Euro Cup 2024/25 - Outright,Cedevita Olimpija,0.014900000000000004,0.0345,0.0196
-2024-12-04 13:38:01.617997,Boxing Lines - Billy Adams vs Jonatas Rodrigo Gomes de Oliveira - To Win the Bout,Jonatas Rodrigo Gomes de Oliveira,0.014399999999999996,0.0769,0.0625
-2024-12-04 12:55:39.466276,Euro Cup - Euro Cup 2024/25 - Outright,Gran Canaria,0.013899999999999996,0.125,0.1111
+2024-12-05 02:04:55.567241,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.014700000000000046,0.7647,0.75
 2024-12-04 18:39:45.288588,Boxing Lines - Sean Noakes vs Matthew Rennie - To Win the Bout,Matthew Rennie,0.012699999999999989,0.3636,0.3509
 2024-12-04 20:31:55.675582,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 61.5,0.012199999999999989,0.5122,0.5
 2024-12-04 20:31:55.715240,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 14.5,0.012199999999999989,0.5122,0.5
 2024-12-04 21:28:29.549291,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,0.011600000000000055,0.5238,0.5122
-2024-12-04 20:31:55.670704,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 36.5,0.011600000000000055,0.5238,0.5122
 2024-12-04 21:28:29.194555,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 43.5,0.011600000000000055,0.5238,0.5122
+2024-12-04 20:31:55.670704,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 36.5,0.011600000000000055,0.5238,0.5122
 2024-12-04 21:28:29.694447,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,0.011099999999999999,0.7937,0.7826
+2024-12-05 02:04:55.478511,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,0.011099999999999999,0.1111,0.1
 2024-12-04 21:28:29.179548,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 44.5,0.01100000000000001,0.5348,0.5238
 2024-12-04 17:31:42.544241,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.010699999999999932,0.5455,0.5348
 2024-12-04 21:28:29.239593,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 24.5,0.010699999999999932,0.5455,0.5348
-2024-12-04 21:28:29.194555,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,-0.010099999999999998,0.5455,0.5556
+2024-12-05 02:04:55.473764,League One - England League One 2024/25 - Winner,Huddersfield Town,0.0102,0.0769,0.0667
 2024-12-04 20:31:55.670704,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 36.5,-0.010099999999999998,0.5455,0.5556
+2024-12-04 21:28:29.194555,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,-0.010099999999999998,0.5455,0.5556
+2024-12-05 02:04:55.473764,League One - England League One 2024/25 - Winner,Wrexham,-0.0102,0.0667,0.0769
 2024-12-04 21:28:29.179548,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 44.5,-0.010699999999999932,0.5348,0.5455
 2024-12-04 14:34:26.377584,Nedbank Golf Challenge - 2/3 Balls - 1st Round 3 Balls - M. Homa / T. Lawrence / N. Hojgaard - 1st Round 3 Balls,Nicolai Hojgaard,-0.010699999999999987,0.3226,0.3333
-2024-12-04 17:31:42.544241,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,-0.01100000000000001,0.5238,0.5348
 2024-12-04 21:28:29.239593,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 24.5,-0.01100000000000001,0.5238,0.5348
+2024-12-04 17:31:42.544241,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,-0.01100000000000001,0.5238,0.5348
 2024-12-04 14:34:26.411917,Victorian PGA Championship - Victorian PGA Championship - Winner,David Micheluzzi,-0.011700000000000016,0.2105,0.2222
 2024-12-04 21:28:29.549291,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Any Other Team,-0.0131,0.0345,0.0476
-2024-12-04 12:55:39.466276,Euro Cup - Euro Cup 2024/25 - Outright,Bourg,-0.014099999999999994,0.0526,0.0667
-2024-12-04 12:55:39.466276,Euro Cup - Euro Cup 2024/25 - Outright,Joventut Badalona,-0.014099999999999998,0.0294,0.0435
+2024-12-05 02:04:55.560689,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Cole Palmer (Chelsea),-0.013999999999999999,0.0769,0.0909
 2024-12-04 14:34:26.377584,Nedbank Golf Challenge - 2/3 Balls - 1st Round 3 Balls - M. Homa / T. Lawrence / N. Hojgaard - 1st Round 3 Balls,Max Homa,-0.01419999999999999,0.3704,0.3846
-2024-12-04 13:38:01.617997,Boxing Lines - Billy Adams vs Jonatas Rodrigo Gomes de Oliveira - To Win the Bout,Billy Adams,-0.01429999999999998,0.9709,0.9852
+2024-12-05 02:04:55.567241,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.01469999999999999,0.2353,0.25
+2024-12-05 02:04:55.564138,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,-0.01539999999999997,0.6,0.6154
 2024-12-04 15:31:18.598273,Nedbank Golf Challenge - 2/3 Balls - 1st Round 3 Balls - W. Zalatoris / T. McKibbin / E. Van Rooyen - 1st Round 3 Balls,Will Zalatoris,-0.015400000000000025,0.3846,0.4
 2024-12-04 18:39:45.288588,Boxing Lines - Sean Noakes vs Matthew Rennie - To Win the Bout,Sean Noakes,-0.017300000000000093,0.697,0.7143
-2024-12-04 15:31:18.463354,Scores - 1st Round Score - Tom Kim - 1st Round Score,Over 69.5,-0.02079999999999993,0.5348,0.5556
-2024-12-04 20:31:55.690376,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 30.5,-0.02079999999999993,0.5348,0.5556
-2024-12-04 21:28:29.259486,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 18.5,-0.02079999999999993,0.5348,0.5556
-2024-12-04 21:28:29.234591,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,-0.02079999999999993,0.5348,0.5556
 2024-12-04 20:31:55.705220,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 28.5,-0.02079999999999993,0.5348,0.5556
+2024-12-04 20:31:55.690376,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 30.5,-0.02079999999999993,0.5348,0.5556
+2024-12-04 21:28:29.234591,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,-0.02079999999999993,0.5348,0.5556
+2024-12-04 15:31:18.463354,Scores - 1st Round Score - Tom Kim - 1st Round Score,Over 69.5,-0.02079999999999993,0.5348,0.5556
 2024-12-04 22:33:25.765615,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,-0.02079999999999993,0.5348,0.5556
+2024-12-04 21:28:29.259486,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 18.5,-0.02079999999999993,0.5348,0.5556
 2024-12-04 21:28:29.229592,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 37.5,-0.02169999999999994,0.5238,0.5455
 2024-12-04 14:34:26.288704,Tournament Match-Ups - Tournament Match-Up - S. Im vs S. Theegala - Tournament Match-Up,Sahith Theegala,-0.021699999999999997,0.4545,0.4762
-2024-12-04 21:28:29.209602,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 29.5,-0.022600000000000064,0.5122,0.5348
 2024-12-04 14:34:26.300750,Tournament Match-Ups - Tournament Match-Up - T. Kim vs W. Clark - Tournament Match-Up,Wyndham Clark,-0.022600000000000064,0.5122,0.5348
-2024-12-04 15:31:18.429647,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,-0.023799999999999988,0.4762,0.5
+2024-12-04 21:28:29.209602,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 29.5,-0.022600000000000064,0.5122,0.5348
 2024-12-04 22:33:25.765615,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Blue Jays,-0.023799999999999988,0.1429,0.1667
+2024-12-04 15:31:18.429647,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,-0.023799999999999988,0.4762,0.5
+2024-12-05 02:04:56.375637,Boxing Lines - Marc Castro vs Agustin Ezequiel Quintana - To Win the Bout,Agustin Ezequiel Quintana,-0.023799999999999988,0.1429,0.1667
 2024-12-04 14:34:26.056091,Boxing Lines - Lawrence Okolie vs Hussein Muhamed - To Win the Bout,Hussein Muhamed,-0.024999999999999994,0.1,0.125
 2024-12-04 15:31:18.450739,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 68.5,-0.035999999999999976,0.4762,0.5122
-2024-12-04 20:31:55.685497,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 27.5,-0.043399999999999994,0.5122,0.5556
 2024-12-04 21:28:29.214597,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,-0.043399999999999994,0.5122,0.5556
+2024-12-04 20:31:55.685497,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 27.5,-0.043399999999999994,0.5122,0.5556
 2024-12-04 15:31:18.417036,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Over 69.5,-0.045499999999999985,0.5,0.5455
 2024-12-04 21:28:29.184514,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 45.5,-0.045499999999999985,0.5,0.5455
 2024-12-04 14:34:26.322341,Positions - Finishing Position - Sam Burns - Finishing Position,8th or better,-0.045499999999999985,0.5,0.5455
 2024-12-04 22:33:25.765615,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,-0.047599999999999976,0.2857,0.3333
 2024-12-04 15:31:18.408687,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 69.5,-0.05059999999999998,0.5238,0.5744
+2024-12-05 02:04:55.564138,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,-0.055900000000000005,0.3077,0.3636
+2024-12-05 02:04:55.560689,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),-0.05590000000000006,0.6364,0.6923
+2024-12-05 02:04:55.567241,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,-0.07930000000000001,0.1429,0.2222
 2024-12-04 15:31:18.467524,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Under 69.5,-0.08900000000000002,0.4762,0.5652
+2024-12-05 02:04:55.557298,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,-0.10149999999999992,0.5652,0.6667
+2024-12-05 02:04:55.323650,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.11070000000000002,0.4545,0.5652
 2024-12-04 20:31:55.700210,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 52.5,-0.12529999999999997,0.5238,0.6491
 2024-12-04 21:28:29.249549,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 39.5,-0.19810000000000005,0.5455,0.7436
