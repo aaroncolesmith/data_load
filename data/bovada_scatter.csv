@@ -17,9 +17,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-05 02:04:55.557298,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Chelsea,0.024299999999999995,0.0769,0.0526
 2024-12-05 02:04:55.323650,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.02310000000000001,0.1,0.0769
 2024-12-04 20:31:55.690376,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 30.5,0.022600000000000064,0.5348,0.5122
-2024-12-04 21:28:29.259486,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 18.5,0.022600000000000064,0.5348,0.5122
-2024-12-04 20:31:55.705220,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 28.5,0.022600000000000064,0.5348,0.5122
 2024-12-04 21:28:29.234591,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 50.5,0.022600000000000064,0.5348,0.5122
+2024-12-04 20:31:55.705220,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 28.5,0.022600000000000064,0.5348,0.5122
+2024-12-04 21:28:29.259486,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 18.5,0.022600000000000064,0.5348,0.5122
 2024-12-05 02:04:55.557298,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,0.022199999999999998,0.1333,0.1111
 2024-12-05 03:10:46.297437,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.021699999999999997,0.4762,0.4545
 2024-12-04 21:28:29.229592,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 37.5,0.02169999999999994,0.5455,0.5238
@@ -32,23 +32,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-05 02:04:55.567241,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.014700000000000046,0.7647,0.75
 2024-12-05 03:10:46.297437,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,0.012899999999999912,0.8462,0.8333
 2024-12-04 18:39:45.288588,Boxing Lines - Sean Noakes vs Matthew Rennie - To Win the Bout,Matthew Rennie,0.012699999999999989,0.3636,0.3509
-2024-12-04 20:31:55.675582,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 61.5,0.012199999999999989,0.5122,0.5
 2024-12-04 20:31:55.715240,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 14.5,0.012199999999999989,0.5122,0.5
-2024-12-04 21:28:29.549291,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,0.011600000000000055,0.5238,0.5122
+2024-12-04 20:31:55.675582,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 61.5,0.012199999999999989,0.5122,0.5
 2024-12-04 20:31:55.670704,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 36.5,0.011600000000000055,0.5238,0.5122
 2024-12-04 21:28:29.194555,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 43.5,0.011600000000000055,0.5238,0.5122
-2024-12-04 21:28:29.694447,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,0.011099999999999999,0.7937,0.7826
+2024-12-04 21:28:29.549291,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,0.011600000000000055,0.5238,0.5122
 2024-12-05 02:04:55.478511,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,0.011099999999999999,0.1111,0.1
+2024-12-04 21:28:29.694447,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,0.011099999999999999,0.7937,0.7826
 2024-12-04 21:28:29.179548,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 44.5,0.01100000000000001,0.5348,0.5238
 2024-12-04 21:28:29.239593,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 24.5,0.010699999999999932,0.5455,0.5348
-2024-12-04 17:31:42.544241,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.010699999999999932,0.5455,0.5348
 2024-12-05 02:04:55.473764,League One - England League One 2024/25 - Winner,Huddersfield Town,0.0102,0.0769,0.0667
 2024-12-04 21:28:29.194555,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,-0.010099999999999998,0.5455,0.5556
 2024-12-04 20:31:55.670704,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 36.5,-0.010099999999999998,0.5455,0.5556
-2024-12-05 03:10:46.297437,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.0102,0.0667,0.0769
 2024-12-05 02:04:55.473764,League One - England League One 2024/25 - Winner,Wrexham,-0.0102,0.0667,0.0769
+2024-12-05 03:10:46.297437,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.0102,0.0667,0.0769
 2024-12-04 21:28:29.179548,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 44.5,-0.010699999999999932,0.5348,0.5455
-2024-12-04 17:31:42.544241,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,-0.01100000000000001,0.5238,0.5348
 2024-12-04 21:28:29.239593,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 24.5,-0.01100000000000001,0.5238,0.5348
 2024-12-05 03:10:47.341980,Boxing Lines - Sam Noakes vs Ryan Walsh - To Win the Bout,Sam Noakes,-0.0131,0.9524,0.9655
 2024-12-04 21:28:29.549291,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Any Other Team,-0.0131,0.0345,0.0476
@@ -56,19 +54,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-05 02:04:55.567241,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.01469999999999999,0.2353,0.25
 2024-12-05 02:04:55.564138,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,-0.01539999999999997,0.6,0.6154
 2024-12-04 18:39:45.288588,Boxing Lines - Sean Noakes vs Matthew Rennie - To Win the Bout,Sean Noakes,-0.017300000000000093,0.697,0.7143
-2024-12-04 22:33:25.765615,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,-0.02079999999999993,0.5348,0.5556
-2024-12-04 21:28:29.234591,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,-0.02079999999999993,0.5348,0.5556
 2024-12-04 21:28:29.259486,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 18.5,-0.02079999999999993,0.5348,0.5556
-2024-12-04 20:31:55.690376,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 30.5,-0.02079999999999993,0.5348,0.5556
+2024-12-04 21:28:29.234591,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 50.5,-0.02079999999999993,0.5348,0.5556
 2024-12-04 20:31:55.705220,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 28.5,-0.02079999999999993,0.5348,0.5556
+2024-12-04 20:31:55.690376,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 30.5,-0.02079999999999993,0.5348,0.5556
+2024-12-04 22:33:25.765615,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,-0.02079999999999993,0.5348,0.5556
 2024-12-04 21:28:29.229592,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 37.5,-0.02169999999999994,0.5238,0.5455
 2024-12-05 03:10:46.297437,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,-0.021999999999999964,0.2857,0.3077
 2024-12-04 21:28:29.209602,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 29.5,-0.022600000000000064,0.5122,0.5348
-2024-12-04 22:33:25.765615,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Blue Jays,-0.023799999999999988,0.1429,0.1667
 2024-12-05 02:04:56.375637,Boxing Lines - Marc Castro vs Agustin Ezequiel Quintana - To Win the Bout,Agustin Ezequiel Quintana,-0.023799999999999988,0.1429,0.1667
+2024-12-04 22:33:25.765615,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Blue Jays,-0.023799999999999988,0.1429,0.1667
 2024-12-05 03:10:46.297437,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.02779999999999999,0.2222,0.25
-2024-12-04 21:28:29.214597,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,-0.043399999999999994,0.5122,0.5556
 2024-12-04 20:31:55.685497,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 27.5,-0.043399999999999994,0.5122,0.5556
+2024-12-04 21:28:29.214597,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,-0.043399999999999994,0.5122,0.5556
 2024-12-04 21:28:29.184514,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 45.5,-0.045499999999999985,0.5,0.5455
 2024-12-04 22:33:25.765615,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,-0.047599999999999976,0.2857,0.3333
 2024-12-05 02:04:55.564138,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,-0.055900000000000005,0.3077,0.3636
