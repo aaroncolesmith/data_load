@@ -800,7 +800,7 @@ def refresh_fbref_data(df):
   df['start_time_pt'] = pd.to_datetime(df['start_time']).dt.tz_convert('US/Pacific')
   date_list=df.sort_values('start_time_pt',ascending=True)['start_time_pt'].dt.date.astype(str).unique().tolist()
   ## last 5 elements from date_list
-  date_list_recent = date_list[-70:]
+  date_list_recent = date_list[-10:]
 
   df_all = pd.read_parquet('./data/fb_ref_data.parquet', engine='pyarrow')
 
