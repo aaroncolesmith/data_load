@@ -11,8 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 10:36:14.236371,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,0.052000000000000005,0.1429,0.0909
 2024-12-06 10:36:14.239419,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,0.05059999999999998,0.5744,0.5238
 2024-12-06 10:36:14.977154,NFL Weekly Specials - NFL Week 14 - RedZone Specials - Sunday December 8 - 1pm EST Games,Each Of The 14 Teams 1+ Successful Field Goal,0.04909999999999999,0.1667,0.1176
-2024-12-06 10:36:14.242437,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,0.045499999999999985,0.5,0.4545
 2024-12-06 10:36:14.239419,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.045499999999999985,0.5455,0.5
+2024-12-06 10:36:14.242437,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,0.045499999999999985,0.5,0.4545
 2024-12-06 15:31:21.803376,Boxing Lines - Antonio Napolitano vs Brandon Brewer - To Win the Bout,Antonio Napolitano,0.04469999999999996,0.6364,0.5917
 2024-12-06 10:36:14.220321,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Fulham,0.04329999999999999,0.0909,0.0476
 2024-12-06 10:36:14.180532,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,FC Porto,0.03570000000000001,0.2857,0.25
@@ -24,9 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 10:36:14.242437,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Everton,0.027800000000000047,0.7778,0.75
 2024-12-06 10:36:15.316638,Hero World Challenge - Requests - 2nd Round Match Up - S. Theegala v L. Aberg - Requests,Sahith Theegala,0.027700000000000002,0.4444,0.4167
 2024-12-06 15:31:22.051592,Scores - 2nd Round Score - Sahith Theegala - 2nd Round Score,Under 69.5,0.026499999999999968,0.5917,0.5652
-2024-12-06 08:35:43.994072,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.025599999999999956,0.6,0.5744
-2024-12-06 15:31:22.103569,Round Match-Ups - 2nd Round Match-Up - J. Thomas vs L. Aberg - 2nd Round Match-Up,Justin Thomas,0.023800000000000043,0.5238,0.5
 2024-12-06 15:31:22.042778,Scores - 2nd Round Score - Robert MacIntyre - 2nd Round Score,Under 69.5,0.023800000000000043,0.5238,0.5
+2024-12-06 15:31:22.103569,Round Match-Ups - 2nd Round Match-Up - J. Thomas vs L. Aberg - 2nd Round Match-Up,Justin Thomas,0.023800000000000043,0.5238,0.5
 2024-12-06 10:36:14.122095,Coppa Italia - Coppa Italia 2024/25 - Winner,AC Milan,0.023799999999999988,0.1667,0.1429
 2024-12-06 14:32:57.135683,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - N. Dunlap vs S. Burns - 2nd Round 2 Balls,Sam Burns,0.022600000000000064,0.6226,0.6
 2024-12-06 10:36:14.122095,Coppa Italia - Coppa Italia 2024/25 - Winner,Inter Milan,0.021999999999999964,0.3077,0.2857
@@ -42,51 +41,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 10:36:14.180532,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,0.016699999999999993,0.2667,0.25
 2024-12-06 19:23:55.401182,Boxing Lines - Levi Giles vs Qais Ashfaq - To Win the Bout,Levi Giles,0.016100000000000003,0.6078,0.5917
 2024-12-06 10:36:14.236371,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester United,0.015400000000000025,0.4,0.3846
-2024-12-06 20:31:41.058956,Boxing Lines - Hironori Mishiro vs Hinata Maruta - To Win the Bout,Hironori Mishiro,0.014800000000000035,0.6226,0.6078
 2024-12-06 20:31:41.092936,Boxing Lines - Levi Giles vs Qais Ashfaq - To Win the Bout,Levi Giles,0.014800000000000035,0.6226,0.6078
+2024-12-06 20:31:41.058956,Boxing Lines - Hironori Mishiro vs Hinata Maruta - To Win the Bout,Hironori Mishiro,0.014800000000000035,0.6226,0.6078
 2024-12-06 20:31:41.116854,Boxing Lines - Constantin Ursu vs Lewis Booth - To Win the Bout,Constantin Ursu,0.014399999999999968,0.8039,0.7895
 2024-12-06 11:25:38.340237,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2025,0.013999999999999999,0.0909,0.0769
-2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Jacobs (GB),0.0137,0.0294,0.0157
+2024-12-06 20:31:40.897643,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,0.013899999999999996,0.125,0.1111
 2024-12-06 17:31:24.047775,BKFC 69: Richardson vs. Larrimore - Nathan Rivera vs Justin Street - To Win the Bout,Nathan Rivera,0.012899999999999912,0.8462,0.8333
 2024-12-06 12:54:38.321081,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Memphis Grizzlies,0.012700000000000003,0.0323,0.0196
 2024-12-06 20:31:40.885437,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,No,0.012500000000000011,0.2564,0.2439
+2024-12-06 21:28:07.214137,Boxing Lines - Ryan Rozicki vs Yamil Peralta - To Win the Bout,Yamil Peralta,0.012199999999999989,0.5122,0.5
+2024-12-06 21:28:07.171109,Boxing Lines - Kubrat Pulev vs Mahmoud Charr - To Win the Bout,Mahmoud Charr,0.011699999999999988,0.2857,0.274
 2024-12-06 16:35:11.619764,Boxing Lines - Constantin Ursu vs Lewis Booth - To Win the Bout,Constantin Ursu,0.011699999999999933,0.7895,0.7778
 2024-12-06 12:54:39.070736,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Leonardo Mosquea,0.011099999999999999,0.2778,0.2667
+2024-12-06 21:28:07.167135,Boxing Lines - Dylan Moran vs Tyrone McKenna - To Win the Bout,Dylan Moran,0.01100000000000001,0.5348,0.5238
 2024-12-06 10:36:14.239419,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,0.01090000000000002,0.8571,0.8462
 2024-12-06 17:31:23.675926,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jonathan Gannon,0.010700000000000001,0.0385,0.0278
 2024-12-06 20:31:40.893192,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),0.0102,0.0769,0.0667
 2024-12-06 17:31:23.675926,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Quinn,0.0102,0.0769,0.0667
 2024-12-06 20:31:41.196127,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Oscar Valdez,0.010099999999999998,0.3226,0.3125
-2024-12-06 20:31:41.058956,Boxing Lines - Hironori Mishiro vs Hinata Maruta - To Win the Bout,Hinata Maruta,-0.010099999999999998,0.4444,0.4545
 2024-12-06 14:32:57.139717,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - S. Theegala vs R. MacIntyre - 2nd Round 2 Balls,Sahith Theegala,-0.010099999999999998,0.5455,0.5556
+2024-12-06 20:31:41.058956,Boxing Lines - Hironori Mishiro vs Hinata Maruta - To Win the Bout,Hinata Maruta,-0.010099999999999998,0.4444,0.4545
 2024-12-06 20:31:41.092936,Boxing Lines - Levi Giles vs Qais Ashfaq - To Win the Bout,Qais Ashfaq,-0.010099999999999998,0.4444,0.4545
 2024-12-06 12:54:39.070736,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,-0.010500000000000065,0.7895,0.8
-2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),-0.010700000000000001,0.0278,0.0385
-2024-12-06 20:31:41.180385,Boxing Lines - Lindolfo Delgado vs Jackson Marinez - To Win the Bout,Jackson Marinez,-0.010899999999999993,0.1429,0.1538
+2024-12-06 21:28:07.167135,Boxing Lines - Dylan Moran vs Tyrone McKenna - To Win the Bout,Tyrone McKenna,-0.010699999999999932,0.5348,0.5455
 2024-12-06 16:35:11.767296,BKFC 69: Richardson vs. Larrimore - Cole Ferrell vs Justin Watson  - To Win the Bout,Justin Watson,-0.010899999999999993,0.1429,0.1538
+2024-12-06 20:31:41.180385,Boxing Lines - Lindolfo Delgado vs Jackson Marinez - To Win the Bout,Jackson Marinez,-0.010899999999999993,0.1429,0.1538
 2024-12-06 14:32:57.123735,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - B. Harman vs A. Rai - 2nd Round 2 Balls,Aaron Rai,-0.01100000000000001,0.5238,0.5348
 2024-12-06 14:32:57.123735,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - B. Harman vs A. Rai - 2nd Round 2 Balls,Brian Harman,-0.01100000000000001,0.5238,0.5348
-2024-12-06 17:31:23.675926,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,-0.011099999999999999,0.1,0.1111
-2024-12-06 08:35:43.997588,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),-0.011099999999999999,0.1,0.1111
 2024-12-06 12:54:39.107210,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Arnold Allen,-0.011099999999999999,0.1,0.1111
-2024-12-06 18:38:24.083768,Boxing Lines - Levi Giles vs Qais Ashfaq - To Win the Bout,Qais Ashfaq,-0.0116,0.4762,0.4878
+2024-12-06 17:31:23.675926,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,-0.011099999999999999,0.1,0.1111
 2024-12-06 14:32:57.131700,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - K. Bradley vs R. Henley - 2nd Round 2 Balls,Keegan Bradley,-0.0116,0.4762,0.4878
+2024-12-06 18:38:24.083768,Boxing Lines - Levi Giles vs Qais Ashfaq - To Win the Bout,Qais Ashfaq,-0.0116,0.4762,0.4878
 2024-12-06 14:32:57.127717,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - S. Straka vs S. Im - 2nd Round 2 Balls,Sepp Straka,-0.0116,0.4762,0.4878
 2024-12-06 14:32:57.139717,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - S. Theegala vs R. MacIntyre - 2nd Round 2 Balls,Robert MacIntyre,-0.012199999999999989,0.5,0.5122
 2024-12-06 17:31:23.856528,Boxing Lines - Levi Giles vs Qais Ashfaq - To Win the Bout,Qais Ashfaq,-0.012199999999999989,0.4878,0.5
 2024-12-06 15:31:21.928185,BKFC 69: Richardson vs. Larrimore - Louis Brewington vs Daniel Cooper - To Win the Bout,Daniel Cooper,-0.012700000000000045,0.6364,0.6491
-2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),David Montgomery (DET),-0.013,0.0066,0.0196
+2024-12-06 21:28:07.225764,Boxing Lines - Yankiel Rivera vs Angel Gonzalez Jr - To Win the Bout,Angel Gonzalez Jr,-0.012899999999999995,0.1538,0.1667
 2024-12-06 17:31:24.047775,BKFC 69: Richardson vs. Larrimore - Nathan Rivera vs Justin Street - To Win the Bout,Justin Street,-0.0131,0.2222,0.2353
 2024-12-06 14:32:56.626156,NFL Specials - Coaches Specials - Zac Taylor Fired,Yes,-0.013299999999999979,0.6296,0.6429
 2024-12-06 10:36:14.223419,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Chelsea,-0.013999999999999999,0.0769,0.0909
 2024-12-06 20:31:41.116854,Boxing Lines - Constantin Ursu vs Lewis Booth - To Win the Bout,Lewis Booth,-0.014600000000000002,0.2632,0.2778
 2024-12-06 20:31:40.885437,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,Yes,-0.015100000000000002,0.8095,0.8246
+2024-12-06 21:28:07.171109,Boxing Lines - Kubrat Pulev vs Mahmoud Charr - To Win the Bout,Kubrat Pulev,-0.015899999999999914,0.7778,0.7937
 2024-12-06 14:32:57.151779,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - C. Young vs J. Thomas - 2nd Round 2 Balls,Justin Thomas,-0.016100000000000003,0.5917,0.6078
-2024-12-06 08:35:43.997588,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),-0.016700000000000048,0.7333,0.75
 2024-12-06 14:32:57.143686,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - P. Cantlay vs S. Scheffler - 2nd Round 2 Balls,Patrick Cantlay,-0.017299999999999982,0.4082,0.4255
 2024-12-06 14:32:57.119739,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - W. Clark vs M. Pavon - 2nd Round 2 Balls,Matthieu Pavon,-0.018100000000000005,0.4167,0.4348
-2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Derrick Henry (BAL),-0.01820000000000002,0.1818,0.2
-2024-12-06 08:35:43.997588,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),-0.018799999999999983,0.3448,0.3636
 2024-12-06 15:31:22.042778,Scores - 2nd Round Score - Robert MacIntyre - 2nd Round Score,Over 69.5,-0.01970000000000005,0.5455,0.5652
 2024-12-06 17:31:23.675926,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,-0.02020000000000001,0.0909,0.1111
 2024-12-06 14:32:57.147663,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - A. Bhatia vs L. Aberg - 2nd Round 2 Balls,Akshay Bhatia,-0.020699999999999996,0.4444,0.4651
@@ -98,7 +97,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 15:31:22.051592,Scores - 2nd Round Score - Sahith Theegala - 2nd Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
 2024-12-06 15:31:21.915746,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Derrick Findley,-0.023800000000000043,0.5,0.5238
 2024-12-06 15:31:22.087084,Round Match-Ups - 2nd Round Match-Up - W. Clark vs B. Harman - 2nd Round Match-Up,Wyndham Clark,-0.024399999999999977,0.4878,0.5122
-2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),-0.0245,0.0588,0.0833
 2024-12-06 10:36:14.236371,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Brighton & Hove Albion,-0.025499999999999967,0.4,0.4255
 2024-12-06 10:36:14.220321,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Brighton & Hove Albion,-0.02560000000000001,0.3077,0.3333
 2024-12-06 15:31:21.984076,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - C. Young vs J. Thomas - 2nd Round 2 Balls,Justin Thomas,-0.026499999999999968,0.5652,0.5917
@@ -106,7 +104,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 10:36:15.316638,Hero World Challenge - Requests - 2nd Round Match Up - S. Theegala v L. Aberg - Requests,Ludvig Aberg,-0.02960000000000007,0.6,0.6296
 2024-12-06 10:36:14.242437,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,-0.030299999999999994,0.6364,0.6667
 2024-12-06 10:36:14.239419,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Nottingham Forest,-0.031799999999999995,0.4444,0.4762
-2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),-0.03180000000000005,0.8571,0.8889
 2024-12-06 20:31:41.172496,Boxing Lines - Ryan Rozicki vs Yamil Peralta - To Win the Bout,Ryan Rozicki,-0.03479999999999994,0.5652,0.6
 2024-12-06 14:32:57.135683,Hero World Challenge - 2/3 Balls - 2nd Round 2 Balls - N. Dunlap vs S. Burns - 2nd Round 2 Balls,Nick Dunlap,-0.039600000000000024,0.4255,0.4651
 2024-12-06 10:36:14.220321,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.04099999999999998,0.2667,0.3077
