@@ -16,7 +16,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 07:29:58.716262,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Franz Wagner (ORL),0.05449999999999999,0.4545,0.4
 2024-12-06 06:39:21.421291,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Maryland,0.052399999999999995,0.0909,0.0385
 2024-12-06 06:39:21.325859,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.049199999999999994,0.2597,0.2105
-2024-12-05 20:32:02.422289,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Joe Elmore,0.047099999999999975,0.5122,0.4651
 2024-12-06 06:39:21.421291,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,0.042800000000000005,0.1053,0.0625
 2024-12-05 22:33:23.199293,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - SMU To Make the 2024-2025 College Football Playoff,No,0.042299999999999977,0.2597,0.2174
 2024-12-06 07:29:58.531580,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Luka Doncic (DAL),0.0407,0.1176,0.0769
@@ -36,6 +35,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 07:29:58.531580,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Damian Lillard (MIL),0.026499999999999996,0.0588,0.0323
 2024-12-06 03:10:01.546077,BKFC 69: Richardson vs. Larrimore - Louis Brewington vs Daniel Cooper - To Win the Bout,Daniel Cooper,0.026499999999999968,0.6491,0.6226
 2024-12-06 02:03:39.753871,Round Match-Ups - 2nd Round Match-Up - A. Rai vs S. Im - 2nd Round Match-Up,Sungjae Im,0.025599999999999956,0.6,0.5744
+2024-12-06 08:35:43.994072,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.025599999999999956,0.6,0.5744
 2024-12-06 06:39:21.449409,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Wofford,0.025300000000000003,0.1429,0.1176
 2024-12-06 02:03:38.822848,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.024799999999999933,0.7895,0.7647
 2024-12-06 02:03:38.819705,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.024500000000000022,0.4167,0.3922
@@ -45,8 +45,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 02:03:39.670570,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Joe Elmore,0.022600000000000064,0.5348,0.5122
 2024-12-06 06:39:21.421291,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan,0.022199999999999998,0.2222,0.2
 2024-12-06 07:29:58.719861,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),0.02100000000000002,0.3846,0.3636
-2024-12-05 20:32:02.418347,BKFC 69: Richardson vs. Larrimore - Cole Ferrell vs Justin Watson  - To Win the Bout,Cole Ferrell,0.020199999999999996,0.9091,0.8889
-2024-12-05 20:32:02.438118,BKFC 69: Richardson vs. Larrimore - Nathan Maness vs Nick Burgos - To Win the Bout,Nathan Maness,0.020199999999999996,0.9091,0.8889
 2024-12-06 07:29:58.712748,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Jalen Suggs (ORL),0.019800000000000005,0.0476,0.0278
 2024-12-06 06:39:21.292976,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Orlando Magic,0.01949999999999999,0.0909,0.0714
 2024-12-06 03:10:00.554804,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
@@ -64,26 +62,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 07:29:58.702126,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.014600000000000057,0.7368,0.7222
 2024-12-06 02:03:38.658194,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,0.014099999999999998,0.0385,0.0244
 2024-12-06 02:03:39.678629,BKFC 69: Richardson vs. Larrimore - Keith Richardson vs Michael Larrimore - To Win the Bout,Michael Larrimore,0.013800000000000034,0.3774,0.3636
-2024-12-05 20:32:02.442051,BKFC 69: Richardson vs. Larrimore - Nathan Rivera vs Justin Street - To Win the Bout,Nathan Rivera,0.0129999999999999,0.8261,0.8131
+2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Jacobs (GB),0.0137,0.0294,0.0157
 2024-12-05 21:28:16.255189,Boxing Lines - Brad Pauls vs Denzel Bentley - To Win the Bout,Denzel Bentley,0.012700000000000045,0.6491,0.6364
 2024-12-05 23:29:13.013656,BKFC 69: Richardson vs. Larrimore - Keith Richardson vs Michael Larrimore - To Win the Bout,Michael Larrimore,0.012699999999999989,0.3636,0.3509
 2024-12-05 23:29:12.241969,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,0.012600000000000007,0.0714,0.0588
 2024-12-06 07:29:58.712748,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),0.011499999999999955,0.6667,0.6552
 2024-12-05 23:29:12.929504,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.01100000000000001,0.5348,0.5238
-2024-12-05 20:32:02.426288,BKFC 69: Richardson vs. Larrimore - Joseph Creer vs David Simpson - To Win the Bout,Joseph Creer,0.010700000000000043,0.6774,0.6667
 2024-12-06 06:39:21.297710,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.010699999999999987,0.3333,0.3226
 2024-12-06 07:29:59.257070,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Joe Elmore,0.010699999999999932,0.5455,0.5348
 2024-12-06 06:39:21.468318,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),0.010399999999999993,0.2326,0.2222
 2024-12-06 03:43:23.904291,Boxing Lines - Hironori Mishiro vs Hinata Maruta - To Win the Bout,Hinata Maruta,0.010099999999999998,0.4545,0.4444
 2024-12-06 05:32:40.820692,Super Bowl LIX - Super Bowl 59 - Winner,Green Bay Packers,-0.010599999999999998,0.05,0.0606
 2024-12-05 23:29:12.929504,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,-0.010699999999999932,0.5348,0.5455
-2024-12-06 07:29:58.705779,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Tyrese Haliburton (IND),-0.010700000000000001,0.0278,0.0385
 2024-12-06 07:29:58.979448,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Matt LaFleur,-0.010700000000000001,0.0278,0.0385
+2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),-0.010700000000000001,0.0278,0.0385
+2024-12-06 07:29:58.705779,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Tyrese Haliburton (IND),-0.010700000000000001,0.0278,0.0385
 2024-12-05 23:29:12.241969,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.010800000000000004,0.2273,0.2381
 2024-12-06 06:39:21.302377,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.010899999999999993,0.1429,0.1538
 2024-12-06 07:29:59.257070,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Derrick Findley,-0.01100000000000001,0.5238,0.5348
 2024-12-06 07:29:58.983108,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kirk Cousins (ATL),-0.011099999999999999,0.1,0.1111
 2024-12-06 06:39:21.421291,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,-0.011099999999999999,0.1,0.1111
+2024-12-06 08:35:43.997588,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),-0.011099999999999999,0.1,0.1111
 2024-12-06 07:29:58.716262,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Payton Pritchard (BOS),-0.011200000000000002,0.0132,0.0244
 2024-12-06 07:29:58.531580,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Kyrie Irving (DAL),-0.011399999999999997,0.0164,0.0278
 2024-12-06 06:39:21.307066,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.011900000000000008,0.0833,0.0952
@@ -92,6 +91,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 07:29:58.709274,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tyronn Lue,-0.012499999999999997,0.05,0.0625
 2024-12-05 23:29:12.241969,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,-0.012600000000000007,0.0588,0.0714
 2024-12-06 06:39:21.321188,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.012899999999999912,0.8333,0.8462
+2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),David Montgomery (DET),-0.013,0.0066,0.0196
 2024-12-06 06:39:21.408211,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,-0.013800000000000034,0.3636,0.3774
 2024-12-06 06:39:21.449409,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),NC Greensboro,-0.013899999999999996,0.1111,0.125
 2024-12-06 05:32:40.820692,Super Bowl LIX - Super Bowl 59 - Winner,Kansas City Chiefs,-0.013899999999999996,0.16,0.1739
@@ -101,24 +101,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 07:29:58.712748,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),-0.014399999999999996,0.0625,0.0769
 2024-12-06 07:29:58.975779,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),-0.01469999999999999,0.2353,0.25
 2024-12-06 03:43:23.904291,Boxing Lines - Hironori Mishiro vs Hinata Maruta - To Win the Bout,Hironori Mishiro,-0.014800000000000035,0.6078,0.6226
-2024-12-06 07:29:58.979448,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,-0.015100000000000002,0.1667,0.1818
 2024-12-06 07:29:58.979448,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,-0.015100000000000002,0.1667,0.1818
+2024-12-06 07:29:58.979448,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,-0.015100000000000002,0.1667,0.1818
 2024-12-06 07:29:58.712748,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Anthony Davis (LAL),-0.015300000000000001,0.0323,0.0476
-2024-12-05 20:32:02.442051,BKFC 69: Richardson vs. Larrimore - Nathan Rivera vs Justin Street - To Win the Bout,Justin Street,-0.015400000000000025,0.241,0.2564
-2024-12-05 20:32:02.426288,BKFC 69: Richardson vs. Larrimore - Joseph Creer vs David Simpson - To Win the Bout,David Simpson,-0.015400000000000025,0.3846,0.4
+2024-12-06 08:35:43.997588,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),-0.016700000000000048,0.7333,0.75
 2024-12-06 07:29:58.975779,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes (KC),-0.017099999999999997,0.0385,0.0556
 2024-12-06 05:32:40.830490,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,-0.017299999999999982,0.2857,0.303
 2024-12-05 23:29:13.013656,BKFC 69: Richardson vs. Larrimore - Keith Richardson vs Michael Larrimore - To Win the Bout,Keith Richardson,-0.017300000000000093,0.697,0.7143
-2024-12-06 07:29:58.705779,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,De'Aaron Fox (SAC),-0.01820000000000002,0.1818,0.2
+2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Derrick Henry (BAL),-0.01820000000000002,0.1818,0.2
 2024-12-06 07:29:58.716262,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),-0.01820000000000002,0.1818,0.2
+2024-12-06 07:29:58.705779,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,De'Aaron Fox (SAC),-0.01820000000000002,0.1818,0.2
+2024-12-06 08:35:43.997588,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),-0.018799999999999983,0.3448,0.3636
 2024-12-05 22:33:23.202629,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Oregon,-0.01880000000000004,0.6364,0.6552
 2024-12-06 07:29:58.716262,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jakob Poeltl (TOR),-0.0189,0.0196,0.0385
 2024-12-06 02:03:38.658194,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.019000000000000017,0.2667,0.2857
 2024-12-06 07:29:58.712748,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.019699999999999995,0.1053,0.125
 2024-12-05 23:29:13.104828,Round Match-Ups - 2nd Round Match-Up - S. Scheffler vs P. Cantlay - 2nd Round Match-Up,Patrick Cantlay,-0.019699999999999995,0.4348,0.4545
 2024-12-06 07:29:58.716262,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Christian Braun (DEN),-0.019800000000000005,0.0278,0.0476
-2024-12-05 20:32:02.418347,BKFC 69: Richardson vs. Larrimore - Cole Ferrell vs Justin Watson  - To Win the Bout,Justin Watson,-0.020100000000000007,0.1538,0.1739
-2024-12-05 20:32:02.438118,BKFC 69: Richardson vs. Larrimore - Nathan Maness vs Nick Burgos - To Win the Bout,Nick Burgos,-0.020100000000000007,0.1538,0.1739
 2024-12-06 02:03:39.753871,Round Match-Ups - 2nd Round Match-Up - A. Rai vs S. Im - 2nd Round Match-Up,Aaron Rai,-0.020699999999999996,0.4444,0.4651
 2024-12-06 02:03:39.670570,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Derrick Findley,-0.02079999999999993,0.5348,0.5556
 2024-12-06 06:39:21.325859,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.021699999999999997,0.4545,0.4762
@@ -128,6 +127,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-05 21:28:15.983211,NFL Specials - Coaches Specials - Zac Taylor Fired,Yes,-0.023799999999999932,0.6429,0.6667
 2024-12-06 07:29:58.531580,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jalen Brunson (NYK),-0.023799999999999988,0.1429,0.1667
 2024-12-06 07:29:58.979448,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Quinn,-0.0242,0.0667,0.0909
+2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),-0.0245,0.0588,0.0833
 2024-12-06 07:29:58.709274,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Taylor Jenkins,-0.024999999999999994,0.0417,0.0667
 2024-12-06 07:29:58.702126,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Bennedict Mathurin (IND),-0.0253,0.0132,0.0385
 2024-12-06 05:32:40.820692,Super Bowl LIX - Super Bowl 59 - Winner,Buffalo Bills,-0.02560000000000001,0.1667,0.1923
@@ -137,13 +137,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 03:10:01.546077,BKFC 69: Richardson vs. Larrimore - Louis Brewington vs Daniel Cooper - To Win the Bout,Louis Brewington,-0.027700000000000002,0.4167,0.4444
 2024-12-06 07:29:58.716262,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,LaMelo Ball (CHA),-0.027800000000000005,0.0833,0.1111
 2024-12-06 05:32:40.830490,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Tampa Bay Buccaneers,-0.027999999999999997,0.0345,0.0625
-2024-12-06 07:29:58.983108,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Anthony Richardson (IND),-0.028399999999999995,0.0625,0.0909
 2024-12-06 07:29:58.983108,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),-0.028399999999999995,0.0625,0.0909
+2024-12-06 07:29:58.983108,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Anthony Richardson (IND),-0.028399999999999995,0.0625,0.0909
 2024-12-06 06:39:21.316516,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.028799999999999992,0.125,0.1538
 2024-12-05 22:33:23.206014,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,No,-0.030100000000000016,0.2439,0.274
 2024-12-06 05:32:40.830490,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,-0.030299999999999994,0.4348,0.4651
 2024-12-06 06:39:21.311864,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,-0.031,0.1429,0.1739
 2024-12-06 07:29:58.979448,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,-0.031799999999999995,0.1111,0.1429
+2024-12-06 08:35:43.989961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),-0.03180000000000005,0.8571,0.8889
 2024-12-06 07:29:58.531580,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Fred VanVleet (HOU),-0.0344,0.0244,0.0588
 2024-12-06 02:03:39.765788,Round Match-Ups - 2nd Round Match-Up - J. Thomas vs L. Aberg - 2nd Round Match-Up,Justin Thomas,-0.03480000000000005,0.5,0.5348
 2024-12-06 02:03:38.822848,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.0353,0.2,0.2353
@@ -153,7 +154,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 06:39:21.421291,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Ohio State,-0.037500000000000006,0.0625,0.1
 2024-12-06 06:39:21.421291,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.0417,0.0833,0.125
 2024-12-05 22:33:23.199293,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - SMU To Make the 2024-2025 College Football Playoff,Yes,-0.04239999999999999,0.8095,0.8519
-2024-12-05 20:32:02.422289,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Derrick Findley,-0.044399999999999995,0.5556,0.6
 2024-12-06 06:39:21.681254,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,-0.04909999999999999,0.1176,0.1667
 2024-12-05 23:29:12.290414,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),-0.04930000000000001,0.2632,0.3125
 2024-12-06 06:39:21.472587,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Paige Bueckers (UConn),-0.05020000000000002,0.3846,0.4348
