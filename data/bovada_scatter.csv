@@ -1,4 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-12-06 03:43:24.141805,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Under 69.5,0.18230000000000002,0.6078,0.4255
+2024-12-06 03:43:24.167549,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 68.5,0.12080000000000002,0.5652,0.4444
+2024-12-06 03:43:24.189014,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Under 67.5,0.11070000000000002,0.5652,0.4545
+2024-12-06 03:43:24.184610,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Under 69.5,0.06520000000000004,0.5652,0.5
 2024-12-06 02:03:38.822848,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.055499999999999994,0.8333,0.7778
 2024-12-05 20:32:02.422289,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Joe Elmore,0.047099999999999975,0.5122,0.4651
 2024-12-05 22:33:23.199293,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - SMU To Make the 2024-2025 College Football Playoff,No,0.042299999999999977,0.2597,0.2174
@@ -18,9 +22,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-06 02:03:39.670570,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Joe Elmore,0.022600000000000064,0.5348,0.5122
 2024-12-05 20:32:02.438118,BKFC 69: Richardson vs. Larrimore - Nathan Maness vs Nick Burgos - To Win the Bout,Nathan Maness,0.020199999999999996,0.9091,0.8889
 2024-12-05 20:32:02.418347,BKFC 69: Richardson vs. Larrimore - Cole Ferrell vs Justin Watson  - To Win the Bout,Cole Ferrell,0.020199999999999996,0.9091,0.8889
-2024-12-05 19:24:30.433640,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
 2024-12-06 03:10:00.554804,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
-2024-12-05 15:32:21.917551,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
+2024-12-05 19:24:30.433640,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
 2024-12-05 17:31:27.534791,Euro Cup - Euro Cup 2024/25 - Outright,Gran Canaria,0.0179,0.1429,0.125
 2024-12-05 21:28:15.983211,NFL Specials - Coaches Specials - Zac Taylor Fired,No,0.016699999999999993,0.4167,0.4
 2024-12-05 23:29:12.290414,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),0.015400000000000025,0.4,0.3846
@@ -35,21 +38,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-05 23:29:12.241969,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,0.012600000000000007,0.0714,0.0588
 2024-12-05 23:29:12.929504,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.01100000000000001,0.5348,0.5238
 2024-12-05 20:32:02.426288,BKFC 69: Richardson vs. Larrimore - Joseph Creer vs David Simpson - To Win the Bout,Joseph Creer,0.010700000000000043,0.6774,0.6667
-2024-12-05 15:32:23.145649,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.010699999999999932,0.5455,0.5348
+2024-12-06 03:43:23.904291,Boxing Lines - Hironori Mishiro vs Hinata Maruta - To Win the Bout,Hinata Maruta,0.010099999999999998,0.4545,0.4444
 2024-12-05 23:29:12.929504,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,-0.010699999999999932,0.5348,0.5455
 2024-12-05 23:29:12.241969,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.010800000000000004,0.2273,0.2381
-2024-12-05 15:32:23.145649,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.01100000000000001,0.5238,0.5348
 2024-12-05 23:29:12.241969,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,-0.012600000000000007,0.0588,0.0714
 2024-12-05 19:24:30.433640,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.014099999999999998,0.0244,0.0385
 2024-12-06 03:10:00.554804,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.014099999999999998,0.0244,0.0385
-2024-12-05 15:32:21.917551,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.014099999999999998,0.0244,0.0385
 2024-12-06 02:03:39.674595,BKFC 69: Richardson vs. Larrimore - Joseph Creer vs David Simpson - To Win the Bout,David Simpson,-0.01419999999999999,0.3704,0.3846
+2024-12-06 03:43:23.904291,Boxing Lines - Hironori Mishiro vs Hinata Maruta - To Win the Bout,Hironori Mishiro,-0.014800000000000035,0.6078,0.6226
 2024-12-05 20:32:02.426288,BKFC 69: Richardson vs. Larrimore - Joseph Creer vs David Simpson - To Win the Bout,David Simpson,-0.015400000000000025,0.3846,0.4
 2024-12-05 20:32:02.442051,BKFC 69: Richardson vs. Larrimore - Nathan Rivera vs Justin Street - To Win the Bout,Justin Street,-0.015400000000000025,0.241,0.2564
 2024-12-05 23:29:13.013656,BKFC 69: Richardson vs. Larrimore - Keith Richardson vs Michael Larrimore - To Win the Bout,Keith Richardson,-0.017300000000000093,0.697,0.7143
 2024-12-05 22:33:23.202629,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Be The 2024-2025 College Football Playoff Overall 1 Seed,Oregon,-0.01880000000000004,0.6364,0.6552
-2024-12-05 18:37:48.187201,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.019000000000000017,0.2667,0.2857
 2024-12-06 02:03:38.658194,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.019000000000000017,0.2667,0.2857
+2024-12-05 18:37:48.187201,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.019000000000000017,0.2667,0.2857
 2024-12-05 23:29:13.104828,Round Match-Ups - 2nd Round Match-Up - S. Scheffler vs P. Cantlay - 2nd Round Match-Up,Patrick Cantlay,-0.019699999999999995,0.4348,0.4545
 2024-12-05 20:32:02.418347,BKFC 69: Richardson vs. Larrimore - Cole Ferrell vs Justin Watson  - To Win the Bout,Justin Watson,-0.020100000000000007,0.1538,0.1739
 2024-12-05 20:32:02.438118,BKFC 69: Richardson vs. Larrimore - Nathan Maness vs Nick Burgos - To Win the Bout,Nick Burgos,-0.020100000000000007,0.1538,0.1739
@@ -67,3 +69,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-05 22:33:23.199293,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - SMU To Make the 2024-2025 College Football Playoff,Yes,-0.04239999999999999,0.8095,0.8519
 2024-12-05 20:32:02.422289,BKFC 69: Richardson vs. Larrimore - Joe Elmore vs Derrick Findley - To Win the Bout,Derrick Findley,-0.044399999999999995,0.5556,0.6
 2024-12-05 23:29:12.290414,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),-0.04930000000000001,0.2632,0.3125
+2024-12-06 03:43:24.184610,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Over 69.5,-0.06520000000000004,0.5,0.5652
+2024-12-06 03:43:24.189014,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 67.5,-0.11539999999999995,0.5,0.6154
+2024-12-06 03:43:24.167549,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Under 68.5,-0.12260000000000004,0.5,0.6226
+2024-12-06 03:43:24.141805,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Over 69.5,-0.18189999999999995,0.4545,0.6364
