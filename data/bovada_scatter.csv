@@ -2,76 +2,66 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-07 19:22:44.329803,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Dodgers,0.1731,0.25,0.0769
 2024-12-07 18:36:06.985079,NFL Specials - Coaches Specials - Zac Taylor Fired,No,0.11069999999999997,0.5455,0.4348
 2024-12-07 13:32:09.022155,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Mikey Madison - Anora,0.05559999999999998,0.5556,0.5
-2024-12-07 10:34:25.238748,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.04099999999999998,0.3077,0.2667
-2024-12-07 10:34:26.439579,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Under 70.5,0.03959999999999997,0.5744,0.5348
 2024-12-07 14:30:19.061249,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - P. Cantlay vs T. Kim - 3rd Round 2 Balls,Patrick Cantlay,0.03479999999999994,0.6,0.5652
 2024-12-07 14:30:19.069462,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - S. Straka vs S. Im - 3rd Round 2 Balls,Sungjae Im,0.03479999999999994,0.6,0.5652
-2024-12-07 14:30:19.065305,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - L. Aberg vs S. Theegala - 3rd Round 2 Balls,Ludvig Aberg,0.033399999999999985,0.6078,0.5744
 2024-12-07 14:30:19.086919,Round Match-Ups - 3rd Round Match-Up - N. Dunlap vs M. Pavon - 3rd Round Match-Up,Nick Dunlap,0.033399999999999985,0.6078,0.5744
+2024-12-07 14:30:19.065305,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - L. Aberg vs S. Theegala - 3rd Round 2 Balls,Ludvig Aberg,0.033399999999999985,0.6078,0.5744
 2024-12-07 14:30:19.077764,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler vs A. Bhatia - 3rd Round 2 Balls,Scottie Scheffler,0.02739999999999998,0.7333,0.7059
 2024-12-07 16:34:23.723062,Boxing Lines - Artur Reis vs Arthur Ohanyan Beck - To Win the Bout,Arthur Ohanyan Beck,0.026499999999999968,0.5917,0.5652
 2024-12-07 19:22:44.322945,MLB Specials - MLB Specials 2025 - Which MLB Team will Nolan Arenado Play his First Regular Season Game for in the 2025 Season?,St. Louis Cardinals,0.025300000000000003,0.1429,0.1176
-2024-12-07 10:34:26.408224,Round Match-Ups - 3rd Round Match-Up - J. Thomas vs S. Scheffler - 3rd Round Match-Up,Justin Thomas,0.024500000000000022,0.4167,0.3922
 2024-12-07 18:36:07.401816,Potential Fights - Jake Paul vs Artur Beterbiev - To Win the Bout,Jake Paul,0.02310000000000001,0.1,0.0769
-2024-12-07 18:36:07.326987,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.022600000000000064,0.5348,0.5122
 2024-12-07 12:51:14.525377,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,0.022600000000000064,0.5348,0.5122
-2024-12-07 10:34:25.215750,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,FC Porto,0.021999999999999964,0.3077,0.2857
-2024-12-07 10:34:24.941494,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.021699999999999997,0.4762,0.4545
+2024-12-07 18:36:07.326987,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.022600000000000064,0.5348,0.5122
 2024-12-07 19:22:44.499163,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Oscar Valdez,0.020799999999999985,0.3333,0.3125
 2024-12-07 13:32:09.980297,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.02079999999999993,0.5556,0.5348
 2024-12-07 16:34:23.838624,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,0.02079999999999993,0.5556,0.5348
 2024-12-07 18:36:07.248859,Boxing Lines - Lawrence Okolie vs Hussein Muhamed - To Win the Bout,Hussein Muhamed,0.02020000000000001,0.1111,0.0909
 2024-12-07 19:22:44.329803,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Mets,0.01970000000000005,0.5652,0.5455
-2024-12-07 10:34:25.215750,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,0.019000000000000017,0.2857,0.2667
-2024-12-07 19:22:44.455568,Boxing Lines - Brad Pauls vs Denzel Bentley - To Win the Bout,Brad Pauls,0.018100000000000005,0.4348,0.4167
+2024-12-07 23:27:14.781547,NL West - NL West 2025 - NL West Winner,San Francisco Giants,0.019000000000000003,0.0625,0.0435
 2024-12-07 18:36:07.260589,Boxing Lines - Solomon Dacres vs David Adeleye - To Win the Bout,Solomon Dacres,0.018100000000000005,0.4348,0.4167
+2024-12-07 19:22:44.455568,Boxing Lines - Brad Pauls vs Denzel Bentley - To Win the Bout,Brad Pauls,0.018100000000000005,0.4348,0.4167
 2024-12-07 14:30:18.889011,Boxing Lines - Solomon Dacres vs David Adeleye - To Win the Bout,Solomon Dacres,0.017299999999999982,0.4255,0.4082
 2024-12-07 12:51:14.706923,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Under 70.5,0.017299999999999982,0.5917,0.5744
 2024-12-07 17:28:31.097421,Boxing Lines - Jonathan Navarro vs Jair Valtierra - To Win the Bout,Jair Valtierra,0.0131,0.2353,0.2222
-2024-12-07 16:34:23.771450,Boxing Lines - Solomon Dacres vs David Adeleye - To Win the Bout,David Adeleye,0.012700000000000045,0.6491,0.6364
 2024-12-07 16:34:23.806984,Boxing Lines - Brad Pauls vs Denzel Bentley - To Win the Bout,Denzel Bentley,0.012700000000000045,0.6491,0.6364
+2024-12-07 16:34:23.771450,Boxing Lines - Solomon Dacres vs David Adeleye - To Win the Bout,David Adeleye,0.012700000000000045,0.6491,0.6364
 2024-12-07 22:31:37.428149,Boxing Lines - Ryan Rozicki vs Yamil Peralta - To Win the Bout,Yamil Peralta,0.012199999999999989,0.5122,0.5
 2024-12-07 15:28:39.836647,Boxing Lines - Jonathan Navarro vs Jair Valtierra - To Win the Bout,Jair Valtierra,0.011700000000000016,0.2222,0.2105
-2024-12-07 11:24:36.774412,Boxing Lines - Kubrat Pulev vs Mahmoud Charr - To Win the Bout,Kubrat Pulev,0.011699999999999933,0.7895,0.7778
 2024-12-07 19:22:44.495188,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,0.011600000000000055,0.5238,0.5122
 2024-12-07 22:31:37.439983,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,0.010699999999999932,0.5455,0.5348
 2024-12-07 22:31:37.420271,Boxing Lines - Marc Castro vs Agustin Ezequiel Quintana - To Win the Bout,Marc Castro,0.010199999999999987,0.9333,0.9231
 2024-12-07 20:29:16.443756,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,0.010099999999999998,0.5556,0.5455
 2024-12-07 19:22:44.495188,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,-0.010099999999999998,0.5455,0.5556
 2024-12-07 15:28:39.946891,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Oscar Valdez,-0.010099999999999998,0.3125,0.3226
+2024-12-07 23:27:14.800629,Boxing Lines - Marc Castro vs Agustin Ezequiel Quintana - To Win the Bout,Marc Castro,-0.010199999999999987,0.9231,0.9333
 2024-12-07 12:51:14.513238,Boxing Lines - Lindolfo Delgado vs Jackson Marinez - To Win the Bout,Lindolfo Delgado,-0.010199999999999987,0.9231,0.9333
 2024-12-07 15:28:39.836647,Boxing Lines - Jonathan Navarro vs Jair Valtierra - To Win the Bout,Jonathan Navarro,-0.01090000000000002,0.8462,0.8571
 2024-12-07 22:31:37.439983,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.01100000000000001,0.5238,0.5348
 2024-12-07 20:29:16.443756,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,-0.011600000000000055,0.5122,0.5238
-2024-12-07 16:34:23.751430,Boxing Lines - Dylan Moran vs Tyrone McKenna - To Win the Bout,Dylan Moran,-0.012199999999999989,0.5,0.5122
 2024-12-07 15:28:39.919914,Boxing Lines - Ryan Rozicki vs Yamil Peralta - To Win the Bout,Yamil Peralta,-0.012199999999999989,0.5,0.5122
+2024-12-07 16:34:23.751430,Boxing Lines - Dylan Moran vs Tyrone McKenna - To Win the Bout,Dylan Moran,-0.012199999999999989,0.5,0.5122
 2024-12-07 15:28:39.904313,Boxing Lines - Brad Pauls vs Denzel Bentley - To Win the Bout,Denzel Bentley,-0.012700000000000045,0.6364,0.6491
 2024-12-07 17:28:31.097421,Boxing Lines - Jonathan Navarro vs Jair Valtierra - To Win the Bout,Jonathan Navarro,-0.012899999999999912,0.8333,0.8462
-2024-12-07 10:34:24.950349,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,-0.0131,0.0345,0.0476
 2024-12-07 18:36:07.248859,Boxing Lines - Lawrence Okolie vs Hussein Muhamed - To Win the Bout,Lawrence Okolie,-0.014100000000000001,0.9474,0.9615
+2024-12-07 23:27:14.781547,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,-0.015599999999999947,0.7143,0.7299
 2024-12-07 19:22:44.499163,Boxing Lines - Emanuel Navarrete vs Oscar Valdez - To Win the Bout,Emanuel Navarrete,-0.016700000000000048,0.7333,0.75
 2024-12-07 18:36:07.401816,Potential Fights - Jake Paul vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,-0.01849999999999996,0.9524,0.9709
 2024-12-07 14:30:18.889011,Boxing Lines - Solomon Dacres vs David Adeleye - To Win the Bout,David Adeleye,-0.01880000000000004,0.6364,0.6552
-2024-12-07 10:34:25.238748,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,-0.019099999999999992,0.0476,0.0667
-2024-12-07 19:22:44.455568,Boxing Lines - Brad Pauls vs Denzel Bentley - To Win the Bout,Denzel Bentley,-0.019499999999999962,0.6296,0.6491
 2024-12-07 18:36:07.260589,Boxing Lines - Solomon Dacres vs David Adeleye - To Win the Bout,David Adeleye,-0.019499999999999962,0.6296,0.6491
+2024-12-07 19:22:44.455568,Boxing Lines - Brad Pauls vs Denzel Bentley - To Win the Bout,Denzel Bentley,-0.019499999999999962,0.6296,0.6491
 2024-12-07 19:22:44.329803,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Blue Jays,-0.019699999999999995,0.1053,0.125
 2024-12-07 14:30:19.065305,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - L. Aberg vs S. Theegala - 3rd Round 2 Balls,Sahith Theegala,-0.020699999999999996,0.4444,0.4651
 2024-12-07 12:51:14.525377,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Robeisy Ramirez,-0.02079999999999993,0.5348,0.5556
 2024-12-07 18:36:07.326987,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Liam Paro,-0.02079999999999993,0.5348,0.5556
-2024-12-07 10:34:24.941494,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.02169999999999994,0.5238,0.5455
-2024-12-07 13:32:09.980297,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,-0.022600000000000064,0.5122,0.5348
 2024-12-07 16:34:23.838624,Boxing Lines - Liam Paro vs Richardson Hitchins - To Win the Bout,Richardson Hitchins,-0.022600000000000064,0.5122,0.5348
+2024-12-07 13:32:09.980297,Boxing Lines - Rafael Espinoza vs Robeisy Ramirez - To Win the Bout,Rafael Espinoza,-0.022600000000000064,0.5122,0.5348
 2024-12-07 12:51:14.706923,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Over 70.5,-0.022699999999999998,0.4651,0.4878
 2024-12-07 16:34:23.723062,Boxing Lines - Artur Reis vs Arthur Ohanyan Beck - To Win the Bout,Artur Reis,-0.023799999999999988,0.4762,0.5
 2024-12-07 14:30:19.077764,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler vs A. Bhatia - 3rd Round 2 Balls,Akshay Bhatia,-0.02560000000000001,0.3077,0.3333
-2024-12-07 10:34:26.408224,Round Match-Ups - 3rd Round Match-Up - J. Thomas vs S. Scheffler - 3rd Round Match-Up,Scottie Scheffler,-0.026499999999999968,0.6226,0.6491
 2024-12-07 14:30:19.086919,Round Match-Ups - 3rd Round Match-Up - N. Dunlap vs M. Pavon - 3rd Round Match-Up,Matthieu Pavon,-0.030299999999999994,0.4348,0.4651
-2024-12-07 14:30:19.061249,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - P. Cantlay vs T. Kim - 3rd Round 2 Balls,Tom Kim,-0.031799999999999995,0.4444,0.4762
 2024-12-07 14:30:19.069462,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - S. Straka vs S. Im - 3rd Round 2 Balls,Sepp Straka,-0.031799999999999995,0.4444,0.4762
+2024-12-07 14:30:19.061249,Hero World Challenge - 2/3 Balls - 3rd Round 2 Balls - P. Cantlay vs T. Kim - 3rd Round 2 Balls,Tom Kim,-0.031799999999999995,0.4444,0.4762
 2024-12-07 19:22:44.329803,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Yankees,-0.033299999999999996,0.5122,0.5455
 2024-12-07 13:32:09.022155,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Angelina Jolie - Maria,-0.03409999999999999,0.2326,0.2667
 2024-12-07 19:22:44.329803,MLB Specials - MLB Specials 2025 - Which MLB Team will Juan Soto Play his First Regular Season Game for in the 2025 Season?,Red Sox,-0.03570000000000001,0.25,0.2857
-2024-12-07 10:34:26.439579,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Over 70.5,-0.04700000000000004,0.4878,0.5348
-2024-12-07 10:34:25.215750,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Sporting CP,-0.05059999999999998,0.5238,0.5744
 2024-12-07 18:36:06.985079,NFL Specials - Coaches Specials - Zac Taylor Fired,Yes,-0.08410000000000006,0.5455,0.6296
