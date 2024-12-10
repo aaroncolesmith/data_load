@@ -11,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Golden State Warriors,0.11809999999999998,0.1538,0.0357
 2024-12-09 21:28:39.657932,82nd Golden Globe Awards - Golden Globes - Best Actress: Drama - Actress: Drama,Angelina Jolie - Maria,0.11119999999999997,0.5556,0.4444
 2024-12-09 22:33:41.789641,67th Grammy Awards - Grammys: Record Of The Year - Record Of The Year,Not Like Us - Kendrick Lamar,0.11030000000000001,0.2353,0.125
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Conclave,0.10910000000000002,0.2,0.0909
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Golden State Warriors,0.10010000000000002,0.3704,0.2703
 2024-12-09 21:28:39.649642,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Musical or Comedy - Picture: Musical/Comedy,Emilia Perez,0.1,0.2,0.1
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Oklahoma City Thunder,0.09969999999999998,0.2597,0.16
@@ -32,19 +31,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Portland Trail Blazers,0.057999999999999996,0.0769,0.0189
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Utah Jazz,0.057999999999999996,0.0769,0.0189
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Phoenix Suns,0.056599999999999984,0.3448,0.2882
-2024-12-09 21:28:39.670276,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Animated - Picture: Animated,The Wild Robot,0.05559999999999998,0.5,0.4444
 2024-12-09 22:33:41.793792,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,Die With A Smile - Lady Gaga and Bruno Mars,0.05559999999999998,0.1667,0.1111
+2024-12-09 21:28:39.670276,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Animated - Picture: Animated,The Wild Robot,0.05559999999999998,0.5,0.4444
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Memphis Grizzlies,0.055499999999999994,0.3333,0.2778
+2024-12-10 03:44:35.762053,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Atalanta,0.052200000000000024,0.4444,0.3922
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR LA Lakers,0.0518,0.1143,0.0625
 2024-12-09 16:38:25.788122,Western Conference - Conference Seeding  - To Be #1 Seed,Memphis Grizzlies,0.048799999999999996,0.0833,0.0345
 2024-12-09 20:32:26.638204,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.0476,0.2857,0.2381
-2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR San Antonio Spurs,0.047599999999999996,0.0833,0.0357
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Sacramento Kings,0.047599999999999996,0.0833,0.0357
+2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR San Antonio Spurs,0.047599999999999996,0.0833,0.0357
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR San Antonio Spurs,0.04530000000000001,0.2985,0.2532
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR New Orleans Pelicans,0.0448,0.0833,0.0385
-2024-12-09 21:28:39.653814,82nd Golden Globe Awards - Golden Globes - Best Actor: Drama - Actor: Drama,Adrien Brody - The Brutalist,0.044399999999999995,0.6,0.5556
-2024-12-09 16:38:25.625566,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Animated - Picture: Animated,The Wild Robot,0.044399999999999995,0.4444,0.4
 2024-12-09 21:28:39.666175,82nd Golden Globe Awards - Golden Globes - Best Actress: Musical or Comedy - Actress: Musical/Comedy,Mikey Madison - Anora,0.044399999999999995,0.6,0.5556
+2024-12-09 16:38:25.625566,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Animated - Picture: Animated,The Wild Robot,0.044399999999999995,0.4444,0.4
+2024-12-09 21:28:39.653814,82nd Golden Globe Awards - Golden Globes - Best Actor: Drama - Actor: Drama,Adrien Brody - The Brutalist,0.044399999999999995,0.6,0.5556
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Dallas Mavericks,0.04410000000000003,0.3774,0.3333
 2024-12-09 20:32:26.927555,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Tyler Herro (MIA),0.042899999999999994,0.1429,0.1
 2024-12-09 21:28:39.666175,82nd Golden Globe Awards - Golden Globes - Best Actress: Musical or Comedy - Actress: Musical/Comedy,Demi Moore - Substance,0.04169999999999999,0.1667,0.125
@@ -66,16 +66,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-09 16:38:25.770716,Eastern Conference - Eastern Conference 2024-25 - Division to Win the Eastern Conference,Atlantic,0.027599999999999958,0.7101,0.6825
 2024-12-09 17:31:37.420438,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Gonzaga,0.02679999999999999,0.3125,0.2857
 2024-12-09 16:38:25.825426,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jalen Brunson (NYK),0.026100000000000012,0.2,0.1739
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Brutalist,0.02560000000000001,0.3333,0.3077
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Orlando Magic OR Houston Rockets,0.025299999999999996,0.0556,0.0303
 2024-12-09 16:38:26.524436,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Akshay Bhatia / Jennifer Kupcho,0.0242,0.0909,0.0667
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Wicked,0.023799999999999988,0.1667,0.1429
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR New Orleans Pelicans,0.023799999999999988,0.2941,0.2703
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Denver Nuggets,0.023799999999999988,0.3571,0.3333
 2024-12-09 17:31:37.713688,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Right Bracket),Boise State,0.0232,0.0667,0.0435
 2024-12-09 18:39:34.593800,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Anthony Richardson (IND),0.02310000000000001,0.1,0.0769
 2024-12-09 16:38:25.783716,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Northwest,0.022699999999999998,0.4878,0.4651
-2024-12-09 15:32:26.654970,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,0.022600000000000064,0.5348,0.5122
 2024-12-09 17:31:37.536296,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 62.5,0.022600000000000064,0.5348,0.5122
 2024-12-09 16:38:25.788122,Western Conference - Conference Seeding  - To Be #1 Seed,Dallas Mavericks,0.022000000000000006,0.1053,0.0833
 2024-12-09 17:31:37.551445,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 52.5,0.01970000000000005,0.5652,0.5455
@@ -89,27 +86,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-09 16:38:26.307996,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.01539999999999997,0.6154,0.6
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Orlando Magic OR LA Clippers,0.015300000000000001,0.0476,0.0323
 2024-12-09 17:31:37.668619,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Seattle Seahawks,0.015300000000000001,0.0476,0.0323
-2024-12-09 15:32:26.560430,National League - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,0.015100000000000002,0.1818,0.1667
 2024-12-09 16:38:25.783716,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Pacific,0.014900000000000024,0.3226,0.3077
-2024-12-10 02:06:23.344981,BNXT League - BNXT League 2024/25 - Outright,Kortrijk Spurs,0.014899999999999997,0.0625,0.0476
 2024-12-09 22:33:41.785502,67th Grammy Awards - Grammys: Best New Artist - Best New Artist,Doechii,0.014899999999999997,0.0625,0.0476
 2024-12-09 21:28:39.649642,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Musical or Comedy - Picture: Musical/Comedy,A Real Pain,0.014899999999999997,0.0625,0.0476
+2024-12-10 02:06:23.344981,BNXT League - BNXT League 2024/25 - Outright,Kortrijk Spurs,0.014899999999999997,0.0625,0.0476
 2024-12-09 21:28:39.645534,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Drama - Picture: Drama,Conclave,0.01469999999999999,0.25,0.2353
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR Oklahoma City Thunder,0.014600000000000002,0.2778,0.2632
 2024-12-09 20:32:27.134212,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,0.01440000000000001,0.1053,0.0909
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,A Real Pain,0.014099999999999998,0.0385,0.0244
-2024-12-09 16:38:25.742211,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Boston Celtics,0.013999999999999999,0.0909,0.0769
+2024-12-10 03:44:36.432789,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,RJ Barrett (TOR),0.014099999999999994,0.0667,0.0526
 2024-12-09 18:39:34.593800,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),0.013999999999999999,0.0909,0.0769
-2024-12-09 15:32:26.701975,Alfred Dunhill - Alfred Dunhill Championship - Winner,Christiaan Bezuidenhout,0.013999999999999999,0.0909,0.0769
+2024-12-09 16:38:25.742211,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Boston Celtics,0.013999999999999999,0.0909,0.0769
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Milwaukee Bucks OR Oklahoma City Thunder,0.0131,0.2353,0.2222
-2024-12-09 16:38:25.822178,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Milwaukee Bucks,0.012899999999999995,0.1667,0.1538
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Denver Nuggets,0.012899999999999995,0.1379,0.125
+2024-12-09 16:38:25.822178,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Milwaukee Bucks,0.012899999999999995,0.1667,0.1538
 2024-12-09 16:38:25.802831,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.012400000000000078,0.8948,0.8824
 2024-12-09 18:39:34.380843,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jason Kidd,0.011699999999999999,0.0196,0.0079
-2024-12-09 17:31:37.717819,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Left Bracket),Tennessee,0.011199999999999995,0.0588,0.0476
 2024-12-09 18:39:34.380843,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,0.011199999999999995,0.0588,0.0476
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Nickel Boys,0.011199999999999995,0.0588,0.0476
 2024-12-09 18:39:34.266744,Super Ligi - Turkey BSL 2024/25 - Outright,Tofas,0.011199999999999995,0.0588,0.0476
+2024-12-09 17:31:37.717819,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Left Bracket),Tennessee,0.011199999999999995,0.0588,0.0476
 2024-12-09 18:39:34.380843,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,0.011099999999999999,0.1111,0.1
 2024-12-09 17:31:37.420438,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Oregon,0.011099999999999999,0.0667,0.0556
 2024-12-09 16:38:26.524436,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Corey Conners / Brooke Henderson,0.011099999999999999,0.1111,0.1
@@ -117,29 +111,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-09 17:31:37.546378,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 29.5,0.01100000000000001,0.5348,0.5238
 2024-12-09 17:31:37.541353,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 51.5,0.01100000000000001,0.5348,0.5238
 2024-12-09 16:38:25.737988,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Oklahoma City Thunder,0.010899999999999993,0.1538,0.1429
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,A Different Man,0.010700000000000001,0.0385,0.0278
 2024-12-09 17:31:37.960800,PGA Tour Qualifying School - Qualifying School - Winner,Alistair Docherty,0.010700000000000001,0.0164,0.0057
-2024-12-09 17:31:37.944984,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Max Greyserman / Andrea Lee,0.0102,0.0769,0.0667
-2024-12-09 21:28:40.427889,Boxing Lines - Justis Huni vs Leandro Daniel Robutti - To Win the Bout,Leandro Daniel Robutti,0.0102,0.0769,0.0667
 2024-12-09 16:38:25.788122,Western Conference - Conference Seeding  - To Be #1 Seed,Houston Rockets,0.0102,0.0769,0.0667
 2024-12-09 17:31:37.734974,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Anthony Richardson (IND),0.0102,0.0769,0.0667
+2024-12-09 21:28:40.427889,Boxing Lines - Justis Huni vs Leandro Daniel Robutti - To Win the Bout,Leandro Daniel Robutti,0.0102,0.0769,0.0667
+2024-12-09 17:31:37.944984,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Max Greyserman / Andrea Lee,0.0102,0.0769,0.0667
 2024-12-09 17:31:37.546378,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 29.5,0.010099999999999998,0.5556,0.5455
 2024-12-09 16:38:26.524436,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Max Greyserman / Andrea Lee,-0.0102,0.0667,0.0769
-2024-12-09 17:31:37.458463,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,-0.010499999999999982,0.2,0.2105
 2024-12-09 17:31:37.420438,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,-0.010499999999999982,0.2,0.2105
+2024-12-09 17:31:37.458463,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,-0.010499999999999982,0.2,0.2105
 2024-12-09 17:31:37.541353,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 51.5,-0.010699999999999932,0.5348,0.5455
 2024-12-09 17:31:37.668619,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Los Angeles Rams,-0.010999999999999996,0.0345,0.0455
 2024-12-09 17:31:37.668619,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,-0.010999999999999996,0.0345,0.0455
-2024-12-09 15:32:26.670943,Boxing Lines - Dillian Whyte vs Ebenezer Tetteh - To Win the Bout,Ebenezer Tetteh,-0.011099999999999999,0.1,0.1111
 2024-12-09 16:38:25.825426,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Stephen Curry (GSW),-0.011099999999999999,0.1,0.1111
 2024-12-09 17:31:37.717819,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Left Bracket),Clemson,-0.011199999999999995,0.0476,0.0588
 2024-12-09 17:31:37.713688,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Right Bracket),Penn State,-0.01150000000000001,0.3333,0.3448
+2024-12-10 03:44:35.762053,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Aston Villa,-0.01150000000000001,0.3333,0.3448
 2024-12-09 17:31:37.420438,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Tennessee,-0.011700000000000016,0.2105,0.2222
 2024-12-09 17:31:37.944984,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Tony Finau / Nelly Korda,-0.012899999999999995,0.1538,0.1667
 2024-12-09 16:38:25.775084,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Miami Heat,-0.013,0.0066,0.0196
 2024-12-09 16:38:26.299107,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,-0.0131,0.2222,0.2353
 2024-12-09 21:28:39.666175,82nd Golden Globe Awards - Golden Globes - Best Actress: Musical or Comedy - Actress: Musical/Comedy,Amy Adams - Nightbitch,-0.013899999999999996,0.1111,0.125
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Sing Sing,-0.013899999999999996,0.1111,0.125
 2024-12-09 22:33:41.789641,67th Grammy Awards - Grammys: Record Of The Year - Record Of The Year,Now And Then - The Beatles,-0.014399999999999996,0.0625,0.0769
 2024-12-09 21:28:39.653814,82nd Golden Globe Awards - Golden Globes - Best Actor: Drama - Actor: Drama,Daniel Craig - Queer,-0.014399999999999996,0.0625,0.0769
 2024-12-09 22:33:41.789641,67th Grammy Awards - Grammys: Record Of The Year - Record Of The Year,360 - Charli XCX,-0.014399999999999996,0.0625,0.0769
@@ -154,23 +146,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-09 22:33:41.781360,67th Grammy Awards - Grammys: Album Of The Year - Album Of The Year,Djesse Vol. 4 - Jacob Collier,-0.019800000000000005,0.0278,0.0476
 2024-12-09 17:31:37.717819,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Left Bracket),Ohio State,-0.020299999999999985,0.25,0.2703
 2024-12-09 22:33:41.793792,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,"Good Luck, Babe! - Chappell Roan",-0.02049999999999999,0.1333,0.1538
-2024-12-09 15:32:26.654970,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.02079999999999993,0.5348,0.5556
+2024-12-10 03:44:35.762053,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,AC Milan,-0.020699999999999996,0.4444,0.4651
 2024-12-09 17:31:37.536296,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 62.5,-0.02079999999999993,0.5348,0.5556
 2024-12-09 17:31:37.734974,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Russell Wilson (PIT),-0.0213,0.0556,0.0769
 2024-12-09 21:28:39.653814,82nd Golden Globe Awards - Golden Globes - Best Actor: Drama - Actor: Drama,Colman Domingo - Sing Sing,-0.021999999999999964,0.2857,0.3077
 2024-12-09 20:32:27.134212,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Georgia,-0.022199999999999998,0.2,0.2222
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Dune: Part Two,-0.02310000000000001,0.0769,0.1
 2024-12-09 17:31:37.717819,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Left Bracket),Texas,-0.023799999999999988,0.3333,0.3571
 2024-12-09 17:31:37.458463,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Utah State,-0.023800000000000016,0.1667,0.1905
 2024-12-09 17:31:37.551445,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 52.5,-0.023800000000000043,0.5,0.5238
 2024-12-09 16:38:25.807679,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.027500000000000024,0.3571,0.3846
+2024-12-10 03:44:36.439714,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),-0.02779999999999999,0.2222,0.25
 2024-12-09 22:33:41.785502,67th Grammy Awards - Grammys: Best New Artist - Best New Artist,Sabrina Carpenter,-0.030299999999999994,0.3333,0.3636
 2024-12-09 17:31:37.458463,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),San Diego State,-0.03059999999999999,0.2326,0.2632
 2024-12-09 19:24:43.034946,B League - Japan B-League 2024/25 - Outright,Chiba Jets,-0.033300000000000024,0.1667,0.2
 2024-12-09 21:28:39.645534,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Drama - Picture: Drama,Dune: Part Two,-0.033399999999999985,0.1333,0.1667
 2024-12-09 21:28:39.670276,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Animated - Picture: Animated,Wallace & Gromit: Vengeance Most Fowl,-0.034100000000000005,0.0909,0.125
-2024-12-09 22:33:41.793792,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,Fortnight - Taylor Swift ft. Post Malone,-0.03420000000000001,0.0769,0.1111
 2024-12-09 22:33:41.789641,67th Grammy Awards - Grammys: Record Of The Year - Record Of The Year,Fortnight - Taylor Swift ft. Post Malone,-0.03420000000000001,0.0769,0.1111
+2024-12-09 22:33:41.793792,67th Grammy Awards - Grammys: Song Of The Year - Song Of The Year,Fortnight - Taylor Swift ft. Post Malone,-0.03420000000000001,0.0769,0.1111
 2024-12-09 16:38:25.825426,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Karl Anthony-Towns (MIN),-0.038299999999999994,0.0526,0.0909
 2024-12-09 21:28:39.645534,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Drama - Picture: Drama,September 5,-0.0384,0.0385,0.0769
 2024-12-09 16:38:25.775084,Eastern Conference - Conference Seeding  - To Be #1 Seed ,New York Knicks,-0.03860000000000001,0.0667,0.1053
@@ -178,7 +170,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-09 21:28:39.662076,82nd Golden Globe Awards - Golden Globes - Best Actor: Musical or Comedy - Actor: Musical/Comedy,Jesse Plemons - Kinds Of Kindness,-0.04410000000000003,0.3333,0.3774
 2024-12-09 21:28:39.662076,82nd Golden Globe Awards - Golden Globes - Best Actor: Musical or Comedy - Actor: Musical/Comedy,Jesse Eisenberg - A Real Pain,-0.04410000000000003,0.3333,0.3774
 2024-12-09 22:33:41.781360,67th Grammy Awards - Grammys: Album Of The Year - Album Of The Year,The Rise And Fall Of A Midwest Princess - Chappell Roan,-0.048100000000000004,0.0769,0.125
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Emilia Perez,-0.048100000000000004,0.0769,0.125
 2024-12-09 21:28:39.666175,82nd Golden Globe Awards - Golden Globes - Best Actress: Musical or Comedy - Actress: Musical/Comedy,Karla Sofia Gascon - Emilia Perez,-0.0504,0.2353,0.2857
 2024-12-09 21:28:39.670276,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Animated - Picture: Animated,Inside Out 2,-0.05449999999999999,0.5455,0.6
 2024-12-09 16:38:25.758160,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Milwaukee Bucks OR Denver Nuggets,-0.0581,0.1143,0.1724
@@ -189,7 +180,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-09 16:38:25.788122,Western Conference - Conference Seeding  - To Be #1 Seed,Los Angeles Lakers,-0.07339999999999999,0.0099,0.0833
 2024-12-09 21:28:39.645534,82nd Golden Globe Awards - Golden Globes - Best Motion Picture: Drama - Picture: Drama,Nickel Boys,-0.07579999999999999,0.0909,0.1667
 2024-12-09 16:38:25.788122,Western Conference - Conference Seeding  - To Be #1 Seed,Denver Nuggets,-0.0777,0.0556,0.1333
-2024-12-09 15:32:25.773149,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,-0.08340000000000003,0.3333,0.4167
 2024-12-09 16:38:25.775084,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Boston Celtics,-0.0877,0.6491,0.7368
 2024-12-09 16:38:25.788122,Western Conference - Conference Seeding  - To Be #1 Seed,Minnesota Timberwolves,-0.08940000000000001,0.0217,0.1111
 2024-12-09 16:38:25.788122,Western Conference - Conference Seeding  - To Be #1 Seed,Golden State Warriors,-0.0982,0.0556,0.1538
