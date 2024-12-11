@@ -33,7 +33,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-10 21:28:15.764654,NFL Specials - Coaches Specials - Chicago Bears Next Head Coach,Thomas Brown,0.024999999999999994,0.125,0.1
 2024-12-10 19:24:49.095013,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.023800000000000043,0.5238,0.5
 2024-12-11 03:09:29.334327,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),0.02020000000000001,0.1111,0.0909
-2024-12-10 17:31:43.654535,Boxing Lines - Justis Huni vs Leandro Daniel Robutti - To Win the Bout,Justis Huni,0.019199999999999995,0.9901,0.9709
 2024-12-11 02:04:44.993042,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Celtic,0.019100000000000006,0.9524,0.9333
 2024-12-11 02:04:44.976138,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Liverpool,0.01820000000000002,0.2,0.1818
 2024-12-11 03:09:29.330528,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Joshua Kimmich (Bayern Munich),0.018099999999999998,0.0769,0.0588
@@ -56,8 +55,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-10 21:28:15.936075,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.010699999999999932,0.5455,0.5348
 2024-12-11 02:04:46.107213,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,-0.010099999999999998,0.5455,0.5556
 2024-12-11 03:09:29.334327,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Viktor Gyokeres (Sporting),-0.0102,0.0667,0.0769
-2024-12-11 02:04:44.993042,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Crvena Zvezda,-0.0102,0.0667,0.0769
 2024-12-11 02:04:45.106333,Championship - England Championship 2024/25 - Winner,Middlesbrough,-0.0102,0.0667,0.0769
+2024-12-11 02:04:44.993042,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Crvena Zvezda,-0.0102,0.0667,0.0769
 2024-12-10 20:31:58.705851,Boxing Lines - Tyler Blizzard vs Yang Chengcheng - To Win the Bout,Yang Chengcheng,-0.010499999999999982,0.2,0.2105
 2024-12-11 03:09:30.514368,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,-0.010500000000000065,0.7895,0.8
 2024-12-10 20:31:58.725809,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.010699999999999932,0.5348,0.5455
@@ -65,10 +64,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-11 02:04:44.995962,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Arsenal,-0.01090000000000002,0.8462,0.8571
 2024-12-10 21:28:15.936075,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.01100000000000001,0.5238,0.5348
 2024-12-11 02:04:44.993042,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Borussia Dortmund,-0.011699999999999988,0.274,0.2857
-2024-12-10 22:32:54.549903,NFL Specials - Coaches Specials - Chicago Bears Next Head Coach,Marcus Freeman,-0.012899999999999995,0.1538,0.1667
 2024-12-11 02:04:45.109420,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.012899999999999995,0.1538,0.1667
-2024-12-11 02:04:44.995962,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Lille,-0.0131,0.2222,0.2353
+2024-12-10 22:32:54.549903,NFL Specials - Coaches Specials - Chicago Bears Next Head Coach,Marcus Freeman,-0.012899999999999995,0.1538,0.1667
 2024-12-11 03:09:29.349091,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Inter Milan,-0.0131,0.7647,0.7778
+2024-12-11 02:04:44.995962,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Lille,-0.0131,0.2222,0.2353
 2024-12-11 03:09:29.334327,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Harry Kane (Bayern Munich),-0.015100000000000002,0.1667,0.1818
 2024-12-11 02:04:45.706056,Bundesliga - Germany Bundesliga 2024/25 - Outright,Alba Berlin,-0.01580000000000001,0.0556,0.0714
 2024-12-10 22:32:54.549903,NFL Specials - Coaches Specials - Chicago Bears Next Head Coach,Todd Monken,-0.015899999999999997,0.1379,0.1538
@@ -81,7 +80,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-11 02:04:44.993042,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Atlético Madrid,-0.018999999999999906,0.7143,0.7333
 2024-12-10 19:24:49.095013,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01970000000000005,0.5455,0.5652
 2024-12-11 02:04:44.986490,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Sporting CP,-0.0203,0.0323,0.0526
-2024-12-10 17:31:43.654535,Boxing Lines - Justis Huni vs Leandro Daniel Robutti - To Win the Bout,Leandro Daniel Robutti,-0.0213,0.0556,0.0769
 2024-12-11 02:04:45.106333,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.022199999999999998,0.2,0.2222
 2024-12-11 03:09:29.355596,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Arsenal,-0.023200000000000002,0.0244,0.0476
 2024-12-11 03:09:29.349091,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Juventus,-0.0236,0.0149,0.0385
