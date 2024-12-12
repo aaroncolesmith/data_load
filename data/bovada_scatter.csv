@@ -2,8 +2,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 02:04:08.207804,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Athletic Bilbao,0.34750000000000003,0.6552,0.3077
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Borussia Dortmund,0.1805,0.4545,0.274
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Juventus,0.17400000000000002,0.274,0.1
-2024-12-11 20:31:58.203298,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 50.5,0.17120000000000007,0.5348,0.3636
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Feyenoord,0.16859999999999997,0.9333,0.7647
+2024-12-12 08:36:42.989416,UK General Election - Prime Minister After Next General Election - Prime Minister,Nigel Farage,0.1389,0.25,0.1111
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,VfB Stuttgart,0.1271,0.6923,0.5652
 2024-12-12 03:10:18.903463,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Bayern Munich,0.12380000000000002,0.5238,0.4
 2024-12-12 03:10:18.903463,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Bayer Leverkusen,0.11780000000000002,0.4255,0.3077
@@ -13,82 +13,67 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 03:10:18.900592,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Young Boys,0.08549999999999996,0.3077,0.2222
 2024-12-12 03:10:18.906287,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - La Liga,FC Barcelona,0.07609999999999995,0.9852,0.9091
 2024-12-12 02:04:08.196804,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,FC Barcelona,0.07579999999999999,0.1667,0.0909
-2024-12-11 20:31:58.217979,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 46.5,0.06220000000000003,0.5744,0.5122
-2024-12-11 20:31:58.237496,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Over 48.5,0.05860000000000004,0.5348,0.4762
+2024-12-12 08:36:42.682392,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,0.059299999999999964,0.3333,0.274
 2024-12-12 02:04:08.317306,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.05350000000000002,0.2353,0.1818
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Atlético Madrid,0.053100000000000036,0.4167,0.3636
+2024-12-12 08:36:42.715080,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),San Diego State,0.05310000000000001,0.2857,0.2326
 2024-12-12 03:10:18.911902,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Juventus,0.0518,0.0667,0.0149
 2024-12-12 02:04:08.317306,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.045499999999999985,0.5,0.4545
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,AC Milan,0.045499999999999985,0.5455,0.5
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bayer Leverkusen,0.04410000000000003,0.3774,0.3333
-2024-12-11 20:31:58.252121,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 23.5,0.04139999999999999,0.5652,0.5238
+2024-12-12 08:36:43.524910,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Tom Kim / Jeeno Thitikul,0.04040000000000002,0.2222,0.1818
 2024-12-12 03:10:18.897145,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),0.0384,0.0769,0.0385
-2024-12-11 20:31:57.864764,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Oklahoma City Thunder,0.03710000000000002,0.3704,0.3333
-2024-12-11 20:31:58.112126,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Nikola Jokic (DEN),0.03570000000000001,0.2857,0.25
 2024-12-12 02:04:08.310817,Championship - England Championship 2024/25 - Winner,Sheffield United,0.0353,0.2353,0.2
-2024-12-11 20:31:58.129499,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),0.033300000000000024,0.2,0.1667
-2024-12-11 20:31:58.247238,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 48.5,0.033299999999999996,0.5455,0.5122
-2024-12-11 20:31:58.232630,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 59.5,0.033299999999999996,0.5455,0.5122
-2024-12-11 20:31:58.276858,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 14.5,0.033299999999999996,0.5455,0.5122
-2024-12-11 20:31:58.183613,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 50.5,0.030399999999999983,0.5652,0.5348
 2024-12-12 02:04:08.210728,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Ajax,0.030299999999999994,0.6667,0.6364
 2024-12-12 03:43:41.405955,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Marcos Llorente (Atletico Madrid),0.0294,0.0588,0.0294
-2024-12-11 20:31:58.119119,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Evan Mobley (CLE),0.028399999999999995,0.0909,0.0625
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Benfica,0.028200000000000003,0.9756,0.9474
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Monaco,0.028200000000000003,0.9756,0.9474
+2024-12-12 08:36:42.492311,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.027999999999999997,0.1818,0.1538
 2024-12-12 02:04:08.210728,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Rangers,0.027999999999999997,0.1818,0.1538
 2024-12-12 02:04:08.210728,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Eintracht Frankfurt,0.027800000000000047,0.7778,0.75
-2024-12-11 20:31:58.126112,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.02779999999999999,0.25,0.2222
-2024-12-11 20:31:58.227718,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 52.5,0.023800000000000043,0.5238,0.5
+2024-12-12 08:36:42.741908,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),0.02779999999999999,0.25,0.2222
+2024-12-12 08:36:43.275406,Boxing Lines - Joey Spencer vs Angel Martinez - To Win the Bout,Angel Martinez (CLE),0.026100000000000012,0.2,0.1739
 2024-12-11 23:28:27.053981,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Illinois,0.02310000000000001,0.1,0.0769
-2024-12-11 20:31:58.193446,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 44.5,0.02079999999999993,0.5556,0.5348
-2024-12-11 20:31:58.213089,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 48.5,0.02079999999999993,0.5556,0.5348
-2024-12-11 20:31:58.122608,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),0.0203,0.0526,0.0323
+2024-12-12 08:36:42.741908,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame (W),0.022199999999999998,0.2222,0.2
 2024-12-12 02:04:08.210728,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Lyon,0.020299999999999985,0.6429,0.6226
-2024-12-11 20:31:58.198413,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 43.5,0.01970000000000005,0.5652,0.5455
+2024-12-12 07:29:54.206607,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,0.019699999999999995,0.125,0.1053
 2024-12-12 03:10:18.911902,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,AC Milan,0.019000000000000017,0.2857,0.2667
-2024-12-11 20:31:58.652483,Boxing Lines - Cristobal Lorente Campoy vs Francesco Grandelli - To Win the Bout,Cristobal Lorente Campoy,0.018999999999999906,0.7333,0.7143
 2024-12-11 22:34:11.017745,Boxing Lines - Katsuma Akitsugi vs Aston Palicte - To Win the Bout,Katsuma Akitsugi,0.01849999999999996,0.9709,0.9524
-2024-12-11 20:31:58.570610,Boxing Lines - Jonhatan Cardoso vs Eduardo Ramirez - To Win the Bout,Jonhatan Cardoso,0.018399999999999972,0.7059,0.6875
 2024-12-12 03:10:18.897145,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Raphinha (Barcelona),0.018099999999999998,0.0769,0.0588
+2024-12-12 08:36:43.524910,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Jason Day / Lydia Ko,0.0179,0.1429,0.125
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Atalanta,0.01760000000000006,0.9,0.8824
+2024-12-12 07:29:54.202576,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Left Bracket),Texas,0.017600000000000005,0.3509,0.3333
 2024-12-12 06:40:23.631081,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Ashton Jeanty (BSU),0.01759999999999999,0.1176,0.1
 2024-12-11 23:28:27.614499,Boxing Lines - Ashley Gonzalez Macias vs Mary Romero - To Win the Bout,Ashley Gonzalez Macias,0.016799999999999926,0.8571,0.8403
+2024-12-12 07:29:54.206607,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,0.015199999999999991,0.2326,0.2174
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Inter Milan,0.015100000000000002,0.8333,0.8182
 2024-12-12 03:10:18.914933,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Arsenal,0.01469999999999999,0.25,0.2353
 2024-12-12 03:10:18.897145,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Dusan Vlahovic (Juventus),0.014499999999999999,0.0294,0.0149
-2024-12-11 20:31:58.687661,Boxing Lines - Jeovanny Estela vs Jocksan Blanco - To Win the Bout,Jeovanny Estela,0.01430000000000009,0.8182,0.8039
 2024-12-12 02:04:08.313949,Championship - England Championship 2024/25 - Top Goalscorer,Thomas Cannon,0.014099999999999998,0.0385,0.0244
 2024-12-12 02:04:08.313949,Championship - England Championship 2024/25 - Top Goalscorer,Elijah Adebayo,0.014099999999999998,0.0385,0.0244
 2024-12-12 03:10:18.921144,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,0.014000000000000012,0.3125,0.2985
 2024-12-12 05:33:08.509826,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.013999999999999999,0.0909,0.0769
 2024-12-11 21:27:57.287536,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Amen Thompson (HOU),0.013899999999999996,0.125,0.1111
-2024-12-11 20:31:58.115652,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Quin Snyder,0.013699999999999999,0.0278,0.0141
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Lille,0.0131,0.2353,0.2222
+2024-12-12 08:36:42.741908,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),0.012899999999999995,0.1667,0.1538
 2024-12-12 02:04:08.210728,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Tottenham Hotspur,0.012899999999999912,0.8462,0.8333
 2024-12-12 03:10:18.897145,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Antoine Griezmann (Atletico Madrid),0.011699999999999999,0.0196,0.0079
 2024-12-12 03:10:18.897145,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Bukayo Saka (Arsenal),0.011699999999999999,0.0196,0.0079
-2024-12-11 20:31:58.640798,Boxing Lines - Kaye Scott vs Desley Robinson - To Win the Bout,Desley Robinson,0.0116,0.4878,0.4762
-2024-12-11 20:31:58.112126,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Trae Young (ATL),0.011199999999999995,0.0588,0.0476
 2024-12-11 21:27:57.744409,Boxing Lines - Katsuma Akitsugi vs Aston Palicte - To Win the Bout,Katsuma Akitsugi,0.011199999999999988,0.9524,0.9412
 2024-12-12 02:04:09.506276,Boxing Lines - Ahmed Reda vs Michael Reynolds - To Win the Bout,Michael Reynolds,0.011099999999999999,0.1111,0.1
-2024-12-11 20:31:58.262101,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 38.5,0.01100000000000001,0.5348,0.5238
+2024-12-12 08:36:42.515898,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.011099999999999999,0.1111,0.1
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Brest,0.01090000000000002,0.8571,0.8462
 2024-12-12 07:29:54.584817,Round Match-Ups - 1st Round Match-Ups - B. Stone vs J. Campillo - 1st Round Match-Ups,Brandon Stone,0.010699999999999932,0.5455,0.5348
-2024-12-11 20:31:58.242378,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 38.5,0.010699999999999932,0.5455,0.5348
 2024-12-11 21:27:57.038040,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Alperen Sengun (HOU),0.0102,0.0769,0.0667
-2024-12-11 20:31:58.601848,Boxing Lines - Samantha Worthington vs Jaica Pavilus - To Win the Bout,Jaica Pavilus,0.0102,0.0769,0.0667
 2024-12-12 02:04:09.829172,PGA Tour Qualifying School - Qualifying School - Winner,Takumi Kanaya,0.0102,0.0769,0.0667
 2024-12-12 03:43:41.405955,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Joshua Kimmich (Bayern Munich),-0.0102,0.0667,0.0769
-2024-12-11 20:31:58.262101,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 38.5,-0.010699999999999932,0.5348,0.5455
-2024-12-11 20:31:58.242378,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 38.5,-0.01100000000000001,0.5238,0.5348
+2024-12-12 07:29:54.198586,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Right Bracket),Penn State,-0.010699999999999987,0.3226,0.3333
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Celtic,-0.011199999999999988,0.9412,0.9524
 2024-12-11 23:28:27.053981,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Virginia Tech,-0.0118,0.0099,0.0217
 2024-12-11 23:28:27.806229,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.012199999999999989,0.5,0.5122
 2024-12-12 07:29:54.584817,Round Match-Ups - 1st Round Match-Ups - B. Stone vs J. Campillo - 1st Round Match-Ups,Jorge Campillo,-0.012199999999999989,0.5,0.5122
-2024-12-11 20:31:58.122608,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Bennedict Mathurin (IND),-0.012700000000000003,0.0196,0.0323
+2024-12-12 08:36:42.497122,Western Conference - Western Conference 2024-25 - Western Conference Winner,Phoenix Suns,-0.012299999999999991,0.1053,0.1176
 2024-12-12 02:04:08.210728,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Manchester United,-0.0131,0.7647,0.7778
-2024-12-11 20:31:58.687661,Boxing Lines - Jeovanny Estela vs Jocksan Blanco - To Win the Bout,Jocksan Blanco,-0.01319999999999999,0.25,0.2632
 2024-12-12 02:04:08.207804,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Ajax,-0.013999999999999999,0.0769,0.0909
 2024-12-12 03:10:18.911902,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Atalanta,-0.014099999999999994,0.0526,0.0667
 2024-12-12 03:10:18.909095,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Premier League,Aston Villa,-0.0145,0.0099,0.0244
@@ -96,55 +81,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayern Munich,-0.015100000000000002,0.8182,0.8333
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Atalanta,-0.015100000000000002,0.1667,0.1818
 2024-12-12 02:04:08.207804,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Manchester United,-0.015300000000000001,0.0323,0.0476
-2024-12-11 20:31:57.864764,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Houston Rockets,-0.015700000000000006,0.1176,0.1333
 2024-12-11 23:28:27.053981,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Xavier,-0.0159,0.0164,0.0323
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Girona,-0.0162,0.0132,0.0294
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Inter Milan,-0.016699999999999993,0.25,0.2667
 2024-12-11 23:28:27.614499,Boxing Lines - Ashley Gonzalez Macias vs Mary Romero - To Win the Bout,Mary Romero,-0.01680000000000001,0.2105,0.2273
-2024-12-11 20:31:58.640798,Boxing Lines - Kaye Scott vs Desley Robinson - To Win the Bout,Kaye Scott,-0.017299999999999982,0.5744,0.5917
 2024-12-12 02:04:08.310817,Championship - England Championship 2024/25 - Winner,Leeds United,-0.01759999999999995,0.6491,0.6667
 2024-12-11 21:27:57.744409,Boxing Lines - Katsuma Akitsugi vs Aston Palicte - To Win the Bout,Aston Palicte,-0.01759999999999999,0.1,0.1176
-2024-12-11 20:31:58.652483,Boxing Lines - Cristobal Lorente Campoy vs Francesco Grandelli - To Win the Bout,Francesco Grandelli,-0.017600000000000005,0.3333,0.3509
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bologna,-0.019700000000000002,0.002,0.0217
-2024-12-11 20:31:58.227718,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 52.5,-0.01970000000000005,0.5455,0.5652
-2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Real Madrid,-0.0203,0.0323,0.0526
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Shakhtar Donetsk,-0.0203,0.0385,0.0588
-2024-12-11 20:31:58.570610,Boxing Lines - Jonhatan Cardoso vs Eduardo Ramirez - To Win the Bout,Eduardo Ramirez,-0.02030000000000004,0.3571,0.3774
-2024-12-11 20:31:58.126112,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),-0.02169999999999994,0.5238,0.5455
-2024-12-11 20:31:58.213089,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 48.5,-0.022600000000000064,0.5122,0.5348
-2024-12-11 20:31:58.193446,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 44.5,-0.022600000000000064,0.5122,0.5348
+2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Real Madrid,-0.0203,0.0323,0.0526
+2024-12-12 08:36:43.275406,Boxing Lines - Joey Spencer vs Angel Martinez - To Win the Bout,Joey Spencer,-0.022199999999999998,0.8667,0.8889
 2024-12-11 22:34:11.017745,Boxing Lines - Katsuma Akitsugi vs Aston Palicte - To Win the Bout,Aston Palicte,-0.02310000000000001,0.0769,0.1
 2024-12-12 03:10:18.921144,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,-0.023799999999999988,0.4762,0.5
-2024-12-11 20:31:58.198413,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 43.5,-0.023800000000000043,0.5,0.5238
 2024-12-12 02:04:08.196804,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,Liverpool,-0.0242,0.9091,0.9333
-2024-12-11 20:31:57.864764,In-Season Tournament Cup - Emirates NBA Cup 2024 -  NBA In-Season Tournament Winner,Milwaukee Bucks,-0.024399999999999977,0.2353,0.2597
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Bayer Leverkusen,-0.025999999999999912,0.7143,0.7403
 2024-12-12 02:04:08.194051,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,-0.028799999999999992,0.125,0.1538
 2024-12-12 02:04:08.317306,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,-0.030299999999999994,0.3333,0.3636
-2024-12-11 20:31:58.247238,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 48.5,-0.03179999999999994,0.5238,0.5556
-2024-12-11 20:31:58.232630,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 59.5,-0.03179999999999994,0.5238,0.5556
-2024-12-11 20:31:58.276858,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 14.5,-0.03179999999999994,0.5238,0.5556
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Crvena Zvezda,-0.03439999999999999,0.0323,0.0667
-2024-12-11 20:31:58.183613,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 50.5,-0.03480000000000005,0.5,0.5348
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sturm Graz,-0.03559999999999999,0.0079,0.0435
 2024-12-12 03:10:18.900592,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Slovan Bratislava,-0.035699999999999954,0.7143,0.75
 2024-12-12 03:10:18.914933,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Manchester City,-0.03749999999999998,0.2222,0.2597
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,AC Milan,-0.037800000000000056,0.5455,0.5833
 2024-12-12 02:04:08.317306,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.043800000000000006,0.1667,0.2105
-2024-12-11 20:31:58.252121,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 23.5,-0.045499999999999985,0.5,0.5455
+2024-12-12 08:36:42.741908,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),-0.047599999999999976,0.2857,0.3333
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Atlético Madrid,-0.04760000000000009,0.6667,0.7143
-2024-12-11 20:31:58.237496,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 48.5,-0.04849999999999999,0.5348,0.5833
 2024-12-12 03:10:18.897145,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),-0.0504,0.2353,0.2857
 2024-12-12 03:10:18.911902,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Inter Milan,-0.0504,0.7143,0.7647
 2024-12-12 03:10:18.900592,UEFA Champions League - UEFA Champions League 2024/25 - To Finish Bottom in League Stage,Bologna,-0.051,0.0323,0.0833
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Club Brugge,-0.05230000000000001,0.8889,0.9412
 2024-12-12 02:04:08.207804,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Eintracht Frankfurt,-0.05559999999999998,0.1111,0.1667
-2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Benfica,-0.05650000000000001,0.0435,0.1
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Monaco,-0.05650000000000001,0.0435,0.1
+2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Benfica,-0.05650000000000001,0.0435,0.1
 2024-12-12 02:04:08.207804,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Tottenham Hotspur,-0.058300000000000005,0.0667,0.125
+2024-12-12 08:36:42.520645,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.05889999999999995,0.6078,0.6667
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sparta Prague,-0.059,0.0179,0.0769
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Dinamo Zagreb,-0.0635,0.2222,0.2857
-2024-12-11 20:31:58.217979,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 46.5,-0.06779999999999997,0.4878,0.5556
 2024-12-12 02:04:08.207804,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Galatasaray,-0.08410000000000001,0.0588,0.1429
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,PSV Eindhoven,-0.08550000000000002,0.7895,0.875
 2024-12-12 03:10:18.906287,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - La Liga,Atlético Madrid,-0.0953,0.0476,0.1429
@@ -153,5 +124,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,FC Barcelona,-0.13890000000000002,0.0833,0.2222
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Juventus,-0.14739999999999998,0.8,0.9474
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Borussia Dortmund,-0.15710000000000002,0.6429,0.8
-2024-12-11 20:31:58.203298,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 50.5,-0.17109999999999992,0.5348,0.7059
 2024-12-12 03:10:18.903463,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Bundesliga,Borussia Dortmund,-0.22360000000000002,0.1538,0.3774
