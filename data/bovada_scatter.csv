@@ -18,8 +18,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Atlético Madrid,0.053100000000000036,0.4167,0.3636
 2024-12-12 08:36:42.715080,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),San Diego State,0.05310000000000001,0.2857,0.2326
 2024-12-12 03:10:18.911902,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Juventus,0.0518,0.0667,0.0149
-2024-12-12 02:04:08.317306,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.045499999999999985,0.5,0.4545
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,AC Milan,0.045499999999999985,0.5455,0.5
+2024-12-12 02:04:08.317306,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.045499999999999985,0.5,0.4545
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bayer Leverkusen,0.04410000000000003,0.3774,0.3333
 2024-12-12 08:36:43.524910,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Tom Kim / Jeeno Thitikul,0.04040000000000002,0.2222,0.1818
 2024-12-12 03:10:18.897145,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),0.0384,0.0769,0.0385
@@ -35,6 +35,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 08:36:43.275406,Boxing Lines - Joey Spencer vs Angel Martinez - To Win the Bout,Angel Martinez (CLE),0.026100000000000012,0.2,0.1739
 2024-12-11 23:28:27.053981,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Illinois,0.02310000000000001,0.1,0.0769
 2024-12-12 08:36:42.741908,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame (W),0.022199999999999998,0.2222,0.2
+2024-12-12 08:36:42.731227,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,0.022199999999999998,0.8889,0.8667
 2024-12-12 02:04:08.210728,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Lyon,0.020299999999999985,0.6429,0.6226
 2024-12-12 07:29:54.206607,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,0.019699999999999995,0.125,0.1053
 2024-12-12 03:10:18.911902,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,AC Milan,0.019000000000000017,0.2857,0.2667
@@ -53,25 +54,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 02:04:08.313949,Championship - England Championship 2024/25 - Top Goalscorer,Elijah Adebayo,0.014099999999999998,0.0385,0.0244
 2024-12-12 03:10:18.921144,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,0.014000000000000012,0.3125,0.2985
 2024-12-12 05:33:08.509826,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.013999999999999999,0.0909,0.0769
-2024-12-11 21:27:57.287536,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Amen Thompson (HOU),0.013899999999999996,0.125,0.1111
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Lille,0.0131,0.2353,0.2222
 2024-12-12 08:36:42.741908,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),0.012899999999999995,0.1667,0.1538
 2024-12-12 02:04:08.210728,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Tottenham Hotspur,0.012899999999999912,0.8462,0.8333
+2024-12-12 09:31:36.315590,Boxing Lines - Ermal Hadribeaj vs Eddy Colmenares - To Win the Bout,Eddy Colmenares,0.011700000000000016,0.2222,0.2105
 2024-12-12 03:10:18.897145,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Antoine Griezmann (Atletico Madrid),0.011699999999999999,0.0196,0.0079
 2024-12-12 03:10:18.897145,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Bukayo Saka (Arsenal),0.011699999999999999,0.0196,0.0079
-2024-12-11 21:27:57.744409,Boxing Lines - Katsuma Akitsugi vs Aston Palicte - To Win the Bout,Katsuma Akitsugi,0.011199999999999988,0.9524,0.9412
 2024-12-12 02:04:09.506276,Boxing Lines - Ahmed Reda vs Michael Reynolds - To Win the Bout,Michael Reynolds,0.011099999999999999,0.1111,0.1
 2024-12-12 08:36:42.515898,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.011099999999999999,0.1111,0.1
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Brest,0.01090000000000002,0.8571,0.8462
 2024-12-12 07:29:54.584817,Round Match-Ups - 1st Round Match-Ups - B. Stone vs J. Campillo - 1st Round Match-Ups,Brandon Stone,0.010699999999999932,0.5455,0.5348
-2024-12-11 21:27:57.038040,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Alperen Sengun (HOU),0.0102,0.0769,0.0667
 2024-12-12 02:04:09.829172,PGA Tour Qualifying School - Qualifying School - Winner,Takumi Kanaya,0.0102,0.0769,0.0667
 2024-12-12 03:43:41.405955,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Joshua Kimmich (Bayern Munich),-0.0102,0.0667,0.0769
 2024-12-12 07:29:54.198586,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Right Bracket),Penn State,-0.010699999999999987,0.3226,0.3333
+2024-12-12 09:31:36.315590,Boxing Lines - Ermal Hadribeaj vs Eddy Colmenares - To Win the Bout,Ermal Hadribeaj,-0.01090000000000002,0.8462,0.8571
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Celtic,-0.011199999999999988,0.9412,0.9524
 2024-12-11 23:28:27.053981,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Virginia Tech,-0.0118,0.0099,0.0217
-2024-12-11 23:28:27.806229,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.012199999999999989,0.5,0.5122
 2024-12-12 07:29:54.584817,Round Match-Ups - 1st Round Match-Ups - B. Stone vs J. Campillo - 1st Round Match-Ups,Jorge Campillo,-0.012199999999999989,0.5,0.5122
+2024-12-11 23:28:27.806229,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.012199999999999989,0.5,0.5122
 2024-12-12 08:36:42.497122,Western Conference - Western Conference 2024-25 - Western Conference Winner,Phoenix Suns,-0.012299999999999991,0.1053,0.1176
 2024-12-12 02:04:08.210728,UEFA Europa League - UEFA Europa League 2024/25 - Top 8 Finish in League Stage,Manchester United,-0.0131,0.7647,0.7778
 2024-12-12 02:04:08.207804,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Ajax,-0.013999999999999999,0.0769,0.0909
@@ -86,10 +86,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Inter Milan,-0.016699999999999993,0.25,0.2667
 2024-12-11 23:28:27.614499,Boxing Lines - Ashley Gonzalez Macias vs Mary Romero - To Win the Bout,Mary Romero,-0.01680000000000001,0.2105,0.2273
 2024-12-12 02:04:08.310817,Championship - England Championship 2024/25 - Winner,Leeds United,-0.01759999999999995,0.6491,0.6667
-2024-12-11 21:27:57.744409,Boxing Lines - Katsuma Akitsugi vs Aston Palicte - To Win the Bout,Aston Palicte,-0.01759999999999999,0.1,0.1176
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Bologna,-0.019700000000000002,0.002,0.0217
 2024-12-12 03:10:18.924509,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Shakhtar Donetsk,-0.0203,0.0385,0.0588
 2024-12-12 03:10:18.927458,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Real Madrid,-0.0203,0.0323,0.0526
+2024-12-12 09:31:36.592923,Grant Thornton Invitational - Grant Thornton Invitational - Winner,Tom Kim / Jeeno Thitikul,-0.022199999999999998,0.2,0.2222
 2024-12-12 08:36:43.275406,Boxing Lines - Joey Spencer vs Angel Martinez - To Win the Bout,Joey Spencer,-0.022199999999999998,0.8667,0.8889
 2024-12-11 22:34:11.017745,Boxing Lines - Katsuma Akitsugi vs Aston Palicte - To Win the Bout,Aston Palicte,-0.02310000000000001,0.0769,0.1
 2024-12-12 03:10:18.921144,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,-0.023799999999999988,0.4762,0.5
