@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 22:33:17.221684,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Club América,0.04620000000000002,0.5917,0.5455
 2024-12-12 23:28:45.145754,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Chelsea,0.044399999999999995,0.6,0.5556
 2024-12-12 23:28:45.136494,UEFA Europa League - UEFA Europa League 2024/25 - Winner,AS Roma,0.029299999999999993,0.0769,0.0476
+2024-12-13 06:39:36.516742,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.029000000000000026,0.4545,0.4255
 2024-12-13 03:44:02.376030,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,0.0242,0.0909,0.0667
 2024-12-12 21:28:31.850245,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.023800000000000043,0.5238,0.5
 2024-12-13 03:44:03.070150,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.022699999999999998,0.4878,0.4651
@@ -10,14 +11,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 20:31:59.433136,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.021699999999999997,0.4762,0.4545
 2024-12-12 23:28:45.136494,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Lazio,0.02020000000000001,0.1111,0.0909
 2024-12-12 23:28:45.145754,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Vitória Guimarães,0.019099999999999992,0.0667,0.0476
+2024-12-13 06:39:36.516742,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Los Angeles Rams,0.018099999999999998,0.0526,0.0345
 2024-12-12 22:33:18.471595,Boxing Lines - Sara Bailey vs Anabel Ortiz - To Win the Bout,Sara Bailey,0.017900000000000027,0.875,0.8571
 2024-12-13 05:33:12.980710,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,0.017299999999999982,0.5917,0.5744
 2024-12-13 03:44:02.415399,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),0.016699999999999993,0.2667,0.25
-2024-12-12 18:39:25.170570,Boxing Lines - Sukhdeep Singh vs Uisma Lima - To Win the Bout,Uisma Lima,0.016699999999999993,0.4167,0.4
 2024-12-12 22:33:17.927688,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Memphis,0.016699999999999937,0.6,0.5833
 2024-12-12 21:28:31.902730,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,0.016100000000000003,0.6078,0.5917
 2024-12-13 03:44:02.376030,NBL - Australia NBL 2024/25 - Outright,Brisbane Bullets,0.014099999999999998,0.0385,0.0244
 2024-12-12 19:24:18.138851,Boxing Lines - Jeovanny Estela vs Jocksan Blanco - To Win the Bout,Jocksan Blanco,0.01319999999999999,0.2632,0.25
+2024-12-13 06:39:36.516742,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,0.0131,0.0476,0.0345
 2024-12-12 23:28:45.136494,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Manchester United,0.012899999999999995,0.1667,0.1538
 2024-12-12 23:28:45.145754,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Fiorentina,0.012899999999999995,0.1667,0.1538
 2024-12-13 03:44:02.376030,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.012299999999999978,0.3571,0.3448
@@ -30,8 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-12 22:33:18.636165,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.010599999999999998,0.4651,0.4545
 2024-12-13 02:05:46.160844,Boxing Lines - Fradimil Macayo vs Oscar Escandon - To Win the Bout,Fradimil Macayo,0.010199999999999987,0.9333,0.9231
 2024-12-13 02:05:46.288983,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Peter McGrail,-0.010099999999999998,0.5455,0.5556
-2024-12-12 23:28:46.574617,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.010699999999999932,0.5348,0.5455
 2024-12-13 05:33:12.927470,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.010699999999999932,0.5348,0.5455
+2024-12-12 23:28:46.574617,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.010699999999999932,0.5348,0.5455
 2024-12-12 23:28:46.471129,Boxing Lines - Da'Velle Smith vs William Townsel - To Win the Bout,William Townsel,-0.010899999999999993,0.1429,0.1538
 2024-12-13 02:05:46.207108,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01100000000000001,0.5238,0.5348
 2024-12-13 02:05:46.164917,Boxing Lines - Tammara Thibeault vs Natasha Spence - To Win the Bout,Natasha Spence,-0.011099999999999999,0.1,0.1111
@@ -39,20 +41,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-13 05:33:12.980710,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.0116,0.4762,0.4878
 2024-12-12 23:28:45.136494,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Nice,-0.0118,0.0099,0.0217
 2024-12-12 20:31:59.381662,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.012199999999999989,0.5,0.5122
-2024-12-12 18:39:25.182530,Boxing Lines - Kaye Scott vs Desley Robinson - To Win the Bout,Desley Robinson,-0.012199999999999989,0.4878,0.5
 2024-12-13 04:34:31.548183,Super Bowl LIX - Super Bowl 59 - Winner,Philadelphia Eagles,-0.012899999999999995,0.1538,0.1667
 2024-12-12 23:28:45.145754,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Heidenheim,-0.014100000000000001,0.0385,0.0526
 2024-12-12 19:24:18.138851,Boxing Lines - Jeovanny Estela vs Jocksan Blanco - To Win the Bout,Jeovanny Estela,-0.01430000000000009,0.8039,0.8182
 2024-12-12 20:31:59.433136,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,-0.016100000000000003,0.5917,0.6078
-2024-12-12 18:39:25.170570,Boxing Lines - Sukhdeep Singh vs Uisma Lima - To Win the Bout,Sukhdeep Singh,-0.01759999999999995,0.6491,0.6667
 2024-12-12 23:28:45.136494,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Eintracht Frankfurt,-0.018099999999999998,0.0588,0.0769
 2024-12-12 23:28:45.136494,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,-0.01820000000000002,0.1818,0.2
 2024-12-12 21:28:31.850245,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01970000000000005,0.5455,0.5652
 2024-12-12 22:33:18.471595,Boxing Lines - Sara Bailey vs Anabel Ortiz - To Win the Bout,Anabel Ortiz,-0.01999999999999999,0.1905,0.2105
 2024-12-12 21:28:31.902730,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.021699999999999997,0.4545,0.4762
 2024-12-12 20:31:59.046656,NFL Specials - What WIll Aaron Rodgers be for Week 1 of the 2025/2026 NFL Season - Proposition,Full time Job with Milwaukee Bucks,-0.02239999999999999,0.0952,0.1176
+2024-12-13 06:39:36.516742,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,-0.022400000000000003,0.002,0.0244
 2024-12-12 20:31:59.046656,NFL Specials - What WIll Aaron Rodgers be for Week 1 of the 2025/2026 NFL Season - Proposition,Host of a Podcast,-0.024800000000000016,0.2105,0.2353
 2024-12-12 23:28:45.145754,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Real Betis,-0.024999999999999994,0.1,0.125
 2024-12-13 03:44:03.070150,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,-0.025599999999999956,0.5744,0.6
+2024-12-13 06:39:36.516742,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,-0.031399999999999983,0.2353,0.2667
 2024-12-12 22:33:17.221684,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,CF Monterrey,-0.04760000000000003,0.4762,0.5238
 2024-12-13 02:05:45.959316,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,-0.09350000000000003,0.3509,0.4444
