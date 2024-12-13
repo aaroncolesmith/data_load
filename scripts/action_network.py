@@ -556,7 +556,12 @@ def update_trank(df_cbb):
       trank['matchup'] = trank['matchup'].str.replace(r'\s\+\s*$', '', regex=True)
       trank['matchup'] = trank['matchup'].str.replace('Illinois Chicago', 'UIC', regex=True)
       trank['matchup'] = trank['matchup'].str.replace('Gardner Webb', 'Gardner-Webb', regex=True)
-      trank['trank_spread']='-'+trank.t_rank_line.str.split('-',expand=True)[1].str.split(',',expand=True)[0]
+      # the change: Check if split produces enough elements
+      split_result = trank.t_rank_line.str.split('-',expand=True)
+      if 1 in split_result and 0 in split_result[1].str.split(',',expand=True):
+          trank['trank_spread']='-'+split_result[1].str.split(',',expand=True)[0]
+      else:
+          trank['trank_spread'] = np.nan # or some default value
 
       trank['date_added'] = date_added
 
