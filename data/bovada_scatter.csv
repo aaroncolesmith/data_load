@@ -60,15 +60,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 02:00:51.104160,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.013899999999999996,0.125,0.1111
 2024-12-14 08:33:41.312445,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.013800000000000034,0.3774,0.3636
 2024-12-14 10:32:57.184780,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout",Daniel Dietz,0.013799999999999923,0.6364,0.6226
+2024-12-14 12:50:52.730117,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout",Daniel Dietz,0.012700000000000045,0.6491,0.6364
 2024-12-14 08:33:41.401512,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Tennessee,0.011700000000000016,0.2222,0.2105
 2024-12-14 06:37:15.964403,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.0116,0.4878,0.4762
 2024-12-14 10:32:57.293492,Boxing Lines - Yoshiki Takei vs Yuttapong Tongdee - To Win the Bout,Yoshiki Takei,0.011099999999999999,0.9,0.8889
 2024-12-14 11:23:39.649892,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.01100000000000001,0.5348,0.5238
-2024-12-14 05:31:03.225285,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.010699999999999932,0.5455,0.5348
 2024-12-14 02:00:51.657808,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.010699999999999932,0.5455,0.5348
+2024-12-14 05:31:03.225285,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.010699999999999932,0.5455,0.5348
+2024-12-14 12:50:52.726133,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.010699999999999932,0.5455,0.5348
 2024-12-14 09:28:14.130316,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Kam Jones (Marquette),0.010399999999999993,0.2326,0.2222
-2024-12-14 09:28:13.372488,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.010099999999999998,0.4545,0.4444
 2024-12-14 03:41:15.104167,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.010099999999999998,0.5556,0.5455
+2024-12-14 09:28:13.372488,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.010099999999999998,0.4545,0.4444
 2024-12-14 09:28:13.591436,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,-0.010199999999999987,0.9231,0.9333
 2024-12-14 02:00:51.718041,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Bruno Surace,-0.0102,0.0667,0.0769
 2024-12-14 02:00:51.104160,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,-0.010399999999999993,0.2222,0.2326
@@ -76,17 +78,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 08:33:41.437834,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Anthony Davis (LAL),-0.010700000000000001,0.0278,0.0385
 2024-12-14 09:28:13.578926,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Fortuna Düsseldorf,-0.010899999999999993,0.1429,0.1538
 2024-12-14 09:28:13.578926,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,-0.010899999999999993,0.1429,0.1538
+2024-12-14 12:50:52.726133,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01100000000000001,0.5238,0.5348
 2024-12-14 05:31:03.225285,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01100000000000001,0.5238,0.5348
 2024-12-14 02:00:51.657808,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.01100000000000001,0.5238,0.5348
-2024-12-14 08:33:41.302928,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.011099999999999999,0.1,0.1111
+2024-12-14 12:50:52.786023,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.011099999999999999,0.4651,0.4762
 2024-12-14 02:00:51.104160,Euroleague - Euroleague 2024/25 - Outright,Fenerbahce,-0.011099999999999999,0.1,0.1111
-2024-12-14 09:28:13.578926,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hertha BSC,-0.011199999999999995,0.0476,0.0588
+2024-12-14 08:33:41.302928,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.011099999999999999,0.1,0.1111
+2024-12-14 12:50:52.798108,Boxing Lines - Ryosuke Nishida vs Anuchai Donsua - To Win the Bout,Anuchai Donsua,-0.011099999999999999,0.1,0.1111
 2024-12-14 02:00:51.107431,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Real Madrid,-0.011199999999999995,0.0476,0.0588
-2024-12-14 09:28:14.681200,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.0116,0.4762,0.4878
+2024-12-14 09:28:13.578926,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hertha BSC,-0.011199999999999995,0.0476,0.0588
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Will Cannon,-0.0116,0.0025,0.0141
+2024-12-14 09:28:14.681200,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.0116,0.4762,0.4878
 2024-12-14 03:41:15.104167,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.011600000000000055,0.5122,0.5238
-2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Austin Smotherman,-0.011699999999999999,0.0079,0.0196
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Kensei Hirata,-0.011699999999999999,0.0079,0.0196
+2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Austin Smotherman,-0.011699999999999999,0.0079,0.0196
 2024-12-14 08:33:41.283768,Western Conference - Western Conference 2024-25 - Western Conference Winner,Memphis Grizzlies,-0.011899999999999994,0.0714,0.0833
 2024-12-14 08:33:41.437834,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jayson Tatum (BOS),-0.011900000000000008,0.0833,0.0952
 2024-12-14 02:00:51.122036,NBL - Australia NBL 2024/25 - Outright,New Zealand Breakers,-0.012100000000000001,0.0123,0.0244
