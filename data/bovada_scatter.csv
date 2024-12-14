@@ -16,14 +16,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-13 20:31:39.520524,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.03639999999999999,0.6364,0.6
 2024-12-13 21:27:41.106681,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Calen Bullock (HOU),0.0345,0.0385,0.004
 2024-12-13 21:27:41.110256,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),0.034100000000000005,0.125,0.0909
-2024-12-13 19:23:52.063494,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.03330000000000001,0.1,0.0667
 2024-12-13 20:31:39.527870,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),0.032299999999999995,0.6875,0.6552
 2024-12-13 21:27:41.110256,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),0.031400000000000095,0.7647,0.7333
 2024-12-13 20:31:39.527870,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Chris Jones,0.031199999999999995,0.0556,0.0244
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Tim Hart,0.0309,0.0526,0.0217
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Richy Werenski,0.0306,0.0385,0.0079
 2024-12-13 21:27:41.106681,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Cooper DeJean (PHI),0.028199999999999996,0.0667,0.0385
-2024-12-13 19:23:52.063494,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),0.027999999999999997,0.1818,0.1538
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Hayden Buckley,0.0279,0.0345,0.0066
 2024-12-13 21:27:41.110256,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),0.02560000000000001,0.3333,0.3077
 2024-12-13 21:27:41.106681,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Kamari Lassiter (HOU),0.0253,0.0385,0.0132
@@ -31,20 +29,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Jason Hong,0.024600000000000004,0.0345,0.0099
 2024-12-13 21:27:41.106681,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jonah Elliss (DEN),0.0244,0.0323,0.0079
 2024-12-13 21:27:41.102571,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),0.023799999999999988,0.1667,0.1429
-2024-12-13 18:38:29.917386,Boxing Lines - Cristobal Lorente Campoy vs Francesco Grandelli - To Win the Bout,Francesco Grandelli,0.023799999999999988,0.3571,0.3333
 2024-12-13 21:27:41.102571,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),0.023799999999999932,0.8571,0.8333
 2024-12-14 02:00:51.107431,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Milano,0.0232,0.0667,0.0435
 2024-12-13 20:31:39.520524,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,0.022699999999999998,0.25,0.2273
-2024-12-13 21:27:41.307566,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.022600000000000064,0.5348,0.5122
-2024-12-14 03:05:52.912855,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout",Daniel Dietz,0.022600000000000064,0.6226,0.6
 2024-12-14 04:33:49.722176,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.022600000000000064,0.5348,0.5122
+2024-12-14 03:05:52.912855,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout",Daniel Dietz,0.022600000000000064,0.6226,0.6
+2024-12-13 21:27:41.307566,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.022600000000000064,0.5348,0.5122
 2024-12-13 21:27:41.062466,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,0.021699999999999997,0.4762,0.4545
 2024-12-13 21:27:41.102571,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Justin Jefferson (MIN),0.0206,0.0385,0.0179
-2024-12-13 20:31:39.527870,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Brian Branch (DET),0.0206,0.0385,0.0179
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Connor McKinney,0.0206,0.0385,0.0179
+2024-12-13 20:31:39.527870,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Brian Branch (DET),0.0206,0.0385,0.0179
 2024-12-13 21:27:40.952812,Super Bowl LIX - Super Bowl 59 - Winner,Buffalo Bills,0.02049999999999999,0.1538,0.1333
-2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Matt NeSmith,0.020000000000000004,0.0323,0.0123
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Kade McBride,0.020000000000000004,0.0323,0.0123
+2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Matt NeSmith,0.020000000000000004,0.0323,0.0123
 2024-12-13 21:27:41.106681,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),T'Vondre Sweat (TEN),0.0194,0.0244,0.005
 2024-12-14 02:00:51.107431,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Bayern Munich,0.019099999999999992,0.0667,0.0476
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Dylan Gardner,0.0187,0.0244,0.0057
@@ -57,10 +54,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Zach Fisher,0.0165,0.0244,0.0079
 2024-12-13 21:27:41.106681,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Terrion Arnold (DET),0.0156,0.0196,0.004
 2024-12-13 21:27:41.106681,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Nate Wiggins (BAL),0.0156,0.0196,0.004
+2024-12-14 06:37:15.679450,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Right Bracket),Georgia,0.015400000000000025,0.4,0.3846
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Ben Eccles,0.015300000000000001,0.0476,0.0323
 2024-12-14 02:00:51.107431,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Zalgiris,0.014900000000000004,0.0345,0.0196
 2024-12-13 21:27:40.962507,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.01469999999999999,0.25,0.2353
-2024-12-13 19:23:52.040031,NCAA Football Futures - 2024-2025 - NCAA FCS National Championship Winner - Winner,South Dakota,0.01440000000000001,0.1053,0.0909
 2024-12-14 02:00:51.681955,Boxing Lines - Natasha Jonas vs Ivana Habazin - To Win the Bout,Natasha Jonas,0.014000000000000012,0.9231,0.9091
 2024-12-14 02:00:51.104160,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.013899999999999996,0.125,0.1111
 2024-12-13 21:27:40.957651,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Baltimore Ravens,0.01369999999999999,0.1923,0.1786
@@ -68,8 +65,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-13 21:27:40.957651,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Denver Broncos,0.0133,0.0588,0.0455
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Blake Proverbs,0.012800000000000002,0.0345,0.0217
 2024-12-13 21:27:41.106681,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tyler Nubin (NYG),0.012400000000000001,0.0164,0.004
-2024-12-13 20:31:39.527870,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),0.0121,0.0556,0.0435
 2024-12-13 20:31:39.527870,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Danielle Hunter (HOU),0.0121,0.0556,0.0435
+2024-12-13 20:31:39.527870,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Will Anderson (HOU),0.0121,0.0556,0.0435
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Lachlan Aylen,0.0119,0.0152,0.0033
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Jye Halls,0.0118,0.0217,0.0099
 2024-12-14 06:37:15.964403,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.0116,0.4878,0.4762
@@ -79,36 +76,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-13 22:33:20.682504,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.011099999999999999,0.4762,0.4651
 2024-12-13 21:27:41.102571,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Derrick Henry (BAL),0.011099999999999999,0.1111,0.1
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,David McKenzie,0.010700000000000001,0.0164,0.0057
-2024-12-14 05:31:03.225285,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.010699999999999932,0.5455,0.5348
 2024-12-14 02:00:51.657808,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.010699999999999932,0.5455,0.5348
-2024-12-13 19:23:52.040031,NCAA Football Futures - 2024-2025 - NCAA FCS National Championship Winner - Winner,Idaho,0.010600000000000002,0.0323,0.0217
+2024-12-14 05:31:03.225285,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.010699999999999932,0.5455,0.5348
 2024-12-13 22:33:20.637460,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,0.010500000000000065,0.8,0.7895
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Alex Edge,0.0102,0.0152,0.005
-2024-12-13 19:23:52.244553,Boxing Lines - Fradimil Macayo vs Oscar Escandon - To Win the Bout,Fradimil Macayo,0.010199999999999987,0.9333,0.9231
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Jye Pickin,0.010100000000000001,0.0345,0.0244
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Christopher Wood,0.010100000000000001,0.0345,0.0244
 2024-12-14 03:41:15.104167,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.010099999999999998,0.5556,0.5455
-2024-12-13 19:23:52.299634,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.010099999999999998,0.5556,0.5455
-2024-12-13 18:38:29.943757,Boxing Lines - Fradimil Macayo vs Oscar Escandon - To Win the Bout,Fradimil Macayo,-0.010199999999999987,0.9231,0.9333
 2024-12-14 02:00:51.718041,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Bruno Surace,-0.0102,0.0667,0.0769
 2024-12-14 02:00:51.104160,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,-0.010399999999999993,0.2222,0.2326
 2024-12-13 21:27:41.083560,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,-0.010399999999999993,0.2222,0.2326
-2024-12-14 05:31:03.225285,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01100000000000001,0.5238,0.5348
 2024-12-14 02:00:51.657808,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.01100000000000001,0.5238,0.5348
+2024-12-14 05:31:03.225285,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01100000000000001,0.5238,0.5348
 2024-12-13 22:33:20.637460,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Leonardo Mosquea,-0.011099999999999999,0.2667,0.2778
 2024-12-14 02:00:51.104160,Euroleague - Euroleague 2024/25 - Outright,Fenerbahce,-0.011099999999999999,0.1,0.1111
-2024-12-13 19:23:52.362245,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.011099999999999999,0.4651,0.4762
 2024-12-14 02:00:51.107431,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Real Madrid,-0.011199999999999995,0.0476,0.0588
-2024-12-13 19:23:52.040031,NCAA Football Futures - 2024-2025 - NCAA FCS National Championship Winner - Winner,Montana State,-0.01150000000000001,0.3333,0.3448
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Will Cannon,-0.0116,0.0025,0.0141
-2024-12-13 19:23:52.299634,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.011600000000000055,0.5122,0.5238
 2024-12-14 03:41:15.104167,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.011600000000000055,0.5122,0.5238
-2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Kensei Hirata,-0.011699999999999999,0.0079,0.0196
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Austin Smotherman,-0.011699999999999999,0.0079,0.0196
+2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Kensei Hirata,-0.011699999999999999,0.0079,0.0196
 2024-12-14 02:00:51.122036,NBL - Australia NBL 2024/25 - Outright,New Zealand Breakers,-0.012100000000000001,0.0123,0.0244
 2024-12-13 21:27:40.687034,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jared McCain (PHI),-0.012700000000000003,0.0196,0.0323
-2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Kevin Yuan,-0.012800000000000002,0.0217,0.0345
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Josh Armstrong,-0.012800000000000002,0.0217,0.0345
+2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Kevin Yuan,-0.012800000000000002,0.0217,0.0345
 2024-12-14 02:00:51.122036,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,-0.014099999999999998,0.0294,0.0435
 2024-12-13 22:33:20.844257,Gippsland Super 6 - Gippsland Super 6 - Winner,Matias Sanchez,-0.014100000000000001,0.0385,0.0526
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Seung-Yul Noh,-0.015400000000000002,0.009,0.0244
@@ -130,7 +120,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 02:00:51.122036,NBL - Australia NBL 2024/25 - Outright,Melbourne United,-0.023799999999999988,0.3333,0.3571
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Rayhan Thomas,-0.0244,0.0079,0.0323
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Adrien Dumont De Chassart,-0.0273,0.005,0.0323
-2024-12-13 18:38:29.917386,Boxing Lines - Cristobal Lorente Campoy vs Francesco Grandelli - To Win the Bout,Cristobal Lorente Campoy,-0.02739999999999998,0.7059,0.7333
 2024-12-14 02:00:51.122036,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.02779999999999999,0.2222,0.25
 2024-12-13 21:27:40.957651,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Houston Texans,-0.028399999999999995,0.0625,0.0909
 2024-12-14 04:33:49.932205,PGA Tour Qualifying School - Qualifying School - Winner,Doc Redman,-0.0286,0.0099,0.0385
