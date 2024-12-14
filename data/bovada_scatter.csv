@@ -24,8 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 08:33:40.801685,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.03959999999999997,0.5744,0.5348
 2024-12-14 14:29:57.876373,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.035699999999999954,0.75,0.7143
 2024-12-14 17:28:38.222183,Boxing Lines - Stephen McKenna vs Lee Cutler - To Win the Bout,Stephen McKenna,0.033399999999999985,0.8667,0.8333
-2024-12-14 10:32:56.665389,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,0.033300000000000024,0.2,0.1667
 2024-12-14 09:28:13.379092,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,0.033300000000000024,0.2,0.1667
+2024-12-14 10:32:56.665389,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,0.033300000000000024,0.2,0.1667
 2024-12-14 08:33:41.283768,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.030299999999999994,0.3636,0.3333
 2024-12-14 17:28:38.272884,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,0.02960000000000007,0.6296,0.6
 2024-12-14 09:28:13.393144,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.029000000000000026,0.4545,0.4255
@@ -33,14 +33,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Connor McKinney,0.028199999999999996,0.0667,0.0385
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Blake Windred,0.028199999999999996,0.0667,0.0385
 2024-12-14 09:28:13.578926,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,0.027999999999999997,0.1818,0.1538
-2024-12-14 14:29:57.862094,National League - MLB 2025 National League  - MLB 2025 National League Winner,Chicago Cubs,0.024299999999999995,0.0769,0.0526
+2024-12-14 18:36:01.638376,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.024399999999999977,0.5122,0.4878
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Christopher Wood,0.024299999999999995,0.0588,0.0345
+2024-12-14 14:29:57.862094,National League - MLB 2025 National League  - MLB 2025 National League Winner,Chicago Cubs,0.024299999999999995,0.0769,0.0526
 2024-12-14 09:28:13.578926,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,0.0242,0.0909,0.0667
 2024-12-14 08:33:41.278974,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.023799999999999988,0.5,0.4762
 2024-12-14 08:33:41.320332,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Giannis Antetokounmpo (MIL),0.02210000000000001,0.2326,0.2105
 2024-12-14 08:33:41.312445,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.020799999999999985,0.3333,0.3125
 2024-12-14 09:28:14.116880,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Xavier,0.02020000000000001,0.1111,0.0909
 2024-12-14 13:31:55.042716,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.01970000000000005,0.5652,0.5455
+2024-12-14 18:36:01.705812,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.019699999999999995,0.4545,0.4348
 2024-12-14 17:28:38.226074,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Leonardo Mosquea,0.019000000000000017,0.2857,0.2667
 2024-12-14 09:28:13.574132,Ligue 2 - France Ligue 2 2024/25 - Outright,Stade Lavallois,0.0189,0.0385,0.0196
 2024-12-14 08:33:41.320332,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jalen Williams (OKC),0.0189,0.0385,0.0196
@@ -61,8 +63,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 14:29:57.881338,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Chicago Cubs,0.014099999999999998,0.0435,0.0294
 2024-12-14 09:28:13.372488,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AC Milan,0.014099999999999994,0.0667,0.0526
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Tim Hart,0.014099999999999994,0.0667,0.0526
-2024-12-14 09:28:13.379092,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.013999999999999999,0.0909,0.0769
 2024-12-14 09:28:13.549095,First Division A - Belgium First Division A 2024/25 - Outright,Anderlecht,0.013999999999999999,0.0909,0.0769
+2024-12-14 09:28:13.379092,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.013999999999999999,0.0909,0.0769
 2024-12-14 08:33:41.312445,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.013800000000000034,0.3774,0.3636
 2024-12-14 10:32:57.184780,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout",Daniel Dietz,0.013799999999999923,0.6364,0.6226
 2024-12-14 12:50:52.730117,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout",Daniel Dietz,0.012700000000000045,0.6491,0.6364
@@ -73,8 +75,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 10:32:57.293492,Boxing Lines - Yoshiki Takei vs Yuttapong Tongdee - To Win the Bout,Yoshiki Takei,0.011099999999999999,0.9,0.8889
 2024-12-14 11:23:39.649892,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.01100000000000001,0.5348,0.5238
 2024-12-14 12:50:52.726133,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.010699999999999932,0.5455,0.5348
-2024-12-14 05:31:03.225285,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.010699999999999932,0.5455,0.5348
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Gavin Fairfax,0.010600000000000002,0.0323,0.0217
+2024-12-14 18:36:01.689899,Boxing Lines - John Ramirez vs Ephraim Bui - To Win the Bout,John Ramirez,0.010500000000000065,0.8,0.7895
+2024-12-14 18:36:01.654190,Boxing Lines - Stephen McKenna vs Lee Cutler - To Win the Bout,Lee Cutler,0.010499999999999982,0.2105,0.2
 2024-12-14 09:28:14.130316,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Kam Jones (Marquette),0.010399999999999993,0.2326,0.2222
 2024-12-14 09:28:13.372488,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.010099999999999998,0.4545,0.4444
 2024-12-14 09:28:13.591436,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,-0.010199999999999987,0.9231,0.9333
@@ -84,11 +87,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 09:28:13.578926,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Fortuna Düsseldorf,-0.010899999999999993,0.1429,0.1538
 2024-12-14 09:28:13.578926,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,-0.010899999999999993,0.1429,0.1538
 2024-12-14 12:50:52.726133,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01100000000000001,0.5238,0.5348
-2024-12-14 05:31:03.225285,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01100000000000001,0.5238,0.5348
-2024-12-14 12:50:52.786023,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.011099999999999999,0.4651,0.4762
-2024-12-14 14:29:57.881338,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Mets,-0.011099999999999999,0.1,0.1111
+2024-12-14 18:36:01.689899,Boxing Lines - John Ramirez vs Ephraim Bui - To Win the Bout,Ephraim Bui,-0.011099999999999999,0.2667,0.2778
 2024-12-14 12:50:52.798108,Boxing Lines - Ryosuke Nishida vs Anuchai Donsua - To Win the Bout,Anuchai Donsua,-0.011099999999999999,0.1,0.1111
+2024-12-14 14:29:57.881338,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Mets,-0.011099999999999999,0.1,0.1111
 2024-12-14 08:33:41.302928,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.011099999999999999,0.1,0.1111
+2024-12-14 12:50:52.786023,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.011099999999999999,0.4651,0.4762
 2024-12-14 09:28:13.578926,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hertha BSC,-0.011199999999999995,0.0476,0.0588
 2024-12-14 14:29:57.871599,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.01150000000000001,0.3333,0.3448
 2024-12-14 09:28:14.681200,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.0116,0.4762,0.4878
@@ -100,9 +103,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 10:32:56.681398,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,-0.013900000000000023,0.875,0.8889
 2024-12-14 08:33:41.259957,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.013999999999999999,0.0769,0.0909
 2024-12-14 14:29:57.847628,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,-0.01440000000000001,0.0909,0.1053
-2024-12-14 08:33:41.298139,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.014899999999999997,0.0476,0.0625
 2024-12-14 14:29:57.876373,NL West - NL West 2025 - NL West Winner,San Francisco Giants,-0.014899999999999997,0.0476,0.0625
 2024-12-14 08:33:41.278974,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Miami Heat,-0.014899999999999997,0.0476,0.0625
+2024-12-14 08:33:41.298139,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.014899999999999997,0.0476,0.0625
 2024-12-14 14:29:57.862094,National League - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,-0.015100000000000002,0.1667,0.1818
 2024-12-14 08:33:41.278974,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.015100000000000002,0.1667,0.1818
 2024-12-14 13:31:55.094608,Boxing Lines - Charles Conwell vs Gerardo Luis Vergara - To Win the Bout,Gerardo Luis Vergara,-0.015700000000000006,0.1176,0.1333
@@ -114,23 +117,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 06:37:15.964403,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,-0.017299999999999982,0.5744,0.5917
 2024-12-14 14:29:57.852403,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.017600000000000005,0.3333,0.3509
 2024-12-14 10:32:56.665389,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Utah State,-0.01820000000000002,0.1818,0.2
+2024-12-14 18:36:01.638376,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.01880000000000004,0.5556,0.5744
 2024-12-14 10:32:57.184780,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout","Shala, Granit",-0.018900000000000028,0.4255,0.4444
 2024-12-14 10:32:55.902256,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.019000000000000017,0.2667,0.2857
 2024-12-14 09:28:13.379092,Serie A - Italy Serie A 2024/25 - To Be Relegated,Torino,-0.0203,0.0385,0.0588
 2024-12-14 09:28:13.549095,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,-0.02100000000000002,0.3636,0.3846
+2024-12-14 18:36:01.705812,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,-0.02180000000000004,0.6078,0.6296
 2024-12-14 09:28:13.379092,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,-0.022199999999999998,0.2,0.2222
-2024-12-14 08:33:40.801685,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,-0.022199999999999998,0.7778,0.8
 2024-12-14 17:28:38.226074,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,-0.022199999999999998,0.7778,0.8
+2024-12-14 08:33:40.801685,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,-0.022199999999999998,0.7778,0.8
 2024-12-14 10:32:55.902256,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,-0.022600000000000064,0.6,0.6226
 2024-12-14 10:32:55.902256,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,-0.023799999999999988,0.4762,0.5
 2024-12-14 14:29:57.876373,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,-0.0238,0.0714,0.0952
 2024-12-14 13:31:55.042716,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.023800000000000043,0.5,0.5238
-2024-12-14 14:29:57.866852,NL Central - NL Central 2025 - NL Central Winner,Pittsburgh Pirates,-0.024999999999999994,0.1,0.125
 2024-12-14 09:28:13.591436,Serie B - Italy Serie B 2024/25 - To Be Promoted,Bari,-0.024999999999999994,0.1,0.125
+2024-12-14 14:29:57.866852,NL Central - NL Central 2025 - NL Central Winner,Pittsburgh Pirates,-0.024999999999999994,0.1,0.125
 2024-12-14 09:28:13.591436,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,-0.025599999999999956,0.5744,0.6
 2024-12-14 09:28:13.467438,Championship - England Championship 2024/25 - Winner,Leeds United,-0.026499999999999968,0.6226,0.6491
-2024-12-14 14:29:57.866852,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,-0.02679999999999999,0.2857,0.3125
 2024-12-14 09:28:14.125083,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Kent State,-0.02679999999999999,0.2857,0.3125
+2024-12-14 14:29:57.866852,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,-0.02679999999999999,0.2857,0.3125
 2024-12-14 10:32:56.665389,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Nevada,-0.02779999999999999,0.2222,0.25
 2024-12-14 09:28:13.390257,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,-0.028299999999999992,0.8948,0.9231
 2024-12-14 08:33:40.801685,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.028799999999999992,0.125,0.1538
