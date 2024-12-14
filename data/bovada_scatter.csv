@@ -1,24 +1,25 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 14:29:57.866852,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.1794,0.4651,0.2857
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Matthew Riedel,0.1417,0.2667,0.125
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Alistair Docherty,0.10069999999999998,0.3333,0.2326
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Anthony Quayle,0.1,0.2,0.1
 2024-12-14 14:29:57.852403,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.09160000000000001,0.4762,0.3846
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Ben Eccles,0.0857,0.1333,0.0476
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Brett Drewitt,0.08529999999999999,0.1176,0.0323
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Hayden Buckley,0.0655,0.1,0.0345
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Corey Lamb,0.0629,0.1538,0.0909
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Tom Power Horan,0.048799999999999996,0.0833,0.0345
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Andrew Evans,0.044599999999999994,0.0769,0.0323
-2024-12-14 10:32:55.902256,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.04169999999999999,0.1667,0.125
 2024-12-14 14:29:57.876373,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.035699999999999954,0.75,0.7143
 2024-12-14 17:28:38.222183,Boxing Lines - Stephen McKenna vs Lee Cutler - To Win the Bout,Stephen McKenna,0.033399999999999985,0.8667,0.8333
-2024-12-14 10:32:56.665389,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,0.033300000000000024,0.2,0.1667
 2024-12-14 17:28:38.272884,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,0.02960000000000007,0.6296,0.6
 2024-12-14 16:34:20.188787,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout",Daniel Dietz,0.028299999999999992,0.6774,0.6491
-2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Blake Windred,0.028199999999999996,0.0667,0.0385
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Connor McKinney,0.028199999999999996,0.0667,0.0385
+2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Blake Windred,0.028199999999999996,0.0667,0.0385
 2024-12-14 22:31:28.080863,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.025499999999999967,0.4255,0.4
 2024-12-14 18:36:01.638376,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.024399999999999977,0.5122,0.4878
-2024-12-14 14:29:57.862094,National League - MLB 2025 National League  - MLB 2025 National League Winner,Chicago Cubs,0.024299999999999995,0.0769,0.0526
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Christopher Wood,0.024299999999999995,0.0588,0.0345
+2024-12-14 14:29:57.862094,National League - MLB 2025 National League  - MLB 2025 National League Winner,Chicago Cubs,0.024299999999999995,0.0769,0.0526
 2024-12-14 20:29:28.832589,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,0.022600000000000064,0.6226,0.6
 2024-12-14 13:31:55.042716,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.01970000000000005,0.5652,0.5455
 2024-12-14 18:36:01.705812,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.019699999999999995,0.4545,0.4348
@@ -28,77 +29,77 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-14 13:31:55.094608,Boxing Lines - Charles Conwell vs Gerardo Luis Vergara - To Win the Bout,Charles Conwell,0.018100000000000005,0.9412,0.9231
 2024-12-14 14:29:57.842831,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,0.017600000000000005,0.3509,0.3333
 2024-12-14 19:22:31.863693,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Leonardo Mosquea,0.017299999999999982,0.303,0.2857
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Alejandro Tosti,0.0168,0.0196,0.0028
 2024-12-14 16:34:20.345192,Gippsland Super 6 - Gippsland Super 6 - Winner,Dylan Gardner,0.015300000000000001,0.0476,0.0323
-2024-12-14 10:32:57.224980,Boxing Lines - John Ramirez vs Ephraim Bui - To Win the Bout,Ephraim Bui,0.014300000000000035,0.274,0.2597
+2024-12-14 23:27:13.898037,Boxing Lines - Alan Picasso Romero vs Isaac Sackey - To Win the Bout,Alan Picasso Romero,0.01429999999999998,0.9852,0.9709
 2024-12-14 14:29:57.881338,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Chicago Cubs,0.014099999999999998,0.0435,0.0294
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Tim Hart,0.014099999999999994,0.0667,0.0526
 2024-12-14 20:29:28.801337,Boxing Lines - Murodjon Akhmadaliev vs Ricardo Espinoza Franco - To Win the Bout,Ricardo Espinoza Franco,0.013899999999999996,0.125,0.1111
 2024-12-14 21:26:30.798575,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,0.013799999999999923,0.6364,0.6226
-2024-12-14 10:32:57.184780,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout",Daniel Dietz,0.013799999999999923,0.6364,0.6226
 2024-12-14 20:29:28.793490,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,0.0131,0.7778,0.7647
 2024-12-14 22:31:28.588898,Boxing Lines - Carlos Alberto Garcia Castillo vs Guzman Jonathan - To Win the Bout,Carlos Alberto Garcia Castillo,0.0131,0.9655,0.9524
 2024-12-14 12:50:52.730117,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout",Daniel Dietz,0.012700000000000045,0.6491,0.6364
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Ryan Peake,0.012700000000000003,0.0323,0.0196
 2024-12-14 14:29:57.871599,NL East - NL East 2025 - NL East Winner,New York Mets,0.012299999999999978,0.3571,0.3448
 2024-12-14 19:22:31.859816,Boxing Lines - Stephen McKenna vs Lee Cutler - To Win the Bout,Lee Cutler,0.011700000000000016,0.2222,0.2105
-2024-12-14 10:32:57.293492,Boxing Lines - Yoshiki Takei vs Yuttapong Tongdee - To Win the Bout,Yoshiki Takei,0.011099999999999999,0.9,0.8889
 2024-12-14 19:22:31.871411,Boxing Lines - Murodjon Akhmadaliev vs Ricardo Espinoza Franco - To Win the Bout,Ricardo Espinoza Franco,0.011099999999999999,0.1111,0.1
 2024-12-14 22:31:28.652558,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Dennis McCann,0.01100000000000001,0.5348,0.5238
-2024-12-14 11:23:39.649892,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.01100000000000001,0.5348,0.5238
 2024-12-14 12:50:52.726133,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,0.010699999999999932,0.5455,0.5348
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Gavin Fairfax,0.010600000000000002,0.0323,0.0217
 2024-12-14 19:22:31.902361,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.010599999999999998,0.4651,0.4545
 2024-12-14 18:36:01.689899,Boxing Lines - John Ramirez vs Ephraim Bui - To Win the Bout,John Ramirez,0.010500000000000065,0.8,0.7895
 2024-12-14 18:36:01.654190,Boxing Lines - Stephen McKenna vs Lee Cutler - To Win the Bout,Lee Cutler,0.010499999999999982,0.2105,0.2
 2024-12-14 19:22:31.875271,Boxing Lines - Natasha Jonas vs Ivana Habazin - To Win the Bout,Natasha Jonas,0.010199999999999987,0.9333,0.9231
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Corey Shaun,-0.0102,0.0667,0.0769
 2024-12-14 16:34:20.180913,Boxing Lines - Mark Jeffers vs Elvis Ahorgah - To Win the Bout,Elvis Ahorgah,-0.0102,0.0667,0.0769
-2024-12-14 11:23:39.649892,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.010699999999999932,0.5348,0.5455
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Tom Whitney,-0.0103,0.002,0.0123
 2024-12-14 22:31:28.652558,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Peter McGrail,-0.010699999999999932,0.5348,0.5455
 2024-12-14 19:22:31.859816,Boxing Lines - Stephen McKenna vs Lee Cutler - To Win the Bout,Stephen McKenna,-0.01090000000000002,0.8462,0.8571
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Jonas Baumgartner,-0.011,0.0013,0.0123
 2024-12-14 12:50:52.726133,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.01100000000000001,0.5238,0.5348
-2024-12-14 12:50:52.798108,Boxing Lines - Ryosuke Nishida vs Anuchai Donsua - To Win the Bout,Anuchai Donsua,-0.011099999999999999,0.1,0.1111
-2024-12-14 19:22:31.867556,Boxing Lines - Lauren Price vs Bexcy Mateus - To Win the Bout,Bexcy Mateus,-0.011099999999999999,0.0556,0.0667
-2024-12-14 14:29:57.881338,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Mets,-0.011099999999999999,0.1,0.1111
-2024-12-14 18:36:01.689899,Boxing Lines - John Ramirez vs Ephraim Bui - To Win the Bout,Ephraim Bui,-0.011099999999999999,0.2667,0.2778
 2024-12-14 12:50:52.786023,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.011099999999999999,0.4651,0.4762
+2024-12-14 12:50:52.798108,Boxing Lines - Ryosuke Nishida vs Anuchai Donsua - To Win the Bout,Anuchai Donsua,-0.011099999999999999,0.1,0.1111
+2024-12-14 14:29:57.881338,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Mets,-0.011099999999999999,0.1,0.1111
+2024-12-14 19:22:31.867556,Boxing Lines - Lauren Price vs Bexcy Mateus - To Win the Bout,Bexcy Mateus,-0.011099999999999999,0.0556,0.0667
+2024-12-14 18:36:01.689899,Boxing Lines - John Ramirez vs Ephraim Bui - To Win the Bout,Ephraim Bui,-0.011099999999999999,0.2667,0.2778
 2024-12-14 14:29:57.871599,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.01150000000000001,0.3333,0.3448
 2024-12-14 17:28:38.210415,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.012199999999999989,0.4878,0.5
 2024-12-14 22:31:28.080863,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.012299999999999991,0.1053,0.1176
 2024-12-14 19:22:31.863693,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,-0.0131,0.7647,0.7778
-2024-12-14 10:32:56.681398,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,-0.013900000000000023,0.875,0.8889
 2024-12-14 20:29:28.801337,Boxing Lines - Murodjon Akhmadaliev vs Ricardo Espinoza Franco - To Win the Bout,Murodjon Akhmadaliev,-0.014100000000000001,0.9333,0.9474
+2024-12-14 23:27:13.898037,Boxing Lines - Alan Picasso Romero vs Isaac Sackey - To Win the Bout,Isaac Sackey,-0.014399999999999996,0.0625,0.0769
 2024-12-14 14:29:57.847628,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,-0.01440000000000001,0.0909,0.1053
 2024-12-14 14:29:57.876373,NL West - NL West 2025 - NL West Winner,San Francisco Giants,-0.014899999999999997,0.0476,0.0625
 2024-12-14 14:29:57.862094,National League - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,-0.015100000000000002,0.1667,0.1818
 2024-12-14 13:31:55.094608,Boxing Lines - Charles Conwell vs Gerardo Luis Vergara - To Win the Bout,Gerardo Luis Vergara,-0.015700000000000006,0.1176,0.1333
-2024-12-14 10:32:57.224980,Boxing Lines - John Ramirez vs Ephraim Bui - To Win the Bout,John Ramirez,-0.015800000000000036,0.7937,0.8095
 2024-12-14 14:29:57.842831,AL Central - AL Central 2025 - AL Central Winner,Kansas City Royals,-0.016699999999999993,0.25,0.2667
 2024-12-14 14:29:57.881338,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Philadelphia Phillies,-0.016700000000000007,0.0833,0.1
 2024-12-14 22:31:28.588898,Boxing Lines - Carlos Alberto Garcia Castillo vs Guzman Jonathan - To Win the Bout,Guzman Jonathan,-0.016700000000000007,0.0833,0.1
 2024-12-14 14:29:57.862094,National League - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,-0.017100000000000004,0.1429,0.16
 2024-12-14 20:29:28.793490,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Leonardo Mosquea,-0.017299999999999982,0.2857,0.303
 2024-12-14 14:29:57.852403,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.017600000000000005,0.3333,0.3509
-2024-12-14 10:32:56.665389,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Utah State,-0.01820000000000002,0.1818,0.2
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Zach Fisher,-0.017800000000000003,0.0066,0.0244
 2024-12-14 18:36:01.638376,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Gary Cully,-0.01880000000000004,0.5556,0.5744
 2024-12-14 21:26:30.798575,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.018900000000000028,0.4255,0.4444
-2024-12-14 10:32:57.184780,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout","Shala, Granit",-0.018900000000000028,0.4255,0.4444
-2024-12-14 10:32:55.902256,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.019000000000000017,0.2667,0.2857
 2024-12-14 20:29:28.832589,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.020699999999999996,0.4444,0.4651
 2024-12-14 18:36:01.705812,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,-0.02180000000000004,0.6078,0.6296
 2024-12-14 17:28:38.226074,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,-0.022199999999999998,0.7778,0.8
-2024-12-14 10:32:55.902256,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,-0.022600000000000064,0.6,0.6226
-2024-12-14 10:32:55.902256,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,-0.023799999999999988,0.4762,0.5
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Takumi Kanaya,-0.022199999999999998,0.2,0.2222
 2024-12-14 14:29:57.876373,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,-0.0238,0.0714,0.0952
 2024-12-14 13:31:55.042716,Boxing Lines - Gary Cully vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.023800000000000043,0.5,0.5238
-2024-12-14 21:26:30.762700,Boxing Lines - Natasha Jonas vs Ivana Habazin - To Win the Bout,Ivana Habazin,-0.024999999999999994,0.1,0.125
 2024-12-14 14:29:57.866852,NL Central - NL Central 2025 - NL Central Winner,Pittsburgh Pirates,-0.024999999999999994,0.1,0.125
+2024-12-14 21:26:30.762700,Boxing Lines - Natasha Jonas vs Ivana Habazin - To Win the Bout,Ivana Habazin,-0.024999999999999994,0.1,0.125
 2024-12-14 14:29:57.866852,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,-0.02679999999999999,0.2857,0.3125
-2024-12-14 10:32:56.665389,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Nevada,-0.02779999999999999,0.2222,0.25
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Pierceson Coody,-0.0273,0.005,0.0323
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Matt NeSmith,-0.0273,0.005,0.0323
 2024-12-14 17:28:38.272884,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.030299999999999994,0.4348,0.4651
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,John Keefer,-0.031200000000000002,0.0033,0.0345
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Richy Werenski,-0.0319,0.0066,0.0385
 2024-12-14 16:34:20.188787,"Boxing Lines - Shala, Granit vs Daniel Dietz - To Win the Bout","Shala, Granit",-0.03210000000000002,0.3846,0.4167
 2024-12-14 17:28:38.222183,Boxing Lines - Stephen McKenna vs Lee Cutler - To Win the Bout,Lee Cutler,-0.0353,0.2,0.2353
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Joe Weiler,-0.035300000000000005,0.0123,0.0476
 2024-12-14 14:29:57.866852,NL Central - NL Central 2025 - NL Central Winner,Cincinnati Reds,-0.043800000000000006,0.1667,0.2105
-2024-12-14 10:32:55.902256,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.044399999999999995,0.5556,0.6
 2024-12-14 15:28:51.296209,Gippsland Super 6 - Gippsland Super 6 - Winner,Ben Henkel,-0.05639999999999999,0.0345,0.0909
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Lanto Griffin,-0.061500000000000006,0.0385,0.1
 2024-12-14 14:29:57.866852,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,-0.0852,0.1053,0.1905
 2024-12-14 14:29:57.852403,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.09039999999999998,0.2667,0.3571
