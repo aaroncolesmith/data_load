@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-12-15 08:33:33.572624,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),0.21539999999999998,0.6,0.3846
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Matthew Riedel,0.1417,0.2667,0.125
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Alistair Docherty,0.10069999999999998,0.3333,0.2326
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Hayden Buckley,0.0655,0.1,0.0345
@@ -6,35 +7,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-15 02:16:12.303585,League One - England League One 2024/25 - Winner,Birmingham City,0.050000000000000044,0.8,0.75
 2024-12-15 02:16:12.308299,League Two - England League Two 2024/25 - Winner,Walsall,0.048099999999999976,0.4255,0.3774
 2024-12-15 02:16:12.204034,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.04760000000000003,0.5238,0.4762
+2024-12-15 08:33:33.543201,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Kent State,0.047599999999999976,0.3333,0.2857
 2024-12-15 02:16:12.351242,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Chelsea,0.04620000000000002,0.2,0.1538
 2024-12-15 02:16:12.212794,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.044499999999999984,0.2667,0.2222
+2024-12-15 08:33:33.511458,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Dayton,0.044399999999999995,0.4444,0.4
 2024-12-15 03:47:01.873799,NCAA Football Futures - 2024-2025 - NCAA FCS National Championship Winner - Winner,Montana State,0.04410000000000003,0.3774,0.3333
 2024-12-15 02:16:12.212794,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,0.04099999999999998,0.3077,0.2667
+2024-12-15 08:33:33.511458,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,0.03920000000000001,0.3333,0.2941
 2024-12-15 02:16:13.109190,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.03739999999999999,0.7874,0.75
 2024-12-15 02:16:12.281546,Championship - England Championship 2024/25 - Winner,Sheffield United,0.0368,0.2667,0.2299
 2024-12-15 02:16:13.075645,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.0363,0.303,0.2667
 2024-12-15 04:33:51.518698,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.03570000000000001,0.2857,0.25
 2024-12-15 02:16:13.099624,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.03489999999999999,0.5,0.4651
 2024-12-15 03:47:01.873799,NCAA Football Futures - 2024-2025 - NCAA FCS National Championship Winner - Winner,South Dakota State,0.034499999999999975,0.3571,0.3226
-2024-12-15 04:33:51.514014,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.030299999999999994,0.3636,0.3333
+2024-12-15 08:33:33.519364,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,0.03420000000000001,0.1111,0.0769
 2024-12-15 02:16:13.131712,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,0.030299999999999994,0.4651,0.4348
+2024-12-15 04:33:51.514014,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.030299999999999994,0.3636,0.3333
+2024-12-15 08:33:33.543201,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Akron,0.029600000000000015,0.4,0.3704
+2024-12-15 08:33:33.577975,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.02679999999999999,0.3125,0.2857
 2024-12-14 22:31:28.080863,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.025499999999999967,0.4255,0.4
 2024-12-15 02:16:13.085243,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.023799999999999988,0.5,0.4762
-2024-12-14 20:29:28.832589,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,0.022600000000000064,0.6226,0.6
 2024-12-15 02:16:12.351242,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,0.02020000000000001,0.1111,0.0909
 2024-12-14 21:26:30.762700,Boxing Lines - Natasha Jonas vs Ivana Habazin - To Win the Bout,Natasha Jonas,0.019100000000000006,0.9524,0.9333
+2024-12-15 08:33:33.415555,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Miami Heat,0.019099999999999992,0.0667,0.0476
 2024-12-15 04:33:51.604226,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,0.0179,0.1429,0.125
-2024-12-15 02:16:13.085243,AL West - AL West 2025 - AL West Winner 2025,Athletics,0.0168,0.0385,0.0217
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Alejandro Tosti,0.0168,0.0196,0.0028
+2024-12-15 02:16:13.085243,AL West - AL West 2025 - AL West Winner 2025,Athletics,0.0168,0.0385,0.0217
 2024-12-15 07:26:54.698275,Boxing Lines - Thanongsak Simsri vs Masataka Taniguchi - To Win the Bout,Thanongsak Simsri,0.016100000000000003,0.6078,0.5917
 2024-12-15 02:16:12.217148,Ligue 1 - France Ligue 1 2024/25 - Winner,Paris Saint-Germain,0.01429999999999998,0.9091,0.8948
 2024-12-14 23:27:13.898037,Boxing Lines - Alan Picasso Romero vs Isaac Sackey - To Win the Bout,Alan Picasso Romero,0.01429999999999998,0.9852,0.9709
+2024-12-15 08:33:34.027544,Boxing Lines - Ryosuke Nishida vs Anuchai Donsua - To Win the Bout,Ryosuke Nishida,0.014100000000000001,0.9615,0.9474
 2024-12-15 04:33:51.518698,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,0.014100000000000001,0.0526,0.0385
 2024-12-15 02:16:12.281546,Championship - England Championship 2024/25 - Winner,Sunderland,0.014099999999999994,0.0667,0.0526
-2024-12-14 20:29:28.801337,Boxing Lines - Murodjon Akhmadaliev vs Ricardo Espinoza Franco - To Win the Bout,Ricardo Espinoza Franco,0.013899999999999996,0.125,0.1111
 2024-12-14 21:26:30.798575,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,0.013799999999999923,0.6364,0.6226
 2024-12-15 02:16:13.104374,NL East - NL East 2025 - NL East Winner,New York Mets,0.013300000000000034,0.3704,0.3571
-2024-12-14 20:29:28.793490,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Cheavon Clarke,0.0131,0.7778,0.7647
 2024-12-14 22:31:28.588898,Boxing Lines - Carlos Alberto Garcia Castillo vs Guzman Jonathan - To Win the Bout,Carlos Alberto Garcia Castillo,0.0131,0.9655,0.9524
 2024-12-15 03:47:01.873799,NCAA Football Futures - 2024-2025 - NCAA FCS National Championship Winner - Winner,South Dakota,0.012299999999999991,0.1176,0.1053
 2024-12-15 02:16:13.085243,AL West - AL West 2025 - AL West Winner 2025,Los Angeles Angels,0.0115,0.0294,0.0179
@@ -47,11 +53,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-15 06:37:38.441442,Boxing Lines - Riku Kunimoto vs Kazuto Takesako - To Win the Bout,Kazuto Takesako,0.010099999999999998,0.3226,0.3125
 2024-12-15 02:16:12.303585,League One - England League One 2024/25 - Winner,Bolton Wanderers,-0.010100000000000001,0.0244,0.0345
 2024-12-15 02:16:12.281546,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,-0.010100000000000001,0.0244,0.0345
-2024-12-15 07:26:54.710304,Boxing Lines - Jermaine Dhliwayo vs Jonatas Rodrigo Gomes de Oliveira - To Win the Bout,Jonatas Rodrigo Gomes de Oliveira,-0.0102,0.0667,0.0769
+2024-12-15 08:33:33.429557,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,-0.010199999999999987,0.9231,0.9333
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Corey Shaun,-0.0102,0.0667,0.0769
+2024-12-15 07:26:54.710304,Boxing Lines - Jermaine Dhliwayo vs Jonatas Rodrigo Gomes de Oliveira - To Win the Bout,Jonatas Rodrigo Gomes de Oliveira,-0.0102,0.0667,0.0769
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Tom Whitney,-0.0103,0.002,0.0123
-2024-12-15 02:16:12.212794,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.010699999999999932,0.5348,0.5455
 2024-12-14 22:31:28.652558,Boxing Lines - Dennis McCann vs Peter McGrail - To Win the Bout,Peter McGrail,-0.010699999999999932,0.5348,0.5455
+2024-12-15 02:16:12.212794,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.010699999999999932,0.5348,0.5455
 2024-12-15 02:16:13.104374,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.010699999999999987,0.3226,0.3333
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Jonas Baumgartner,-0.011,0.0013,0.0123
 2024-12-15 04:33:51.509252,Super Bowl LIX - Super Bowl 59 - Winner,Detroit Lions,-0.011099999999999999,0.2667,0.2778
@@ -61,44 +68,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-15 02:16:12.308299,League Two - England League Two 2024/25 - Winner,Port Vale,-0.012899999999999995,0.1538,0.1667
 2024-12-15 02:16:12.217148,Ligue 1 - France Ligue 1 2024/25 - Winner,Lille,-0.0131,0.0345,0.0476
 2024-12-15 04:33:51.514014,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Denver Broncos,-0.0133,0.0455,0.0588
-2024-12-14 20:29:28.801337,Boxing Lines - Murodjon Akhmadaliev vs Ricardo Espinoza Franco - To Win the Bout,Murodjon Akhmadaliev,-0.014100000000000001,0.9333,0.9474
 2024-12-14 23:27:13.898037,Boxing Lines - Alan Picasso Romero vs Isaac Sackey - To Win the Bout,Isaac Sackey,-0.014399999999999996,0.0625,0.0769
 2024-12-15 02:16:13.109190,NL West - NL West 2025 - NL West Winner,San Francisco Giants,-0.015300000000000001,0.0323,0.0476
 2024-12-15 04:33:51.582973,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,-0.01629999999999998,0.7059,0.7222
 2024-12-14 22:31:28.588898,Boxing Lines - Carlos Alberto Garcia Castillo vs Guzman Jonathan - To Win the Bout,Guzman Jonathan,-0.016700000000000007,0.0833,0.1
 2024-12-15 04:33:51.573617,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,-0.017100000000000004,0.1429,0.16
 2024-12-15 04:33:51.514014,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,-0.017299999999999982,0.2857,0.303
-2024-12-14 20:29:28.793490,Boxing Lines - Cheavon Clarke vs Leonardo Mosquea - To Win the Bout,Leonardo Mosquea,-0.017299999999999982,0.2857,0.303
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Zach Fisher,-0.017800000000000003,0.0066,0.0244
 2024-12-15 02:16:12.204034,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.0179,0.125,0.1429
 2024-12-15 02:16:12.303585,League One - England League One 2024/25 - Winner,Huddersfield Town,-0.018099999999999998,0.0588,0.0769
+2024-12-15 08:33:33.511458,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Loyola Chicago,-0.01830000000000001,0.0769,0.0952
 2024-12-15 04:33:51.514014,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Baltimore Ravens,-0.0184,0.1739,0.1923
+2024-12-15 08:33:33.420244,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.018799999999999983,0.3448,0.3636
 2024-12-15 02:16:12.351242,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,-0.01880000000000004,0.5556,0.5744
 2024-12-14 21:26:30.798575,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.018900000000000028,0.4255,0.4444
 2024-12-15 02:16:12.303585,League One - England League One 2024/25 - Winner,Wrexham,-0.019099999999999992,0.0476,0.0667
+2024-12-15 08:33:34.027544,Boxing Lines - Ryosuke Nishida vs Anuchai Donsua - To Win the Bout,Anuchai Donsua,-0.02020000000000001,0.0909,0.1111
 2024-12-15 04:33:51.509252,Super Bowl LIX - Super Bowl 59 - Winner,Buffalo Bills,-0.02049999999999999,0.1333,0.1538
-2024-12-14 20:29:28.832589,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Alexis Rocha,-0.020699999999999996,0.4444,0.4651
 2024-12-15 07:26:54.698275,Boxing Lines - Thanongsak Simsri vs Masataka Taniguchi - To Win the Bout,Masataka Taniguchi,-0.021699999999999997,0.4545,0.4762
+2024-12-15 08:33:33.577975,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame (W),-0.022199999999999998,0.2,0.2222
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Takumi Kanaya,-0.022199999999999998,0.2,0.2222
 2024-12-15 02:16:12.208417,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,-0.02310000000000001,0.9,0.9231
 2024-12-15 02:16:13.099624,NL Central - NL Central 2025 - NL Central Winner,Cincinnati Reds,-0.023799999999999988,0.1429,0.1667
 2024-12-15 02:16:12.217148,Ligue 1 - France Ligue 1 2024/25 - Winner,Monaco,-0.0242,0.0667,0.0909
 2024-12-15 02:16:12.217148,Ligue 1 - France Ligue 1 2024/25 - Winner,Marseille,-0.0242,0.0667,0.0909
 2024-12-14 21:26:30.762700,Boxing Lines - Natasha Jonas vs Ivana Habazin - To Win the Bout,Ivana Habazin,-0.024999999999999994,0.1,0.125
-2024-12-15 02:16:12.308299,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.0267,0.0909,0.1176
 2024-12-15 04:33:51.514014,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Pittsburgh Steelers,-0.0267,0.0909,0.1176
-2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Matt NeSmith,-0.0273,0.005,0.0323
+2024-12-15 02:16:12.308299,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.0267,0.0909,0.1176
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Pierceson Coody,-0.0273,0.005,0.0323
+2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Matt NeSmith,-0.0273,0.005,0.0323
 2024-12-15 02:16:13.109190,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.02779999999999999,0.2222,0.25
+2024-12-15 08:33:33.577975,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.02779999999999999,0.2222,0.25
 2024-12-15 04:33:51.518698,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,-0.029000000000000026,0.4255,0.4545
 2024-12-15 02:16:13.131712,Boxing Lines - Alexis Rocha vs Raul Curiel - To Win the Bout,Raul Curiel,-0.02960000000000007,0.6,0.6296
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,John Keefer,-0.031200000000000002,0.0033,0.0345
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Richy Werenski,-0.0319,0.0066,0.0385
+2024-12-15 08:33:33.572624,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Kam Jones (Marquette),-0.03259999999999999,0.2,0.2326
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Joe Weiler,-0.035300000000000005,0.0123,0.0476
 2024-12-15 02:16:13.075645,AL Central - AL Central 2025 - AL Central Winner,Kansas City Royals,-0.03950000000000001,0.2105,0.25
 2024-12-15 03:47:01.873799,NCAA Football Futures - 2024-2025 - NCAA FCS National Championship Winner - Winner,North Dakota State,-0.042200000000000015,0.2703,0.3125
 2024-12-15 02:16:12.351242,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.044499999999999984,0.2222,0.2667
 2024-12-15 02:16:13.085243,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.047599999999999976,0.2857,0.3333
+2024-12-15 08:33:33.443404,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.05019999999999991,0.5652,0.6154
+2024-12-15 08:33:33.519364,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Illinois,-0.05559999999999998,0.1111,0.1667
 2024-12-15 02:16:12.204034,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.05559999999999998,0.4444,0.5
 2024-12-14 23:27:14.067568,PGA Tour Qualifying School - Qualifying School - Winner,Lanto Griffin,-0.061500000000000006,0.0385,0.1
 2024-12-15 02:16:12.308299,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.07069999999999999,0.1111,0.1818
+2024-12-15 08:33:33.572624,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Cooper Flagg (Duke),-0.15000000000000002,0.25,0.4
