@@ -27,8 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Yurav Premlall,0.0186,0.0196,0.001
 2024-12-16 20:31:40.906770,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Green Bay Packers,0.0179,0.1429,0.125
 2024-12-16 19:24:33.021413,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,De'Andre Hunter (ATL),0.01759999999999999,0.1176,0.1
-2024-12-16 23:28:43.937501,NFL Weekly Specials - NFL Week 15 - MNF Specials - MNF Specials & Requests,"K.Cousins, S.Darnold & C.Williams 225+ Passing Yards Each",0.016699999999999993,0.2667,0.25
 2024-12-16 19:24:33.028512,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Ime Udoka,0.016699999999999993,0.2667,0.25
+2024-12-16 23:28:43.937501,NFL Weekly Specials - NFL Week 15 - MNF Specials - MNF Specials & Requests,"K.Cousins, S.Darnold & C.Williams 225+ Passing Yards Each",0.016699999999999993,0.2667,0.25
 2024-12-16 16:38:10.389168,Serie A - Italy Serie A 2024/25 - Outright,Brescia,0.014899999999999997,0.0625,0.0476
 2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Martin Couvra,0.0145,0.0244,0.0099
 2024-12-16 19:24:32.795367,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.014399999999999996,0.0769,0.0625
@@ -45,6 +45,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Thomas Aiken,0.011,0.0123,0.0013
 2024-12-16 18:38:50.496558,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Dalton Knecht (LAL),0.010399999999999993,0.2326,0.2222
 2024-12-16 19:24:33.025000,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Nikola Jokic (DEN),0.010299999999999976,0.2667,0.2564
+2024-12-17 02:04:03.609267,Elite Boxing - Oleksandr Usyk vs Tyson Fury - To Win the Bout,Tyson Fury,-0.010099999999999998,0.4444,0.4545
 2024-12-16 19:24:32.786825,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.012499999999999997,0.05,0.0625
 2024-12-16 19:24:32.786825,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.012899999999999995,0.1538,0.1667
 2024-12-16 19:24:32.795367,Western Conference - Western Conference 2024-25 - Western Conference Winner,Memphis Grizzlies,-0.016700000000000007,0.0833,0.1
