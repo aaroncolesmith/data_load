@@ -1,11 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-12-17 12:55:59.620807,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Shai Gilgeous-Alexander (OKC),0.1884,0.6429,0.4545
 2024-12-17 05:32:52.097604,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,0.08549999999999996,0.3077,0.2222
 2024-12-17 04:34:47.350346,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.07740000000000002,0.5652,0.4878
+2024-12-17 12:55:59.620807,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Giannis Antetokounmpo (MIL),0.07039999999999999,0.303,0.2326
 2024-12-17 08:36:47.486700,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Chelsea,0.06820000000000001,0.25,0.1818
 2024-12-17 05:32:52.102246,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,0.06669999999999998,0.2667,0.2
 2024-12-17 11:25:42.416002,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Samford,0.061,0.4,0.339
 2024-12-17 06:39:47.975241,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),0.05510000000000004,0.9375,0.8824
 2024-12-17 11:25:42.283235,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.048100000000000004,0.125,0.0769
+2024-12-17 12:55:59.620807,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Damian Lillard (MIL),0.042800000000000005,0.1053,0.0625
 2024-12-17 09:31:39.848460,Ligue 2 - France Ligue 2 2024/25 - Outright,USL Dunkerque,0.04169999999999999,0.1667,0.125
 2024-12-17 06:39:47.964361,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Joe Burrow (CIN),0.04169999999999996,0.875,0.8333
 2024-12-17 11:25:42.288005,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.03709999999999991,0.6667,0.6296
@@ -15,24 +18,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-17 04:34:47.599511,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.03259999999999996,0.6552,0.6226
 2024-12-17 08:36:47.510583,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,0.031799999999999995,0.4762,0.4444
 2024-12-17 05:32:52.106875,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.03090000000000004,0.6226,0.5917
+2024-12-17 11:25:42.391468,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,0.030299999999999994,0.3333,0.303
 2024-12-17 03:42:56.622806,League Two - England League Two 2024/25 - Winner,Walsall,0.029000000000000026,0.4545,0.4255
 2024-12-17 09:31:39.886584,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.027800000000000047,0.7778,0.75
-2024-12-17 09:31:39.858256,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,0.022199999999999998,0.2222,0.2
-2024-12-17 09:31:39.626143,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),0.022199999999999998,0.2222,0.2
 2024-12-17 03:08:54.501902,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,0.022199999999999998,0.2222,0.2
+2024-12-17 09:31:39.626143,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),0.022199999999999998,0.2222,0.2
+2024-12-17 09:31:39.858256,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,0.022199999999999998,0.2222,0.2
 2024-12-17 05:32:52.088317,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.021999999999999964,0.3077,0.2857
 2024-12-17 09:31:39.635676,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Inter Milan,0.019100000000000006,0.9524,0.9333
 2024-12-17 09:31:39.876873,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,FC Porto,0.019000000000000017,0.2857,0.2667
 2024-12-17 11:25:42.477721,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,De'Aaron Fox (SAC),0.01820000000000002,0.2,0.1818
 2024-12-17 05:32:52.092966,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.018100000000000005,0.4348,0.4167
-2024-12-17 05:32:52.078838,Super Bowl LIX - Super Bowl 59 - Winner,Minnesota Vikings,0.018099999999999998,0.0769,0.0588
 2024-12-17 09:31:39.848460,Ligue 2 - France Ligue 2 2024/25 - Outright,Annecy,0.018099999999999998,0.0769,0.0588
-2024-12-16 23:28:43.937501,NFL Weekly Specials - NFL Week 15 - MNF Specials - MNF Specials & Requests,"K.Cousins, S.Darnold & C.Williams 225+ Passing Yards Each",0.016699999999999993,0.2667,0.25
-2024-12-17 09:31:39.858256,Super League - Greece Super League 2024/25 - Winner,AEK Athens,0.016699999999999993,0.2667,0.25
+2024-12-17 05:32:52.078838,Super Bowl LIX - Super Bowl 59 - Winner,Minnesota Vikings,0.018099999999999998,0.0769,0.0588
 2024-12-17 08:36:47.483510,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,0.016699999999999993,0.2667,0.25
+2024-12-17 09:31:39.858256,Super League - Greece Super League 2024/25 - Winner,AEK Athens,0.016699999999999993,0.2667,0.25
 2024-12-17 08:36:47.523402,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,0.015400000000000025,0.4,0.3846
-2024-12-17 09:31:39.802341,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.015100000000000002,0.1818,0.1667
 2024-12-17 09:31:39.808988,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,0.015100000000000002,0.1818,0.1667
+2024-12-17 09:31:39.802341,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.015100000000000002,0.1818,0.1667
 2024-12-17 08:36:47.526512,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,West Ham United,0.01429999999999998,0.9852,0.9709
 2024-12-17 04:34:47.595772,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Nicolas Jackson (Chelsea),0.014100000000000001,0.0526,0.0385
 2024-12-17 08:36:47.526512,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,0.013999999999999999,0.0909,0.0769
@@ -41,11 +44,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-17 06:39:47.964361,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),0.012600000000000007,0.0714,0.0588
 2024-12-17 09:31:39.805647,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,0.0102,0.0769,0.0667
 2024-12-17 02:04:03.609267,Elite Boxing - Oleksandr Usyk vs Tyson Fury - To Win the Bout,Tyson Fury,-0.010099999999999998,0.4444,0.4545
-2024-12-17 06:39:47.960850,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,-0.0102,0.0667,0.0769
 2024-12-17 05:32:52.088317,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Tampa Bay Buccaneers,-0.0102,0.0667,0.0769
-2024-12-17 03:42:56.622806,League Two - England League Two 2024/25 - Winner,Port Vale,-0.010899999999999993,0.1429,0.1538
+2024-12-17 06:39:47.960850,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,-0.0102,0.0667,0.0769
 2024-12-17 08:36:47.483510,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Bournemouth,-0.010899999999999993,0.1429,0.1538
 2024-12-17 04:34:47.602823,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.010899999999999993,0.1429,0.1538
+2024-12-17 03:42:56.622806,League Two - England League Two 2024/25 - Winner,Port Vale,-0.010899999999999993,0.1429,0.1538
 2024-12-17 08:36:47.520229,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.010899999999999993,0.1429,0.1538
 2024-12-17 09:31:39.799148,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,-0.011099999999999999,0.1,0.1111
 2024-12-17 11:25:42.481166,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,-0.011199999999999995,0.0476,0.0588
@@ -53,9 +56,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-17 06:39:47.960850,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,-0.012899999999999995,0.1538,0.1667
 2024-12-17 11:25:42.491540,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Luka Doncic (DAL),-0.013899999999999996,0.1111,0.125
 2024-12-17 04:34:47.350346,Serie A - Italy Serie A 2024/25 - Winner,Lazio,-0.014099999999999998,0.0244,0.0385
+2024-12-17 12:55:59.620807,In-Season Tournament Cup - Emirates NBA Cup 2024 - NBA In-Season Tournament MVP,Jalen Williams (OKC),-0.014099999999999998,0.0244,0.0385
 2024-12-17 11:25:42.477721,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Jayson Tatum (BOS),-0.01440000000000001,0.0909,0.1053
 2024-12-17 06:39:47.964361,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kirk Cousins (ATL),-0.0145,0.0099,0.0244
 2024-12-17 11:25:42.488043,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Tyler Herro (MIA),-0.015100000000000002,0.1667,0.1818
+2024-12-17 11:25:42.391468,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,-0.017600000000000005,0.3333,0.3509
 2024-12-17 11:25:42.283235,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.0179,0.125,0.1429
 2024-12-17 09:31:39.622997,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Lazio,-0.018099999999999998,0.0588,0.0769
 2024-12-17 09:31:39.812227,League Two - England League Two 2024/25 - Top 7 Finish,Fleetwood Town,-0.019000000000000017,0.2667,0.2857
@@ -63,6 +68,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-17 08:36:47.526512,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,-0.021699999999999997,0.4545,0.4762
 2024-12-17 09:31:39.886584,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.021999999999999964,0.2857,0.3077
 2024-12-17 11:25:42.416002,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Furman,-0.022199999999999998,0.2,0.2222
+2024-12-17 11:25:42.391468,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Kansas,-0.022199999999999998,0.2,0.2222
 2024-12-17 05:32:52.078838,Super Bowl LIX - Super Bowl 59 - Winner,Detroit Lions,-0.023800000000000016,0.1667,0.1905
 2024-12-17 11:25:42.283235,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.025499999999999967,0.4,0.4255
 2024-12-17 09:31:39.626143,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),-0.025499999999999967,0.4,0.4255
@@ -73,8 +79,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-17 11:25:42.425367,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,UCLA (W),-0.028799999999999992,0.125,0.1538
 2024-12-17 05:32:52.088317,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,-0.030299999999999994,0.3333,0.3636
 2024-12-17 11:25:42.288005,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.030299999999999994,0.303,0.3333
-2024-12-17 09:31:39.858256,Super League - Greece Super League 2024/25 - Winner,Olympiakos,-0.031799999999999995,0.4444,0.4762
 2024-12-17 08:36:47.523402,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Nottingham Forest,-0.031799999999999995,0.4444,0.4762
+2024-12-17 09:31:39.858256,Super League - Greece Super League 2024/25 - Winner,Olympiakos,-0.031799999999999995,0.4444,0.4762
 2024-12-17 11:25:42.481166,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Kenny Atkinson,-0.03610000000000002,0.5556,0.5917
 2024-12-17 09:31:39.635676,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,-0.03640000000000004,0.3636,0.4
 2024-12-17 05:32:52.106875,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,-0.04099999999999998,0.3226,0.3636
