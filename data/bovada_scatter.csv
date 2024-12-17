@@ -1,87 +1,37 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Cink,0.13419999999999999,0.1818,0.0476
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Woods,0.12819999999999998,0.1667,0.0385
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Daly,0.09620000000000001,0.25,0.1538
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Antoine Rozner,0.093,0.1053,0.0123
 2024-12-17 05:32:52.097604,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,0.08549999999999996,0.3077,0.2222
 2024-12-17 04:34:47.350346,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.07740000000000002,0.5652,0.4878
 2024-12-17 05:32:52.102246,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,0.06669999999999998,0.2667,0.2
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Angel Ayora,0.0657,0.0667,0.001
-2024-12-16 19:24:33.032011,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.05550000000000002,0.2222,0.1667
 2024-12-17 06:39:47.975241,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),0.05510000000000004,0.9375,0.8824
-2024-12-16 19:24:32.786825,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.04849999999999999,0.1818,0.1333
 2024-12-17 06:39:47.964361,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Joe Burrow (CIN),0.04169999999999996,0.875,0.8333
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Korda,0.041,0.0476,0.0066
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Casey Jarvis,0.040999999999999995,0.0435,0.0025
 2024-12-17 06:39:47.960850,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,0.03640000000000004,0.4,0.3636
 2024-12-17 04:34:47.599511,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.03259999999999996,0.6552,0.6226
 2024-12-17 05:32:52.106875,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.03090000000000004,0.6226,0.5917
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Harrington,0.0303,0.0323,0.002
-2024-12-16 19:24:33.035529,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Jalen Williams (OKC),0.030299999999999994,0.3333,0.303
 2024-12-17 03:42:56.622806,League Two - England League Two 2024/25 - Winner,Walsall,0.029000000000000026,0.4545,0.4255
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Stricker,0.0286,0.0385,0.0099
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Matthew Southgate,0.026799999999999997,0.0278,0.001
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Andrea Pavan,0.026799999999999997,0.0278,0.001
-2024-12-16 19:24:33.028512,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Kenny Atkinson,0.026499999999999968,0.5917,0.5652
-2024-12-16 19:24:33.021413,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Payton Pritchard (BOS),0.023799999999999932,0.8571,0.8333
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Robin Williams,0.0234,0.0244,0.001
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Lehman,0.023200000000000002,0.0476,0.0244
-2024-12-16 19:24:32.786825,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.022600000000000064,0.5348,0.5122
 2024-12-17 03:08:54.501902,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,0.022199999999999998,0.2222,0.2
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Langer,0.022199999999999998,0.1333,0.1111
 2024-12-17 05:32:52.088317,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.021999999999999964,0.3077,0.2857
-2024-12-16 19:24:32.795367,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,0.019099999999999992,0.0667,0.0476
-2024-12-16 19:24:33.021413,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Amen Thompson (HOU),0.019099999999999992,0.0667,0.0476
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Jacques Kruyswijk,0.0186,0.0196,0.001
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Nicolai Von Dellingshausen,0.0186,0.0196,0.001
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Yurav Premlall,0.0186,0.0196,0.001
 2024-12-17 05:32:52.092966,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.018100000000000005,0.4348,0.4167
 2024-12-17 05:32:52.078838,Super Bowl LIX - Super Bowl 59 - Winner,Minnesota Vikings,0.018099999999999998,0.0769,0.0588
 2024-12-16 20:31:40.906770,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Green Bay Packers,0.0179,0.1429,0.125
-2024-12-16 19:24:33.021413,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,De'Andre Hunter (ATL),0.01759999999999999,0.1176,0.1
-2024-12-16 19:24:33.028512,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Ime Udoka,0.016699999999999993,0.2667,0.25
 2024-12-16 23:28:43.937501,NFL Weekly Specials - NFL Week 15 - MNF Specials - MNF Specials & Requests,"K.Cousins, S.Darnold & C.Williams 225+ Passing Yards Each",0.016699999999999993,0.2667,0.25
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Martin Couvra,0.0145,0.0244,0.0099
-2024-12-16 19:24:32.795367,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.014399999999999996,0.0769,0.0625
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Ryan Van Velzen,0.0142,0.0152,0.001
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Wilco Nienaber,0.0142,0.0152,0.001
 2024-12-17 04:34:47.595772,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Nicolas Jackson (Chelsea),0.014100000000000001,0.0526,0.0385
-2024-12-16 19:24:32.768347,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.013999999999999999,0.0909,0.0769
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Oliver Bekker,0.0139,0.0152,0.0013
 2024-12-17 04:34:47.599511,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,0.0131,0.2353,0.2222
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Daniel Brown,0.013,0.0196,0.0066
 2024-12-17 06:39:47.964361,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),0.012600000000000007,0.0714,0.0588
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Leonard,0.012400000000000001,0.0164,0.004
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Marcel Schneider,0.012100000000000001,0.0244,0.0123
 2024-12-16 21:28:12.790450,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Duke,0.011499999999999955,0.6667,0.6552
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Jonathan Broomhead,0.011300000000000001,0.0123,0.001
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Thomas Aiken,0.011,0.0123,0.0013
-2024-12-16 19:24:33.025000,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Nikola Jokic (DEN),0.010299999999999976,0.2667,0.2564
 2024-12-17 02:04:03.609267,Elite Boxing - Oleksandr Usyk vs Tyson Fury - To Win the Bout,Tyson Fury,-0.010099999999999998,0.4444,0.4545
 2024-12-17 05:32:52.088317,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Tampa Bay Buccaneers,-0.0102,0.0667,0.0769
 2024-12-17 06:39:47.960850,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,-0.0102,0.0667,0.0769
-2024-12-17 04:34:47.602823,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.010899999999999993,0.1429,0.1538
 2024-12-17 03:42:56.622806,League Two - England League Two 2024/25 - Winner,Port Vale,-0.010899999999999993,0.1429,0.1538
-2024-12-16 19:24:32.786825,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Philadelphia 76ers,-0.012499999999999997,0.05,0.0625
-2024-12-16 19:24:32.786825,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.012899999999999995,0.1538,0.1667
+2024-12-17 04:34:47.602823,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.010899999999999993,0.1429,0.1538
 2024-12-17 06:39:47.960850,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,-0.012899999999999995,0.1538,0.1667
 2024-12-17 04:34:47.350346,Serie A - Italy Serie A 2024/25 - Winner,Lazio,-0.014099999999999998,0.0244,0.0385
 2024-12-17 06:39:47.964361,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kirk Cousins (ATL),-0.0145,0.0099,0.0244
-2024-12-16 19:24:32.795367,Western Conference - Western Conference 2024-25 - Western Conference Winner,Memphis Grizzlies,-0.016700000000000007,0.0833,0.1
-2024-12-16 19:24:33.025000,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,De'Aaron Fox (SAC),-0.01820000000000002,0.1818,0.2
-2024-12-16 19:24:33.420740,The Showdown: PGA Tour vs LIV Tour - PGA Tour vs LIV Tour - Winner,Bryson DeChambeau / Brooks Koepka,-0.019699999999999995,0.4348,0.4545
 2024-12-17 05:32:52.092966,AFC North - AFC North 2024/25 - AFC North Winner,Pittsburgh Steelers,-0.02100000000000002,0.6154,0.6364
 2024-12-17 05:32:52.078838,Super Bowl LIX - Super Bowl 59 - Winner,Detroit Lions,-0.023800000000000016,0.1667,0.1905
-2024-12-16 19:24:32.786825,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Miami Heat,-0.024,0.0385,0.0625
-2024-12-16 19:24:32.795367,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,-0.0245,0.0588,0.0833
-2024-12-16 19:24:32.786825,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Milwaukee Bucks,-0.0267,0.0909,0.1176
 2024-12-17 03:08:54.501902,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,-0.027700000000000058,0.5556,0.5833
 2024-12-17 05:32:52.088317,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,-0.030299999999999994,0.3333,0.3636
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Jayden Schaper,-0.0334,0.0435,0.0769
 2024-12-17 05:32:52.106875,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,-0.04099999999999998,0.3226,0.3636
 2024-12-17 04:34:47.350346,Serie A - Italy Serie A 2024/25 - Winner,Napoli,-0.04999999999999999,0.2,0.25
 2024-12-17 05:32:52.102246,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,-0.05070000000000008,0.7826,0.8333
 2024-12-17 06:39:47.975241,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),-0.0524,0.0476,0.1
 2024-12-17 05:32:52.097604,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,-0.06820000000000004,0.75,0.8182
-2024-12-16 19:24:33.415997,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Jacques P de Villiers,-0.1308,0.0025,0.1333
-2024-12-16 19:24:33.410116,PNC Championship - PNC Championship - Winner,Team Kuchar,-0.4408000000000001,0.1818,0.6226
