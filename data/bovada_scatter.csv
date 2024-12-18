@@ -1,9 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-12-18 03:40:16.356790,Political Specials - Who will Trump pardon in first 100 days? - Who will Trump pardon in first 100 days?,Eric Adams,0.20829999999999999,0.3333,0.125
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Veer Ahlawat,0.1054,0.125,0.0196
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Sachin Baisoya,0.08299999999999999,0.0909,0.0079
 2024-12-18 15:30:51.915947,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Fernando Daniel Martinez,0.06530000000000002,0.8214,0.7561
-2024-12-18 03:40:16.356790,Political Specials - Who will Trump pardon in first 100 days? - Who will Trump pardon in first 100 days?,Ross Ulbricht,0.0625,0.75,0.6875
 2024-12-18 08:36:08.248886,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,0.0625,0.3125,0.25
 2024-12-18 08:36:08.877339,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Willibaldo Garcia Perez,0.05449999999999999,0.4545,0.4
 2024-12-18 13:35:23.667395,Squid Game Specials - Squid Game 2: Games To Appear In Season 2 - Games To Appear,Marbles,0.053100000000000036,0.4167,0.3636
@@ -33,12 +31,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-18 09:30:09.554277,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,0.015400000000000025,0.4,0.3846
 2024-12-18 15:30:51.485742,To Make The Playoffs - Athletics To Make The Playoffs - 2025 Regular Season - Athletics To Make The Playoffs - 2025 Regular Season,Yes,0.013999999999999999,0.0909,0.0769
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,N Thangaraja,0.0138,0.0217,0.0079
+2024-12-18 16:36:19.741279,Boxing Lines - Serhii Bohachuk vs Ishmael Davis - To Win the Bout,Ishmael Davis,0.012899999999999995,0.1667,0.1538
 2024-12-18 15:30:51.879977,Boxing Lines - Daniel Lapin vs Dylan Colin - To Win the Bout,Dylan Colin,0.012899999999999995,0.1667,0.1538
 2024-12-18 08:36:08.228674,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,0.012699999999999989,0.3636,0.3509
 2024-12-18 09:30:09.557962,National League - English National League 2024/25 - To Be Promoted,Southend Utd,0.012100000000000001,0.0244,0.0123
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,C Muniyappa,0.0121,0.0141,0.002
 2024-12-18 15:30:51.652312,To Make The Playoffs - Kansas City Royals To Make The Playoffs - 2025 Regular Season - Kansas City Royals To Make The Playoffs - 2025 Regular Season,Yes,0.0116,0.4878,0.4762
-2024-12-18 03:40:16.186240,NBA Championship - NBA Championship 2024-25 - NBA Champion,Milwaukee Bucks,0.011199999999999995,0.0588,0.0476
 2024-12-18 08:36:08.236737,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Toledo,0.011099999999999999,0.1111,0.1
 2024-12-18 08:36:08.240771,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Belmont,0.011099999999999999,0.0667,0.0556
 2024-12-18 07:27:41.987107,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Angel Ayora,0.0102,0.0769,0.0667
@@ -61,7 +59,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Om Prakash Chouhan,-0.0232,0.0435,0.0667
 2024-12-18 15:30:51.535987,To Make The Playoffs - Arizona Diamondbacks To Make The Playoffs - 2025 - To Make The Playoffs - 2025,No,-0.026499999999999968,0.5652,0.5917
 2024-12-18 08:36:08.236737,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Akron,-0.030299999999999994,0.3333,0.3636
-2024-12-18 03:40:16.356790,Political Specials - Who will Trump pardon in first 100 days? - Who will Trump pardon in first 100 days?,Diddy,-0.030400000000000003,0.0196,0.05
 2024-12-18 08:36:08.236737,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Ohio,-0.033399999999999985,0.1333,0.1667
 2024-12-18 08:36:08.252931,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Samford,-0.03640000000000004,0.3636,0.4
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Karan Pratap Singh,-0.052199999999999996,0.0066,0.0588
