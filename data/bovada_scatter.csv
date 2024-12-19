@@ -42,18 +42,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 09:30:37.064237,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Arsenal,0.02560000000000001,0.3333,0.3077
 2024-12-19 08:35:13.943825,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),0.025099999999999983,0.2632,0.2381
 2024-12-19 12:54:15.937994,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Johnny Fisher,0.02429999999999999,0.9474,0.9231
-2024-12-19 09:30:37.573582,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,0.023799999999999988,0.3571,0.3333
 2024-12-19 09:30:37.593854,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,0.023799999999999988,0.3571,0.3333
+2024-12-19 09:30:37.573582,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,0.023799999999999988,0.3571,0.3333
 2024-12-19 09:30:37.064237,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Liverpool,0.021999999999999964,0.3077,0.2857
 2024-12-19 05:32:01.787558,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 40.5,0.02169999999999994,0.5455,0.5238
 2024-12-19 06:38:21.025403,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 14.5,0.02169999999999994,0.5455,0.5238
 2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,0.021399999999999975,0.2778,0.2564
 2024-12-19 09:30:37.593854,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,0.020799999999999985,0.3333,0.3125
-2024-12-19 09:30:38.228978,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Miami Marlins Wins - 2025 Regular Season,Over 63.5,0.02079999999999993,0.5556,0.5348
-2024-12-19 06:38:20.980611,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 60.5,0.02079999999999993,0.5556,0.5348
 2024-12-19 05:32:01.762654,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 31.5,0.02079999999999993,0.5556,0.5348
-2024-12-19 09:30:38.179105,Regular Season Wins - Detroit Tigers Wins - 2025 Regular Season - Detroit Tigers Wins - 2025 Regular Season,Over 83.5,0.02079999999999993,0.5556,0.5348
 2024-12-19 06:38:21.020471,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 20.5,0.02079999999999993,0.5556,0.5348
+2024-12-19 06:38:20.980611,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 60.5,0.02079999999999993,0.5556,0.5348
+2024-12-19 09:30:38.179105,Regular Season Wins - Detroit Tigers Wins - 2025 Regular Season - Detroit Tigers Wins - 2025 Regular Season,Over 83.5,0.02079999999999993,0.5556,0.5348
+2024-12-19 09:30:38.228978,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Miami Marlins Wins - 2025 Regular Season,Over 63.5,0.02079999999999993,0.5556,0.5348
 2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Connecticut,0.020699999999999996,0.2381,0.2174
 2024-12-19 12:54:15.009124,FIBA Champions League - FIBA Champions League 2024/25 - Outright,s.Oliver Würzburg,0.0203,0.0526,0.0323
 2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Marquette,0.02020000000000001,0.1111,0.0909
@@ -67,8 +67,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 05:32:01.757636,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 21.5,0.01880000000000004,0.5744,0.5556
 2024-12-19 03:04:30.136494,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,0.01880000000000004,0.5744,0.5556
 2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Duke,0.018799999999999983,0.3636,0.3448
-2024-12-19 12:54:14.999539,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,0.01820000000000002,0.2,0.1818
 2024-12-19 09:30:37.565487,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,0.01820000000000002,0.2,0.1818
+2024-12-19 12:54:14.999539,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,0.01820000000000002,0.2,0.1818
 2024-12-19 12:54:14.999539,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Zalgiris,0.018099999999999998,0.0526,0.0345
 2024-12-19 12:54:14.996440,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.0179,0.1429,0.125
 2024-12-19 04:33:33.216156,Boxing Lines - Erick Rosa Pacheco vs Neider Valdez Aguilar - To Win the Bout,Erick Rosa Pacheco,0.01760000000000006,0.9,0.8824
@@ -82,25 +82,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 08:35:13.924133,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.013900000000000003,0.0417,0.0278
 2024-12-19 09:30:37.573582,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,0.013800000000000034,0.3774,0.3636
 2024-12-19 09:30:37.601916,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Memphis,0.013299999999999979,0.6429,0.6296
-2024-12-19 12:54:15.930095,Boxing Lines - Daniel Lapin vs Dylan Colin - To Win the Bout,Dylan Colin,0.012899999999999995,0.1667,0.1538
 2024-12-19 10:35:13.290055,Boxing Lines - Serhii Bohachuk vs Ishmael Davis - To Win the Bout,Ishmael Davis,0.012899999999999995,0.1667,0.1538
+2024-12-19 12:54:15.930095,Boxing Lines - Daniel Lapin vs Dylan Colin - To Win the Bout,Dylan Colin,0.012899999999999995,0.1667,0.1538
 2024-12-19 12:54:15.009124,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Manresa,0.012499999999999997,0.0625,0.05
 2024-12-19 03:04:30.460814,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,0.012299999999999978,0.6552,0.6429
 2024-12-19 08:35:13.943825,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Cotie McMahon (Ohio State),0.0114,0.0164,0.005
-2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,0.011300000000000004,0.2439,0.2326
 2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Alabama,0.011300000000000004,0.2439,0.2326
-2024-12-19 08:35:13.943825,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Madison Booker (Texas),0.011200000000000002,0.0244,0.0132
+2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,0.011300000000000004,0.2439,0.2326
 2024-12-19 08:35:13.943825,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Georgia Amoore (Kentucky),0.011200000000000002,0.0244,0.0132
+2024-12-19 08:35:13.943825,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Madison Booker (Texas),0.011200000000000002,0.0244,0.0132
 2024-12-19 08:35:13.933913,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Walter Clayton Jr. (Florida),0.011200000000000002,0.0244,0.0132
+2024-12-19 13:35:19.064233,PNC Championship - PNC Championship - Winner,Team Harrington,0.011199999999999995,0.0435,0.0323
 2024-12-19 12:54:15.004321,Euro Cup - Euro Cup 2024/25 - Outright,Ratiopharm Ulm,0.011199999999999995,0.0588,0.0476
 2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Saint Mary's CA,0.010700000000000001,0.0385,0.0278
 2024-12-19 06:38:20.985583,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 48.5,0.010699999999999932,0.5455,0.5348
 2024-12-19 09:30:37.565487,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Indiana,0.010600000000000002,0.0323,0.0217
 2024-12-19 09:30:37.043963,Coppa Italia - Coppa Italia 2024/25 - Winner,AS Roma,0.0102,0.0769,0.0667
-2024-12-19 06:38:21.010465,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 39.5,0.010099999999999998,0.5556,0.5455
-2024-12-19 09:30:37.557327,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Dayton,0.010099999999999998,0.4545,0.4444
 2024-12-19 05:32:01.767606,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 59.5,0.010099999999999998,0.5556,0.5455
 2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Tennessee,0.010099999999999998,0.3226,0.3125
+2024-12-19 06:38:21.010465,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 39.5,0.010099999999999998,0.5556,0.5455
+2024-12-19 09:30:37.557327,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Dayton,0.010099999999999998,0.4545,0.4444
 2024-12-19 08:35:13.924133,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Kentucky,0.010099999999999998,0.0556,0.0455
 2024-12-19 02:00:57.022991,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Johnny Fisher,-0.010199999999999987,0.9231,0.9333
 2024-12-19 08:35:13.924133,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,-0.0102,0.0667,0.0769
@@ -115,8 +116,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 09:30:37.557327,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),George Mason,-0.011899999999999994,0.0714,0.0833
 2024-12-19 05:32:01.757636,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 21.5,-0.012199999999999989,0.5,0.5122
 2024-12-19 09:30:37.601916,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Wichita State,-0.012299999999999991,0.1053,0.1176
-2024-12-19 11:25:13.931297,Boxing Lines - Serhii Bohachuk vs Ishmael Davis - To Win the Bout,Ishmael Davis,-0.012899999999999995,0.1538,0.1667
 2024-12-19 09:30:37.043963,Coppa Italia - Coppa Italia 2024/25 - Winner,AC Milan,-0.012899999999999995,0.1538,0.1667
+2024-12-19 11:25:13.931297,Boxing Lines - Serhii Bohachuk vs Ishmael Davis - To Win the Bout,Ishmael Davis,-0.012899999999999995,0.1538,0.1667
 2024-12-19 08:35:13.928720,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arkansas State,-0.013,0.0066,0.0196
 2024-12-19 09:30:37.573582,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Butler,-0.0138,0.0079,0.0217
 2024-12-19 09:30:36.828415,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,-0.013999999999999999,0.0769,0.0909
@@ -140,19 +141,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 05:32:01.787558,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 40.5,-0.02169999999999994,0.5238,0.5455
 2024-12-19 06:38:21.025403,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 14.5,-0.02169999999999994,0.5238,0.5455
 2024-12-19 09:30:37.565487,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan,-0.02210000000000001,0.2105,0.2326
-2024-12-19 12:54:15.937994,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Arnold Allen,-0.022199999999999998,0.1111,0.1333
 2024-12-19 09:30:37.577607,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Western Kentucky,-0.022199999999999998,0.2,0.2222
+2024-12-19 12:54:15.937994,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Arnold Allen,-0.022199999999999998,0.1111,0.1333
 2024-12-19 05:32:01.762654,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 31.5,-0.022600000000000064,0.5122,0.5348
+2024-12-19 06:38:20.980611,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 60.5,-0.022600000000000064,0.5122,0.5348
 2024-12-19 06:38:21.020471,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Over 20.5,-0.022600000000000064,0.5122,0.5348
 2024-12-19 09:30:38.228978,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Miami Marlins Wins - 2025 Regular Season,Under 63.5,-0.022600000000000064,0.5122,0.5348
 2024-12-19 09:30:38.179105,Regular Season Wins - Detroit Tigers Wins - 2025 Regular Season - Detroit Tigers Wins - 2025 Regular Season,Under 83.5,-0.022600000000000064,0.5122,0.5348
-2024-12-19 06:38:20.980611,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 60.5,-0.022600000000000064,0.5122,0.5348
 2024-12-19 03:04:30.136494,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,-0.024399999999999977,0.4878,0.5122
 2024-12-19 03:04:30.468945,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Patrick Surtain (DEN),-0.024800000000000016,0.2105,0.2353
 2024-12-19 12:54:14.999539,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,-0.024999999999999994,0.1,0.125
 2024-12-19 09:30:37.585717,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Murray State,-0.027700000000000002,0.0556,0.0833
-2024-12-19 06:38:21.015449,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 23.5,-0.030399999999999983,0.5348,0.5652
 2024-12-19 05:32:01.782537,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 50.5,-0.030399999999999983,0.5348,0.5652
+2024-12-19 06:38:21.015449,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 23.5,-0.030399999999999983,0.5348,0.5652
 2024-12-19 03:04:30.460814,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,-0.031,0.0278,0.0588
 2024-12-19 03:04:30.162622,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,No,-0.03250000000000003,0.2532,0.2857
 2024-12-19 09:30:37.557327,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Joseph's,-0.03420000000000001,0.0769,0.1111
@@ -161,8 +162,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 03:04:30.145049,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,-0.03739999999999999,0.8857,0.9231
 2024-12-19 03:04:30.460814,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,-0.03950000000000001,0.1667,0.2062
 2024-12-19 06:38:21.000521,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 23.5,-0.04139999999999999,0.5238,0.5652
-2024-12-19 12:54:14.999539,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Paris,-0.04169999999999999,0.125,0.1667
 2024-12-19 12:54:15.004321,Euro Cup - Euro Cup 2024/25 - Outright,Gran Canaria,-0.04169999999999999,0.125,0.1667
+2024-12-19 12:54:14.999539,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Paris,-0.04169999999999999,0.125,0.1667
 2024-12-19 09:30:36.881775,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,-0.043200000000000016,0.6491,0.6923
 2024-12-19 09:30:37.593854,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,-0.043800000000000006,0.1667,0.2105
 2024-12-19 09:30:36.831310,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,-0.04999999999999999,0.2,0.25
