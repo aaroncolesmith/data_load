@@ -5,7 +5,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-18 15:30:51.915947,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Fernando Daniel Martinez,0.06530000000000002,0.8214,0.7561
 2024-12-18 20:30:50.949961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Jacobs (GB),0.06480000000000001,0.0714,0.0066
 2024-12-18 19:23:23.434002,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Kazuto Ioka,0.060799999999999965,0.3077,0.2469
-2024-12-18 13:35:23.667395,Squid Game Specials - Squid Game 2: Games To Appear In Season 2 - Games To Appear,Marbles,0.053100000000000036,0.4167,0.3636
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Udayan Mane,0.0509,0.0588,0.0079
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Jamal Hossain,0.0436,0.0476,0.004
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Manu Gandas,0.04239999999999999,0.0588,0.0164
@@ -15,12 +14,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Yuvraj Singh Sandhu,0.0321,0.0909,0.0588
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Saptak Talwar,0.0306,0.0385,0.0079
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Akshay Sharma,0.030500000000000003,0.0345,0.004
-2024-12-18 13:35:23.671517,Squid Game Specials - Squid Game 2: Specials - Specials,"Red Light, Green Light to be played",0.028000000000000025,0.9804,0.9524
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,M Dharma,0.0262,0.0385,0.0123
 2024-12-18 23:27:13.775876,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Willibaldo Garcia Perez,0.024399999999999977,0.5122,0.4878
 2024-12-18 15:30:51.535987,To Make The Playoffs - Arizona Diamondbacks To Make The Playoffs - 2025 - To Make The Playoffs - 2025,Yes,0.023799999999999988,0.5,0.4762
 2024-12-18 23:27:13.544975,Regular Season Wins - Detroit Tigers Wins - 2025 Regular Season - Detroit Tigers Wins - 2025 Regular Season,Over 83.5,0.022600000000000064,0.5348,0.5122
-2024-12-18 12:53:36.896139,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Willibaldo Garcia Perez,0.021699999999999997,0.4762,0.4545
 2024-12-18 15:30:51.727701,Regular Season Wins - San Diego Padres Wins - 2025 Regular Season - San Diego Padres Wins - 2025 Regular Season,Over 89.5,0.02079999999999993,0.5556,0.5348
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Kshitij Naveed Kaul,0.019899999999999998,0.0278,0.0079
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Shaurya Binu,0.017599999999999998,0.0196,0.002
@@ -32,13 +29,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-18 19:23:23.405484,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Arnold Allen,0.013899999999999996,0.125,0.1111
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,N Thangaraja,0.0138,0.0217,0.0079
 2024-12-18 20:30:50.890351,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.013799999999999923,0.6364,0.6226
-2024-12-18 15:30:51.879977,Boxing Lines - Daniel Lapin vs Dylan Colin - To Win the Bout,Dylan Colin,0.012899999999999995,0.1667,0.1538
 2024-12-18 16:36:19.741279,Boxing Lines - Serhii Bohachuk vs Ishmael Davis - To Win the Bout,Ishmael Davis,0.012899999999999995,0.1667,0.1538
+2024-12-18 15:30:51.879977,Boxing Lines - Daniel Lapin vs Dylan Colin - To Win the Bout,Dylan Colin,0.012899999999999995,0.1667,0.1538
 2024-12-18 20:30:50.949961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),0.012899999999999912,0.8462,0.8333
 2024-12-18 14:32:31.803347,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,C Muniyappa,0.0121,0.0141,0.002
 2024-12-18 17:30:15.993816,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Willibaldo Garcia Perez,0.0116,0.4878,0.4762
 2024-12-18 15:30:51.652312,To Make The Playoffs - Kansas City Royals To Make The Playoffs - 2025 Regular Season - Kansas City Royals To Make The Playoffs - 2025 Regular Season,Yes,0.0116,0.4878,0.4762
 2024-12-18 20:30:50.890351,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,-0.010099999999999998,0.3125,0.3226
+2024-12-19 02:00:57.022991,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Johnny Fisher,-0.010199999999999987,0.9231,0.9333
 2024-12-18 20:30:50.939324,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,-0.010899999999999993,0.1429,0.1538
 2024-12-18 15:30:51.712630,Regular Season Wins - New York Yankees Wins - 2025 Regular Season - New York Yankees Wins - 2025 Regular Season,Under 92.5,-0.012199999999999989,0.5,0.5122
 2024-12-18 20:30:50.957498,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),-0.012300000000000089,0.9681,0.9804
@@ -46,11 +44,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-18 19:23:23.417578,Boxing Lines - Serhii Bohachuk vs Ishmael Davis - To Win the Bout,Ishmael Davis,-0.012899999999999995,0.1538,0.1667
 2024-12-18 19:23:23.405484,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Johnny Fisher,-0.014100000000000001,0.9333,0.9474
 2024-12-18 20:30:50.949961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),-0.014399999999999996,0.0625,0.0769
-2024-12-18 12:53:36.896139,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Rene Calixto Bibiano,-0.016100000000000003,0.5917,0.6078
 2024-12-18 19:23:23.401477,Boxing Lines - Isaac Lowe vs Lee McGregor - To Win the Bout,Isaac Lowe,-0.016699999999999993,0.4,0.4167
 2024-12-18 15:30:51.395463,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,-0.016699999999999993,0.25,0.2667
-2024-12-18 15:30:51.652312,To Make The Playoffs - Kansas City Royals To Make The Playoffs - 2025 Regular Season - Kansas City Royals To Make The Playoffs - 2025 Regular Season,No,-0.017299999999999982,0.5744,0.5917
 2024-12-18 17:30:15.993816,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Rene Calixto Bibiano,-0.017299999999999982,0.5744,0.5917
+2024-12-18 15:30:51.652312,To Make The Playoffs - Kansas City Royals To Make The Playoffs - 2025 Regular Season - Kansas City Royals To Make The Playoffs - 2025 Regular Season,No,-0.017299999999999982,0.5744,0.5917
 2024-12-18 15:30:51.883980,Boxing Lines - Isaac Lowe vs Lee McGregor - To Win the Bout,Lee McGregor,-0.01759999999999995,0.6491,0.6667
 2024-12-18 23:27:13.775876,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Rene Calixto Bibiano,-0.01880000000000004,0.5556,0.5744
 2024-12-18 23:27:13.544975,Regular Season Wins - Detroit Tigers Wins - 2025 Regular Season - Detroit Tigers Wins - 2025 Regular Season,Under 83.5,-0.02079999999999993,0.5348,0.5556
