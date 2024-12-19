@@ -8,18 +8,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 03:04:30.158199,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,0.0947,0.4651,0.3704
 2024-12-19 03:04:30.128106,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,Yes,0.0925999999999999,0.7222,0.6296
 2024-12-18 20:30:50.949961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Jacobs (GB),0.06480000000000001,0.0714,0.0066
-2024-12-18 19:23:23.434002,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Kazuto Ioka,0.060799999999999965,0.3077,0.2469
 2024-12-19 06:38:20.945780,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 43.5,0.05559999999999998,0.5556,0.5
 2024-12-19 06:38:20.960797,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 48.5,0.05300000000000005,0.5652,0.5122
 2024-12-19 06:38:20.995558,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 48.5,0.05059999999999998,0.5744,0.5238
 2024-12-19 03:04:30.149391,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,Yes,0.0505000000000001,0.7727,0.7222
 2024-12-19 06:38:21.000521,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 23.5,0.045499999999999985,0.5455,0.5
+2024-12-19 07:28:02.665764,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.04409999999999997,0.2941,0.25
 2024-12-18 20:30:50.949961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),0.04099999999999998,0.2632,0.2222
 2024-12-19 03:04:30.145049,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,No,0.03889999999999999,0.1818,0.1429
 2024-12-19 03:04:30.473038,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),0.03620000000000001,0.8824,0.8462
 2024-12-19 05:32:01.782537,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 50.5,0.03480000000000005,0.5348,0.5
 2024-12-19 06:38:21.015449,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 23.5,0.03480000000000005,0.5348,0.5
 2024-12-18 20:30:50.930814,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Georgia,0.033300000000000024,0.2,0.1667
+2024-12-19 07:28:02.665764,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),0.03259999999999999,0.2326,0.2
 2024-12-19 03:04:30.162622,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,Yes,0.032200000000000006,0.8148,0.7826
 2024-12-19 05:32:01.752660,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 62.5,0.030399999999999983,0.5652,0.5348
 2024-12-19 03:04:30.468945,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),0.030299999999999994,0.6667,0.6364
@@ -27,16 +28,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-18 23:27:13.775876,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Willibaldo Garcia Perez,0.024399999999999977,0.5122,0.4878
 2024-12-18 23:27:13.544975,Regular Season Wins - Detroit Tigers Wins - 2025 Regular Season - Detroit Tigers Wins - 2025 Regular Season,Over 83.5,0.022600000000000064,0.5348,0.5122
 2024-12-19 05:32:01.787558,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 40.5,0.02169999999999994,0.5455,0.5238
+2024-12-19 06:38:21.025403,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 14.5,0.02169999999999994,0.5455,0.5238
 2024-12-19 06:38:21.020471,Utah Jazz - Utah Jazz 2024-25 - Regular Season Wins,Under 20.5,0.02079999999999993,0.5556,0.5348
 2024-12-19 05:32:01.762654,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Under 31.5,0.02079999999999993,0.5556,0.5348
 2024-12-19 06:38:20.980611,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 60.5,0.02079999999999993,0.5556,0.5348
 2024-12-19 03:04:30.166939,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,No,0.019499999999999962,0.6491,0.6296
-2024-12-19 05:32:01.757636,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 21.5,0.01880000000000004,0.5744,0.5556
 2024-12-19 03:04:30.136494,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,0.01880000000000004,0.5744,0.5556
+2024-12-19 05:32:01.757636,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 21.5,0.01880000000000004,0.5744,0.5556
 2024-12-19 04:33:33.216156,Boxing Lines - Erick Rosa Pacheco vs Neider Valdez Aguilar - To Win the Bout,Erick Rosa Pacheco,0.01760000000000006,0.9,0.8824
-2024-12-18 19:23:23.401477,Boxing Lines - Isaac Lowe vs Lee McGregor - To Win the Bout,Lee McGregor,0.01759999999999995,0.6667,0.6491
 2024-12-18 20:30:50.957498,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),0.015300000000000001,0.0588,0.0435
-2024-12-18 19:23:23.405484,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Arnold Allen,0.013899999999999996,0.125,0.1111
 2024-12-18 20:30:50.890351,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.013799999999999923,0.6364,0.6226
 2024-12-18 20:30:50.949961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),0.012899999999999912,0.8462,0.8333
 2024-12-19 03:04:30.460814,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,0.012299999999999978,0.6552,0.6429
@@ -45,6 +45,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 05:32:01.767606,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 59.5,0.010099999999999998,0.5556,0.5455
 2024-12-18 20:30:50.890351,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,-0.010099999999999998,0.3125,0.3226
 2024-12-19 02:00:57.022991,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Johnny Fisher,-0.010199999999999987,0.9231,0.9333
+2024-12-19 07:28:02.665764,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Michigan (W),-0.0103,0.002,0.0123
 2024-12-18 20:30:50.939324,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean Payton,-0.010899999999999993,0.1429,0.1538
 2024-12-19 06:38:20.985583,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Over 48.5,-0.01100000000000001,0.5238,0.5348
 2024-12-19 06:38:21.592942,Boxing Lines - Erick Rosa Pacheco vs Neider Valdez Aguilar - To Win the Bout,Erick Rosa Pacheco,-0.011099999999999999,0.8889,0.9
@@ -52,18 +53,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 05:32:01.767606,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 59.5,-0.011600000000000055,0.5122,0.5238
 2024-12-19 05:32:01.757636,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 21.5,-0.012199999999999989,0.5,0.5122
 2024-12-18 20:30:50.957498,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),-0.012300000000000089,0.9681,0.9804
-2024-12-18 19:23:23.397439,Boxing Lines - Daniel Lapin vs Dylan Colin - To Win the Bout,Dylan Colin,-0.012899999999999995,0.1538,0.1667
-2024-12-18 19:23:23.417578,Boxing Lines - Serhii Bohachuk vs Ishmael Davis - To Win the Bout,Ishmael Davis,-0.012899999999999995,0.1538,0.1667
-2024-12-18 19:23:23.405484,Boxing Lines - Johnny Fisher vs Arnold Allen - To Win the Bout,Johnny Fisher,-0.014100000000000001,0.9333,0.9474
 2024-12-18 20:30:50.949961,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),-0.014399999999999996,0.0625,0.0769
 2024-12-19 04:33:32.753397,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,-0.01469999999999999,0.2353,0.25
 2024-12-19 04:33:33.216156,Boxing Lines - Erick Rosa Pacheco vs Neider Valdez Aguilar - To Win the Bout,Neider Valdez Aguilar,-0.015100000000000002,0.1667,0.1818
 2024-12-19 03:04:30.481491,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brock Bowers (LV),-0.015300000000000001,0.0435,0.0588
-2024-12-18 19:23:23.401477,Boxing Lines - Isaac Lowe vs Lee McGregor - To Win the Bout,Isaac Lowe,-0.016699999999999993,0.4,0.4167
 2024-12-19 03:04:30.166939,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,-0.018100000000000005,0.4167,0.4348
 2024-12-18 23:27:13.775876,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Rene Calixto Bibiano,-0.01880000000000004,0.5556,0.5744
 2024-12-19 03:04:30.473038,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),-0.019000000000000003,0.0435,0.0625
 2024-12-18 23:27:13.544975,Regular Season Wins - Detroit Tigers Wins - 2025 Regular Season - Detroit Tigers Wins - 2025 Regular Season,Under 83.5,-0.02079999999999993,0.5348,0.5556
+2024-12-19 06:38:21.025403,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 14.5,-0.02169999999999994,0.5238,0.5455
 2024-12-19 05:32:01.787558,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 40.5,-0.02169999999999994,0.5238,0.5455
 2024-12-19 06:38:20.980611,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 60.5,-0.022600000000000064,0.5122,0.5348
 2024-12-19 05:32:01.762654,Chicago Bulls - Chicago Bulls 2024-25 - Regular Season Wins,Over 31.5,-0.022600000000000064,0.5122,0.5348
@@ -89,7 +87,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-19 06:38:20.995558,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 48.5,-0.057699999999999974,0.4878,0.5455
 2024-12-19 03:04:30.473038,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),-0.06319999999999998,0.2,0.2632
 2024-12-19 03:04:30.477722,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tarheeb Still (LAC),-0.0635,0.0476,0.1111
-2024-12-18 19:23:23.434002,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Fernando Daniel Martinez,-0.06530000000000002,0.7561,0.8214
 2024-12-19 03:04:30.128106,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,No,-0.09000000000000002,0.3448,0.4348
 2024-12-19 03:04:30.158199,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,Yes,-0.09699999999999998,0.6,0.697
 2024-12-19 03:04:30.097928,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,-0.1526,0.3125,0.4651
