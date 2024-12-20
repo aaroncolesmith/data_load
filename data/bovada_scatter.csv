@@ -30,47 +30,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-20 01:55:06.338117,BKFC: Warren vs Richman - Francesco Ricchi vs Blake Lacaze - To Win the Bout,Francesco Ricchi,0.01430000000000009,0.8182,0.8039
 2024-12-20 01:55:05.066942,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Cercle Brugge,0.012999999999999998,0.0294,0.0164
 2024-12-20 02:57:50.683619,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.012700000000000045,0.6491,0.6364
-2024-12-19 21:26:03.452457,Round Match-Ups - 2nd Round Match-Up - A. Pavan vs J. Schaper - 2nd Round Match-Up,Andrea Pavan,0.012199999999999989,0.5122,0.5
-2024-12-19 21:26:03.444418,Round Match-Ups - 2nd Round Match-Up - P. Pineau vs W. Nienaber - 2nd Round Match-Up,Pierre Pineau,0.012199999999999989,0.5122,0.5
-2024-12-19 21:26:03.456472,Round Match-Ups - 2nd Round Match-Up - C. Lamprecht vs K. Vincent - 2nd Round Match-Up,Christo Lamprecht,0.012199999999999989,0.5122,0.5
 2024-12-19 21:26:03.411813,Round Match-Ups - 2nd Round Match-Up - C. Jarvis vs J. Parry - 2nd Round Match-Up,Casey Jarvis,0.012199999999999989,0.5122,0.5
+2024-12-19 21:26:03.456472,Round Match-Ups - 2nd Round Match-Up - C. Lamprecht vs K. Vincent - 2nd Round Match-Up,Christo Lamprecht,0.012199999999999989,0.5122,0.5
 2024-12-19 21:26:03.436273,Round Match-Ups - 2nd Round Match-Up - A. Halvorsen vs J. Olesen - Outright,Andreas Halvorsen,0.012199999999999989,0.5122,0.5
-2024-12-19 21:26:03.448434,Round Match-Ups - 2nd Round Match-Up - A. Ayora vs M. Kinhult - 2nd Round Match-Up,Marcus Kinhult,0.012199999999999989,0.5,0.4878
+2024-12-19 21:26:03.452457,Round Match-Ups - 2nd Round Match-Up - A. Pavan vs J. Schaper - 2nd Round Match-Up,Andrea Pavan,0.012199999999999989,0.5122,0.5
 2024-12-19 21:26:03.432220,Round Match-Ups - 2nd Round Match-Up - M. Siem vs S. Jamieson - 2nd Round Match-Up,Marcel Siem,0.012199999999999989,0.5122,0.5
+2024-12-19 21:26:03.448434,Round Match-Ups - 2nd Round Match-Up - A. Ayora vs M. Kinhult - 2nd Round Match-Up,Marcus Kinhult,0.012199999999999989,0.5,0.4878
+2024-12-19 21:26:03.444418,Round Match-Ups - 2nd Round Match-Up - P. Pineau vs W. Nienaber - 2nd Round Match-Up,Pierre Pineau,0.012199999999999989,0.5122,0.5
+2024-12-19 21:26:03.460507,Round Match-Ups - 2nd Round Match-Up - M. Southgate vs S. Crocker - 2nd Round Match-Up,Matthew Southgate,0.011600000000000055,0.5238,0.5122
+2024-12-19 21:26:03.423997,Round Match-Ups - 2nd Round Match-Up - J. Blauw vs R. Paratore - 2nd Round Match-Up,Renato Paratore,0.011600000000000055,0.5238,0.5122
+2024-12-19 21:26:03.403487,Round Match-Ups - 2nd Round Match-Up - D. Bryant vs S. Garcia - 2nd Round Match-Up,Sebastian Garcia,0.011600000000000055,0.5238,0.5122
 2024-12-19 21:26:03.419946,Round Match-Ups - 2nd Round Match-Up - M. Schneider vs O. Lindell - 2nd Round Match-Up,Marcel Schneider,0.011600000000000055,0.5238,0.5122
 2024-12-19 21:26:03.407546,Round Match-Ups - 2nd Round Match-Up - D. Van Tonder vs H. Brown - 2nd Round Match-Up,Daniel van Tonder,0.011600000000000055,0.5238,0.5122
-2024-12-19 21:26:03.403487,Round Match-Ups - 2nd Round Match-Up - D. Bryant vs S. Garcia - 2nd Round Match-Up,Sebastian Garcia,0.011600000000000055,0.5238,0.5122
 2024-12-19 21:26:03.415890,Round Match-Ups - 2nd Round Match-Up - J. Kruyswijk vs R. Williams - 2nd Round Match-Up,Jacques Kruyswijk,0.011600000000000055,0.5238,0.5122
-2024-12-19 21:26:03.423997,Round Match-Ups - 2nd Round Match-Up - J. Blauw vs R. Paratore - 2nd Round Match-Up,Renato Paratore,0.011600000000000055,0.5238,0.5122
-2024-12-19 21:26:03.460507,Round Match-Ups - 2nd Round Match-Up - M. Southgate vs S. Crocker - 2nd Round Match-Up,Matthew Southgate,0.011600000000000055,0.5238,0.5122
-2024-12-19 21:26:03.440346,Round Match-Ups - 2nd Round Match-Up - D. Brown vs Y. Premlall - 2nd Round Match-Up,Yurav Premlall,0.01100000000000001,0.5348,0.5238
-2024-12-19 21:26:03.428095,Round Match-Ups - 2nd Round Match-Up - L. De Jager vs N. Lemke - 2nd Round Match-Up,Louis De Jager,0.01100000000000001,0.5348,0.5238
 2024-12-19 21:26:03.440346,Round Match-Ups - 2nd Round Match-Up - D. Brown vs Y. Premlall - 2nd Round Match-Up,Daniel Brown,0.01100000000000001,0.5348,0.5238
+2024-12-19 21:26:03.440346,Round Match-Ups - 2nd Round Match-Up - D. Brown vs Y. Premlall - 2nd Round Match-Up,Yurav Premlall,0.01100000000000001,0.5348,0.5238
 2024-12-19 21:26:03.428095,Round Match-Ups - 2nd Round Match-Up - L. De Jager vs N. Lemke - 2nd Round Match-Up,Niklas Lemke,0.01100000000000001,0.5348,0.5238
-2024-12-19 21:26:03.415890,Round Match-Ups - 2nd Round Match-Up - J. Kruyswijk vs R. Williams - 2nd Round Match-Up,Robin Williams,0.010699999999999932,0.5455,0.5348
-2024-12-19 21:26:03.423997,Round Match-Ups - 2nd Round Match-Up - J. Blauw vs R. Paratore - 2nd Round Match-Up,Jacques Blaauw,0.010699999999999932,0.5455,0.5348
-2024-12-19 21:26:03.407546,Round Match-Ups - 2nd Round Match-Up - D. Van Tonder vs H. Brown - 2nd Round Match-Up,Hamish Brown,0.010699999999999932,0.5455,0.5348
-2024-12-19 21:26:03.419946,Round Match-Ups - 2nd Round Match-Up - M. Schneider vs O. Lindell - 2nd Round Match-Up,Oliver Lindell,0.010699999999999932,0.5455,0.5348
+2024-12-19 21:26:03.428095,Round Match-Ups - 2nd Round Match-Up - L. De Jager vs N. Lemke - 2nd Round Match-Up,Louis De Jager,0.01100000000000001,0.5348,0.5238
 2024-12-19 21:26:03.403487,Round Match-Ups - 2nd Round Match-Up - D. Bryant vs S. Garcia - 2nd Round Match-Up,Davis Bryant,0.010699999999999932,0.5455,0.5348
+2024-12-19 21:26:03.407546,Round Match-Ups - 2nd Round Match-Up - D. Van Tonder vs H. Brown - 2nd Round Match-Up,Hamish Brown,0.010699999999999932,0.5455,0.5348
+2024-12-19 21:26:03.423997,Round Match-Ups - 2nd Round Match-Up - J. Blauw vs R. Paratore - 2nd Round Match-Up,Jacques Blaauw,0.010699999999999932,0.5455,0.5348
+2024-12-19 21:26:03.415890,Round Match-Ups - 2nd Round Match-Up - J. Kruyswijk vs R. Williams - 2nd Round Match-Up,Robin Williams,0.010699999999999932,0.5455,0.5348
+2024-12-19 21:26:03.419946,Round Match-Ups - 2nd Round Match-Up - M. Schneider vs O. Lindell - 2nd Round Match-Up,Oliver Lindell,0.010699999999999932,0.5455,0.5348
 2024-12-19 21:26:03.460507,Round Match-Ups - 2nd Round Match-Up - M. Southgate vs S. Crocker - 2nd Round Match-Up,Sean Crocker,0.010699999999999932,0.5455,0.5348
 2024-12-20 01:55:05.488834,Euro Cup - Euro Cup 2024/25 - Outright,Venezia,0.010100000000000001,0.0345,0.0244
+2024-12-20 01:55:06.233326,Elite Boxing - Oleksandr Usyk vs Tyson Fury - To Win the Bout,Tyson Fury,0.010099999999999998,0.4545,0.4444
+2024-12-19 21:26:03.444418,Round Match-Ups - 2nd Round Match-Up - P. Pineau vs W. Nienaber - 2nd Round Match-Up,Wilco Nienaber,0.010099999999999998,0.5556,0.5455
 2024-12-19 21:26:03.456472,Round Match-Ups - 2nd Round Match-Up - C. Lamprecht vs K. Vincent - 2nd Round Match-Up,Kieran Vincent,0.010099999999999998,0.5556,0.5455
 2024-12-19 21:26:03.411813,Round Match-Ups - 2nd Round Match-Up - C. Jarvis vs J. Parry - 2nd Round Match-Up,John Parry,0.010099999999999998,0.5556,0.5455
-2024-12-20 01:55:06.233326,Elite Boxing - Oleksandr Usyk vs Tyson Fury - To Win the Bout,Tyson Fury,0.010099999999999998,0.4545,0.4444
-2024-12-19 21:26:03.452457,Round Match-Ups - 2nd Round Match-Up - A. Pavan vs J. Schaper - 2nd Round Match-Up,Jayden Schaper,0.010099999999999998,0.5556,0.5455
-2024-12-19 21:26:03.436273,Round Match-Ups - 2nd Round Match-Up - A. Halvorsen vs J. Olesen - Outright,Jacob Olesen,0.010099999999999998,0.5556,0.5455
-2024-12-19 21:26:03.444418,Round Match-Ups - 2nd Round Match-Up - P. Pineau vs W. Nienaber - 2nd Round Match-Up,Wilco Nienaber,0.010099999999999998,0.5556,0.5455
 2024-12-19 21:26:03.432220,Round Match-Ups - 2nd Round Match-Up - M. Siem vs S. Jamieson - 2nd Round Match-Up,Scott Jamieson,0.010099999999999998,0.5556,0.5455
+2024-12-19 21:26:03.436273,Round Match-Ups - 2nd Round Match-Up - A. Halvorsen vs J. Olesen - Outright,Jacob Olesen,0.010099999999999998,0.5556,0.5455
+2024-12-19 21:26:03.452457,Round Match-Ups - 2nd Round Match-Up - A. Pavan vs J. Schaper - 2nd Round Match-Up,Jayden Schaper,0.010099999999999998,0.5556,0.5455
 2024-12-20 02:57:51.158307,Boxing Lines - Isaac Lowe vs Lee McGregor - To Win the Bout,Isaac Lowe,-0.010099999999999998,0.4444,0.4545
 2024-12-20 01:55:06.325607,BKFC: Warren vs Richman - Justin Ibarrola vs Derek Perez - To Win the Bout,Derek Perez,-0.011099999999999999,0.1,0.1111
-2024-12-19 15:30:48.434339,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Hamish Brown,-0.011199999999999995,0.0476,0.0588
 2024-12-19 23:26:20.238695,Boxing Lines - Isaac Lowe vs Lee McGregor - To Win the Bout,Lee McGregor,-0.012700000000000045,0.6364,0.6491
 2024-12-19 16:34:10.649366,Boxing Lines - Daniel Lapin vs Dylan Colin - To Win the Bout,Dylan Colin,-0.012899999999999995,0.1538,0.1667
 2024-12-20 01:55:06.338117,BKFC: Warren vs Richman - Francesco Ricchi vs Blake Lacaze - To Win the Bout,Blake Lacaze,-0.01319999999999999,0.25,0.2632
 2024-12-19 18:36:08.718403,"Daily Specials - NBA Daily Specials - Thursday, 19th of December","Jayson Tatum, Stephen Curry and Cam Johnson 16+ Combined Threes made",-0.01469999999999999,0.2353,0.25
 2024-12-20 01:55:05.139802,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Newcastle United,-0.015100000000000002,0.1667,0.1818
-2024-12-19 17:28:24.041761,"Daily Specials - NBA Daily Specials - Thursday, 19th of December","Jayson Tatum, Ivica Zubac and Anthony Davis 36+ Combined Rebounds",-0.015400000000000025,0.3846,0.4
 2024-12-19 20:29:36.708189,AfrAsia Bank Mauritius Open - 2/3 Balls - 2nd Round 3 Ball - N. Colsaerts / M. Kinhult / C. Lamprecht - 2nd Round 3 Ball,Christo Lamprecht,-0.015400000000000025,0.3846,0.4
+2024-12-19 17:28:24.041761,"Daily Specials - NBA Daily Specials - Thursday, 19th of December","Jayson Tatum, Ivica Zubac and Anthony Davis 36+ Combined Rebounds",-0.015400000000000025,0.3846,0.4
 2024-12-19 20:29:36.483697,Boxing Lines - Isaac Lowe vs Lee McGregor - To Win the Bout,Lee McGregor,-0.01759999999999995,0.6491,0.6667
 2024-12-20 01:55:06.321587,BKFC: Warren vs Richman - Christine Ferea vs Christine Vicens - To Win the Bout,Christine Ferea,-0.017899999999999916,0.7647,0.7826
 2024-12-19 20:29:36.708189,AfrAsia Bank Mauritius Open - 2/3 Balls - 2nd Round 3 Ball - N. Colsaerts / M. Kinhult / C. Lamprecht - 2nd Round 3 Ball,Nicolas Colsaerts,-0.019000000000000017,0.2667,0.2857
