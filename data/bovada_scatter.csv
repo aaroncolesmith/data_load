@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-21 06:34:28.648789,NCAA Football Futures - 2024-2025 NCAA College Football Playoffs - To Make The Final (Right Bracket),Notre Dame,0.1343,0.3448,0.2105
 2024-12-21 07:24:20.209693,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.05559999999999998,0.1667,0.1111
+2024-12-21 13:27:47.295213,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Norman Powell (LAC),0.04329999999999999,0.0909,0.0476
 2024-12-21 06:34:28.644812,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,0.04300000000000001,0.2353,0.1923
 2024-12-21 07:24:20.209693,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.04169999999999999,0.1667,0.125
 2024-12-21 10:30:40.981268,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - To Reach the Final,Chelsea,0.035699999999999954,0.75,0.7143
@@ -32,17 +33,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-21 10:30:41.056451,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.011699999999999933,0.7895,0.7778
 2024-12-21 08:30:53.489905,BKFC: Warren vs Richman - Bryan Duran vs Kasim Ruffin - To Win the Bout,Bryan Duran,0.011499999999999955,0.6667,0.6552
 2024-12-21 03:31:02.630882,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.011099999999999999,0.9,0.8889
-2024-12-21 08:30:52.990477,NFL Weekly Specials - Saturday 21st December NFL Specials - Most Rushing Yards,Derrick Henry (BAL),0.011099999999999999,0.4762,0.4651
 2024-12-21 03:31:02.634031,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.011099999999999999,0.1111,0.1
+2024-12-21 08:30:52.990477,NFL Weekly Specials - Saturday 21st December NFL Specials - Most Rushing Yards,Derrick Henry (BAL),0.011099999999999999,0.4762,0.4651
 2024-12-21 10:30:41.652133,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Santi Aldama (MEM),0.010300000000000002,0.0244,0.0141
 2024-12-21 09:26:13.782452,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,-0.0102,0.0667,0.0769
 2024-12-21 10:30:40.995116,League Two - England League Two 2024/25 - Winner,Crewe Alexandra,-0.0102,0.0667,0.0769
 2024-12-21 04:31:35.406376,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Willibaldo Garcia Perez,-0.010599999999999998,0.4545,0.4651
 2024-12-21 03:31:02.634031,Championship - England Championship 2024/25 - To Be Relegated,Bristol City,-0.010700000000000001,0.0278,0.0385
-2024-12-21 02:54:05.253424,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.011099999999999999,0.4651,0.4762
-2024-12-21 03:31:02.630882,Championship - England Championship 2024/25 - To Be Promoted,Burnley,-0.011099999999999999,0.4651,0.4762
-2024-12-21 02:54:06.681852,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Willibaldo Garcia Perez,-0.011099999999999999,0.4651,0.4762
 2024-12-21 08:30:53.505673,BKFC: Warren vs Richman - Leonardo Perdomo vs Levi Costa - To Win the Bout,Levi Costa,-0.011099999999999999,0.1,0.1111
+2024-12-21 02:54:06.681852,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Willibaldo Garcia Perez,-0.011099999999999999,0.4651,0.4762
+2024-12-21 03:31:02.630882,Championship - England Championship 2024/25 - To Be Promoted,Burnley,-0.011099999999999999,0.4651,0.4762
+2024-12-21 02:54:05.253424,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.011099999999999999,0.4651,0.4762
 2024-12-21 06:34:29.202405,BKFC: Warren vs Richman - Bryan Duran vs Kasim Ruffin - To Win the Bout,Bryan Duran,-0.011499999999999955,0.6552,0.6667
 2024-12-21 02:54:05.253424,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.011600000000000055,0.5122,0.5238
 2024-12-21 08:30:52.987066,NFL Weekly Specials - Saturday 21st December NFL Specials - Most Receiving Yards,Nico Collins (HOU),-0.012699999999999989,0.3509,0.3636
