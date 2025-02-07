@@ -7,8 +7,8 @@ name: run action network
 
 on:
   # Schedule the workflow to run every day at 1:45 AM (UTC)
-  schedule:
-    - cron: '45 1 * * *'
+  # schedule:
+  #   - cron: '45 1 * * *'
   # Allows the workflow to be triggered manually
   workflow_dispatch:
 
